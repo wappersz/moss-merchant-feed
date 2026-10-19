@@ -1,0 +1,24 @@
+name: Build Merchant Centre feed
+on:
+  schedule:
+    - cron: "15 1 * * *"   # 01:15 UTC nightly, before Merchant Centre's fetch
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python build_feed.py
+      - name: Commit feed if changed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed.xml
+          git diff --cached --quiet || git commit -m "Feed update $(date -u +%F)"
+          git push
