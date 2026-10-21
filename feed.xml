@@ -119,7 +119,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=AICEI1000G</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/AICEI1000G.webp</g:image_link>
 <g:price>225.56 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>Aico</g:brand>
@@ -323,7 +323,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLACL240WH/CCT</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLACL240WH~CCT.webp</g:image_link>
 <g:price>9.29 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>All LED</g:brand>
@@ -2633,6 +2633,30 @@
 <g:brand>Deligo</g:brand>
 </item>
 <item>
+<g:id>DELFP1I</g:id>
+<g:title>Deligo FPI1 1 Gang Fire Putty Pad (Internal)</g:title>
+<g:description>Deligo FPI1 1 Gang Fire Putty Pad (Internal)</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DELFP1I</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DELFP1I.webp</g:image_link>
+<g:price>3.95 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deligo</g:brand>
+</item>
+<item>
+<g:id>DELFP2I</g:id>
+<g:title>Deligo FPI2 2 Gang Fire Putty Pad (Internal)</g:title>
+<g:description>Deligo FPI2 2 Gang Fire Putty Pad (Internal)</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DELFP2I</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DELFP2I.webp</g:image_link>
+<g:price>5.54 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deligo</g:brand>
+</item>
+<item>
 <g:id>DELSB20W</g:id>
 <g:title>Deligo DELSB20W Steel Spacer Bar Saddles White 20mm</g:title>
 <g:description>Deligo DELSB20W Steel Spacer Bar Saddles White 20mm</g:description>
@@ -2643,6 +2667,270 @@
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>Deligo</g:brand>
+</item>
+<item>
+<g:id>DELSB25W</g:id>
+<g:title>Deligo DELSB25W Steel Spacer Bar Saddles White 25mm</g:title>
+<g:description>Deligo DELSB25W Steel Spacer Bar Saddles White 25mm</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DELSB25W</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DELSB25W.webp</g:image_link>
+<g:price>0.71 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deligo</g:brand>
+</item>
+<item>
+<g:id>DELSFIRE</g:id>
+<g:title>Deligo SFIRE Fire Rated Silicone Sealant (310ml)</g:title>
+<g:description>Deligo SFIRE Fire Rated Silicone Sealant (310ml)</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DELSFIRE</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DELSFIRE.webp</g:image_link>
+<g:price>14.90 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deligo</g:brand>
+</item>
+<item>
+<g:id>DET1139</g:id>
+<g:title>Deta 1139 CO Alarm Battery Powered 10 Year</g:title>
+<g:description>Detects dangerous levels of Carbon Monoxide, making it ideal for installation in all rooms with fuel burning appliances Incorporates electromechanical long life 10-year sensor and sealed long life lithium battery LCD screen shows Carbon Monoxide ppm (parts per million) Test / Silence button Includes an end of life indicator Freestand or can be mounted to the wall 5-year guarantee</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET1139</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET1139.webp</g:image_link>
+<g:price>20.52 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DET1163</g:id>
+<g:title>Deta 1163 Optical Smoke Alarm 240V with 9V Replaceable Battery Back Up</g:title>
+<g:description>Deta 1163 Optical Smoke Alarm 240V with 9V Replaceable Battery Back Up</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET1163</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET1163.webp</g:image_link>
+<g:price>22.56 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DET1164</g:id>
+<g:title>Deta 1164 Optical Smoke Alarm 240V with 10 Year Sealed Lithium Battery Back Up</g:title>
+<g:description>Suitable for D1 fire safety systems for rented or multiple occupancy properties in all circulation areas and habitable rooms, making it ideal for hallways and landings, as well as living rooms and bedrooms 10 year sealed lithium battery back up with low battery warning, test/silence button, LED operating indicators Sound output 85db at 1m, maximum power consumption 9W Interlinkable up to 12 optical, heat and carbon monoxide alarms in total for larger properties Missing battery indicator and mechanism prevents installation of the alarm if the battery is missing Two-part assembly, allows mounting base to be installed at 2nd fix with alarm head installed later once decorating is complete Supplied with easy fix universal mounting base, providing large wiring space and incorporating a foam gasket to prevent dust ingress. Alarm head is easily connected using a fly lead connection and simply push fits into the base High visibility, heat shrink dust cover fitted to alarm head allows alarm to be installed and tested before occupation, preventing dust ingress during building works 5-year guarantee</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET1164</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET1164.webp</g:image_link>
+<g:price>29.20 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DET1165</g:id>
+<g:title>Deta 1165 Heat Alarm 240V with 9V Replaceable Battery Back Up</g:title>
+<g:description>Suitable for D2 fire safety systems for owner occupied properties in all areas where fumes or dust may cause nuisance alarms, making it ideal for kitchens, attics and garages 9V replaceable battery back up with low battery warning, test/silence button, LED operating indicators Sound output 85db at 1m, maximum power consumption 9W Interlinkable up to 12 optical, heat and carbon monoxide alarms in total for larger properties Missing battery indicator and mechanism prevents installation of the alarm if the battery is missing Two-part assembly, allows mounting base to be installed at 2nd fix with alarm head installed later once decorating is complete Supplied with easy fix universal mounting base, providing large wiring space and incorporating a foam gasket to prevent dust ingress. Alarm head is easily connected using a fly lead connection and simply push fits into the base High visibility dust cover protects alarm head from dust ingress during building works 5-year guarantee</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET1165</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET1165.webp</g:image_link>
+<g:price>27.07 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DET1166</g:id>
+<g:title>Deta 1166 Heat Alarm 240V with 10 Year Sealed Lithium Battery Back Up</g:title>
+<g:description>Suitable for D1 fire safety systems for rented or multiple occupancy properties in all areas where fumes or dust may cause nuisance alarms, making it ideal for kitchens, attics and garages 10 year sealed lithium battery back up with low battery warning, test/silence button, LED operating indicators Sound output 85db at 1m, maximum power consumption 9W Interlinkable up to 12 optical, heat and carbon monoxide alarms in total for larger properties Missing battery indicator and mechanism prevents installation of the alarm if the battery is missing Two-part assembly, allows mounting base to be installed at 2nd fix with alarm head installed later once decorating is complete Supplied with easy fix universal mounting base, providing large wiring space and incorporating a foam gasket to prevent dust ingress. Alarm head is easily connected using a fly lead connection and simply push fits into the base High visibility dust cover protects alarm head from dust ingress during building works 5-year guarantee</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET1166</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET1166.webp</g:image_link>
+<g:price>33.74 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DET1169</g:id>
+<g:title>Deta 1169 Carbon Monoxide Alarm 240V with 9V Replaceable Battery Back Up</g:title>
+<g:description>Detects dangerous levels of Carbon Monoxide, making it ideal for installation in all rooms with fuel burning appliances 9V battery back up with low battery warning, test/silence button, LED operating indicators Sound output 85db at 1m, maximum power consumption 9W Interlinkable up to 12 optical, heat and carbon monoxide alarms in total for larger properties Missing battery indicator and mechanism prevents installation of the alarm if the battery is missing Two-part assembly, allows mounting base to be installed at 2nd fix with alarm head installed later once decorating is complete Supplied with easy fix universal mounting base, providing large wiring space and incorporating a foam gasket to prevent dust ingress. Alarm head is easily connected using a fly lead connection and simply push fits into the base High visibility dust cover protects alarm head from dust ingress during building works 5-year guarantee</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET1169</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET1169.webp</g:image_link>
+<g:price>47.28 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DET4821W</g:id>
+<g:title>Deta 4821W 100mm Gravity Grille White</g:title>
+<g:description>Deta 4821W 100mm Gravity Grille White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET4821W</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET4821W.webp</g:image_link>
+<g:price>2.56 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DET4822W</g:id>
+<g:title>Deta 4822W 100mm Fixed Grille White</g:title>
+<g:description>Deta 4822W 100mm Fixed Grille White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET4822W</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET4822W.webp</g:image_link>
+<g:price>2.40 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DET4881W</g:id>
+<g:title>Deta 4881W 150mm Gravity Grille White</g:title>
+<g:description>Deta 4881W 150mm Gravity Grille White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DET4881W</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DET4881W.webp</g:image_link>
+<g:price>4.67 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETC3504</g:id>
+<g:title>Deta C3504 Door Bell Chime and Push with White &amp; Black Covers</g:title>
+<g:description>Deta C3504 Door Bell Chime and Push with White &amp; Black Covers</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETC3504</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETC3504.webp</g:image_link>
+<g:price>16.36 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETC3506CH</g:id>
+<g:title>Deta C3506CH Chrome Bell Push</g:title>
+<g:description>Deta C3506CH Chrome Bell Push</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETC3506CH</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETC3506CH.webp</g:image_link>
+<g:price>10.07 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETDB171</g:id>
+<g:title>Deta DB171 6 &amp; 8 Gang Flush Back Box</g:title>
+<g:description>Deta DB171 6 &amp; 8 Gang Flush Back Box</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETDB171</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETDB171.webp</g:image_link>
+<g:price>5.23 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETDB184</g:id>
+<g:title>Deta DB184 Media Plate 40mm Flush Metal Back Box</g:title>
+<g:description>Deta DB184 Media Plate 40mm Flush Metal Back Box</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETDB184</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETDB184.webp</g:image_link>
+<g:price>13.76 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETG3301</g:id>
+<g:title>Deta G3301 1 Gang Switch Plate White</g:title>
+<g:description>Deta G3301 1 Gang Switch Plate White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETG3301</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETG3301.webp</g:image_link>
+<g:price>0.74 GBP</g:price>
+<g:availability>out_of_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETG3302</g:id>
+<g:title>Deta G3302 2 Gang Switch Plate White</g:title>
+<g:description>Deta G3302 2 Gang Switch Plate White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETG3302</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETG3302.webp</g:image_link>
+<g:price>0.74 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETG3303</g:id>
+<g:title>Deta G3303 3 Gang Switch Plate White</g:title>
+<g:description>Deta G3303 3 Gang Switch Plate White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETG3303</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETG3303.webp</g:image_link>
+<g:price>1.64 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETG3304</g:id>
+<g:title>Deta G3304 4 Gang Switch Plate White</g:title>
+<g:description>Deta G3304 4 Gang Switch Plate White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETG3304</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETG3304.webp</g:image_link>
+<g:price>1.64 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETG3305</g:id>
+<g:title>Deta G3305 6 Gang Switch Plate White</g:title>
+<g:description>Deta G3305 6 Gang Switch Plate White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETG3305</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETG3305.webp</g:image_link>
+<g:price>4.10 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETG3401</g:id>
+<g:title>Deta G3401 1 Gang Grid Frame</g:title>
+<g:description>Deta G3401 1 Gang Grid Frame</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETG3401</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETG3401.webp</g:image_link>
+<g:price>0.80 GBP</g:price>
+<g:availability>out_of_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
+</item>
+<item>
+<g:id>DETG3402</g:id>
+<g:title>Deta G3402 2 Gang Grid Frame</g:title>
+<g:description>Deta G3402 2 Gang Grid Frame</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETG3402</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETG3402.webp</g:image_link>
+<g:price>0.80 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
+<g:brand>Deta</g:brand>
 </item>
 <item>
 <g:id>DETG3403</g:id>
@@ -3725,7 +4013,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ETRDFHT2KW</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/E/ETRDFHT2KW.webp</g:image_link>
 <g:price>35.63 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>Eterna</g:brand>
@@ -5907,7 +6195,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=KOSDEL100/W65</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/K/KOSDEL100~W65.webp</g:image_link>
 <g:price>34.99 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>Kosnic</g:brand>
@@ -6788,7 +7076,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MK9045</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MK9045.webp</g:image_link>
 <g:price>21.86 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>MK Electric</g:brand>
@@ -11739,7 +12027,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WYLNM1106L</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WYLNM1106L.webp</g:image_link>
 <g:price>43.31 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>Wylex</g:brand>
