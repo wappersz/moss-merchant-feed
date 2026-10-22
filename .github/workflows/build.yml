@@ -1,14 +1,14 @@
 name: Build Merchant Centre feed
 on:
   schedule:
-    - cron: "15 1 * * *"   # 01:15 UTC nightly, before Merchant Centre's fetch
+    - cron: "0 2 * * *"    # 02:00 UTC (3am BST / 2am GMT), quiet hours on the Moss server
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

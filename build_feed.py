@@ -7,7 +7,7 @@ JSON-LD on each page (live MACE data), and writes feed.xml (RSS 2.0, g: namespac
 Runs nightly via GitHub Actions; Merchant Centre fetches the published feed.xml daily.
 Stdlib only.
 """
-import re, json, sys, time, html as htmllib
+import os, re, json, sys, time, html as htmllib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import unquote
 from xml.sax.saxutils import escape
@@ -16,7 +16,7 @@ import urllib.request
 BASE = "https://shop.mosselectricalsw.co.uk"
 SITEMAP = f"{BASE}/sitemap.xml"
 UA = "Mozilla/5.0 (compatible; MossMerchantFeed/1.0)"
-WORKERS = 6
+WORKERS = 2  # gentle on the Moss server (slow TTFB)
 RETRIES = 3
 
 # First word of product name -> brand. Anything not listed gets no brand (identifier_exists=no covers it).
@@ -118,6 +118,50 @@ def item_xml(p):
     return "\n".join(lines)
 
 
+SHOP_PREFIX = BASE + "/"
+MIN_ITEMS = 800            # full catalogue is ~1,029; far fewer = scraper or site broken
+MAX_DROP = 0.20            # more than 20% fewer items than the last good feed = stop
+MAX_SWING_SHARE = 0.10     # more than 10% of prices moving by over 30% = stop
+
+
+def previous_feed():
+    """Last published feed (in the repo), as {id: price}."""
+    if not os.path.exists("feed.xml"):
+        return {}
+    xml = open("feed.xml", encoding="utf-8").read()
+    prev = {}
+    for item in re.findall(r"<item>(.*?)</item>", xml, re.S):
+        i = re.search(r"<g:id>(.*?)</g:id>", item)
+        pr = re.search(r"<g:price>([\d.]+) GBP</g:price>", item)
+        if i and pr:
+            prev[htmllib.unescape(i.group(1))] = float(pr.group(1))
+    return prev
+
+
+def fail(msg):
+    # Non-zero exit = GitHub marks the run failed and emails the repo owner; old feed stays published.
+    print(f"SAFETY CHECK FAILED: {msg}", file=sys.stderr)
+    sys.exit(1)
+
+
+def safety_checks(items):
+    bad = [p["id"] for p in items
+           if not p["link"].startswith(SHOP_PREFIX) or not str(p["image"]).startswith(SHOP_PREFIX)]
+    if bad:
+        fail(f"{len(bad)} items link off the shop domain, e.g. {bad[:3]}")
+    if len(items) < MIN_ITEMS:
+        fail(f"only {len(items)} items (minimum {MIN_ITEMS})")
+    prev = previous_feed()
+    if prev:
+        if len(items) < len(prev) * (1 - MAX_DROP):
+            fail(f"{len(items)} items vs {len(prev)} last time")
+        common = [p for p in items if p["id"] in prev and prev[p["id"]] > 0]
+        swings = [p["id"] for p in common if abs(float(p["price"]) - prev[p["id"]]) / prev[p["id"]] > 0.30]
+        if common and len(swings) > len(common) * MAX_SWING_SHARE:
+            fail(f"{len(swings)} of {len(common)} prices moved over 30%, e.g. {swings[:3]}")
+        print(f"checks ok: {len(items)} items, {len(swings)} big price moves", file=sys.stderr)
+
+
 def main():
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 0
     urls = product_urls()
@@ -143,6 +187,8 @@ def main():
     if len(items) < (50 if not limit else 1):
         print(f"ABORT: only {len(items)} items", file=sys.stderr)
         sys.exit(1)
+    if not limit:
+        safety_checks(items)
 
     items.sort(key=lambda p: p["id"])
     feed = (
