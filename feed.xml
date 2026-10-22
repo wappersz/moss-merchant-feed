@@ -4914,7 +4914,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGJK104BG</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGJK104BG.webp</g:image_link>
 <g:price>138.65 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>Hager</g:brand>
@@ -7076,7 +7076,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MK9045</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MK9045.webp</g:image_link>
 <g:price>21.86 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 <g:brand>MK Electric</g:brand>
@@ -10396,18 +10396,6 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=SSH032</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/S/SSH032.webp</g:image_link>
 <g:price>23.77 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
-<g:condition>new</g:condition>
-<g:identifier_exists>no</g:identifier_exists>
-<g:brand>Armeg</g:brand>
-</item>
-<item>
-<g:id>SSH3PCSET</g:id>
-<g:title>Armeg SSH3PCSET 3 Piece Sheet Steel Holesaw Set</g:title>
-<g:description>3 Piece Set 1 x 20 / 25 / 32mm 1 x Drive Pilot 1 x Spring 1 x 2.5mm Allen Key</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=SSH3PCSET</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/S/SSH3PCSET.webp</g:image_link>
-<g:price>59.51 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
