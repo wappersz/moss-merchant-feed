@@ -19,6 +19,6 @@ jobs:
         run: |
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
-          git add feed.xml
+          git add feed.xml snapshots/
           git diff --cached --quiet || git commit -m "Feed update $(date -u +%F)"
           git push
