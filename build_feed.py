@@ -206,6 +206,31 @@ def main():
     in_stock = sum(1 for p in items if p["availability"] == "InStock")
     print(f"feed.xml: {len(items)} items ({in_stock} in stock), {skipped} skipped, {errors} errors", file=sys.stderr)
 
+    if not limit:
+        try:
+            write_snapshot(items)
+        except Exception as e:  # history is a nice-to-have; never let it block the feed
+            print(f"snapshot failed: {e}", file=sys.stderr)
+
+
+SNAPSHOT_DIR = "snapshots"
+SNAPSHOT_FIELDS = ["id", "price", "availability", "brand", "title"]
+
+
+def write_snapshot(items):
+    """One CSV per day (UTC date) so price + stock history builds up for the dashboard.
+    Only written after safety checks pass, so a bad run never lands in history."""
+    import csv
+    from datetime import datetime, timezone
+    os.makedirs(SNAPSHOT_DIR, exist_ok=True)
+    path = os.path.join(SNAPSHOT_DIR, datetime.now(timezone.utc).strftime("%Y-%m-%d") + ".csv")
+    with open(path, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=SNAPSHOT_FIELDS, extrasaction="ignore")
+        w.writeheader()
+        for p in items:
+            w.writerow({**p, "price": f"{float(p['price']):.2f}"})
+    print(f"snapshot: {path}", file=sys.stderr)
+
 
 if __name__ == "__main__":
     main()
