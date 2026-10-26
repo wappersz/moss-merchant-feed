@@ -35,6 +35,24 @@ BRANDS = {
 }
 
 
+def norm(s):
+    return re.sub(r"[^A-Z0-9]", "", s.upper())
+
+
+def find_mpn(code, title):
+    """Manufacturer part number = a title token that also matches the end of the Moss code
+    (e.g. HAG624SEL2126 + "Hager 624SEL212/6 ..." -> 624SEL212/6). Both sources must agree,
+    otherwise None (better no MPN than a wrong one)."""
+    c, best = norm(code), None
+    for tok in (title or "").split()[1:]:
+        tok = tok.strip("(),;:")
+        n = norm(tok)
+        if len(n) >= 4 and re.search(r"\d", n) and c.endswith(n) and len(c) - len(n) <= 4:
+            if not best or len(n) > len(norm(best)):
+                best = tok
+    return best
+
+
 def fetch(url, timeout=25):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     for attempt in range(RETRIES):
@@ -95,6 +113,7 @@ def parse(url):
         "price": off.get("price"),  # JSON-LD price is inc VAT (checked against page "inc VAT" price)
         "availability": (off.get("availability") or "").split("/")[-1],
         "brand": BRANDS.get(name.split(" ")[0]) if name else None,
+        "mpn": find_mpn(code, name),
     }
 
 
@@ -110,10 +129,13 @@ def item_xml(p):
         f"<g:price>{float(p['price']):.2f} GBP</g:price>",
         f"<g:availability>{avail}</g:availability>",
         "<g:condition>new</g:condition>",
-        "<g:identifier_exists>no</g:identifier_exists>",
     ]
     if p["brand"]:
         lines.append(f"<g:brand>{escape(p['brand'])}</g:brand>")
+    if p["brand"] and p.get("mpn"):
+        lines.append(f"<g:mpn>{escape(p['mpn'])}</g:mpn>")  # brand + MPN = identifiers exist
+    else:
+        lines.append("<g:identifier_exists>no</g:identifier_exists>")
     lines.append("</item>")
     return "\n".join(lines)
 
