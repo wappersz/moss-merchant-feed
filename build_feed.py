@@ -7,7 +7,7 @@ JSON-LD on each page (live MACE data), and writes feed.xml (RSS 2.0, g: namespac
 Runs nightly via GitHub Actions; Merchant Centre fetches the published feed.xml daily.
 Stdlib only.
 """
-import os, re, json, sys, time, html as htmllib
+import os, re, json, sys, time, csv, html as htmllib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import unquote
 from xml.sax.saxutils import escape
@@ -18,6 +18,14 @@ SITEMAP = f"{BASE}/sitemap.xml"
 UA = "Mozilla/5.0 (compatible; MossMerchantFeed/1.0)"
 WORKERS = 2  # gentle on the Moss server (slow TTFB)
 RETRIES = 3
+
+# Barcodes (GTIN/EAN) by product code. MACE has no barcode field, so these come from
+# manufacturer data files. Never guessed: every row names its source.
+GTIN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "gtin.csv")
+GTINS = {}
+if os.path.exists(GTIN_FILE):
+    with open(GTIN_FILE, newline="") as f:
+        GTINS = {r["id"].strip(): r["gtin"].strip() for r in csv.DictReader(f) if r.get("gtin")}
 
 # First word of product name -> brand. Anything not listed gets no brand (identifier_exists=no covers it).
 BRANDS = {
@@ -132,9 +140,12 @@ def item_xml(p):
     ]
     if p["brand"]:
         lines.append(f"<g:brand>{escape(p['brand'])}</g:brand>")
+    gtin = GTINS.get(p["id"])
+    if gtin:
+        lines.append(f"<g:gtin>{escape(gtin)}</g:gtin>")  # groups us into the shared Shopping listing
     if p["brand"] and p.get("mpn"):
         lines.append(f"<g:mpn>{escape(p['mpn'])}</g:mpn>")  # brand + MPN = identifiers exist
-    else:
+    elif not gtin:
         lines.append("<g:identifier_exists>no</g:identifier_exists>")
     lines.append("</item>")
     return "\n".join(lines)
