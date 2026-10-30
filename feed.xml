@@ -2211,6 +2211,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112819861</g:gtin>
 <g:mpn>CMA011</g:mpn>
 </item>
 <item>
@@ -2283,6 +2284,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112820027</g:gtin>
 <g:mpn>CMA035</g:mpn>
 </item>
 <item>
@@ -2295,6 +2297,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112820034</g:gtin>
 <g:mpn>CMA036</g:mpn>
 </item>
 <item>
@@ -2442,6 +2445,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112822182</g:gtin>
 <g:mpn>CMA651</g:mpn>
 </item>
 <item>
@@ -2466,6 +2470,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5056313218828</g:gtin>
 <g:mpn>CMA786</g:mpn>
 </item>
 <item>
@@ -4834,7 +4839,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=GKNM4X12BRS</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/G/GKNM4X12BRS.webp</g:image_link>
 <g:price>7.75 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
@@ -10487,7 +10492,7 @@
 <g:description>Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=PEVCURV-HP110M8</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/P/PEVCURV-HP110M8.webp</g:image_link>
-<g:price>1173.60 GBP</g:price>
+<g:price>1253.06 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
@@ -10498,7 +10503,7 @@
 <g:description>Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=PEVCURV-HP150M8</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/P/PEVCURV-HP150M8.webp</g:image_link>
-<g:price>1216.80 GBP</g:price>
+<g:price>1346.71 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
@@ -10531,7 +10536,7 @@
 <g:description>Project CÜRV CURV-HP80M8-G3 80ltr ASHP Hot Water Cylinder</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=PEVCURV-HP80M8</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/P/PEVCURV-HP80M8.webp</g:image_link>
-<g:price>1117.50 GBP</g:price>
+<g:price>1187.34 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
@@ -11863,7 +11868,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WAG221615</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WAG221615.webp</g:image_link>
 <g:price>16.20 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wago</g:brand>
 <g:mpn>221-615</g:mpn>
