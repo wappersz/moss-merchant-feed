@@ -26,6 +26,9 @@ GTINS = {}
 if os.path.exists(GTIN_FILE):
     with open(GTIN_FILE, newline="") as f:
         GTINS = {r["id"].strip(): r["gtin"].strip() for r in csv.DictReader(f) if r.get("gtin")}
+# Cable etc. sold by the metre or off a roll/drum has no unit barcode, and a pack barcode
+# would match the wrong product, so never send a GTIN for these.
+LOOSE_SALE = re.compile(r"\b(per\s*met(re|er)s?|metres?|meters?|/m|rolls?|drums?|reels?|coils?|cut to length|\d+\s*m)\b", re.I)
 
 # First word of product name -> brand. Anything not listed gets no brand (identifier_exists=no covers it).
 BRANDS = {
@@ -141,6 +144,8 @@ def item_xml(p):
     if p["brand"]:
         lines.append(f"<g:brand>{escape(p['brand'])}</g:brand>")
     gtin = GTINS.get(p["id"])
+    if gtin and LOOSE_SALE.search(p["title"]):
+        gtin = None
     if gtin:
         lines.append(f"<g:gtin>{escape(gtin)}</g:gtin>")  # groups us into the shared Shopping listing
     if p["brand"] and p.get("mpn"):
