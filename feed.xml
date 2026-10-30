@@ -6517,6 +6517,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971357218</g:gtin>
 <g:mpn>A5.9-BC27</g:mpn>
 </item>
 <item>
@@ -6529,6 +6530,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034761287</g:gtin>
 <g:mpn>A5.9-ES27</g:mpn>
 </item>
 <item>
@@ -6541,7 +6543,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5061034771941</g:gtin>
 </item>
 <item>
 <g:id>KOSALT50/SCT/DS</g:id>
@@ -6553,6 +6555,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060063425986</g:gtin>
 <g:mpn>ALT50-SCT/DS</g:mpn>
 </item>
 <item>
@@ -6565,7 +6568,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971350622</g:gtin>
 </item>
 <item>
 <g:id>KOSAVO45FT60-W40/S</g:id>
@@ -6577,6 +6580,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034761362</g:gtin>
 <g:mpn>AVO45FT60-W40/S</g:mpn>
 </item>
 <item>
@@ -6589,6 +6593,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034766411</g:gtin>
 <g:mpn>AVO55FS-W40</g:mpn>
 </item>
 <item>
@@ -6601,6 +6606,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034766428</g:gtin>
 <g:mpn>AVO55FT-W40</g:mpn>
 </item>
 <item>
@@ -6613,6 +6619,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034766190</g:gtin>
 <g:mpn>BEM303/SST</g:mpn>
 </item>
 <item>
@@ -6625,6 +6632,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034760600</g:gtin>
 <g:mpn>DD212/2P-SCT</g:mpn>
 </item>
 <item>
@@ -6637,6 +6645,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034760150</g:gtin>
 <g:mpn>DD212/4P-SCT</g:mpn>
 </item>
 <item>
@@ -6649,6 +6658,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971352640</g:gtin>
 <g:mpn>DEL100-W65</g:mpn>
 </item>
 <item>
@@ -6673,6 +6683,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971352633</g:gtin>
 <g:mpn>DEL80-W65</g:mpn>
 </item>
 <item>
@@ -6685,6 +6696,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060063424750</g:gtin>
 <g:mpn>DOX20103</g:mpn>
 </item>
 <item>
@@ -6709,6 +6721,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034766374</g:gtin>
 <g:mpn>EMDD202</g:mpn>
 </item>
 <item>
@@ -6841,7 +6854,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5061034766695</g:gtin>
 </item>
 <item>
 <g:id>KOSKAL201</g:id>
@@ -6853,6 +6866,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971359724</g:gtin>
 <g:mpn>KAL201</g:mpn>
 </item>
 <item>
@@ -6865,6 +6879,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060063422589</g:gtin>
 <g:mpn>MUL0105</g:mpn>
 </item>
 <item>
@@ -6877,6 +6892,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971351193</g:gtin>
 <g:mpn>NIV4FS18</g:mpn>
 </item>
 <item>
@@ -6889,7 +6905,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971351209</g:gtin>
 </item>
 <item>
 <g:id>KOSNTR03</g:id>
@@ -6901,6 +6917,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034765131</g:gtin>
 <g:mpn>NTR03</g:mpn>
 </item>
 <item>
@@ -6949,6 +6966,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034766619</g:gtin>
 <g:mpn>OSS318-SCT</g:mpn>
 </item>
 <item>
@@ -6961,6 +6979,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971357898</g:gtin>
 <g:mpn>RE05-GUF30</g:mpn>
 </item>
 <item>
@@ -6973,6 +6992,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971357904</g:gtin>
 <g:mpn>RE05-GUF40</g:mpn>
 </item>
 <item>
@@ -6985,6 +7005,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971357935</g:gtin>
 <g:mpn>RE05D-GUF30</g:mpn>
 </item>
 <item>
@@ -6997,6 +7018,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971357942</g:gtin>
 <g:mpn>RE05D-GUF40</g:mpn>
 </item>
 <item>
@@ -7009,6 +7031,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034767203</g:gtin>
 <g:mpn>RHI310-SCT/S</g:mpn>
 </item>
 <item>
@@ -7021,6 +7044,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034767210</g:gtin>
 <g:mpn>RHI320-SCT</g:mpn>
 </item>
 <item>
@@ -7033,6 +7057,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034767227</g:gtin>
 <g:mpn>RHI320-SCT/S</g:mpn>
 </item>
 <item>
@@ -7045,6 +7070,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034767234</g:gtin>
 <g:mpn>RHI330-SCT</g:mpn>
 </item>
 <item>
@@ -7057,6 +7083,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034767241</g:gtin>
 <g:mpn>RHI330-SCT/S</g:mpn>
 </item>
 <item>
@@ -7069,6 +7096,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034767258</g:gtin>
 <g:mpn>RHI350-SCT</g:mpn>
 </item>
 <item>
@@ -7081,6 +7109,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5061034767265</g:gtin>
 <g:mpn>RHI350-SCT/S</g:mpn>
 </item>
 <item>
@@ -7093,7 +7122,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5061034760198</g:gtin>
 </item>
 <item>
 <g:id>KOSSWIR/GU10/S</g:id>
@@ -7105,6 +7134,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060063429762</g:gtin>
 <g:mpn>SWIR/GU10/S</g:mpn>
 </item>
 <item>
@@ -7213,6 +7243,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>0609207994572</g:gtin>
 <g:mpn>UEM04/ST</g:mpn>
 </item>
 <item>
