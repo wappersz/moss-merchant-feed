@@ -539,7 +539,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5099383010206</g:gtin>
 </item>
 <item>
 <g:id>AICEI1000G</g:id>
@@ -551,6 +551,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383010558</g:gtin>
 <g:mpn>Ei1000G</g:mpn>
 </item>
 <item>
@@ -563,6 +564,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383010565</g:gtin>
 <g:mpn>Ei1020</g:mpn>
 </item>
 <item>
@@ -575,6 +577,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383010572</g:gtin>
 <g:mpn>Ei1025</g:mpn>
 </item>
 <item>
@@ -587,6 +590,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383004878</g:gtin>
 <g:mpn>Ei129</g:mpn>
 </item>
 <item>
@@ -599,6 +603,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383010251</g:gtin>
 <g:mpn>Ei144</g:mpn>
 </item>
 <item>
@@ -611,6 +616,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383004274</g:gtin>
 <g:mpn>Ei1529RC</g:mpn>
 </item>
 <item>
@@ -623,6 +629,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383004724</g:gtin>
 <g:mpn>Ei208</g:mpn>
 </item>
 <item>
@@ -635,6 +642,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383006605</g:gtin>
 <g:mpn>Ei3000MRF</g:mpn>
 </item>
 <item>
@@ -647,6 +655,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383006506</g:gtin>
 <g:mpn>Ei3014</g:mpn>
 </item>
 <item>
@@ -659,6 +668,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383006513</g:gtin>
 <g:mpn>Ei3016</g:mpn>
 </item>
 <item>
@@ -671,6 +681,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383006520</g:gtin>
 <g:mpn>Ei3018</g:mpn>
 </item>
 <item>
@@ -683,6 +694,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383006537</g:gtin>
 <g:mpn>Ei3024</g:mpn>
 </item>
 <item>
@@ -695,6 +707,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383006544</g:gtin>
 <g:mpn>Ei3028</g:mpn>
 </item>
 <item>
@@ -707,6 +720,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383010466</g:gtin>
 <g:mpn>Ei3030</g:mpn>
 </item>
 <item>
@@ -719,6 +733,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383004731</g:gtin>
 <g:mpn>Ei450</g:mpn>
 </item>
 <item>
@@ -8588,6 +8603,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
+<g:gtin>5099383006520</g:gtin>
 <g:mpn>Ei3018</g:mpn>
 </item>
 <item>
