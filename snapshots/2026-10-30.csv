@@ -408,7 +408,7 @@ GKNM3.5X35,4.93,InStock,,M3.5 x 35mm Steel Machine Screw BZP (Pack 100)
 GKNM3.5X40,4.92,InStock,,M3.5 x 40mm Steel Machine Screw BZP (Pack 100)
 GKNM3.5X50,5.75,InStock,,M3.5 x 50mm Steel Machine Screw BZP (Pack 100)
 GKNM3.5X75,9.38,InStock,,M3.5 x 75mm Steel Machine Screw BZP (Pack 100)
-GKNM4X12BRS,7.75,InStock,,M4 x 12mm Pan Head Slot Screws Brass (Pack of 100)
+GKNM4X12BRS,7.75,OutOfStock,,M4 x 12mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X16BRS,9.48,InStock,,M4 x 16mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X20BRS,10.85,InStock,,M4 x 20mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X25BRS,11.86,InStock,,M4 x 25mm Pan Head Slot Screws Brass (Pack of 100)
@@ -882,11 +882,11 @@ PCH127,36.64,InStock,Armeg,Armeg PCH127 127mm Premium Cobalt Holesaw
 PCH152,47.11,OutOfStock,Armeg,Armeg PCH152 152mm Premium Cobalt Holesaw
 PEVAPEX-7S,351.90,InStock,,Project EV APEX-7S 7.3kW Untethered EV Charger - Socket
 PEVAPEX-7S-T,485.10,InStock,,Project EV APEX-7S 7.3kW Tethered EV Charger
-PEVCURV-HP110M8,1173.60,,,Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder
-PEVCURV-HP150M8,1216.80,,,Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder
+PEVCURV-HP110M8,1253.06,,,Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder
+PEVCURV-HP150M8,1346.71,,,Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder
 PEVCURV-HP200M7,1656.00,,,Project CÜRV CURV-HP200M7-G3 200ltr ASHP Hot Water Cylinder
 PEVCURV-HP250M7,1771.20,,,Project CÜRV CURV-HP250M7-G3 250ltr ASHP Hot Water Cylinder
-PEVCURV-HP80M8,1117.50,,,Project CÜRV CURV-HP80M8-G3 80ltr ASHP Hot Water Cylinder
+PEVCURV-HP80M8,1187.34,,,Project CÜRV CURV-HP80M8-G3 80ltr ASHP Hot Water Cylinder
 PIRAP7RED,22.51,InStock,Prysmian,Prysmian AP7RED FP200 Clip 2 x 1.5mm Red
 PIRAP7WHI,22.51,InStock,Prysmian,Prysmian AP7WHI FP200 Clip 2 x 1.5mm White
 QVCV/8IP/4DOME/2TB/W,546.00,InStock,Qvis,Qvis CV-8IP-4DOME-2TB-W 8 Channel 2TB NVR with 4x 4MP Full-Colour Turret White
@@ -998,7 +998,7 @@ WAG221412,25.00,InStock,Wago,Wago 221-412 2 Way Connector 4mm Terminal Block (Pa
 WAG221413,14.00,InStock,Wago,Wago 221-413 3 Way Connector 4mm Terminal Block (Pack of 50)
 WAG221415,11.75,InStock,Wago,Wago 221-415 5 Way Connector (Pack of 25)
 WAG221613,19.20,InStock,Wago,Wago 221-613 3 Way Connector 6mm Terminal Block (Pack 30)
-WAG221615,16.20,InStock,Wago,Wago 221-615 5 Way Connector 6mm Terminal Block (Pack 15)
+WAG221615,16.20,OutOfStock,Wago,Wago 221-615 5 Way Connector 6mm Terminal Block (Pack 15)
 WBF20,4.61,InStock,Armeg,Armeg WBF20 20mm WoodBeaver Flat Bit
 WBF20XL,7.99,InStock,Armeg,Armeg WBF20XL 20mm Long Woodbeaver Flat Bit
 WBF25,5.10,InStock,Armeg,Armeg WBF25 25mm WoodBeaver Flat Bit
