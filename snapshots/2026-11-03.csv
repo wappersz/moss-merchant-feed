@@ -48,7 +48,7 @@ ADPSP25M25A,71.50,InStock,Adaptaflex,Adaptaflex SP25/M20/A 25mm Connector Gland 
 ADPSP25M25B,90.00,InStock,Adaptaflex,Adaptaflex SP25/M20/B 25mm Connector Swivel Gland M25 (Pack of 10)
 AICE146,23.17,InStock,Aico,Aico Ei146E Optical Smoke Alarm with Battery Back Up
 AICEI1000G,222.01,InStock,Aico,Aico Ei1000G SmartLINK HomeLINK Gateway
-AICEI1020,117.62,InStock,Aico,Aico Ei1020 Environmental Sensor
+AICEI1020,117.62,OutOfStock,Aico,Aico Ei1020 Environmental Sensor
 AICEI1025,153.80,InStock,Aico,"Aico Ei1025 Temperature, Humidity and CO2 Environmental Sensor"
 AICEI129,29.10,InStock,Aico,Aico Ei129 Switched Input Module
 AICEI144,32.62,InStock,Aico,Aico Ei144 230V Heat Alarm with Alkaline Battery Back Up
@@ -100,16 +100,16 @@ ALLAPA001/AL,9.20,InStock,All LED,ALL LED APA001/AL 2m Shallow Surface Profile w
 ALLAPA004/AL,9.20,InStock,All LED,ALL LED APA004/AL 2m Deep Surface Profile with Opal Diffuser Aluminium Finish
 ALLASPEED308/BK,9.29,InStock,All LED,ALL LED ASPEED308/BK SpeedLock308 Universal Floodlight Quick Install Bracket
 ALLASPKGU10A/BK,11.35,InStock,All LED,ALL LED ASPKGU10A/BK All LED Sabre2 IP65 GU10 Garden Spike Luminaire
-ALLAST010/COB/30/1,15.14,,,1m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/30/2,24.17,,,2m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/30/3,33.18,,,3m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/30/4,42.20,,,4m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/30/5,51.23,,,5m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/1,15.14,,,1m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/2,24.17,,,2m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/3,33.18,,,3m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/4,42.20,,,4m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/5,51.23,,,5m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/30/1,15.14,,All LED,ALL LED 1m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/30/2,24.17,,All LED,ALL LED 2m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/30/3,33.18,,All LED,ALL LED 3m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/30/4,42.20,,All LED,ALL LED 4m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/30/5,51.23,,All LED,ALL LED 5m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/40/1,15.14,,All LED,ALL LED 1m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/40/2,24.17,,All LED,ALL LED 2m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/40/3,33.18,,All LED,ALL LED 3m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/40/4,42.20,,All LED,ALL LED 4m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/40/5,51.23,,All LED,ALL LED 5m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
 ALLAWLGU/AL/022,15.96,InStock,All LED,ALL LED AWLGU/AL/022 Tubular GU10 Brushed Aluminium IP65 Bi-Directional Wall Light
 ALLAWLGU/BK/022,15.32,InStock,All LED,ALL LED AWLGU/AL/022 Tubular GU10 Black Powder Coated IP65 Bi-Directional Wall Light
 APP615,0.49,InStock,Metpro,Metpro APP615 1 Gang 35mm Metal Back Box
@@ -186,30 +186,30 @@ CLEAT6,0.16,InStock,,CC6 Cable Cleat No. 6
 CLEAT7,0.11,InStock,,CC7 Cable Cleat No. 7
 CLEAT8,0.19,InStock,,CC8 Cable Cleat No. 8
 CLEAT9,0.16,InStock,,CC9 Cable Cleat No. 9
-CLKCMA011,0.97,InStock,Click,Click CMA011 10A 1 Gang 2 Way Light Switch White
-CLKCMA012,1.54,InStock,Click,Click CMA012 10A 2 Gang 2 Way Light Switch White
-CLKCMA013,1.98,InStock,Click,Click CMA013 10A 3 Gang 2 Way Light Switch White
-CLKCMA020,3.05,InStock,Click,Click CMA020 10A Fan Isolator White
-CLKCMA025,1.97,InStock,Click,Click CMA025 10A 1 Gang Intermediate Light Switch White
-CLKCMA030,1.84,InStock,Click,Click CMA030 13A 1 Gang Unswitched Socket White
-CLKCMA035,1.99,InStock,Click,Click CMA035 13A 1 Gang Switched Socket White
-CLKCMA036,2.33,InStock,Click,Click CMA036 13A 2 Gang Switched Socket White
-CLKCMA060,0.52,InStock,Click,Click CMA060 1 Gang Blank Plate White
-CLKCMA061,0.70,InStock,Click,Click CMA061 2 Gang Blank Plate White
-CLKCMA081,0.72,InStock,Click,Click CMA081 1 Gang 25mm Pattress White
-CLKCMA082,1.20,InStock,Click,Click CMA082 2 Gang 25mm Pattress
-CLKCMA100,17.52,InStock,Click,Click CMA100 Dual Voltage Shaver Socket Outlet - 115/230V
-CLKCMA201,5.24,InStock,Click,Click CMA201 45A 1 Gang Cooker Switch with Neon White
-CLKCMA205,8.08,InStock,Click,Click CMA205 45A DP Cooker Control Unit with Neon & Red Rocker White
-CLKCMA215,3.05,InStock,Click,Click CMA215 45A 1 Gang Cooker Connection Plate
-CLKCMA503,6.05,InStock,Click,Click CMA503 45A DP Switch with Neon White
-CLKCMA505,8.08,InStock,Click,Click CMA505 45A Cooker Control with 13A Socket and Neon White
-CLKCMA650,2.40,InStock,Click,Click CMA650 13A Unswitched Fuse Spur White
-CLKCMA651,3.28,InStock,Click,Click CMA651 13A DP Switched Fused Spur White
-CLKCMA652,3.53,InStock,Click,Click CMA652 13A Switched Spur with Neon White
-CLKCMA786,15.91,InStock,Click,Click CMA786 2 Gang 13A Type A & C USB Socket 4.2A
+CLKCMA011,0.97,InStock,Click,Click 10A 1 Gang 2 Way Light Switch White CMA011
+CLKCMA012,1.54,InStock,Click,Click 10A 2 Gang 2 Way Light Switch White CMA012
+CLKCMA013,1.98,InStock,Click,Click 10A 3 Gang 2 Way Light Switch White CMA013
+CLKCMA020,3.05,InStock,Click,Click 10A Fan Isolator White CMA020
+CLKCMA025,1.97,InStock,Click,Click 10A 1 Gang Intermediate Light Switch White CMA025
+CLKCMA030,1.84,InStock,Click,Click 13A 1 Gang Unswitched Socket White CMA030
+CLKCMA035,1.99,InStock,Click,Click 13A 1 Gang Switched Socket White CMA035
+CLKCMA036,2.33,InStock,Click,Click 13A 2 Gang Switched Socket White CMA036
+CLKCMA060,0.52,InStock,Click,Click 1 Gang Blank Plate White CMA060
+CLKCMA061,0.70,InStock,Click,Click 2 Gang Blank Plate White CMA061
+CLKCMA081,0.72,InStock,Click,Click 1 Gang 25mm Pattress White CMA081
+CLKCMA082,1.20,InStock,Click,Click 2 Gang 25mm Pattress CMA082
+CLKCMA100,17.52,InStock,Click,Click Dual Voltage Shaver Socket Outlet - 115/230V CMA100
+CLKCMA201,5.24,InStock,Click,Click 45A 1 Gang Cooker Switch with Neon White CMA201
+CLKCMA205,8.08,InStock,Click,Click 45A DP Cooker Control Unit with Neon & Red Rocker White CMA205
+CLKCMA215,3.05,InStock,Click,Click 45A 1 Gang Cooker Connection Plate CMA215
+CLKCMA503,6.05,InStock,Click,Click 45A DP Switch with Neon White CMA503
+CLKCMA505,8.08,InStock,Click,Click 45A Cooker Control with 13A Socket and Neon White CMA505
+CLKCMA650,2.40,OutOfStock,Click,Click 13A Unswitched Fuse Spur White CMA650
+CLKCMA651,3.28,InStock,Click,Click 13A DP Switched Fused Spur White CMA651
+CLKCMA652,3.53,InStock,Click,Click 13A Switched Spur with Neon White CMA652
+CLKCMA786,15.91,InStock,Click,Click 2 Gang 13A Type A & C USB Socket 4.2A CMA786
 CLKFU023,2.58,InStock,Click,Click FU023 3A Cartridge Fuse
-CLKPA320,0.97,InStock,Click,Click PA320 13A Plug Top
+CLKPA320,0.97,InStock,Click,Click PA320 Mains 13A Plug Top
 CLKPRC009,1.64,InStock,Click,Click PRC009 10A 2 Way Ceiling Switch White
 CLKPRC015,1.57,InStock,Click,Click PRC015 Batten Lampholder BC with Straight Skirt White
 CLKPRC031,1.66,InStock,Click,Click PRC031 6 Inch Pendant White
@@ -225,16 +225,16 @@ CLKPRW213,6.95,InStock,Click,Click PRW213 50A Round Ceiling Switch White
 CLKPRW215,2.90,InStock,Click,Click PRW215 45A Cooker Outlet White
 CN20MGA4,5.72,InStock,,CN20MGA4 20mm x 3.75mtr Steel Conduit Tube
 CN25MGA4,8.22,InStock,,CN25MGA4 25mm x 3.75mtr Steel Conduit Tube
-CNB20M1WGA,1.64,InStock,,CNB20M1WGA 20mm Galv Terminal Box
-CNB20M2WGA,1.78,InStock,,CNB20M2WGA 20mm Galv Through Box
-CNB20M3WGA,2.09,InStock,,CNB20M3WGA 20mm Galv Tee Box
-CNB20MAGA,1.78,InStock,,CNB20MAGA 20mm Galv Angle Box
-CNB20MUGA,2.26,InStock,,CNB20MUWGA 20mm Galv U Box
-CNB20MYGA,3.17,InStock,,CNB20MYGA 20mm Galv Y Box
-CNB25M1WGA,2.56,InStock,,CNB25M1WGA 25mm Galv Terminal Box
+CNB20M1WGA,1.64,InStock,,20mm Galvanised Terminal Box CNB20M1WGA
+CNB20M2WGA,1.78,InStock,,20mm Galvanised Through Box CNB20M2WGA
+CNB20M3WGA,2.09,InStock,,20mm Galvanised Tee Box CNB20M3WGA
+CNB20MAGA,1.78,InStock,,20mm Galvanised Angle Box CNB20MAGA
+CNB20MUGA,2.26,InStock,,20mm Galvanised U Box CNB20MUWGA
+CNB20MYGA,3.17,InStock,,20mm Galvanised Y Box CNB20MYGA
+CNB25M1WGA,2.56,InStock,,25mm Galvanised Terminal Box CNB25M1WGA
 CNB25M2WGA,2.70,InStock,,25mm Galvanised 2 Way Through Box CNB25M2WGA
-CNB25M3WGA,2.98,InStock,,CNB25M3WGA 25mm Galv Tee Box
-CNB25MAGA,2.70,InStock,,CNB25MAGA 25mm Galv Angle Box
+CNB25M3WGA,2.98,InStock,,25mm Galvanised Tee Box CNB25M3WGA
+CNB25MAGA,2.70,InStock,,25mm Galvanised Angle Box CNB25MAGA
 CRA18R63/A30/2,35.80,InStock,Crabtree,Crabtree 18R63/A30/2 Loadstar 63A 30mA 2 Pole Type-A RCCB
 CRA18R80/A30/2,45.71,InStock,Crabtree,Crabtree 18R80/A30/2 Loadstar 80A 30mA 2 Pole Type-A RCCB
 CSS15A,1.84,InStock,Unicrimp,Unicrimp QTB15 15A 12 Way Strip Connector (Sold in 1's)
@@ -408,7 +408,7 @@ GKNM3.5X35,4.93,InStock,,M3.5 x 35mm Steel Machine Screw BZP (Pack 100)
 GKNM3.5X40,4.92,InStock,,M3.5 x 40mm Steel Machine Screw BZP (Pack 100)
 GKNM3.5X50,5.75,InStock,,M3.5 x 50mm Steel Machine Screw BZP (Pack 100)
 GKNM3.5X75,9.38,InStock,,M3.5 x 75mm Steel Machine Screw BZP (Pack 100)
-GKNM4X12BRS,7.75,OutOfStock,,M4 x 12mm Pan Head Slot Screws Brass (Pack of 100)
+GKNM4X12BRS,7.75,InStock,,M4 x 12mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X16BRS,9.48,InStock,,M4 x 16mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X20BRS,10.85,InStock,,M4 x 20mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X25BRS,11.86,InStock,,M4 x 25mm Pan Head Slot Screws Brass (Pack of 100)
@@ -421,17 +421,17 @@ GW40101,19.18,InStock,Gewiss,Gewiss GW40101 Surface Mounted IP65 Enclosure 143x2
 GW44204,2.33,InStock,Gewiss,Gewiss 44204 100mm x 100mm x 50mm Enclosure
 GW44206,3.49,InStock,Gewiss,Gewiss 44206 150mm x 110mm x 70mm Enclosure
 GW44207,6.84,InStock,Gewiss,Gewiss 44207 190mm x 140mm x 70mm Enclosure
-GW44208,11.08,InStock,Gewiss,Gewiss 44208 240mm x 190mm x 90mm Enclosure
+GW44208,11.08,InStock,Gewiss,Gewiss GW44208 240mm x 190mm x 90mm Enclosure
 GW44209,20.14,InStock,Gewiss,Gewiss 44209 300mm x 220mm x 120mm Enclosure
 GW66004,28.38,InStock,Gewiss,Gewiss GW66004 16A 2P+E 230v Interlock Switched Socket
 GW66009,33.86,InStock,Gewiss,Gewiss GW66009 16A 3P+N+E 415v Interlock Switched Socket
 GW66015,32.64,InStock,Gewiss,Gewiss GW66015 32A 2P+E 230v Interlock Switched Socket
 GW66020,40.91,InStock,Gewiss,Gewiss GW66020 32A 3P+N+E 380v Interlock Switched Socket
-GW70433,17.42,InStock,Gewiss,Gewiss 70433P 16A 4 Pole Rotary Isolator
-GW70436,19.48,InStock,Gewiss,Gewiss 70436P 32A 4 Pole Rotary Isolator
-GW70438,33.67,InStock,Gewiss,Gewiss 70438P 63A 4 Pole Rotary Isolator
-GW70443P,24.17,InStock,Gewiss,Gewiss 70443P 40A 4 Pole Rotary Isolator
-GW70488P,18.56,InStock,Gewiss,Gewiss 70488P 25A 4 Pole Rotary Isolator
+GW70433,17.42,InStock,Gewiss,Gewiss GW70433P 16A 4 Pole Rotary Isolator
+GW70436,19.48,InStock,Gewiss,Gewiss GW70436P 32A 4 Pole Rotary Isolator
+GW70438,33.67,InStock,Gewiss,Gewiss GW70438P 63A 4 Pole Rotary Isolator
+GW70443P,24.17,InStock,Gewiss,Gewiss GW70443P 40A 4 Pole Rotary Isolator
+GW70488P,18.56,InStock,Gewiss,Gewiss GW70488P 25A 4 Pole Rotary Isolator
 HAGADB406U,35.54,InStock,Hager,Hager ADB406U RCBO 1M 1P 10kA B-6A 30mA Type A
 HAGADB410U,35.54,InStock,Hager,Hager ADB410U RCBO 1M 1P 10kA B-10A 30mA Type A
 HAGADB416U,35.54,InStock,Hager,Hager ADB416U RCBO 1M 1P 10kA B-16A 30mA Type A
@@ -482,21 +482,11 @@ HAGNC316,35.53,InStock,Hager,Hager NCN316A MCB 3P 10kA/15kA C 16A 3M
 HAGNC320,35.53,InStock,Hager,Hager NCN320N MCB 3P 10kA C 20A 3M
 HAGNC332,35.87,InStock,Hager,Hager NCN332A MCB 3P 10kA/15kA C 32A 3M
 HAGNC340,36.56,InStock,Hager,Hager NCN340A MCB 3P 10kA/15kA C 40A 3M
-HAGNC363,41.40,OutOfStock,Hager,Hager NCN363A MCB 3P 10kA/15kA C 63A 3M
+HAGNC363,41.40,InStock,Hager,Hager NCN363A MCB 3P 10kA/15kA C 63A 3M
 HAGVME109SPD,73.46,InStock,Hager,Hager VME109SPD 9 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
 HAGVME113SPD,79.25,InStock,Hager,Hager VME113SPD 13 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
 HAGVME119SPD,85.02,InStock,Hager,Hager VME119SPD 19 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
 HAGWMCC50,10.26,InStock,Hager,Hager Sollysta WMCC50 45A Cooker Control Unit White
-HAGWMCS12,4.24,InStock,Hager,Hager Sollysta WMCS12 6A 2 Way Ceiling Pull Switch White
-HAGWMCS50N,10.33,InStock,Hager,Hager Sollysta WMCC50N 45A Cooker Control Unit with Neon White
-HAGWMDP50N,7.63,InStock,Hager,Hager Sollysta WMDP50N 50A DP 1 Gang Switch with Neon White
-HAGWMDP84,3.97,InStock,Hager,Hager Sollysta WMDP84 20A DP Switch White
-HAGWMDP84N,5.89,InStock,Hager,Hager Sollysta WMDP84N 20A DP Switch with Neon White
-HAGWMP1,0.96,InStock,Hager,Hager Sollysta WMP1 1 Gang Blank Plate White
-HAGWMP2,1.58,InStock,Hager,Hager Sollysta WMP2 2 Gang Blank Plate White
-HAGWMPB1/28,0.98,InStock,Hager,Hager WMPB1/28 1 Gang 28mm Pattress Back Box White
-HAGWMPB1/46,1.50,InStock,Hager,Hager WMPB1/46 1 Gang 46mm Pattress Back Box White
-HAGWMPB2/28,1.81,InStock,Hager,Hager WMPB2/28 2 Gang 28mm Pattress Back Box White
 HAGWMPB2/46,3.32,InStock,Hager,Hager WMPB2/46 2 Gang 46mm Pattress Back Box White
 HAGWMPS12,1.10,InStock,Hager,Hager Sollysta WMPS12 10A 1 Gang 2 Way Light Switch White
 HAGWMPS16,6.84,InStock,Hager,Hager Sollysta WMPS16 10A 1 Gang Intermediate Switch White
@@ -524,7 +514,7 @@ HAGWPSS81BKO,6.52,InStock,Hager,Hager WPSS81BKO 1 Gang Switched Socket Metal Cla
 HAGWPSS82BKO,10.27,InStock,Hager,Hager WPSS82BKO 2 Gang Switched Socket Metal Clad and Box
 HAGWPSSU83FOBKO,8.06,InStock,Hager,Hager WPSSU83FOBKO Switched Connection Unit with Flex Outlet and Box
 HAGWPSU83FOBKO,7.87,InStock,Hager,Hager WPSU83FOBKO Unswitched Connection Unit with Flex Outlet and Box
-HYFLEX10,1.06,InStock,,SPU10 PU Gloves Black Size 10
+HYFLEX10,1.06,OutOfStock,,SPU10 PU Gloves Black Size 10
 HYFLEX9,1.06,InStock,,SPU9 PU Gloves Black Size 9
 INTILDLFR70D001,5.92,OutOfStock,,ILDLFR70D001 Evofire 85 Fire Rated Downlight 70mm Cutout IP65 with GU10 Holder
 INTILDLFR70D013,9.01,OutOfStock,,ILDLFR70D013 Evofire Maxi 110 Fire Rated Downlight 70-100mm Cutout IP65 with GU10 Holder
@@ -592,13 +582,13 @@ KOSRE05/GUF30,1.07,InStock,Kosnic,Kosnic RE05-GUF30 Reon 5W GU10 60° 3000K
 KOSRE05/GUF40,1.07,InStock,Kosnic,Kosnic RE05-GUF40 Reon 5W GU10 60° 4000K
 KOSRE05D/GUF30,1.63,InStock,Kosnic,Kosnic RE05D-GUF30 Dimmable Reon 5W GU10 60° 3000K
 KOSRE05D/GUF40,1.63,InStock,Kosnic,Kosnic RE05D-GUF40 Dimmable Reon 5W GU10 60° 4000K
-KOSRHI310/SCT/S,13.64,InStock,Kosnic,Kosnic RHI310-SCT/S RHINE III 10W Floodlight with Sensor
-KOSRHI320/SCT,8.27,InStock,Kosnic,Kosnic RHI320-SCT RHINE III 20W Floodlight
-KOSRHI320/SCT/S,14.83,InStock,Kosnic,Kosnic RHI320-SCT/S RHINE III 20W Floodlight with Sensor
-KOSRHI330/SCT,10.45,InStock,Kosnic,Kosnic RHI330-SCT RHINE III 30W Floodlight
-KOSRHI330/SCT/S,17.47,InStock,Kosnic,Kosnic RHI330-SCT/S RHINE III 30W Floodlight with Sensor
-KOSRHI350/SCT,14.65,InStock,Kosnic,Kosnic RHI350-SCT RHINE III 50W Floodlight
-KOSRHI350/SCT/S,21.80,InStock,Kosnic,Kosnic RHI350-SCT/S RHINE III 50W Floodlight with Sensor
+KOSRHI310/SCT/S,13.64,InStock,Kosnic,Kosnic RHINE III 10W Floodlight with Sensor
+KOSRHI320/SCT,8.27,InStock,Kosnic,Kosnic RHINE III 20W Floodlight
+KOSRHI320/SCT/S,14.83,InStock,Kosnic,Kosnic RHINE III 20W Floodlight with Sensor
+KOSRHI330/SCT,10.45,InStock,Kosnic,Kosnic RHINE III 30W Floodlight
+KOSRHI330/SCT/S,17.47,InStock,Kosnic,Kosnic RHINE III 30W Floodlight with Sensor
+KOSRHI350/SCT,14.65,InStock,Kosnic,Kosnic RHINE III 50W Floodlight
+KOSRHI350/SCT/S,21.80,InStock,Kosnic,Kosnic RHINE III 50W Floodlight with Sensor
 KOSRMWDC,11.24,InStock,Kosnic,Kosnic LUL-M/D Lulu Plug in Microwave Motion and Daylight Sensor 12V DC
 KOSSWIR/GU10/S,21.31,InStock,Kosnic,Kosnic SWIR/GU10/S Swimley Twin 7W GU10 Up/Down wall light Sensor Stainless Steel
 KOSTARS/M/BLK,68.53,,Kosnic,Kosnic TAR-M-BLK Tarkine Solar 650mm Diecast Medium Bollard 4000K Black
@@ -645,14 +635,15 @@ MKH7732M,16.09,InStock,MK Electric,MK Sentry 6A Double Pole 1 Module Bidirection
 MKH7736M,16.09,InStock,MK Electric,MK Sentry 32A Double Pole 1 Module Bidirectional B Curve 6kA 30mA Type A Compact RCBO
 MKK2181,1.70,InStock,MK Electric,MK K2181 Logic Plus 1 Gang 32mm Pattress Back Box White
 MKK2183,2.81,InStock,MK Electric,MK K2183 Logic Plus 2 Gang 32mm Pattress Back Box White
-MKK2745,25.26,OutOfStock,MK Electric,MK K2745 Logic Plus 13A 2 Gang Switched Socket with 1x Type A & C USB Outlet White
 MKK2746,6.82,InStock,MK Electric,MK K2746 Logic Plus 13A DP 2 Gang Switched Socket with Outboard Rockers White
 MKK2746D1,9.80,InStock,MK Electric,MK K2746D1 Logic Plus 13A DP 2 Gang Switched Socket with Red Outboard Rockers White
-MKK2746GRA,8.86,InStock,MK Electric,MK K2746GRA Logic Plus 13A DP 2 Gang Switched Socket with White Outboard Rockers White
+MKK2746GRA,8.86,InStock,MK Electric,MK K2746GRA Logic Plus 13A DP 2 Gang Switched Socket with White Outboard Rockers Graphite
 MKK2747,5.26,InStock,MK Electric,MK K2747 Logic Plus 13A DP 2 Gang Switched Socket White
 MKK2757,3.13,InStock,MK Electric,MK K2757 Logic Plus 13A DP 1 Gang Switched Socket White
 MKK2757D1,7.31,InStock,MK Electric,MK K2757D1 Logic Plus 13A DP 2 Gang Switched Socket with Red Rockers White
 MKK2757GRA,4.24,InStock,MK Electric,MK K2757GRA Logic Plus 13A DP 1 Gang Switched Socket with White Rocker Graphite
+MKK2766,31.00,InStock,MK Electric,MK K2766 Logic Plus 13A 2 Gang Switched Socket with Type A & C USB Outlet White
+MKK2766GRA,31.00,InStock,MK Electric,MK K2766GRA Logic Plus 13A 2 Gang Switched Socket with Type A & C USB Outlet Graphite
 MKK2946,18.24,InStock,MK Electric,MK K2946ALM Metalclad Plus 13A DP 2 Gang Socket
 MKK2977,11.56,InStock,MK Electric,MK K2977ALM Metalclad Plus 13A DP 1 Gang Socket
 MKK330,6.54,InStock,MK Electric,MK K330 Logic Plus 13A DP Switched Fused Spur with Flex Outlet White
@@ -1003,7 +994,7 @@ WBF25,5.10,InStock,Armeg,Armeg WBF25 25mm WoodBeaver Flat Bit
 WBF25XL,8.92,InStock,Armeg,Armeg WBF25XL 25mm Long Woodbeaver Flat Bit
 WBF32,6.76,InStock,Armeg,Armeg WBF32 32mm WoodBeaver Flat Bit
 WBF7PK,27.00,InStock,Armeg,Armeg WBF7PK 7pc Woodbeaver Flat Bit Set
-WF16.0X160,3.12,InStock,Armeg,Armeg 16.0mm x 160mm Flat Wood Bit
+WF16.0X160,3.12,OutOfStock,Armeg,Armeg 16.0mm x 160mm Flat Wood Bit
 WF20.0X160,3.26,InStock,Armeg,Armeg 20mm x 160mm Flat Wood Bit
 WF25.0X160,3.50,InStock,Armeg,Armeg 25mm x 160mm Flat Wood Bit
 WF32.0X160,4.81,OutOfStock,Armeg,Armeg 32mm x 160mm Flat Wood Bit
@@ -1053,7 +1044,7 @@ WYLNHXS1B32,17.05,InStock,Wylex,Wylex NHXS1B32 32A 1P+N 1 Module B Curve 6kA 30m
 WYLNHXS1B40,17.05,InStock,Wylex,Wylex NHXS1B40 40A 1P+N 1 Module B Curve 6kA 30mA RCBO
 WYLNM1106L,38.98,InStock,Wylex,Wylex NM1106L 11 Way Consumer Unit Main Switch 100A
 WYLNM1406FLEX,53.39,OutOfStock,Wylex,Wylex NM1406FLEX Wylex NM 14 Way 100A Main Switch 2 Pole Flexible Consumer Unit
-WYLNM1406L,43.20,InStock,Wylex,Wylex NM1406L 14 Way Consumer Unit Main Switch 100A
+WYLNM1406L,43.20,InStock,Wylex,Wylex NM1406L 14 Way Consumer Unit Main Switch 100A DP
 WYLNM806FLEX,42.70,OutOfStock,Wylex,Wylex NM806FLEX Wylex NM 8 Way 100A Main Switch 2 Pole Flexible Consumer Unit
 WYLNMT2SPD3W/1,46.81,InStock,Wylex,Wylex NMT2SPD3W/1 40kA 1 Module Single Pole and Neutral Type 2 Surge Protector SPD
 WYLREC2S,14.03,InStock,Wylex,Wylex REC2S 100A DP Isolator with 2 Module Enclosure
@@ -1063,6 +1054,6 @@ WYLWRDS80/2,38.10,InStock,Wylex,Wylex WRDS80/2 80A 2 Pole 30mA Type A RCD
 YMSP0300L,0.98,OutOfStock,Armeg,Armeg 3mm HSS Drill Bit
 YMSP0400L,1.16,InStock,Armeg,Armeg 4mm HSS Drill Bit
 YMSP0500L,1.52,InStock,Armeg,Armeg 5mm HSS Drill Bit
-YMSP0600L,2.03,InStock,Armeg,Armeg 6mm HSS Drill Bit
+YMSP0600L,2.03,InStock,Armeg,Armeg 6mm HSS Drill Bit YM0600L
 YMSP0800L,3.36,InStock,Armeg,Armeg 8mm HSS Drill Bit
 YMSP1000L,5.35,InStock,Armeg,Armeg 10mm HSS Drill Bit

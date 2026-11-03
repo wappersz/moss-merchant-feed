@@ -561,7 +561,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=AICEI1020</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/AICEI1020.webp</g:image_link>
 <g:price>117.62 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
 <g:gtin>5099383010565</g:gtin>
@@ -583,7 +583,7 @@
 <item>
 <g:id>AICEI129</g:id>
 <g:title>Aico Ei129 Switched Input Module</g:title>
-<g:description>This module triggers the alarms in a system if an external device is activated, such as a sprinkler system.</g:description>
+<g:description>The Ei129 is a mains powered Switched Input Module with rechargeable lithium cell back-up. It will trigger the alarms in a system if an external device is activated, such as a sprinkler system. The Ei129 comes with a cover or can be mounted underneath an alarm.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=AICEI129</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/AICEI129.webp</g:image_link>
 <g:price>29.10 GBP</g:price>
@@ -1211,112 +1211,122 @@
 </item>
 <item>
 <g:id>ALLAST010/COB/30/1</g:id>
-<g:title>1m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>1m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 1m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 1m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/30/1</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~30~1.webp</g:image_link>
 <g:price>15.14 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/30/2</g:id>
-<g:title>2m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>2m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 2m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 2m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/30/2</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~30~2.webp</g:image_link>
 <g:price>24.17 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/30/3</g:id>
-<g:title>3m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>3m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 3m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 3m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/30/3</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~30~3.webp</g:image_link>
 <g:price>33.18 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/30/4</g:id>
-<g:title>4m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>4m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 4m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 4m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/30/4</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~30~4.webp</g:image_link>
 <g:price>42.20 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/30/5</g:id>
-<g:title>5m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>5m Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 5m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 5m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/30/5</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~30~5.webp</g:image_link>
 <g:price>51.23 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/40/1</g:id>
-<g:title>1m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>1m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 1m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 1m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/40/1</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~40~1.webp</g:image_link>
 <g:price>15.14 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/40/2</g:id>
-<g:title>2m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>2m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 2m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 2m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/40/2</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~40~2.webp</g:image_link>
 <g:price>24.17 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/40/3</g:id>
-<g:title>3m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>3m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 3m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 3m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/40/3</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~40~3.webp</g:image_link>
 <g:price>33.18 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/40/4</g:id>
-<g:title>4m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>4m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 4m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 4m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/40/4</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~40~4.webp</g:image_link>
 <g:price>42.20 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>ALLAST010/COB/40/5</g:id>
-<g:title>5m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
-<g:description>5m Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
+<g:title>ALL LED 5m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:title>
+<g:description>ALL LED 5m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ALLAST010/COB/40/5</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/ALLAST010~COB~40~5.webp</g:image_link>
 <g:price>51.23 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
@@ -2221,7 +2231,7 @@
 </item>
 <item>
 <g:id>CLKCMA011</g:id>
-<g:title>Click CMA011 10A 1 Gang 2 Way Light Switch White</g:title>
+<g:title>Click 10A 1 Gang 2 Way Light Switch White CMA011</g:title>
 <g:description>The Click Mode CMA011 is a single 10A light switch wired 2-way, the everyday switch for controlling one lighting circuit from one or two positions, handy for hallways, landings and rooms with two doors. The slim white moulded plate sits flush and neat, and captive terminal screws with clear markings make first fix quick. 10AX rated for inductive lighting loads. Part of the Click Mode white range, so it matches the sockets, spurs and plates across the job.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA011</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA011.webp</g:image_link>
@@ -2234,7 +2244,7 @@
 </item>
 <item>
 <g:id>CLKCMA012</g:id>
-<g:title>Click CMA012 10A 2 Gang 2 Way Light Switch White</g:title>
+<g:title>Click 10A 2 Gang 2 Way Light Switch White CMA012</g:title>
 <g:description>The Click Mode CMA012 is a twin 10A light switch, both gangs wired 2-way, for controlling two separate lighting circuits from one plate, or either circuit from a second switch position. It is the standard choice for rooms with two lighting zones or a room-plus-hall light on one box. Slim white moulded finish, captive backed-off screws and marked terminals for a fast, tidy first fix. 10AX rated. Matches the rest of the Click Mode white range.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA012</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA012.webp</g:image_link>
@@ -2246,7 +2256,7 @@
 </item>
 <item>
 <g:id>CLKCMA013</g:id>
-<g:title>Click CMA013 10A 3 Gang 2 Way Light Switch White</g:title>
+<g:title>Click 10A 3 Gang 2 Way Light Switch White CMA013</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA013</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA013.webp</g:image_link>
@@ -2258,7 +2268,7 @@
 </item>
 <item>
 <g:id>CLKCMA020</g:id>
-<g:title>Click CMA020 10A Fan Isolator White</g:title>
+<g:title>Click 10A Fan Isolator White CMA020</g:title>
 <g:description>The Click Mode CMA020 is a triple-pole fan isolator switch in slim white moulded, used to fully isolate an extractor fan (live, neutral and switched-live) for safe maintenance, as needed for fans with a timer or overrun. Mounted above a door or beside the fan, its 3-pole switching cuts all feeds in one action. Clear terminal markings speed up the wiring. Part of the Click Mode white range.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA020</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA020.webp</g:image_link>
@@ -2270,7 +2280,7 @@
 </item>
 <item>
 <g:id>CLKCMA025</g:id>
-<g:title>Click CMA025 10A 1 Gang Intermediate Light Switch White</g:title>
+<g:title>Click 10A 1 Gang Intermediate Light Switch White CMA025</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA025</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA025.webp</g:image_link>
@@ -2282,7 +2292,7 @@
 </item>
 <item>
 <g:id>CLKCMA030</g:id>
-<g:title>Click CMA030 13A 1 Gang Unswitched Socket White</g:title>
+<g:title>Click 13A 1 Gang Unswitched Socket White CMA030</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA030</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA030.webp</g:image_link>
@@ -2294,7 +2304,7 @@
 </item>
 <item>
 <g:id>CLKCMA035</g:id>
-<g:title>Click CMA035 13A 1 Gang Switched Socket White</g:title>
+<g:title>Click 13A 1 Gang Switched Socket White CMA035</g:title>
 <g:description>The Click Mode CMA035 is a single 13A switched socket in slim white moulded, the workhorse single outlet for bedrooms, hallways and anywhere a twin is not needed. The rocker switch isolates the outlet without unplugging, terminals are deep and clearly marked, and the low-profile plate fits comfortably in a 25mm box. Part of the Click Mode white range, so it matches the twin sockets, switches and spurs throughout.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA035</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA035.webp</g:image_link>
@@ -2307,7 +2317,7 @@
 </item>
 <item>
 <g:id>CLKCMA036</g:id>
-<g:title>Click CMA036 13A 2 Gang Switched Socket White</g:title>
+<g:title>Click 13A 2 Gang Switched Socket White CMA036</g:title>
 <g:description>The Click Mode CMA036 is a 13A twin switched socket in slim white moulded, the default double outlet across most domestic and light commercial jobs. Each outlet switches independently, the terminals are deep with clear markings for fast termination, and the low-profile plate keeps things neat on the wall. Fits a standard 25mm box. Matches the rest of the Click Mode white range for a consistent finish room to room.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA036</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA036.webp</g:image_link>
@@ -2320,7 +2330,7 @@
 </item>
 <item>
 <g:id>CLKCMA060</g:id>
-<g:title>Click CMA060 1 Gang Blank Plate White</g:title>
+<g:title>Click 1 Gang Blank Plate White CMA060</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA060</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA060.webp</g:image_link>
@@ -2332,7 +2342,7 @@
 </item>
 <item>
 <g:id>CLKCMA061</g:id>
-<g:title>Click CMA061 2 Gang Blank Plate White</g:title>
+<g:title>Click 2 Gang Blank Plate White CMA061</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA061</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA061.webp</g:image_link>
@@ -2344,7 +2354,7 @@
 </item>
 <item>
 <g:id>CLKCMA081</g:id>
-<g:title>Click CMA081 1 Gang 25mm Pattress White</g:title>
+<g:title>Click 1 Gang 25mm Pattress White CMA081</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA081</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA081.webp</g:image_link>
@@ -2357,7 +2367,7 @@
 </item>
 <item>
 <g:id>CLKCMA082</g:id>
-<g:title>Click CMA082 2 Gang 25mm Pattress</g:title>
+<g:title>Click 2 Gang 25mm Pattress CMA082</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA082</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA082.webp</g:image_link>
@@ -2369,7 +2379,7 @@
 </item>
 <item>
 <g:id>CLKCMA100</g:id>
-<g:title>Click CMA100 Dual Voltage Shaver Socket Outlet - 115/230V</g:title>
+<g:title>Click Dual Voltage Shaver Socket Outlet - 115/230V CMA100</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA100</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA100.webp</g:image_link>
@@ -2382,7 +2392,7 @@
 </item>
 <item>
 <g:id>CLKCMA201</g:id>
-<g:title>Click CMA201 45A 1 Gang Cooker Switch with Neon White</g:title>
+<g:title>Click 45A 1 Gang Cooker Switch with Neon White CMA201</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA201</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA201.webp</g:image_link>
@@ -2394,7 +2404,7 @@
 </item>
 <item>
 <g:id>CLKCMA205</g:id>
-<g:title>Click CMA205 45A DP Cooker Control Unit with Neon &amp; Red Rocker White</g:title>
+<g:title>Click 45A DP Cooker Control Unit with Neon &amp; Red Rocker White CMA205</g:title>
 <g:description>The Click Mode CMA205 is a 45A double-pole cooker control unit in slim white moulded, with a neon indicator and a red rocker so it is clear at a glance when the cooker circuit is live. Double-pole switching isolates the cooker fully for safe maintenance, and the 45A rating suits most domestic ovens and hobs on a dedicated circuit. Slim plate, clearly marked terminals. Part of the Click Mode white range.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA205</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA205.webp</g:image_link>
@@ -2406,7 +2416,7 @@
 </item>
 <item>
 <g:id>CLKCMA215</g:id>
-<g:title>Click CMA215 45A 1 Gang Cooker Connection Plate</g:title>
+<g:title>Click 45A 1 Gang Cooker Connection Plate CMA215</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA215</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA215.webp</g:image_link>
@@ -2418,7 +2428,7 @@
 </item>
 <item>
 <g:id>CLKCMA503</g:id>
-<g:title>Click CMA503 45A DP Switch with Neon White</g:title>
+<g:title>Click 45A DP Switch with Neon White CMA503</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA503</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA503.webp</g:image_link>
@@ -2430,7 +2440,7 @@
 </item>
 <item>
 <g:id>CLKCMA505</g:id>
-<g:title>Click CMA505 45A Cooker Control with 13A Socket and Neon White</g:title>
+<g:title>Click 45A Cooker Control with 13A Socket and Neon White CMA505</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA505</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA505.webp</g:image_link>
@@ -2443,19 +2453,19 @@
 </item>
 <item>
 <g:id>CLKCMA650</g:id>
-<g:title>Click CMA650 13A Unswitched Fuse Spur White</g:title>
+<g:title>Click 13A Unswitched Fuse Spur White CMA650</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA650</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA650.webp</g:image_link>
 <g:price>2.40 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
 <g:mpn>CMA650</g:mpn>
 </item>
 <item>
 <g:id>CLKCMA651</g:id>
-<g:title>Click CMA651 13A DP Switched Fused Spur White</g:title>
+<g:title>Click 13A DP Switched Fused Spur White CMA651</g:title>
 <g:description>The Click Mode CMA651 is a 13A double-pole switched fused connection unit in slim white moulded, the standard way to take a fixed appliance off a ring main with its own fuse and isolation. Double-pole switching drops both live and neutral for safe servicing, and the fuse holder takes up to a 13A cartridge fuse. Ideal for boilers, towel rails, extractors and other fixed appliances. Matches the rest of the Click Mode white range.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA651</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA651.webp</g:image_link>
@@ -2468,7 +2478,7 @@
 </item>
 <item>
 <g:id>CLKCMA652</g:id>
-<g:title>Click CMA652 13A Switched Spur with Neon White</g:title>
+<g:title>Click 13A Switched Spur with Neon White CMA652</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA652</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA652.webp</g:image_link>
@@ -2480,7 +2490,7 @@
 </item>
 <item>
 <g:id>CLKCMA786</g:id>
-<g:title>Click CMA786 2 Gang 13A Type A &amp; C USB Socket 4.2A</g:title>
+<g:title>Click 2 Gang 13A Type A &amp; C USB Socket 4.2A CMA786</g:title>
 <g:description>The smooth, modern lines of the CLICK® Mode accessory plate will fit easily into traditional and contemporary designs alike. The modular design of Mode® allows designers and installers unprecedented flexibility in creating dedicated wiring solutions to deal specifically with actual wiring needs. In other words, there is now no need to compromise. CLICK Mode accessories provide the complete solution to modern wiring needs.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKCMA786</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKCMA786.webp</g:image_link>
@@ -2505,8 +2515,8 @@
 </item>
 <item>
 <g:id>CLKPA320</g:id>
-<g:title>Click PA320 13A Plug Top</g:title>
-<g:description>Click PA320 13A Plug Top</g:description>
+<g:title>Click PA320 Mains 13A Plug Top</g:title>
+<g:description>Scolmore PA320 white Fused 13 Amp Plug Top - Ideal for household appliances.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CLKPA320</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CLKPA320.webp</g:image_link>
 <g:price>0.97 GBP</g:price>
@@ -2699,8 +2709,8 @@
 </item>
 <item>
 <g:id>CNB20M1WGA</g:id>
-<g:title>CNB20M1WGA 20mm Galv Terminal Box</g:title>
-<g:description>CNB20M1WGA 20mm Galv Terminal Box</g:description>
+<g:title>20mm Galvanised Terminal Box CNB20M1WGA</g:title>
+<g:description>A 20mm galvanised terminal box (also known as a 1-way stop-end or end box) is a circular or box-shaped enclosure used to terminate a single run of 20mm steel conduit.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB20M1WGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB20M1WGA.webp</g:image_link>
 <g:price>1.64 GBP</g:price>
@@ -2710,8 +2720,8 @@
 </item>
 <item>
 <g:id>CNB20M2WGA</g:id>
-<g:title>CNB20M2WGA 20mm Galv Through Box</g:title>
-<g:description>CNB20M2WGA 20mm Galv Through Box</g:description>
+<g:title>20mm Galvanised Through Box CNB20M2WGA</g:title>
+<g:description>20mm galvanised through box is a 2-way circular metal junction box used in electrical conduit installations to join two straight lengths of 20mm steel conduit, route cables, and provide pull or maintenance access.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB20M2WGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB20M2WGA.webp</g:image_link>
 <g:price>1.78 GBP</g:price>
@@ -2721,8 +2731,8 @@
 </item>
 <item>
 <g:id>CNB20M3WGA</g:id>
-<g:title>CNB20M3WGA 20mm Galv Tee Box</g:title>
-<g:description>CNB20M3WGA 20mm Galv Tee Box</g:description>
+<g:title>20mm Galvanised Tee Box CNB20M3WGA</g:title>
+<g:description>A 20mm Galvanised Tee Box is a 3-way circular junction box used to join three 20mm rigid metal conduit runs at a T-intersection.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB20M3WGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB20M3WGA.webp</g:image_link>
 <g:price>2.09 GBP</g:price>
@@ -2732,8 +2742,8 @@
 </item>
 <item>
 <g:id>CNB20MAGA</g:id>
-<g:title>CNB20MAGA 20mm Galv Angle Box</g:title>
-<g:description>CNB20MAGA 20mm Galv Angle Box</g:description>
+<g:title>20mm Galvanised Angle Box CNB20MAGA</g:title>
+<g:description>A 20mm galvanised angle box (also known as a 2-way circular angle box) is a heavy-duty malleable iron electrical fitting used to join 20mm rigid steel conduit at a 90-degree corner.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB20MAGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB20MAGA.webp</g:image_link>
 <g:price>1.78 GBP</g:price>
@@ -2743,8 +2753,8 @@
 </item>
 <item>
 <g:id>CNB20MUGA</g:id>
-<g:title>CNB20MUWGA 20mm Galv U Box</g:title>
-<g:description>CNB20MUWGA 20mm Galv U Box</g:description>
+<g:title>20mm Galvanised U Box CNB20MUWGA</g:title>
+<g:description>A 20mm Galvanised U Box is a 2-way malleable iron junction and directional change fitting used in surface-mounted steel conduit wiring systems.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB20MUGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB20MUGA.webp</g:image_link>
 <g:price>2.26 GBP</g:price>
@@ -2754,8 +2764,8 @@
 </item>
 <item>
 <g:id>CNB20MYGA</g:id>
-<g:title>CNB20MYGA 20mm Galv Y Box</g:title>
-<g:description>CNB20MYGA 20mm Galv Y Box</g:description>
+<g:title>20mm Galvanised Y Box CNB20MYGA</g:title>
+<g:description>A 20mm Galvanised Y Box is used for splitting or branching 20mm rigid metal conduit runs around surface obstructions</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB20MYGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB20MYGA.webp</g:image_link>
 <g:price>3.17 GBP</g:price>
@@ -2765,8 +2775,8 @@
 </item>
 <item>
 <g:id>CNB25M1WGA</g:id>
-<g:title>CNB25M1WGA 25mm Galv Terminal Box</g:title>
-<g:description>CNB25M1WGA 25mm Galv Terminal Box</g:description>
+<g:title>25mm Galvanised Terminal Box CNB25M1WGA</g:title>
+<g:description>A 25mm galvanised terminal box (also known as a 1-way stop-end or end box) is a circular or box-shaped enclosure used to terminate a single run of 25mm steel conduit.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB25M1WGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB25M1WGA.webp</g:image_link>
 <g:price>2.56 GBP</g:price>
@@ -2787,8 +2797,8 @@
 </item>
 <item>
 <g:id>CNB25M3WGA</g:id>
-<g:title>CNB25M3WGA 25mm Galv Tee Box</g:title>
-<g:description>CNB25M3WGA 25mm Galv Tee Box</g:description>
+<g:title>25mm Galvanised Tee Box CNB25M3WGA</g:title>
+<g:description>A 25mm Galvanised Tee Box is a 3-way circular junction box used to join three 25mm rigid metal conduit runs at a T-intersection.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB25M3WGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB25M3WGA.webp</g:image_link>
 <g:price>2.98 GBP</g:price>
@@ -2798,8 +2808,8 @@
 </item>
 <item>
 <g:id>CNB25MAGA</g:id>
-<g:title>CNB25MAGA 25mm Galv Angle Box</g:title>
-<g:description>CNB25MAGA 25mm Galv Angle Box</g:description>
+<g:title>25mm Galvanised Angle Box CNB25MAGA</g:title>
+<g:description>A 25mm galvanised angle box (also known as a 2-way circular angle box) is a heavy-duty malleable iron electrical fitting used to join 25mm rigid steel conduit at a 90-degree corner.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=CNB25MAGA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/C/CNB25MAGA.webp</g:image_link>
 <g:price>2.70 GBP</g:price>
@@ -3793,7 +3803,7 @@
 <item>
 <g:id>DETS1206</g:id>
 <g:title>Deta S1206 13A 1 Gang Unswitched Socket White</g:title>
-<g:description>Deta S1206 13A 1 Gang Unswitched Socket White</g:description>
+<g:description>The Deta S1206 is a white moulded, 1-gang, 13-amp unswitched single socket from the Deta Slimline range. The Deta Slimline range is an established, leading brand of wiring accessories and is a popular choice for electricians throughout the UK. It is regularly specified by many of the UK house builders but is also suitable for use in commercial situations as well as domestic premises.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETS1206</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETS1206.webp</g:image_link>
 <g:price>1.22 GBP</g:price>
@@ -3997,7 +4007,7 @@
 <item>
 <g:id>DETS1310P</g:id>
 <g:title>Deta S1310P 45A DP Switch with Neon White</g:title>
-<g:description>Deta S1310P 45A DP Switch with Neon White</g:description>
+<g:description>The Deta S1310P is a White, 45A, double pole, control switch, with a neon light indicator. Only 7mm thick with curves at the top and bottom making it very subtle whilst maintaining a stylish appearance. It has colour coded terminals that are clearly marked as well as having a recessed earth bar. It is part of the Slimline range from Deta.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=DETS1310P</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/D/DETS1310P.webp</g:image_link>
 <g:price>10.32 GBP</g:price>
@@ -4857,7 +4867,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=GKNM4X12BRS</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/G/GKNM4X12BRS.webp</g:image_link>
 <g:price>7.75 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
@@ -4999,15 +5009,15 @@
 </item>
 <item>
 <g:id>GW44208</g:id>
-<g:title>Gewiss 44208 240mm x 190mm x 90mm Enclosure</g:title>
-<g:description>Gewiss 44208 240mm x 190mm x 90mm Enclosure</g:description>
+<g:title>Gewiss GW44208 240mm x 190mm x 90mm Enclosure</g:title>
+<g:description>Gewiss GW44208 is a rectangular, grey junction box with a hinged lid. It has an Ingress Protection rating of IP56 and is also referred to as an enclosure. Gewiss have been providing the UK with such mateirals for over 45 years.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=GW44208</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/G/GW44208.webp</g:image_link>
 <g:price>11.08 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Gewiss</g:brand>
-<g:mpn>44208</g:mpn>
+<g:mpn>GW44208</g:mpn>
 </item>
 <item>
 <g:id>GW44209</g:id>
@@ -5071,8 +5081,8 @@
 </item>
 <item>
 <g:id>GW70433</g:id>
-<g:title>Gewiss 70433P 16A 4 Pole Rotary Isolator</g:title>
-<g:description>Gewiss 70433P 16A 4 Pole Rotary Isolator</g:description>
+<g:title>Gewiss GW70433P 16A 4 Pole Rotary Isolator</g:title>
+<g:description>Gewiss GW70433P 16A 4 Pole Rotary Isolator</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=GW70433</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/G/GW70433.webp</g:image_link>
 <g:price>17.42 GBP</g:price>
@@ -5083,8 +5093,8 @@
 </item>
 <item>
 <g:id>GW70436</g:id>
-<g:title>Gewiss 70436P 32A 4 Pole Rotary Isolator</g:title>
-<g:description>Gewiss 70436P 32A 4 Pole Rotary Isolator</g:description>
+<g:title>Gewiss GW70436P 32A 4 Pole Rotary Isolator</g:title>
+<g:description>Gewiss GW70436P 32A 4 Pole Rotary Isolator</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=GW70436</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/G/GW70436.webp</g:image_link>
 <g:price>19.48 GBP</g:price>
@@ -5095,8 +5105,8 @@
 </item>
 <item>
 <g:id>GW70438</g:id>
-<g:title>Gewiss 70438P 63A 4 Pole Rotary Isolator</g:title>
-<g:description>Gewiss 70438P 63A 4 Pole Rotary Isolator</g:description>
+<g:title>Gewiss GW70438P 63A 4 Pole Rotary Isolator</g:title>
+<g:description>70 RT HP is a complete offer of rotary isolator switches from 16A to 160A, available in boxes both in insulating material and aluminium, in control or emergency versions, compatible with the main applications for residential, tertiary and industrial contexts. The devices have been designed to reduce wiring time, facilitate installation and guarantee the maximum safety and robustness even in the most demanding conditions.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=GW70438</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/G/GW70438.webp</g:image_link>
 <g:price>33.67 GBP</g:price>
@@ -5107,19 +5117,19 @@
 </item>
 <item>
 <g:id>GW70443P</g:id>
-<g:title>Gewiss 70443P 40A 4 Pole Rotary Isolator</g:title>
-<g:description>Gewiss 70443P 40A 4 Pole Rotary Isolator</g:description>
+<g:title>Gewiss GW70443P 40A 4 Pole Rotary Isolator</g:title>
+<g:description>Gewiss GW70443P 40A 4 Pole Rotary Isolator</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=GW70443P</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/G/GW70443P.webp</g:image_link>
 <g:price>24.17 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Gewiss</g:brand>
-<g:mpn>70443P</g:mpn>
+<g:mpn>GW70443P</g:mpn>
 </item>
 <item>
 <g:id>GW70488P</g:id>
-<g:title>Gewiss 70488P 25A 4 Pole Rotary Isolator</g:title>
+<g:title>Gewiss GW70488P 25A 4 Pole Rotary Isolator</g:title>
 <g:description>70 RT HP is a complete offer of rotary isolator switches from 16A to 160A, available in boxes both in insulating material and aluminium, in control or emergency versions, compatible with the main applications for residential, tertiary and industrial contexts. DC versions for photovoltaic applications are also available from 16A to 40A in insulating box. The series is completed with versions for board from 16A to 1000A and for DIN rail fixing from 16A to 63A, which can be equipped with auxiliary contacts. The devices have been designed to reduce wiring time, facilitate installation and guarantee the maximum safety and robustness even in the most demanding conditions.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=GW70488P</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/G/GW70488P.webp</g:image_link>
@@ -5127,7 +5137,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Gewiss</g:brand>
-<g:mpn>70488P</g:mpn>
+<g:mpn>GW70488P</g:mpn>
 </item>
 <item>
 <g:id>HAGADB406U</g:id>
@@ -5736,7 +5746,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGNC363</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGNC363.webp</g:image_link>
 <g:price>41.40 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -5788,126 +5798,6 @@
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
 <g:mpn>WMCC50</g:mpn>
-</item>
-<item>
-<g:id>HAGWMCS12</g:id>
-<g:title>Hager Sollysta WMCS12 6A 2 Way Ceiling Pull Switch White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMCS12</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMCS12.webp</g:image_link>
-<g:price>4.24 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMCS12</g:mpn>
-</item>
-<item>
-<g:id>HAGWMCS50N</g:id>
-<g:title>Hager Sollysta WMCC50N 45A Cooker Control Unit with Neon White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMCS50N</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMCS50N.webp</g:image_link>
-<g:price>10.33 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
-</item>
-<item>
-<g:id>HAGWMDP50N</g:id>
-<g:title>Hager Sollysta WMDP50N 50A DP 1 Gang Switch with Neon White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMDP50N</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMDP50N.webp</g:image_link>
-<g:price>7.63 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMDP50N</g:mpn>
-</item>
-<item>
-<g:id>HAGWMDP84</g:id>
-<g:title>Hager Sollysta WMDP84 20A DP Switch White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMDP84</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMDP84.webp</g:image_link>
-<g:price>3.97 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMDP84</g:mpn>
-</item>
-<item>
-<g:id>HAGWMDP84N</g:id>
-<g:title>Hager Sollysta WMDP84N 20A DP Switch with Neon White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMDP84N</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMDP84N.webp</g:image_link>
-<g:price>5.89 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMDP84N</g:mpn>
-</item>
-<item>
-<g:id>HAGWMP1</g:id>
-<g:title>Hager Sollysta WMP1 1 Gang Blank Plate White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMP1</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMP1.webp</g:image_link>
-<g:price>0.96 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMP1</g:mpn>
-</item>
-<item>
-<g:id>HAGWMP2</g:id>
-<g:title>Hager Sollysta WMP2 2 Gang Blank Plate White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMP2</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMP2.webp</g:image_link>
-<g:price>1.58 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMP2</g:mpn>
-</item>
-<item>
-<g:id>HAGWMPB1/28</g:id>
-<g:title>Hager WMPB1/28 1 Gang 28mm Pattress Back Box White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMPB1/28</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMPB1~28.webp</g:image_link>
-<g:price>0.98 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMPB1/28</g:mpn>
-</item>
-<item>
-<g:id>HAGWMPB1/46</g:id>
-<g:title>Hager WMPB1/46 1 Gang 46mm Pattress Back Box White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMPB1/46</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMPB1~46.webp</g:image_link>
-<g:price>1.50 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMPB1/46</g:mpn>
-</item>
-<item>
-<g:id>HAGWMPB2/28</g:id>
-<g:title>Hager WMPB2/28 2 Gang 28mm Pattress Back Box White</g:title>
-<g:description>The Sollysta White Moulded switch range is one of the easiest on the market to install, and with the shallow back-projection more cabling space is offered. Behind the faceplate, the terminals face in the same direction with lead-ins for wiring, backed off screws held captive to prevent loss, wire end stops and clear white labelling off a dark grey background. The wall switches are also the market's first with a neutral loop terminal built into the accessory. This allows the installer to complete the loop connection in the switch instead of in the ceiling rose.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HAGWMPB2/28</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HAGWMPB2~28.webp</g:image_link>
-<g:price>1.81 GBP</g:price>
-<g:availability>in_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>Hager</g:brand>
-<g:mpn>WMPB2/28</g:mpn>
 </item>
 <item>
 <g:id>HAGWMPB2/46</g:id>
@@ -6240,7 +6130,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=HYFLEX10</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/H/HYFLEX10.webp</g:image_link>
 <g:price>1.06 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
@@ -7046,8 +6936,8 @@
 </item>
 <item>
 <g:id>KOSRHI310/SCT/S</g:id>
-<g:title>Kosnic RHI310-SCT/S RHINE III 10W Floodlight with Sensor</g:title>
-<g:description>The Rhine LED Floodlights make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI310-SCT/S</g:description>
+<g:title>Kosnic RHINE III 10W Floodlight with Sensor</g:title>
+<g:description>The Rhine LED 10w Floodlight with Sensor make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. This model features a PIR Sensor which will activate based on movement. Product Code: RHI310-SCT/S</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=KOSRHI310/SCT/S</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/K/KOSRHI310~SCT~S.webp</g:image_link>
 <g:price>13.64 GBP</g:price>
@@ -7055,12 +6945,11 @@
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
 <g:gtin>5061034767203</g:gtin>
-<g:mpn>RHI310-SCT/S</g:mpn>
 </item>
 <item>
 <g:id>KOSRHI320/SCT</g:id>
-<g:title>Kosnic RHI320-SCT RHINE III 20W Floodlight</g:title>
-<g:description>The Rhine LED Floodlights make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI320-SCT</g:description>
+<g:title>Kosnic RHINE III 20W Floodlight</g:title>
+<g:description>The Rhine LED 20w Floodlight make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI320-SCT</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=KOSRHI320/SCT</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/K/KOSRHI320~SCT.webp</g:image_link>
 <g:price>8.27 GBP</g:price>
@@ -7068,12 +6957,11 @@
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
 <g:gtin>5061034767210</g:gtin>
-<g:mpn>RHI320-SCT</g:mpn>
 </item>
 <item>
 <g:id>KOSRHI320/SCT/S</g:id>
-<g:title>Kosnic RHI320-SCT/S RHINE III 20W Floodlight with Sensor</g:title>
-<g:description>The Rhine LED Floodlights make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI320-SCT/S</g:description>
+<g:title>Kosnic RHINE III 20W Floodlight with Sensor</g:title>
+<g:description>The Rhine LED 20w Floodlight with Sensor make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. This model features a PIR Sensor which will activate based on movement. Product Code: RHI320-SCT/S</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=KOSRHI320/SCT/S</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/K/KOSRHI320~SCT~S.webp</g:image_link>
 <g:price>14.83 GBP</g:price>
@@ -7081,12 +6969,11 @@
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
 <g:gtin>5061034767227</g:gtin>
-<g:mpn>RHI320-SCT/S</g:mpn>
 </item>
 <item>
 <g:id>KOSRHI330/SCT</g:id>
-<g:title>Kosnic RHI330-SCT RHINE III 30W Floodlight</g:title>
-<g:description>The Rhine LED Floodlights make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI330-SCT</g:description>
+<g:title>Kosnic RHINE III 30W Floodlight</g:title>
+<g:description>The Rhine LED 30w Floodlight make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. This model features a PIR Sensor which will activate based on movement. Product Code: RHI330-SCT</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=KOSRHI330/SCT</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/K/KOSRHI330~SCT.webp</g:image_link>
 <g:price>10.45 GBP</g:price>
@@ -7094,12 +6981,11 @@
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
 <g:gtin>5061034767234</g:gtin>
-<g:mpn>RHI330-SCT</g:mpn>
 </item>
 <item>
 <g:id>KOSRHI330/SCT/S</g:id>
-<g:title>Kosnic RHI330-SCT/S RHINE III 30W Floodlight with Sensor</g:title>
-<g:description>The Rhine LED Floodlights make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI330-SCT/S</g:description>
+<g:title>Kosnic RHINE III 30W Floodlight with Sensor</g:title>
+<g:description>The Rhine LED 30w Floodlight with Sensor make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. This model features a PIR Sensor which will activate based on movement. Product Code: RHI330-SCT/S</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=KOSRHI330/SCT/S</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/K/KOSRHI330~SCT~S.webp</g:image_link>
 <g:price>17.47 GBP</g:price>
@@ -7107,12 +6993,11 @@
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
 <g:gtin>5061034767241</g:gtin>
-<g:mpn>RHI330-SCT/S</g:mpn>
 </item>
 <item>
 <g:id>KOSRHI350/SCT</g:id>
-<g:title>Kosnic RHI350-SCT RHINE III 50W Floodlight</g:title>
-<g:description>The Rhine LED Floodlights make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI350-SCT</g:description>
+<g:title>Kosnic RHINE III 50W Floodlight</g:title>
+<g:description>The Rhine LED 50w Floodlight make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI350-SCT</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=KOSRHI350/SCT</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/K/KOSRHI350~SCT.webp</g:image_link>
 <g:price>14.65 GBP</g:price>
@@ -7120,12 +7005,11 @@
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
 <g:gtin>5061034767258</g:gtin>
-<g:mpn>RHI350-SCT</g:mpn>
 </item>
 <item>
 <g:id>KOSRHI350/SCT/S</g:id>
-<g:title>Kosnic RHI350-SCT/S RHINE III 50W Floodlight with Sensor</g:title>
-<g:description>The Rhine LED Floodlights make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. Product Code: RHI350-SCT/S</g:description>
+<g:title>Kosnic RHINE III 50W Floodlight with Sensor</g:title>
+<g:description>The Rhine LED 50w Floodlight with Sensor make ideal replacements for energy-hungry halogen lighting. Suitable for outdoor use, the range offers affordable products with high lumen efficiency and a long life. Plus, its CCT switchable capabilities mean you can change the ambience for your environment. This model features a PIR Sensor which will activate based on movement. Product Code: RHI350-SCT/S</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=KOSRHI350/SCT/S</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/K/KOSRHI350~SCT~S.webp</g:image_link>
 <g:price>21.80 GBP</g:price>
@@ -7133,7 +7017,6 @@
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
 <g:gtin>5061034767265</g:gtin>
-<g:mpn>RHI350-SCT/S</g:mpn>
 </item>
 <item>
 <g:id>KOSRMWDC</g:id>
@@ -7684,18 +7567,6 @@
 <g:mpn>K2183</g:mpn>
 </item>
 <item>
-<g:id>MKK2745</g:id>
-<g:title>MK K2745 Logic Plus 13A 2 Gang Switched Socket with 1x Type A &amp; C USB Outlet White</g:title>
-<g:description>Logic Plus 13A USB sockets are a extensive range of sockets offering additional USB charging capability. Options available to charge Type A and C devices at up to 2A and 3A respectively. They are manufactured from urea formaldehyde, a high grade thermoset material with inherent antibacterial and antiviral properties. All the sockets have double pole switching as standard. Products are suitable for a wide array of applications, as they are available in 1 Gang and 2 Gang form factors, all with dual earth capability. Designed for total quality, safety and reliability, the sockets boast a wealth of features that make them one of the safest and most advanced sockets available. Features &amp; Benefits: If two devices are connected to USB outlets the total rated current is divided between the two outlets. If the total charging current exceeds the rated power then the device will enter a current limiting safety mode. Electronically protected against an overload or short circuit on either USB outlet. 3 Pin "child resistant" safety shutter stystem on 13A socket outlets inhibits access to power unless all 3 pins of a BS plug are inserted. Manufactured from urea formaldehyde, a high grade thermoset material with inherent antibacterial and antiviral properties. Independently tested to the latest standard ISO 22196:2011, results show kill rates of over 99.99%. MK offers the most widely tested wiring devices available. Backed out, in line terminals for easier installation. Double Pole Switching with additional electrical safety from the neutral pole contact "makes first" &amp; "breaks last" after the live contact. Dual earth terminals for added user safety. Printed terminal markings on grey rear moulding for clearer identification. 5 year guarantee.</g:description>
-<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MKK2745</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MKK2745.webp</g:image_link>
-<g:price>25.26 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
-<g:condition>new</g:condition>
-<g:brand>MK Electric</g:brand>
-<g:mpn>K2745</g:mpn>
-</item>
-<item>
 <g:id>MKK2746</g:id>
 <g:title>MK K2746 Logic Plus 13A DP 2 Gang Switched Socket with Outboard Rockers White</g:title>
 <g:description>MK K2746 Logic Plus 13A DP 2 Gang Switched Socket with Outboard Rockers White</g:description>
@@ -7721,8 +7592,8 @@
 </item>
 <item>
 <g:id>MKK2746GRA</g:id>
-<g:title>MK K2746GRA Logic Plus 13A DP 2 Gang Switched Socket with White Outboard Rockers White</g:title>
-<g:description>MK K2746GRA Logic Plus 13A DP 2 Gang Switched Socket with White Outboard Rockers White</g:description>
+<g:title>MK K2746GRA Logic Plus 13A DP 2 Gang Switched Socket with White Outboard Rockers Graphite</g:title>
+<g:description>The MK Logic Plus K2746GRA is a 13A, 2-gang double pole switched socket featuring a graphite finish with high-contrast white outboard rockers. Complies with BS 1363 Part 2 and BS 7671 IET Wiring Regulations</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MKK2746GRA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MKK2746GRA.webp</g:image_link>
 <g:price>8.86 GBP</g:price>
@@ -7770,7 +7641,7 @@
 <item>
 <g:id>MKK2757GRA</g:id>
 <g:title>MK K2757GRA Logic Plus 13A DP 1 Gang Switched Socket with White Rocker Graphite</g:title>
-<g:description>MK K2757GRA Logic Plus 13A DP 1 Gang Switched Socket with White Rocker Graphite</g:description>
+<g:description>The MK K2757GRA is a 13-amp, 1-gang, double-pole switched socket from the MK Logic Plus range.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MKK2757GRA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MKK2757GRA.webp</g:image_link>
 <g:price>4.24 GBP</g:price>
@@ -7778,6 +7649,30 @@
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
 <g:mpn>K2757GRA</g:mpn>
+</item>
+<item>
+<g:id>MKK2766</g:id>
+<g:title>MK K2766 Logic Plus 13A 2 Gang Switched Socket with Type A &amp; C USB Outlet White</g:title>
+<g:description>Logic Plus 13A USB sockets are a extensive range of sockets offering additional USB charging capability. Options available to charge Type A and C devices at up to 2A and 3A respectively. They are manufactured from urea formaldehyde, a high grade thermoset material with inherent antibacterial and antiviral properties. All the sockets have double pole switching as standard. Products are suitable for a wide array of applications, as they are available in 1 Gang and 2 Gang form factors, all with dual earth capability. Designed for total quality, safety and reliability, the sockets boast a wealth of features that make them one of the safest and most advanced sockets available. Features &amp; Benefits: If two devices are connected to USB outlets the total rated current is divided between the two outlets. If the total charging current exceeds the rated power then the device will enter a current limiting safety mode. Electronically protected against an overload or short circuit on either USB outlet. 3 Pin "child resistant" safety shutter stystem on 13A socket outlets inhibits access to power unless all 3 pins of a BS plug are inserted. Manufactured from urea formaldehyde, a high grade thermoset material with inherent antibacterial and antiviral properties. Independently tested to the latest standard ISO 22196:2011, results show kill rates of over 99.99%. MK offers the most widely tested wiring devices available. Backed out, in line terminals for easier installation. Double Pole Switching with additional electrical safety from the neutral pole contact "makes first" &amp; "breaks last" after the live contact. Dual earth terminals for added user safety. Printed terminal markings on grey rear moulding for clearer identification. 5 year guarantee.</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MKK2766</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MKK2766.webp</g:image_link>
+<g:price>31.00 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>MK Electric</g:brand>
+<g:mpn>K2766</g:mpn>
+</item>
+<item>
+<g:id>MKK2766GRA</g:id>
+<g:title>MK K2766GRA Logic Plus 13A 2 Gang Switched Socket with Type A &amp; C USB Outlet Graphite</g:title>
+<g:description>MK Logic Plus 13A 2 Gang Switched Socket with Type A / Type C Fast Charge USB Outlets finished in graphite grey. Delivers up to 30W Power Delivery (PD) using GaN technology (charges compatible mobile devices to roughly 50% in 30 minutes). Backed by a 5-year manufacturer guarantee from Honeywell Building Automation (MK Electric).</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MKK2766GRA</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MKK2766GRA.webp</g:image_link>
+<g:price>31.00 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>MK Electric</g:brand>
+<g:mpn>K2766GRA</g:mpn>
 </item>
 <item>
 <g:id>MKK2946</g:id>
@@ -7818,7 +7713,7 @@
 <item>
 <g:id>MKK330GRA</g:id>
 <g:title>MK K330GRA Logic Plus 13A DP Switched Fused Spur with Flex Outlet Graphite</g:title>
-<g:description>MK K330GRA Logic Plus 13A DP Switched Fused Spur with Flex Outlet Graphite</g:description>
+<g:description>The MK K330GRA is a 1-gang, 13-amp, double-pole switched fused connection unit with a base flex outlet from the MK Logic Plus range, finished in graphite.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MKK330GRA</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MKK330GRA.webp</g:image_link>
 <g:price>9.71 GBP</g:price>
@@ -8815,7 +8710,7 @@
 <item>
 <g:id>MTCR6B</g:id>
 <g:title>Marshall Tufflex CR6B 20mm PVC Round Conduit Heavy Gauge Black 3m Length</g:title>
-<g:description>Marshall Tufflex CR6B 20mm PVC Round Conduit Heavy Gauge Black 3m Length</g:description>
+<g:description>Black 3m length of 20mm super high impact heavy gauge round PVC-U conduit that is manufactured from 20% recycled PVC. Available in both black and white colour options it meets the requirements for BS4607 and BS EN 61386 where applicable.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MTCR6B</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MTCR6B.webp</g:image_link>
 <g:price>6.11 GBP</g:price>
@@ -9462,7 +9357,7 @@
 <item>
 <g:id>MTMSSB92</g:id>
 <g:title>Marshall Tufflex MSSB92 2 Gang 32mm Square Corners Surface Box</g:title>
-<g:description>Marshall Tufflex MSSB92 2 Gang 32mm Square Corners Surface Box</g:description>
+<g:description>The MSSB92 32mm PVC Pattress Box 2 Gang Square Corners. Marshall Tufflex has updated their Pattress Boxes to a Universal design. MSSB92 is designed to suit a large variety of installation requirements, featuring 6 customisable knockouts, 3 for 20mm round conduit and 3 for trunking (25x16mm), allowing fast, stress free installation for a number of configurations allowing installation from the left, right and/or centre.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MTMSSB92</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MTMSSB92.webp</g:image_link>
 <g:price>5.71 GBP</g:price>
@@ -9534,7 +9429,7 @@
 <item>
 <g:id>MTMTRS50</g:id>
 <g:title>Marshall Tufflex MTRS50 50mm x 50mm PVC Maxi Trunking White (3m Length)</g:title>
-<g:description>Marshall Tufflex MTRS50 50mm x 50mm PVC Maxi Trunking White (3m Length)</g:description>
+<g:description>The Marshall-Tufflex MTRS50 is a 50mm x 50mm x 3m PVC-U maxi trunking length designed as a mid-size feeder and distribution system for power, data, and cabling.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MTMTRS50</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MTMTRS50.webp</g:image_link>
 <g:price>33.92 GBP</g:price>
@@ -10426,7 +10321,7 @@
 <item>
 <g:id>PCH102</g:id>
 <g:title>Armeg PCH102 102mm Premium Cobalt Holesaw</g:title>
-<g:description>Armeg PCH102 102mm Premium Cobalt Holesaw</g:description>
+<g:description>The Armeg PCH102 is a 102mm Vari-Pitch holesaw. It is made from cobalt and is suitable of cutting through steel, aluminium, iron, brass and wood.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=PCH102</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/P/PCH102.webp</g:image_link>
 <g:price>19.06 GBP</g:price>
@@ -10480,7 +10375,7 @@
 <g:price>348.92 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060531483357</g:gtin>
 </item>
 <item>
 <g:id>PEVAPEX-7S-T</g:id>
@@ -10491,7 +10386,7 @@
 <g:price>481.45 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060531483371</g:gtin>
 </item>
 <item>
 <g:id>PEVCURV-HP110M8</g:id>
@@ -10502,7 +10397,7 @@
 <g:price>1253.06 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060531483883</g:gtin>
 </item>
 <item>
 <g:id>PEVCURV-HP150M8</g:id>
@@ -10513,7 +10408,7 @@
 <g:price>1346.71 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060531483890</g:gtin>
 </item>
 <item>
 <g:id>PEVCURV-HP200M7</g:id>
@@ -10524,7 +10419,7 @@
 <g:price>1656.00 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060531484033</g:gtin>
 </item>
 <item>
 <g:id>PEVCURV-HP250M7</g:id>
@@ -10535,7 +10430,7 @@
 <g:price>1771.20 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060531483913</g:gtin>
 </item>
 <item>
 <g:id>PEVCURV-HP80M8</g:id>
@@ -10546,7 +10441,7 @@
 <g:price>1187.34 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060531484026</g:gtin>
 </item>
 <item>
 <g:id>PIRAP7RED</g:id>
@@ -10661,7 +10556,7 @@
 <g:title>Hager Klik CR64AX/2.0 6A 4 Pin Plug In Ceiling Rose c/w 4 Core 0.75mm 2m PVC Lead</g:title>
 <g:description>Hager Klik CR64AX/2.0 6A 4 Pin Plug In Ceiling Rose c/w 4 Core 0.75mm 2m PVC Lead</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=ROCCR64AX/2</g:link>
-<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/R/ROCCR64AX~2_Zoom.jpg</g:image_link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/R/ROCCR64AX~2.webp</g:image_link>
 <g:price>9.34 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
@@ -11350,6 +11245,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135087678</g:gtin>
 <g:mpn>370328</g:mpn>
 </item>
 <item>
@@ -11362,6 +11258,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135326432</g:gtin>
 <g:mpn>370329</g:mpn>
 </item>
 <item>
@@ -11374,6 +11271,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135087708</g:gtin>
 <g:mpn>370330</g:mpn>
 </item>
 <item>
@@ -11386,6 +11284,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135087821</g:gtin>
 <g:mpn>372004</g:mpn>
 </item>
 <item>
@@ -11398,7 +11297,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5015135011574</g:gtin>
 </item>
 <item>
 <g:id>VEN372278</g:id>
@@ -11422,6 +11321,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135035693</g:gtin>
 <g:mpn>403569</g:mpn>
 </item>
 <item>
@@ -11434,6 +11334,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135035709</g:gtin>
 <g:mpn>403570</g:mpn>
 </item>
 <item>
@@ -11458,6 +11359,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135122591</g:gtin>
 <g:mpn>412259</g:mpn>
 </item>
 <item>
@@ -11494,6 +11396,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135122621</g:gtin>
 <g:mpn>412262</g:mpn>
 </item>
 <item>
@@ -11506,6 +11409,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135149420</g:gtin>
 <g:mpn>414942</g:mpn>
 </item>
 <item>
@@ -11518,6 +11422,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135000332</g:gtin>
 <g:mpn>416472/</g:mpn>
 </item>
 <item>
@@ -11530,6 +11435,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135000349</g:gtin>
 <g:mpn>416473/</g:mpn>
 </item>
 <item>
@@ -11542,6 +11448,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135000356</g:gtin>
 <g:mpn>416474/</g:mpn>
 </item>
 <item>
@@ -11554,6 +11461,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135009878</g:gtin>
 <g:mpn>416841</g:mpn>
 </item>
 <item>
@@ -11566,7 +11474,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5015135011598</g:gtin>
 </item>
 <item>
 <g:id>VEN428633BDW</g:id>
@@ -11578,7 +11486,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5015135011581</g:gtin>
 </item>
 <item>
 <g:id>VEN436532</g:id>
@@ -11590,6 +11498,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135494452</g:gtin>
 <g:mpn>436532</g:mpn>
 </item>
 <item>
@@ -11602,6 +11511,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135494650</g:gtin>
 <g:mpn>436533</g:mpn>
 </item>
 <item>
@@ -11626,6 +11536,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135790820</g:gtin>
 <g:mpn>446658B</g:mpn>
 </item>
 <item>
@@ -11638,6 +11549,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135010324</g:gtin>
 <g:mpn>473848</g:mpn>
 </item>
 <item>
@@ -11650,6 +11562,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135010331</g:gtin>
 <g:mpn>473849</g:mpn>
 </item>
 <item>
@@ -11674,6 +11587,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135781637</g:gtin>
 <g:mpn>478163</g:mpn>
 </item>
 <item>
@@ -11686,6 +11600,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135790912</g:gtin>
 <g:mpn>479091</g:mpn>
 </item>
 <item>
@@ -11698,6 +11613,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135953355</g:gtin>
 <g:mpn>495335</g:mpn>
 </item>
 <item>
@@ -11710,6 +11626,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135953362</g:gtin>
 <g:mpn>495336</g:mpn>
 </item>
 <item>
@@ -11734,7 +11651,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5015135118297</g:gtin>
 </item>
 <item>
 <g:id>VEN498096</g:id>
@@ -11770,6 +11687,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135088088</g:gtin>
 <g:mpn>5108250</g:mpn>
 </item>
 <item>
@@ -11782,7 +11700,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5015135011604</g:gtin>
 </item>
 <item>
 <g:id>VEN561707</g:id>
@@ -11794,12 +11712,13 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135623555</g:gtin>
 <g:mpn>561707</g:mpn>
 </item>
 <item>
 <g:id>WAG2212411</g:id>
 <g:title>Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)</g:title>
-<g:description>Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)</g:description>
+<g:description>The WAGO 221-2411 is a compact, 2-conductor inline splicing connector with a tool-free lever mechanism. It's design is slim, with a transparent housing and an orange operating lever that lets you visually check if the conductor is seated properly. It can be used free-hanging or snapped into optional multi-pole mounting carriers for fixed installations.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WAG2212411</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WAG2212411.webp</g:image_link>
 <g:price>20.76 GBP</g:price>
@@ -11811,7 +11730,7 @@
 <item>
 <g:id>WAG221412</g:id>
 <g:title>Wago 221-412 2 Way Connector 4mm Terminal Block (Pack of 100)</g:title>
-<g:description>Wago 221-412 2 Way Connector 4mm Terminal Block (Pack of 100)</g:description>
+<g:description>The WAGO 221-412 is a compact 2-way lever-operated splicing connector designed for fast, tool-free electrical wire connections. With it's transparent housing it allows you to visually inspect the wire insertion depth and stripped length. Around 40% smaller than older generation models, saving valuable space in tight junction boxes or enclosures.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WAG221412</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WAG221412.webp</g:image_link>
 <g:price>25.00 GBP</g:price>
@@ -11823,7 +11742,7 @@
 <item>
 <g:id>WAG221413</g:id>
 <g:title>Wago 221-413 3 Way Connector 4mm Terminal Block (Pack of 50)</g:title>
-<g:description>Wago 221-413 3 Way Connector 4mm Terminal Block (Pack of 50)</g:description>
+<g:description>The Wago 221-413 is a 3-conductor compact lever-operated splicing connector designed for solid, stranded, and fine-stranded electrical cables up to 4 mm²</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WAG221413</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WAG221413.webp</g:image_link>
 <g:price>14.00 GBP</g:price>
@@ -11835,7 +11754,7 @@
 <item>
 <g:id>WAG221415</g:id>
 <g:title>Wago 221-415 5 Way Connector (Pack of 25)</g:title>
-<g:description>Wago 221-415 5 Way Connector (Pack of 25)</g:description>
+<g:description>The Wago 221-415 is a 5-conductor compact lever-operated splicing connector designed for fast, tool-free electrical wire termination</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WAG221415</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WAG221415.webp</g:image_link>
 <g:price>11.75 GBP</g:price>
@@ -11847,7 +11766,7 @@
 <item>
 <g:id>WAG221613</g:id>
 <g:title>Wago 221-613 3 Way Connector 6mm Terminal Block (Pack 30)</g:title>
-<g:description>Wago 221-613 3 Way Connector 6mm Terminal Block (Pack 30)</g:description>
+<g:description>The Wago 221-613 is a 3-conductor compact splicing connector designed for electrical wires up to 6 mm².</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WAG221613</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WAG221613.webp</g:image_link>
 <g:price>19.20 GBP</g:price>
@@ -11859,7 +11778,7 @@
 <item>
 <g:id>WAG221615</g:id>
 <g:title>Wago 221-615 5 Way Connector 6mm Terminal Block (Pack 15)</g:title>
-<g:description>Wago 221-615 5 Way Connector 6mm Terminal Block (Pack 15)</g:description>
+<g:description>The WAGO 221-615 Splicing Connector is a compact 5-way wire connector designed for all conductor types up to 6 mm².</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WAG221615</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WAG221615.webp</g:image_link>
 <g:price>16.20 GBP</g:price>
@@ -11947,7 +11866,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WF16.0X160</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WF16.0X160.webp</g:image_link>
 <g:price>3.12 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -12206,7 +12125,7 @@
 <item>
 <g:id>WMD64010061</g:id>
 <g:title>Pemsa 64010061 Reinforced Joint Clamp Silver (50)</g:title>
-<g:description>Pemsa 64010061 Reinforced Joint Clamp Silver (50)</g:description>
+<g:description>Steel component for joining sections of Rejiband trays consisting of a captive screw, connecting plate and a nut. With EZ protection system, EZ3 finish. Thanks to its construction, it greatly simplifies the joint between sections and ensures the greater mechanical strength of the joint between trays, optimizing the possible maximum load values. It is available in various Protection Systems.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WMD64010061</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WMD64010061.webp</g:image_link>
 <g:price>36.70 GBP</g:price>
@@ -12541,8 +12460,8 @@
 </item>
 <item>
 <g:id>WYLNM1406L</g:id>
-<g:title>Wylex NM1406L 14 Way Consumer Unit Main Switch 100A</g:title>
-<g:description>Wylex NM1406L 14 Way Consumer Unit Main Switch 100A</g:description>
+<g:title>Wylex NM1406L 14 Way Consumer Unit Main Switch 100A DP</g:title>
+<g:description>The Wylex NM1406L is a 14-way consumer unit, which includes a 100A main switch with twin line and neutral supply terminals and a 100A fixed busbar assembly.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WYLNM1406L</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WYLNM1406L.webp</g:image_link>
 <g:price>43.20 GBP</g:price>
@@ -12661,8 +12580,8 @@
 </item>
 <item>
 <g:id>YMSP0600L</g:id>
-<g:title>Armeg 6mm HSS Drill Bit</g:title>
-<g:description>Armeg 6mm HSS Drill Bit</g:description>
+<g:title>Armeg 6mm HSS Drill Bit YM0600L</g:title>
+<g:description>The Armeg YM0600L is a 6mm HSS roll-forged jobber drill bit. It is 93mm in length and can be used on steel, wood and plastics.</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=YMSP0600L</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/Y/YMSP0600L.webp</g:image_link>
 <g:price>2.03 GBP</g:price>
