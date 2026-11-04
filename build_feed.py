@@ -26,6 +26,13 @@ GTINS = {}
 if os.path.exists(GTIN_FILE):
     with open(GTIN_FILE, newline="") as f:
         GTINS = {r["id"].strip(): r["gtin"].strip() for r in csv.DictReader(f) if r.get("gtin")}
+# Shopping title/brand overrides by product code (feed only; the shop keeps its MACE title).
+# Facts from the product page or manufacturer datasheet only. Delete a row to revert.
+TITLE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "titles.csv")
+TITLES = {}
+if os.path.exists(TITLE_FILE):
+    with open(TITLE_FILE, newline="") as f:
+        TITLES = {r["id"].strip(): r for r in csv.DictReader(f) if r.get("title")}
 # Cable etc. sold by the metre or off a roll/drum has no unit barcode, and a pack barcode
 # would match the wrong product, so never send a GTIN for these.
 LOOSE_SALE = re.compile(r"\b(per\s*met(re|er)s?|metres?|meters?|/m|rolls?|drums?|reels?|coils?|cut to length|\d+\s*m)\b", re.I)
@@ -133,7 +140,7 @@ def item_xml(p):
     lines = [
         "<item>",
         f"<g:id>{escape(p['id'])}</g:id>",
-        f"<g:title>{escape(p['title'][:150])}</g:title>",
+        f"<g:title>{escape((TITLES.get(p['id'], {}).get('title') or p['title'])[:150])}</g:title>",
         f"<g:description>{escape(p['description'][:5000])}</g:description>",
         f"<g:link>{escape(p['link'])}</g:link>",
         f"<g:image_link>{escape(p['image'])}</g:image_link>",
@@ -141,8 +148,9 @@ def item_xml(p):
         f"<g:availability>{avail}</g:availability>",
         "<g:condition>new</g:condition>",
     ]
-    if p["brand"]:
-        lines.append(f"<g:brand>{escape(p['brand'])}</g:brand>")
+    brand = (TITLES.get(p["id"], {}).get("brand") or "").strip() or p["brand"]
+    if brand:
+        lines.append(f"<g:brand>{escape(brand)}</g:brand>")
     gtin = GTINS.get(p["id"])
     if gtin and LOOSE_SALE.search(p["title"]):
         gtin = None
