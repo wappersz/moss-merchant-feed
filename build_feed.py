@@ -50,7 +50,17 @@ BRANDS = {
     "Bussmann": "Bussmann", "Knightsbridge": "Knightsbridge", "Schneider": "Schneider Electric",
     "Ansell": "Ansell", "Collingwood": "Collingwood", "Ovia": "Ovia", "Scolmore": "Scolmore",
     "Greenbrook": "Greenbrook", "BG": "BG Electrical", "Fischer": "Fischer", "Rawlplug": "Rawlplug",
+    "ABB": "ABB", "Flex7": "Flex7", "Project": "Project EV", "Gripple": "Gripple", "CED": "CED",
 }
+# Two-word brand names, matched on the start of the product name.
+BRAND_PREFIXES = {"Flex 7 ": "Flex7", "D Line ": "D-Line", "Green Lighting ": "Green Lighting"}
+
+
+def brand_for(name):
+    for prefix, brand in BRAND_PREFIXES.items():
+        if name.startswith(prefix):
+            return brand
+    return BRANDS.get(name.split(" ")[0])
 
 
 def norm(s):
@@ -130,7 +140,7 @@ def parse(url):
         "image": d.get("image"),
         "price": off.get("price"),  # JSON-LD price is inc VAT (checked against page "inc VAT" price)
         "availability": (off.get("availability") or "").split("/")[-1],
-        "brand": BRANDS.get(name.split(" ")[0]) if name else None,
+        "brand": brand_for(name) if name else None,
         "mpn": find_mpn(code, name),
     }
 
