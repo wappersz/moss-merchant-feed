@@ -1,43 +1,43 @@
 id,price,availability,brand,title
-ABBDSE201MB10A30,50.47,,,"ABB Type B 1P+N 10A RCBO, Type A, 30mA DSE201 M B10 A30"
-ABBDSE201MB16A30,50.47,,,"ABB Type B 1P+N 16A RCBO, Type A, 30mA DSE201 M B16 A30"
-ABBDSE201MB20A30,50.47,,,"ABB Type B 1P+N 20A RCBO, Type A, 30mA DSE201 M B20 A30"
-ABBDSE201MB32A30,50.47,,,"ABB Type B 1P+N 32A RCBO, Type A, 30mA DSE201 M B32 A30"
-ABBDSE201MB40A30,52.48,,,"ABB Type B 1P+N 40A RCBO, Type A, 30mA DSE201 M B40 A30"
-ABBDSE201MB50A30,52.48,,,"ABB Type B 1P+N 50A RCBO, Type A, 30mADSE201 M B50 A30 - N Blue"
-ABBDSE201MB6A30,50.47,,,"ABB Type B 1P+N 6A RCBO, Type A, 30mA DSE201 M B06 A30"
-ABBDSE201MC10A30,50.47,,,"ABB Type C 1P+N 10A RCBO, Type A, 30mA DSE201 M C10 A30"
-ABBDSE201MC16A30,50.47,,,"ABB Type C 1P+N 16A RCBO, Type A, 30mA DSE201 M C16 A30"
-ABBDSE201MC20A30,50.47,,,"ABB Type C 1P+N 20A RCBO, Type A, 30mA DSE201 M C20 A30"
-ABBDSE201MC32A30,50.47,,,"ABB Type C 1P+N 32A RCBO, Type A, 30mA DSE201 M C32 A30"
-ABBDSE201MC32AC30,60.06,,,"ABB Type C 1P+N 32A RCBO, Type AC, 30mA DSE201 M C32 AC30 - N Blue"
-ABBDSE201MC40A30,52.48,,,"ABB Type C 1P+N 40A RCBO, Type A, 30mA DSE201 M C40 A30"
-ABBDSE201MC50A30,52.48,,,"ABB Type C 1P+N 50A RCBO, Type A, 30mA DSE201 M C50 A30"
-ABBDSE201MC6A30,50.47,,,"ABB Type C 1P+N 6A RCBO, Type A, 30mA DSE201 M C06 A30"
-ABBEPP1253P,73.48,,,ABB 125A 3 Pole Switch Disconnector Incomer Kit EPP-1253P
-ABBEPP1254P,133.26,,,ABB 125A 4 Pole Switch Disconnector Incomer Kit EPP-1254P
-ABBEPP1603P,316.38,,,ABB 160A TP Switch Disconnector Incomer Kit
-ABBEPP2503P,329.96,,,ABB 250A TP Switch Disconnector Incomer Kit
-ABBEPPE91,3.41,,,ABB Blanking Piece for Distribution Board
-ABBEPPMETMOD125B,407.66,,,ABB 125A Digital Multifunction Meter Pack Pulsed and Modbus MID
-ABBEPPSOULE,566.60,,,ABB 63A 4 Module 3 Pole and Neutral Type 2 Surge Protector Kit
-ABBEPPW102,76.51,,,ABB 2 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W102
-ABBEPPW104,81.86,,,ABB 4 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W104
-ABBEPPW108,91.63,,,ABB 8 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W108
-ABBEPPW112,101.35,,,ABB 12 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W112
-ABBEPPW116,115.01,,,ABB 16 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W116
-ABBEPPW120,136.45,,,ABB 20 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer
-ABBEPPW308,244.88,,,ABB 8 Way 250A TP+N Metalclad Distribution Board without Incomer
-ABBEPPW312,315.46,,,ABB 12 Way 250A TP+N Metal Clad Disbribution Board without Incomer
-ABBEPPW316,394.54,,,ABB 16 Way 250A TP+N Metal Clad Disbribution Board without Incomer
-ABBS201MB16,9.91,,,ABB S201M-B16 SP MCB B16A 10KA
-ABBS201MB63,11.47,,,ABB S201M-B63 SP MCB B63A 10KA
-ABBS201MC10,9.91,,,ABB S201M-C10 SP MCB C16A 10KA
-ABBS201MC63,11.48,,,ABB S201M-C63 SP MCB C63A 10KA
-ABBS201MD50,12.47,,,ABB S201M-D50 SP MCB D50A 10KA
-ABBS201MD63,12.47,,,ABB S201M-D63 SP MCB D63A 10KA
-ABBS203MB50,47.89,,,ABB S203M-B50 TP MCB B50A 10KA
-ABBS203MC40,45.60,,,ABB S203M-C40 TP MCB C40A 10KA
+ABBDSE201MB10A30,50.47,,ABB,"ABB Type B 1P+N 10A RCBO, Type A, 30mA DSE201 M B10 A30"
+ABBDSE201MB16A30,50.47,,ABB,"ABB Type B 1P+N 16A RCBO, Type A, 30mA DSE201 M B16 A30"
+ABBDSE201MB20A30,50.47,,ABB,"ABB Type B 1P+N 20A RCBO, Type A, 30mA DSE201 M B20 A30"
+ABBDSE201MB32A30,50.47,,ABB,"ABB Type B 1P+N 32A RCBO, Type A, 30mA DSE201 M B32 A30"
+ABBDSE201MB40A30,52.48,,ABB,"ABB Type B 1P+N 40A RCBO, Type A, 30mA DSE201 M B40 A30"
+ABBDSE201MB50A30,52.48,,ABB,"ABB Type B 1P+N 50A RCBO, Type A, 30mADSE201 M B50 A30 - N Blue"
+ABBDSE201MB6A30,50.47,,ABB,"ABB Type B 1P+N 6A RCBO, Type A, 30mA DSE201 M B06 A30"
+ABBDSE201MC10A30,50.47,,ABB,"ABB Type C 1P+N 10A RCBO, Type A, 30mA DSE201 M C10 A30"
+ABBDSE201MC16A30,50.47,,ABB,"ABB Type C 1P+N 16A RCBO, Type A, 30mA DSE201 M C16 A30"
+ABBDSE201MC20A30,50.47,,ABB,"ABB Type C 1P+N 20A RCBO, Type A, 30mA DSE201 M C20 A30"
+ABBDSE201MC32A30,50.47,,ABB,"ABB Type C 1P+N 32A RCBO, Type A, 30mA DSE201 M C32 A30"
+ABBDSE201MC32AC30,60.06,,ABB,"ABB Type C 1P+N 32A RCBO, Type AC, 30mA DSE201 M C32 AC30 - N Blue"
+ABBDSE201MC40A30,52.48,,ABB,"ABB Type C 1P+N 40A RCBO, Type A, 30mA DSE201 M C40 A30"
+ABBDSE201MC50A30,52.48,,ABB,"ABB Type C 1P+N 50A RCBO, Type A, 30mA DSE201 M C50 A30"
+ABBDSE201MC6A30,50.47,,ABB,"ABB Type C 1P+N 6A RCBO, Type A, 30mA DSE201 M C06 A30"
+ABBEPP1253P,73.48,,ABB,ABB 125A 3 Pole Switch Disconnector Incomer Kit EPP-1253P
+ABBEPP1254P,133.26,,ABB,ABB 125A 4 Pole Switch Disconnector Incomer Kit EPP-1254P
+ABBEPP1603P,316.38,,ABB,ABB 160A TP Switch Disconnector Incomer Kit
+ABBEPP2503P,329.96,,ABB,ABB 250A TP Switch Disconnector Incomer Kit
+ABBEPPE91,3.41,,ABB,ABB Blanking Piece for Distribution Board
+ABBEPPMETMOD125B,407.66,,ABB,ABB 125A Digital Multifunction Meter Pack Pulsed and Modbus MID
+ABBEPPSOULE,566.60,,ABB,ABB 63A 4 Module 3 Pole and Neutral Type 2 Surge Protector Kit
+ABBEPPW102,76.51,,ABB,ABB 2 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W102
+ABBEPPW104,81.86,,ABB,ABB 4 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W104
+ABBEPPW108,91.63,,ABB,ABB 8 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W108
+ABBEPPW112,101.35,,ABB,ABB 12 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W112
+ABBEPPW116,115.01,,ABB,ABB 16 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer EPP-W116
+ABBEPPW120,136.45,,ABB,ABB 20 Way 100A SP+N Type A Metal Clad Distribution Board with Incomer
+ABBEPPW308,244.88,,ABB,ABB 8 Way 250A TP+N Metalclad Distribution Board without Incomer
+ABBEPPW312,315.46,,ABB,ABB 12 Way 250A TP+N Metal Clad Disbribution Board without Incomer
+ABBEPPW316,394.54,,ABB,ABB 16 Way 250A TP+N Metal Clad Disbribution Board without Incomer
+ABBS201MB16,9.91,,ABB,ABB S201M-B16 SP MCB B16A 10KA
+ABBS201MB63,11.47,,ABB,ABB S201M-B63 SP MCB B63A 10KA
+ABBS201MC10,9.91,,ABB,ABB S201M-C10 SP MCB C16A 10KA
+ABBS201MC63,11.48,,ABB,ABB S201M-C63 SP MCB C63A 10KA
+ABBS201MD50,12.47,,ABB,ABB S201M-D50 SP MCB D50A 10KA
+ABBS201MD63,12.47,,ABB,ABB S201M-D63 SP MCB D63A 10KA
+ABBS203MB50,47.89,,ABB,ABB S203M-B50 TP MCB B50A 10KA
+ABBS203MC40,45.60,,ABB,ABB S203M-C40 TP MCB C40A 10KA
 ADPS20/10,46.70,InStock,Adaptaflex,Adaptaflex S20/10 20mm Steel Flexible Conduit Bare (10mtr) Reel
 ADPSP20/BL/10,56.20,InStock,Adaptaflex,Adaptaflex SP20/BL/10 20mm Black PVC Coated Metal Flexible Conduit (10mtr)
 ADPSP20/BL/25,130.75,InStock,Adaptaflex,Adaptaflex SP20/BL/25 20mm Black PVC Coated Metal Flexible Conduit (25mtr)
@@ -100,16 +100,16 @@ ALLAPA001/AL,9.20,InStock,All LED,ALL LED APA001/AL 2m Shallow Surface Profile w
 ALLAPA004/AL,9.20,InStock,All LED,ALL LED APA004/AL 2m Deep Surface Profile with Opal Diffuser Aluminium Finish
 ALLASPEED308/BK,9.29,InStock,All LED,ALL LED ASPEED308/BK SpeedLock308 Universal Floodlight Quick Install Bracket
 ALLASPKGU10A/BK,11.35,InStock,All LED,ALL LED ASPKGU10A/BK All LED Sabre2 IP65 GU10 Garden Spike Luminaire
-ALLAST010/COB/30/1,15.14,,All LED,ALL LED 1m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/30/2,24.17,,All LED,ALL LED 2m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/30/3,33.18,,All LED,ALL LED 3m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/30/4,42.20,,All LED,ALL LED 4m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/30/5,51.23,,All LED,ALL LED 5m 10w Warm White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/1,15.14,,All LED,ALL LED 1m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/2,24.17,,All LED,ALL LED 2m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/3,33.18,,All LED,ALL LED 3m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/4,42.20,,All LED,ALL LED 4m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
-ALLAST010/COB/40/5,51.23,,All LED,ALL LED 5m 10w Cool White COB Dotless LED Strip 24V – Pre-Wired with 2m Cable
+ALLAST010/COB/30/1,15.14,,All LED,"ALL LED 1m Warm White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/30/2,24.17,,All LED,"ALL LED 2m Warm White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/30/3,33.18,,All LED,"ALL LED 3m Warm White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/30/4,42.20,,All LED,"ALL LED 4m Warm White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/30/5,51.23,,All LED,"ALL LED 5m Warm White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/40/1,15.14,,All LED,"ALL LED 1m Cool White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/40/2,24.17,,All LED,"ALL LED 2m Cool White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/40/3,33.18,,All LED,"ALL LED 3m Cool White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/40/4,42.20,,All LED,"ALL LED 4m Cool White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
+ALLAST010/COB/40/5,51.23,,All LED,"ALL LED 5m Cool White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
 ALLAWLGU/AL/022,15.96,InStock,All LED,ALL LED AWLGU/AL/022 Tubular GU10 Brushed Aluminium IP65 Bi-Directional Wall Light
 ALLAWLGU/BK/022,15.32,InStock,All LED,ALL LED AWLGU/AL/022 Tubular GU10 Black Powder Coated IP65 Bi-Directional Wall Light
 APP615,0.49,InStock,Metpro,Metpro APP615 1 Gang 35mm Metal Back Box
@@ -154,7 +154,7 @@ CAT5ELSF,85.32,InStock,,CAT5ELSF CAT5E LSZOH UTP Cable 305M
 CAT6LSF,147.06,InStock,,CAT6LSF LSZH UTP Cable 305M
 CB1,17.46,InStock,Deligo,Deligo CB1 100A Single Pole Connector Block
 CB2,13.06,InStock,Deligo,Deligo CB2 100A Double Pole Connector Block
-CEDHC2D,20.03,InStock,,CED HC2D Convector Heater 2kW with Thermostat
+CEDHC2D,20.03,InStock,CED,CED HC2D Convector Heater 2kW with Thermostat
 CHAIN,12.30,InStock,Deligo,Deligo CHAIN Jack Chain Galv 10mtrs
 CHD16-29HEX,4.52,InStock,Armeg,Armeg 9.5mm Hexagon Shank Drive Arbor
 CHD32-64HEX,13.44,InStock,Armeg,Armeg 13mm Hexagon Shank Drive Arbor
@@ -196,8 +196,8 @@ CLKCMA035,1.99,InStock,Click,Click 13A 1 Gang Switched Socket White CMA035
 CLKCMA036,2.33,InStock,Click,Click 13A 2 Gang Switched Socket White CMA036
 CLKCMA060,0.52,InStock,Click,Click 1 Gang Blank Plate White CMA060
 CLKCMA061,0.70,InStock,Click,Click 2 Gang Blank Plate White CMA061
-CLKCMA081,0.72,InStock,Click,Click 1 Gang 25mm Pattress White CMA081
-CLKCMA082,1.20,InStock,Click,Click 2 Gang 25mm Pattress CMA082
+CLKCMA081,0.66,InStock,Click,Click 1 Gang 25mm Pattress White CMA081
+CLKCMA082,1.10,InStock,Click,Click 2 Gang 25mm Pattress CMA082
 CLKCMA100,17.52,InStock,Click,Click Dual Voltage Shaver Socket Outlet - 115/230V CMA100
 CLKCMA201,5.24,InStock,Click,Click 45A 1 Gang Cooker Switch with Neon White CMA201
 CLKCMA205,8.08,InStock,Click,Click 45A DP Cooker Control Unit with Neon & Red Rocker White CMA205
@@ -209,7 +209,7 @@ CLKCMA651,3.28,InStock,Click,Click 13A DP Switched Fused Spur White CMA651
 CLKCMA652,3.53,InStock,Click,Click 13A Switched Spur with Neon White CMA652
 CLKCMA786,15.91,InStock,Click,Click 2 Gang 13A Type A & C USB Socket 4.2A CMA786
 CLKFU023,2.58,InStock,Click,Click FU023 3A Cartridge Fuse
-CLKPA320,0.97,InStock,Click,Click PA320 Mains 13A Plug Top
+CLKPA320,0.89,InStock,Click,Click PA320 Mains 13A Plug Top
 CLKPRC009,1.64,InStock,Click,Click PRC009 10A 2 Way Ceiling Switch White
 CLKPRC015,1.57,InStock,Click,Click PRC015 Batten Lampholder BC with Straight Skirt White
 CLKPRC031,1.66,InStock,Click,Click PRC031 6 Inch Pendant White
@@ -242,7 +242,7 @@ CSS30A,2.64,InStock,Unicrimp,Unicrimp QTB30 30A 12 Way Strip Connector (Sold in 
 CSS5A,0.10,InStock,Unicrimp,Unicrimp QTB5 5A Strip Connectors (Sold in 1's)
 CWKIT20,7.73,InStock,Deligo,Deligo CWKIT20S Brass Gland Pack 20mm (2)
 CWKIT20S,5.81,InStock,Deligo,Deligo CWKIT20S Brass Gland Pack 20mm (2) (Small)
-CWKIT25,14.39,InStock,Deligo,Deligo CWKIT25 Brass Gland Pack 25mm (2)
+CWKIT25,14.39,OutOfStock,Deligo,Deligo CWKIT25 Brass Gland Pack 25mm (2)
 CWKIT32,22.55,InStock,Deligo,Deligo CWKIT32 Brass Gland Pack 32mm (2)
 DANAUTPIRSP,19.84,InStock,,Danlers AUTPIRSP Surface Mounted Square PIR 360D
 DCCL10G,4.73,InStock,Conlok,Conlok CL10G 25mm Angle Box
@@ -328,7 +328,7 @@ DETS1246,2.93,InStock,Deta,Deta S1246 10A 1 Gang Intermediate Switch White
 DETS1247,2.78,InStock,Deta,Deta S1247 10A Tripe Pole Isolator White
 DETS1264,1.92,InStock,Deta,Deta S1264 Coax Outlet 1 Gang White
 DETS1268,1.90,InStock,Deta,Deta S1268 Coax Socket 1 Gang Non Isolated White
-DETS1288,14.21,InStock,Deta,Deta S1288 13A 2 Gang DP Socket with 2x Type A & 1x Type C USB White
+DETS1288,14.21,InStock,Deta,Deta S1288 13A 2 Gang Switched Socket with 2x Type A and 1x Type C USB White
 DETS1300,5.57,InStock,Deta,Deta S1300 45A DP 1 Gang Switch with Red Rocker White
 DETS1301,6.18,InStock,Deta,Deta S1301 45A DP 2 Gang Vertical Switch with Red Rocker White
 DETS1302,7.25,InStock,Deta,Deta S1302 45A DP Colloer Control Unit with Red Rocker White
@@ -368,9 +368,9 @@ DETV1280,1.68,InStock,Deta,Deta V1280 T2 6 Inch Flex Pendant Set
 DETV1289,3.25,InStock,Deta,Deta V1289 BC Batten Lampholder
 DETV1297,1.48,InStock,Deta,Deta V1297 10A 2 Way Ceiling Pull Switch
 DETV1298,7.10,InStock,Deta,Deta V1298 45A Ceiling Pull Switch
-DLISAFE/D30,20.57,InStock,,D Line DLISAFE/30 D-Line Safe-D Fire Rated Clips 25mm (Pack of 100)
-DLISAFE/D40,17.34,InStock,,D Line DLISAFE/40 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)
-DLISAFE/D50,21.29,InStock,,D Line DLISAFE/50 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)
+DLISAFE/D30,20.57,InStock,D-Line,D Line DLISAFE/30 D-Line Safe-D Fire Rated Clips 25mm (Pack of 100)
+DLISAFE/D40,17.34,InStock,D-Line,D Line DLISAFE/40 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)
+DLISAFE/D50,21.29,InStock,D-Line,D Line DLISAFE/50 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)
 EARTHROD,3.58,InStock,,Earth Rod Copper 3/8 Inch 4ft ER3/8
 EARTHROD5/8,7.28,InStock,,Earth Rod Copper 5/8 Inch 4ft ER58
 EARTHRODCLAMP,2.51,InStock,Deligo,Deligo ERC3/8 Brass Machined Earth Rod Clamp 3/8 inch
@@ -383,20 +383,20 @@ EXDMN1500,6.50,InStock,Duracell,Duracell Procell AA Batteries (Pack of 10)
 EXDMN1604,2.49,OutOfStock,Duracell,Duracell Procell 9v Battery
 EXDMN2400,6.50,InStock,Duracell,Duracell Procell AAA Batteries (Pack of 10)
 FKISS4,19.25,InStock,Deligo,Deligo FKISS Photocell Kit
-FLXFP3W,3.61,OutOfStock,,Flex 7 FP3/W 3 Pin White Plug 16A 230V
-FLXFP4B,4.22,OutOfStock,,Flex 7 FP4/B 3 Pin Black Plug 16A 230V
-FLXFP4R,4.22,OutOfStock,,Flex 7 FP4/R 4 Pin Red Plug 16A 230V
-FLXFP7B,9.29,InStock,,Flex 7 FP7/B 7 Pin Black Plug 16A 230V
-FLXFP7R,9.29,InStock,,Flex 7 FP7/R 7 Pin Red Plug 16A 230V
-FLXFP7W,9.29,InStock,,Flex 7 FP7/W 7 Pin White Plug 16A 230V
-FLXFSU04,47.21,InStock,,Flex7 FSU04 Starter 4 Way eZeBox
-FLXFSU06,61.14,InStock,,Flex7 FSU06 Starter 6 Way eZeBox
-FLXFTS03W,3.73,InStock,,Flex 7 FTS03/W 3 Pole White Socket Outlet 16A 230V
-FLXFTS04B,4.42,InStock,,Flex 7 FTS04/B 4 Pole Black Socket Outlet 2x4.0mm
-FLXFTS04R,4.42,InStock,,Flex 7 FTS04/R 4 Pole Red Socket Outlet 2x4.0mm
-FLXFTS04W,4.42,InStock,,Flex 7 FTS04/W 4 Pole White Socket Outlet 2x4.0mm
-FLXFTS07R,10.86,InStock,,Flex 7 FTS07/R 7 Pole Red Socket Outlet 2x4.0mm
-FLXFTS07W,10.86,InStock,,Flex 7 FTS07/W 7 Pole White Socket Outlet 2x4.0mm
+FLXFP3W,3.61,InStock,Flex7,Flex 7 FP3/W 3 Pin White Plug 16A 230V
+FLXFP4B,4.22,InStock,Flex7,Flex 7 FP4/B 3 Pin Black Plug 16A 230V
+FLXFP4R,4.22,InStock,Flex7,Flex 7 FP4/R 4 Pin Red Plug 16A 230V
+FLXFP7B,9.29,InStock,Flex7,Flex 7 FP7/B 7 Pin Black Plug 16A 230V
+FLXFP7R,9.29,InStock,Flex7,Flex 7 FP7/R 7 Pin Red Plug 16A 230V
+FLXFP7W,9.29,InStock,Flex7,Flex 7 FP7/W 7 Pin White Plug 16A 230V
+FLXFSU04,47.21,InStock,Flex7,Flex7 FSU04 Starter 4 Way eZeBox
+FLXFSU06,61.14,InStock,Flex7,Flex7 FSU06 Starter 6 Way eZeBox
+FLXFTS03W,3.73,InStock,Flex7,Flex 7 FTS03/W 3 Pole White Socket Outlet 16A 230V
+FLXFTS04B,4.42,InStock,Flex7,Flex 7 FTS04/B 4 Pole Black Socket Outlet 2x4.0mm
+FLXFTS04R,4.42,InStock,Flex7,Flex 7 FTS04/R 4 Pole Red Socket Outlet 2x4.0mm
+FLXFTS04W,4.42,InStock,Flex7,Flex 7 FTS04/W 4 Pole White Socket Outlet 2x4.0mm
+FLXFTS07R,10.86,InStock,Flex7,Flex 7 FTS07/R 7 Pole Red Socket Outlet 2x4.0mm
+FLXFTS07W,10.86,InStock,Flex7,Flex 7 FTS07/W 7 Pole White Socket Outlet 2x4.0mm
 FURPT205,21.38,InStock,,Furse PT205 Lightweight Earth Inspection Pit with Grey Polymer Lid L:300mmxW:300mmxD:158mm Weight 1.8KG
 GBT80C,23.83,InStock,,GreenBrook GBT80C Din Rail Digital Timer 7 Day
 GKN8X.75CS,2.64,InStock,,"8 x 3/4"" Pozi Countersunk Twinthread Woodscrews BZP"
@@ -412,11 +412,11 @@ GKNM4X12BRS,7.75,InStock,,M4 x 12mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X16BRS,9.48,InStock,,M4 x 16mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X20BRS,10.85,InStock,,M4 x 20mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X25BRS,11.86,InStock,,M4 x 25mm Pan Head Slot Screws Brass (Pack of 100)
-GPBL2-10,17.59,InStock,,Gripple B-Lock Wire Rope Hangers BL2-UK-10P (Pack 10)
-GPCUTTER-GRIPPLE,59.84,InStock,,Gripple Small Wire Cutter
-GPROP2MM-100MM-BLC,22.87,InStock,,Gripple 2mm 100m B-Lock Wire Rope
-GRELBAR/GL4224LU,48.00,InStock,,Green Lighting GL4224LU SS P-LUX Half Lantern
-GRELBAR/GL4612LU,54.00,InStock,,Green Lighting GL4612LU SS P-LUX Contemp Lantern
+GPBL2-10,17.59,InStock,Gripple,Gripple B-Lock Wire Rope Hangers BL2-UK-10P (Pack 10)
+GPCUTTER-GRIPPLE,59.84,InStock,Gripple,Gripple Small Wire Cutter
+GPROP2MM-100MM-BLC,22.87,InStock,Gripple,Gripple 2mm 100m B-Lock Wire Rope
+GRELBAR/GL4224LU,48.00,InStock,Green Lighting,Green Lighting GL4224LU SS P-LUX Half Lantern
+GRELBAR/GL4612LU,54.00,InStock,Green Lighting,Green Lighting GL4612LU SS P-LUX Contemp Lantern
 GW40101,19.18,InStock,Gewiss,Gewiss GW40101 Surface Mounted IP65 Enclosure 143x210x100mm
 GW44204,2.33,InStock,Gewiss,Gewiss 44204 100mm x 100mm x 50mm Enclosure
 GW44206,3.49,InStock,Gewiss,Gewiss 44206 150mm x 110mm x 70mm Enclosure
@@ -830,7 +830,7 @@ MTTT33,2.22,InStock,Marshall Tufflex,Marshall Tufflex TT3-3WH Mini Trunking Tee 
 MTTT44,2.81,InStock,Marshall Tufflex,Marshall Tufflex TT4-4WH Mini Trunking Tee 38mm X 25mm White
 NIGEV40AXSP-4W,40.96,InStock,Niglon,Niglon EV40AXSP-4W 4 Way 40A 1P+N Bi RCBO+SPD B Curve
 NIGFMS100,24.89,InStock,Niglon,Niglon FMS100 100A Fused Main Switch
-NIGH-BWS131FS,11.38,OutOfStock,Niglon,Niglon H-BWS131FS Black Outdoor Single Switched Fused Spur IP66
+NIGH-BWS131FS,11.38,OutOfStock,Niglon,Niglon H-BWS131FS Black Outdoor Fused Connection unit IP66
 NIGH-BWS131S,9.92,InStock,Niglon,Niglon H-BWS131S Black Outdoor Single Switched Socket IP66
 NIGH-BWS132S,11.34,InStock,Niglon,Niglon H-BWS132S Black Outdoor Double Switched Socket IP66
 NIGH-BWS201,7.27,InStock,Niglon,Niglon H-BWS201 Black Outdoor Single 1 Gang 2 Way Switched Socket IP66 20AX
@@ -880,13 +880,13 @@ PCH102,19.06,InStock,Armeg,Armeg PCH102 102mm Premium Cobalt Holesaw
 PCH114,27.86,OutOfStock,Armeg,Armeg PCH114 114mm Premium Cobalt Holesaw
 PCH127,36.64,InStock,Armeg,Armeg PCH127 127mm Premium Cobalt Holesaw
 PCH152,47.11,OutOfStock,Armeg,Armeg PCH152 152mm Premium Cobalt Holesaw
-PEVAPEX-7S,348.92,InStock,,Project EV APEX-7S 7.3kW Untethered EV Charger - Socket
-PEVAPEX-7S-T,481.45,InStock,,Project EV APEX-7S 7.3kW Tethered EV Charger
-PEVCURV-HP110M8,1253.06,,,Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder
-PEVCURV-HP150M8,1346.71,,,Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder
-PEVCURV-HP200M7,1656.00,,,Project CÜRV CURV-HP200M7-G3 200ltr ASHP Hot Water Cylinder
-PEVCURV-HP250M7,1771.20,,,Project CÜRV CURV-HP250M7-G3 250ltr ASHP Hot Water Cylinder
-PEVCURV-HP80M8,1187.34,,,Project CÜRV CURV-HP80M8-G3 80ltr ASHP Hot Water Cylinder
+PEVAPEX-7S,348.92,InStock,Project EV,Project EV APEX-7S 7.3kW Untethered EV Charger - Socket
+PEVAPEX-7S-T,481.45,InStock,Project EV,Project EV APEX-7S 7.3kW Tethered EV Charger
+PEVCURV-HP110M8,1253.06,,Project EV,Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder
+PEVCURV-HP150M8,1346.71,,Project EV,Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder
+PEVCURV-HP200M7,1656.00,,Project EV,Project CÜRV CURV-HP200M7-G3 200ltr ASHP Hot Water Cylinder
+PEVCURV-HP250M7,1771.20,,Project EV,Project CÜRV CURV-HP250M7-G3 250ltr ASHP Hot Water Cylinder
+PEVCURV-HP80M8,1187.34,,Project EV,Project CÜRV CURV-HP80M8-G3 80ltr ASHP Hot Water Cylinder
 PIRAP7RED,22.51,InStock,Prysmian,Prysmian AP7RED FP200 Clip 2 x 1.5mm Red
 PIRAP7WHI,22.51,InStock,Prysmian,Prysmian AP7WHI FP200 Clip 2 x 1.5mm White
 QVCV/8IP/4DOME/2TB/W,546.00,InStock,Qvis,Qvis CV-8IP-4DOME-2TB-W 8 Channel 2TB NVR with 4x 4MP Full-Colour Turret White
