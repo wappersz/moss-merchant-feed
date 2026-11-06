@@ -1,22 +1,21 @@
 #!/usr/bin/env python3
 """
-Moss Electrical -> Google Merchant Centre product feed (backup until MACE's own feed is live).
+Moss Electrical -> Google Merchant Centre product feed.
 
-Reads every product page listed in the shop sitemap, takes price + stock from the
-JSON-LD on each page (live MACE data), and writes feed.xml (RSS 2.0, g: namespace).
+Since the Shopify launch (6 Nov 2026) it reads the shop's public /products.json (price inc VAT,
+stock and images, synced from MACE) and writes feed.xml (RSS 2.0, g: namespace). Item ids stay
+the MACE product codes (= Shopify SKUs), so Merchant Centre history carries over.
 Runs nightly via GitHub Actions; Merchant Centre fetches the published feed.xml daily.
 Stdlib only.
 """
 import os, re, json, sys, time, csv, html as htmllib
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import unquote
 from xml.sax.saxutils import escape
 import urllib.request
 
-BASE = "https://shop.mosselectricalsw.co.uk"
-SITEMAP = f"{BASE}/sitemap.xml"
-UA = "Mozilla/5.0 (compatible; MossMerchantFeed/1.0)"
-WORKERS = 2  # gentle on the Moss server (slow TTFB)
+BASE = "https://shop.mosselectrical.co.uk"
+IMAGE_PREFIX = "https://cdn.shopify.com/"
+UA = "Mozilla/5.0 (compatible; MossMerchantFeed/2.0)"
 RETRIES = 3
 
 # Barcodes (GTIN/EAN) by product code. MACE has no barcode field, so these come from
@@ -93,56 +92,47 @@ def fetch(url, timeout=25):
             time.sleep(1.5 * (attempt + 1))
 
 
-def product_urls():
-    sm = fetch(SITEMAP)
-    urls = re.findall(r"<loc>\s*([^<]*ProductDetails[^<]*)</loc>", sm)
-    return list(dict.fromkeys(htmllib.unescape(u.strip()) for u in urls))
-
-
 def clean(s):
     return re.sub(r"\s+", " ", htmllib.unescape(re.sub(r"<[^>]+>", " ", s or ""))).strip()
 
 
-def txt_between(h, pat):
-    m = re.search(pat, h, re.S | re.I)
-    return clean(m.group(1)) if m else None
+def shopify_products():
+    """Every published product from the public /products.json, 250 per page."""
+    out, page = [], 1
+    while True:
+        batch = json.loads(fetch(f"{BASE}/products.json?limit=250&page={page}"))["products"]
+        if not batch:
+            return out
+        out += batch
+        page += 1
+        time.sleep(1)
 
 
-def parse(url):
-    h = fetch(url)
-    ld = re.search(r"<script[^>]*application/ld\+json[^>]*>(.*?)</script>", h, re.S | re.I)
-    if not ld:
-        return None
-    raw = ld.group(1).strip()
-    try:
-        d = json.loads(raw, strict=False)
-    except ValueError:
-        # MACE emits invalid JSON-LD on some pages (unescaped quotes in names, e.g. 13"),
-        # so pull the fields out field-by-field instead.
-        def grab(key):
-            m = re.search(r'"%s"\s*:\s*"(.*?)"\s*[,}]\s*"?' % key, raw, re.S)
-            return m.group(1) if m else None
-        name = txt_between(h, r"<h1[^>]*>(.*?)</h1>") or grab("name")
-        d = {"name": name, "sku": grab("sku"), "image": grab("image"), "description": "",
-             "offers": {"price": grab("price"), "availability": grab("availability"), "url": grab("url")}}
-    off = d.get("offers") or {}
-    name = clean(d.get("name"))
-    code = d.get("sku") or unquote(re.search(r"code=([^&]+)", url, re.I).group(1))
-    desc = clean(d.get("description"))
-    if not desc:
-        body = re.search(r'<meta name="description" content="([^"]*)"', h, re.I)
-        desc = clean(body.group(1)) if body else ""
-    return {
-        "id": code,
-        "title": name,
-        "description": desc if len(desc) > len(name) else name,
-        "link": off.get("url") or url,
-        "image": d.get("image"),
-        "price": off.get("price"),  # JSON-LD price is inc VAT (checked against page "inc VAT" price)
-        "availability": (off.get("availability") or "").split("/")[-1],
-        "brand": brand_for(name) if name else None,
-        "mpn": find_mpn(code, name),
-    }
+def items_from(products):
+    for pr in products:
+        img = (pr.get("images") or [{}])[0].get("src")
+        name = clean(pr.get("title"))
+        desc = clean(pr.get("body_html"))
+        multi = len(pr["variants"]) > 1
+        for v in pr["variants"]:
+            code = (v.get("sku") or "").strip()
+            if not code:
+                continue
+            link = f"{BASE}/products/{pr['handle']}" + (f"?variant={v['id']}" if multi else "")
+            title = name if not multi or v.get("title") in (None, "Default Title") else f"{name} {v['title']}"
+            yield {
+                "id": code,
+                "title": title,
+                "description": desc if len(desc) > len(title) else title,
+                "link": link,
+                "image": img.split("?")[0] if img else None,
+                "price": v.get("price"),  # shop prices include VAT (taxesIncluded = true)
+                "availability": "InStock" if v.get("available") else "OutOfStock",
+                # Shopify vendor is the real brand, except the store-name placeholder on unbranded items
+                "brand": (pr.get("vendor") or "").strip() if (pr.get("vendor") or "").strip() not in ("", "Moss Electrical") else brand_for(name),
+                "mpn": find_mpn(code, name),
+                "barcode": (v.get("barcode") or "").strip(),
+            }
 
 
 def item_xml(p):
@@ -161,7 +151,7 @@ def item_xml(p):
     brand = (TITLES.get(p["id"], {}).get("brand") or "").strip() or p["brand"]
     if brand:
         lines.append(f"<g:brand>{escape(brand)}</g:brand>")
-    gtin = GTINS.get(p["id"])
+    gtin = GTINS.get(p["id"]) or (p.get("barcode") if re.fullmatch(r"\d{8}|\d{12,14}", p.get("barcode") or "") else None)
     if gtin and LOOSE_SALE.search(p["title"]):
         gtin = None
     if gtin:
@@ -202,7 +192,7 @@ def fail(msg):
 
 def safety_checks(items):
     bad = [p["id"] for p in items
-           if not p["link"].startswith(SHOP_PREFIX) or not str(p["image"]).startswith(SHOP_PREFIX)]
+           if not p["link"].startswith(SHOP_PREFIX) or not str(p["image"]).startswith(IMAGE_PREFIX)]
     if bad:
         fail(f"{len(bad)} items link off the shop domain, e.g. {bad[:3]}")
     if len(items) < MIN_ITEMS:
@@ -220,24 +210,19 @@ def safety_checks(items):
 
 def main():
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 0
-    urls = product_urls()
-    if limit:
-        urls = urls[:limit]
-    print(f"{len(urls)} product URLs", file=sys.stderr)
+    products = shopify_products()
+    print(f"{len(products)} products", file=sys.stderr)
 
-    items, skipped, errors = [], 0, 0
-    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        for f in as_completed([ex.submit(parse, u) for u in urls]):
-            try:
-                p = f.result()
-            except Exception:
-                errors += 1
-                continue
-            # Google rejects items without a title, image or a real price
-            if not p or not p["title"] or not p["image"] or not p["price"] or float(p["price"]) <= 0:
-                skipped += 1
-                continue
-            items.append(p)
+    items, skipped, seen = [], 0, set()
+    for p in items_from(products):
+        # Google rejects items without a title, image or a real price; ids must be unique
+        if not p["title"] or not p["image"] or not p["price"] or float(p["price"]) <= 0 or p["id"] in seen:
+            skipped += 1
+            continue
+        seen.add(p["id"])
+        items.append(p)
+    if limit:
+        items = items[:limit]
 
     # Guard: a near-empty run (site down) must not overwrite a good feed
     if len(items) < (50 if not limit else 1):
@@ -260,7 +245,7 @@ def main():
         fh.write(feed)
 
     in_stock = sum(1 for p in items if p["availability"] == "InStock")
-    print(f"feed.xml: {len(items)} items ({in_stock} in stock), {skipped} skipped, {errors} errors", file=sys.stderr)
+    print(f"feed.xml: {len(items)} items ({in_stock} in stock), {skipped} skipped", file=sys.stderr)
 
     if not limit:
         try:
