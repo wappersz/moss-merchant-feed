@@ -1399,7 +1399,7 @@
 <g:description>Metpro APP615 1 Gang 35mm Metal Back Box</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=APP615</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/APP615.webp</g:image_link>
-<g:price>0.49 GBP</g:price>
+<g:price>0.47 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Metpro</g:brand>
@@ -1411,7 +1411,7 @@
 <g:description>Metpro APP618 1 Gang 47mm Metal Back Box</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=APP618</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/APP618.webp</g:image_link>
-<g:price>0.70 GBP</g:price>
+<g:price>0.66 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Metpro</g:brand>
@@ -1423,7 +1423,7 @@
 <g:description>Metpro APP625 2 Gang 35mm Metal Back Box</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=APP625</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/APP625.webp</g:image_link>
-<g:price>0.65 GBP</g:price>
+<g:price>0.61 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Metpro</g:brand>
@@ -1435,7 +1435,7 @@
 <g:description>Metpro APP628 2 Gang 47mm Metal Back Box</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=APP628</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/A/APP628.webp</g:image_link>
-<g:price>0.96 GBP</g:price>
+<g:price>0.90 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Metpro</g:brand>
@@ -7587,7 +7587,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MK9000</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MK9000.webp</g:image_link>
 <g:price>6.83 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -7623,7 +7623,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MK9033</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MK9033.webp</g:image_link>
 <g:price>16.19 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -7647,7 +7647,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MK9100</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MK9100.webp</g:image_link>
 <g:price>9.55 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -7995,7 +7995,7 @@
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=MKK3498</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/M/MKK3498.webp</g:image_link>
 <g:price>9.86 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
 <g:mpn>K3498</g:mpn>
@@ -11972,11 +11972,22 @@
 <g:description>The WAGO 221-615 Splicing Connector is a compact 5-way wire connector designed for all conductor types up to 6 mm².</g:description>
 <g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WAG221615</g:link>
 <g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WAG221615.webp</g:image_link>
-<g:price>16.20 GBP</g:price>
+<g:price>19.05 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wago</g:brand>
 <g:mpn>221-615</g:mpn>
+</item>
+<item>
+<g:id>WANEL600W</g:id>
+<g:title>Warner Howard EL600W (091183PR) Hand Dryer White</g:title>
+<g:description>Warner Howard EL600W (091183PR) Hand Dryer White</g:description>
+<g:link>https://shop.mosselectricalsw.co.uk/ProductDetails/?code=WANEL600W</g:link>
+<g:image_link>https://shop.mosselectricalsw.co.uk/ProductImages/W/WANEL600W.webp</g:image_link>
+<g:price>97.30 GBP</g:price>
+<g:availability>out_of_stock</g:availability>
+<g:condition>new</g:condition>
+<g:identifier_exists>no</g:identifier_exists>
 </item>
 <item>
 <g:id>WBF20</g:id>
