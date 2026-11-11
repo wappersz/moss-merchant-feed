@@ -2,6 +2,7 @@ name: Build Merchant Centre feed
 on:
   schedule:
     - cron: "0 2 * * *"    # 02:00 UTC nightly
+    - cron: "47 7,10,13,16 * * *"   # ~30 min after each stock sync, so price changes reach the feed same day
   workflow_dispatch:
 permissions:
   contents: write
