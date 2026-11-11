@@ -1,6 +1,6 @@
 # Moss Electrical: Google Merchant Centre feed (backup)
 
-Nightly GitHub Action reads every product page on shop.mosselectricalsw.co.uk (price + stock from page JSON-LD)
+GitHub Action (02:00 UTC plus 07:47, 10:47, 13:47, 16:47, just after each stock sync) reads every product page on shop.mosselectricalsw.co.uk (price + stock from page JSON-LD)
 and publishes `feed.xml`. Merchant Centre "PRODUCTS SOURCE 2" fetches it daily.
 Temporary until MACE's own XML feed is switched on.
 
