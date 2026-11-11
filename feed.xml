@@ -587,7 +587,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/aico-ei1000g-smartlink-homelink-gateway</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/AICEI1000G.webp</g:image_link>
 <g:price>222.01 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
 <g:gtin>5099383010558</g:gtin>
@@ -600,7 +600,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/aico-ei1020-environmental-sensor</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/AICEI1020.webp</g:image_link>
 <g:price>117.62 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
 <g:gtin>5099383010565</g:gtin>
@@ -613,7 +613,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/aico-ei1025-temperature-humidity-co2-environmental-sensor</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/AICEI1025.webp</g:image_link>
 <g:price>153.80 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Aico</g:brand>
 <g:gtin>5099383010572</g:gtin>
@@ -2498,7 +2498,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/click-13a-unswitched-fuse-spur-white-cma650</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/CLKCMA650.jpg</g:image_link>
 <g:price>2.40 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
 <g:mpn>CMA650</g:mpn>
@@ -2948,7 +2948,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/deligo-cwkit25-brass-gland-pack-25mm-2</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/CWKIT25-1.jpg</g:image_link>
 <g:price>14.39 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
 <g:mpn>CWKIT25</g:mpn>
@@ -4825,7 +4825,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/8-x-3-4-pozi-countersunk-twinthread-woodscrews-bzp</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/GKN8X.75CS.jpg</g:image_link>
 <g:price>2.64 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
@@ -4858,7 +4858,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/m3-5-x-100mm-steel-machine-screw-bzp-pack-100</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/GKNM3.5X100.webp</g:image_link>
 <g:price>16.74 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
@@ -5809,7 +5809,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/hager-vme109spd-9-way-100a-switch-disconnector-incomer-single-mod-type</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGVME109SPD.jpg</g:image_link>
 <g:price>72.55 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
 <g:mpn>VME109SPD</g:mpn>
@@ -5869,7 +5869,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/hager-sollysta-wmcc50n-45a-cooker-control-unit-neon-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGWMCS50N.jpg</g:image_link>
 <g:price>10.33 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -5881,7 +5881,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/hager-sollysta-wmdp50n-50a-dp-1-gang-switch-neon-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGWMDP50N.webp</g:image_link>
 <g:price>7.63 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
 <g:mpn>WMDP50N</g:mpn>
@@ -6073,7 +6073,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/hager-sollysta-wmso100-115-230v-dual-voltage-shaver-socket-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGWMSO100.jpg</g:image_link>
 <g:price>22.10 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
 <g:mpn>WMSO100</g:mpn>
@@ -6133,7 +6133,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/hager-sollysta-wmssu83-13a-dp-switched-fused-spur-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGWMSSU83.webp</g:image_link>
 <g:price>4.26 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
 <g:mpn>WMSSU83</g:mpn>
@@ -6521,7 +6521,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/200-x-4-8mm-black-cable-tie-pack-100</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/KOMKCT200-4.8.webp</g:image_link>
 <g:price>2.34 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:identifier_exists>no</g:identifier_exists>
 </item>
@@ -8861,7 +8861,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/marshall-tufflex-3mrb4w-25mm-pvc-conduit-angle-box-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/MT3MRB4W.webp</g:image_link>
 <g:price>5.20 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
 <g:mpn>3MRB4W</g:mpn>
@@ -9916,7 +9916,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/marshall-tufflex-tt4-4wh-mini-trunking-tee-38mm-x-25mm-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/MTTT44.jpg</g:image_link>
 <g:price>2.81 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -10726,7 +10726,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/hager-klik-cr64ax-6a-4-pin-plug-ceiling-rose</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ROCCR64AX.webp</g:image_link>
 <g:price>5.89 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
 <g:mpn>CR64AX</g:mpn>
@@ -11611,7 +11611,7 @@
 <g:description>Silent Fan 100mm, Fixed Speed, Intermittent, Timer Model, Fixed Grille From only 12 dB(A) IPX5 - Zone 1 rated Meets current Building Regulations Approved Document F and L 2 speeds to choose from at installation Back draught shutters included Downloads Brochure (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/vent-axia-416473-vasf100tf-100mm-4-silent-fan-timer-fixed-grille</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VEN416473.webp</g:image_link>
-<g:price>49.61 GBP</g:price>
+<g:price>48.23 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
@@ -11624,7 +11624,7 @@
 <g:description>Silent Fan 100mm Fixed Speed, Intermittent, Humidistat Model, Fixed Grille From only 12 dB(A) IPX5 - Zone 1 rated Meets current Building Regulations Approved Document F and L 2 speeds to choose from at installation Back draught shutters included Downloads Brochure (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/vent-axia-416474-vasf100htf-100mm-4-silent-fan-humidistat-timer-fixed</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VEN416474.webp</g:image_link>
-<g:price>85.88 GBP</g:price>
+<g:price>83.50 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
@@ -11725,7 +11725,7 @@
 <g:description>The Vent-Axia Lo-Carbon Revive 7 is one fan for kitchens and bathrooms. It runs quietly in the background on a low trickle, then boosts when needed, triggered by the pullcord, the built-in humidity sensor, a switched live or a remote button. It uses as little as 1.4W on trickle, has no filter to clean, and fits a wall, window or ceiling, or can be ducted. Specification Use: kitchen or bathroom, continuous or intermittent Trickle: adjustable 6 to 13 l/s Boost: 15, 30 or 60 l/s Boost triggers: pullcord, humidity sensor, switched live, remote button Timer: 1 to 30 minutes Noise: from 15 dB(A) on trickle Power: from 1.4W on trickle Size: 193 x 193mm, 132mm projection, 99mm spigot Fitting: wall, window, ceiling or ducted Made in Britain Warranty: 7 years Downloads Product overview (PDF) Catalogue page (PDF) User manual (PDF) Installation instructions 1 (PDF) Installation instructions 2 (PDF) Specifications Warranty 7 Years CE Approved Y Impeller Diameter 100 mm Overall Depth 102 mm Overall Width 193 mm Overall Length 193 mm Body Colour White Impeller Material Plastic Material Plastic c/w Timer Y c/w Duct N c/w Light N Reversible N Air Extraction Rate m3/h 216 M3/h Number of Impeller Blades 5 Ingress Protection IPX4 Mounting Wall/Window/Ceiling Maximum Standard Air Supply 40 Degrees C Motor Power 1.4~26 W Shape Square Use bathroom/kitchen Number of Speeds 4 Cased Y Qualifier Lo-Carbon w/ trickle &amp; boost speeds Type Extractor Product Fan</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/vent-axia-473848-lo-carbon-revive-7</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VEN473848.jpg</g:image_link>
-<g:price>144.42 GBP</g:price>
+<g:price>142.08 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
@@ -11738,7 +11738,7 @@
 <g:description>Downloads Product overview (PDF) Catalogue page 1 (PDF) Catalogue page 2 (PDF) User manual (PDF) Installation instructions 1 (PDF) Installation instructions 2 (PDF) Specifications Warranty 7 Years CE Approved Y Impeller Diameter 100 mm Overall Depth 102 mm Overall Width 193 mm Overall Length 193 mm Body Colour White Impeller Material Plastic Material Plastic c/w Timer Y c/w Duct N c/w Light N Reversible N Air Extraction Rate m3/h 216 M3/h Number of Impeller Blades 5 Ingress Protection IPX4 Mounting Wall/Window/Ceiling Maximum Standard Air Supply 40 Degrees C Motor Power 1.4~26 W Shape Square Use bathroom/kitchen Number of Speeds 4 Cased Y Qualifier Lo-Carbon w/ trickle &amp; boost speeds Type Extractor Product Fan</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/vent-axia-473849-lo-carbon-revive-selv-7</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VEN473849.jpg</g:image_link>
-<g:price>156.97 GBP</g:price>
+<g:price>152.50 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
@@ -11751,7 +11751,7 @@
 <g:description>Silent Fan 100mm Fixed Speed, Intermittent, Humidistat Model, Closed Grille From only 12 dB(A) IPX5 - Zone 1 rated Meets current Building Regulations Approved Document F and L 2 speeds to choose from at installation Back draught shutters included Product Overview Ventilation Type Natural Ventilation - Intermittent Extract Sector Private Refurbishment Application Bathroom, Utility, Toilet Product Range Silent Fan Ducting/Connection Size100mm IP Rating IPX5 The new Silent Fan Range from Vent-Axia not only delivers stylish and silent ventilation without compromise on performance, but now comes with even more features and more model options providing flexibility when choosing the right fan. Downloads Brochure (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/vent-axia-477436b-silent-fan-100mm-fixed-speed-intermittent-humidistat</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VEN477436B.webp</g:image_link>
-<g:price>100.55 GBP</g:price>
+<g:price>99.22 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
@@ -11827,7 +11827,7 @@
 <g:description>Lo-Carbon NBR dMEVc 100mm Continuously running 100mm and 125mm dMEV with sleek circular design Designed to comply with the latest Building Regulations Part L1A and F 2021 SAP PCDB listed with SFP's down to 0.08 W/l/s Near silent operation independently tested IPX5 rated, wall and ceiling mounted Zones 1, 2 and 3 Low ceiling void - 56mm (100mm spigot) and 66mm (125mm spigot) Easy to commission, fully adjustable variable control platform Intelligent humidistat model option with proportional increase and timer Comfort control option 7 Year warranty Lo-Carbon NBR dMEV C Increased whole ventilation rates, should not mean increased noise levels. The Vent-Axia Lo-Carbon NBR dMEV C fan, available in 100mm and 125mm, provides adequate ventilation whilst minimising noise. The fan is designed in line with the Approved Document F 2021 Building Regulations, meeting the increased whole house ventilation rates. The minimum whole dwelling ventilation rate for the supply air should meet the higher of the two following result: A minimum rate of 0.3l/s per m2 of internal floors area A minimum rate determined by the number of bedroom, as per Table 1.3 Nuisance tripping has also been minimised within the fan logic. The integral humidity sensor versions have functionality that allows for proportional speed increase up to 85% relative humidity (RH) before enabling Boost. The Lo-Carbon NBR dMEV C is complete with IPX5 rating, allowing flexible installation within Zone 1, 2 and 3. A back pressure detection system option is available, to Boost if the system pressure increase momentarily due to external wind conditions. A silent mixed flow impeller means the Lo-Carbon NBR dMEV C can meet the requirements of many domestic installations without the need to use a traditional centrifugal fan. A brand new control platform also provides fully adjustable airflow, meaning wholehouse rates can be achieved easily using fewer fans. Comfort Control Option Designed to offer a more relaxing environment to the homeowner, the Lo-Carbon NBR dMEV C features a delayed start. This patented comfort control option allows the homeowner to enjoy a quiet, peaceful bathroom for up to 20 minutes before the Boost activates. Furthermore, if the light switch turns On and Off within three minutes, the Boost will not activate. No more disturbing the family if the bathroom light is turned on during the night. Near Silent Operation The fan has been designed to be as discreet as possible for homeowners, with independently tested sound levels as low as 7.4dB(A). Downloads Installation instructions (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/vent-axia-498095b-lo-carbon-nbr-dmevc-100mm</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VEN498095BDW.jpg</g:image_link>
-<g:price>64.33 GBP</g:price>
+<g:price>51.47 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
@@ -11839,7 +11839,7 @@
 <g:description>Lo-Carbon NBR dMEVc 100mm Humidistat, Timer Continuously running 100mm and 125mm dMEV with sleek circular design Designed to comply with the latest Building Regulations Part L1A and F 2021 SAP PCDB listed with SFP's down to 0.08 W/l/s Near silent operation independently tested IPX5 rated, wall and ceiling mounted Zones 1, 2 and 3 Low ceiling void - 56mm (100mm spigot) and 66mm (125mm spigot) Easy to commission, fully adjustable variable control platform Intelligent humidistat model option with proportional increase and timer Comfort control option 7 Year warranty Lo-Carbon NBR dMEV C Increased whole ventilation rates, should not mean increased noise levels. The Vent-Axia Lo-Carbon NBR dMEV C fan, available in 100mm and 125mm, provides adequate ventilation whilst minimising noise. The fan is designed in line with the Approved Document F 2021 Building Regulations, meeting the increased whole house ventilation rates. The minimum whole dwelling ventilation rate for the supply air should meet the higher of the two following result: A minimum rate of 0.3l/s per m2 of internal floors area A minimum rate determined by the number of bedroom, as per Table 1.3 Nuisance tripping has also been minimised within the fan logic. The integral humidity sensor versions have functionality that allows for proportional speed increase up to 85% relative humidity (RH) before enabling Boost. The Lo-Carbon NBR dMEV C is complete with IPX5 rating, allowing flexible installation within Zone 1, 2 and 3. A back pressure detection system option is available, to Boost if the system pressure increase momentarily due to external wind conditions. A silent mixed flow impeller means the Lo-Carbon NBR dMEV C can meet the requirements of many domestic installations without the need to use a traditional centrifugal fan. A brand new control platform also provides fully adjustable airflow, meaning wholehouse rates can be achieved easily using fewer fans. Comfort Control Option Designed to offer a more relaxing environment to the homeowner, the Lo-Carbon NBR dMEV C features a delayed start. This patented comfort control option allows the homeowner to enjoy a quiet, peaceful bathroom for up to 20 minutes before the Boost activates. Furthermore, if the light switch turns On and Off within three minutes, the Boost will not activate. No more disturbing the family if the bathroom light is turned on during the night. Near Silent Operation The fan has been designed to be as discreet as possible for homeowners, with independently tested sound levels as low as 7.4dB(A). Downloads Installation instructions (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/vent-axia-498096-lo-carbon-nbr-dmevc-100mm-humidistat-timer</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VEN498096.webp</g:image_link>
-<g:price>72.37 GBP</g:price>
+<g:price>62.04 GBP</g:price>
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
