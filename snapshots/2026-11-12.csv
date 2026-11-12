@@ -47,9 +47,9 @@ ADPSP25/BL/25,181.25,InStock,Adaptaflex,Adaptaflex SP25/BL/25 25mm Black PVC Coa
 ADPSP25M25A,71.50,InStock,Adaptaflex,Adaptaflex SP25/M20/A 25mm Connector Gland M25 (Pack of 10)
 ADPSP25M25B,90.00,InStock,Adaptaflex,Adaptaflex SP25/M20/B 25mm Connector Swivel Gland M25 (Pack of 10)
 AICE146,23.17,InStock,Aico,Aico Ei146E Optical Smoke Alarm with Battery Back Up
-AICEI1000G,222.01,OutOfStock,Aico,Aico Ei1000G SmartLINK HomeLINK Gateway
-AICEI1020,117.62,OutOfStock,Aico,Aico Ei1020 Environmental Sensor
-AICEI1025,153.80,OutOfStock,Aico,"Aico Ei1025 Temperature, Humidity and CO2 Environmental Sensor"
+AICEI1000G,222.01,InStock,Aico,Aico Ei1000G SmartLINK HomeLINK Gateway
+AICEI1020,117.62,InStock,Aico,Aico Ei1020 Environmental Sensor
+AICEI1025,153.80,InStock,Aico,"Aico Ei1025 Temperature, Humidity and CO2 Environmental Sensor"
 AICEI129,29.10,InStock,Aico,Aico Ei129 Switched Input Module
 AICEI144,32.62,InStock,Aico,Aico Ei144 230V Heat Alarm with Alkaline Battery Back Up
 AICEI1529RC,31.07,InStock,Aico,Aico Ei1529RC 230V Hard Wired Alarm Control Switch
@@ -265,12 +265,12 @@ DELFP2I,5.54,InStock,Deligo,Deligo FPI2 2 Gang Fire Putty Pad (Internal)
 DELSB20W,0.70,InStock,Deligo,Deligo DELSB20W Steel Spacer Bar Saddles White 20mm
 DELSB25W,0.71,InStock,Deligo,Deligo DELSB25W Steel Spacer Bar Saddles White 25mm
 DELSFIRE,14.90,InStock,Deligo,Deligo SFIRE Fire Rated Silicone Sealant (310ml)
-DET1139,20.52,InStock,Deta,Deta 1139 CO Alarm Battery Powered 10 Year
-DET1163,22.56,InStock,Deta,Deta 1163 Optical Smoke Alarm 240V with 9V Replaceable Battery Back Up
+DET1139,19.98,InStock,Deta,Deta 1139 CO Alarm Battery Powered 10 Year
+DET1163,22.49,InStock,Deta,Deta 1163 Optical Smoke Alarm 240V with 9V Replaceable Battery Back Up
 DET1164,29.20,InStock,Deta,Deta 1164 Optical Smoke Alarm 240V with 10 Year Sealed Lithium Battery Back Up
 DET1165,27.07,InStock,Deta,Deta 1165 Heat Alarm 240V with 9V Replaceable Battery Back Up
 DET1166,33.74,InStock,Deta,Deta 1166 Heat Alarm 240V with 10 Year Sealed Lithium Battery Back Up
-DET1169,47.28,InStock,Deta,Deta 1169 Carbon Monoxide Alarm 240V with 9V Replaceable Battery Back Up
+DET1169,43.22,InStock,Deta,Deta 1169 Carbon Monoxide Alarm 240V with 9V Replaceable Battery Back Up
 DET4821W,2.56,InStock,Deta,Deta 4821W 100mm Gravity Grille White
 DET4822W,2.40,InStock,Deta,Deta 4822W 100mm Fixed Grille White
 DET4881W,4.67,InStock,Deta,Deta 4881W 150mm Gravity Grille White
@@ -389,7 +389,7 @@ FLXFP4R,4.22,InStock,Flex7,Flex 7 FP4/R 4 Pin Red Plug 16A 230V
 FLXFP7B,9.29,InStock,Flex7,Flex 7 FP7/B 7 Pin Black Plug 16A 230V
 FLXFP7R,9.29,InStock,Flex7,Flex 7 FP7/R 7 Pin Red Plug 16A 230V
 FLXFP7W,9.29,InStock,Flex7,Flex 7 FP7/W 7 Pin White Plug 16A 230V
-FLXFSU04,47.21,InStock,Flex7,Flex7 FSU04 Starter 4 Way eZeBox
+FLXFSU04,47.21,OutOfStock,Flex7,Flex7 FSU04 Starter 4 Way eZeBox
 FLXFSU06,61.14,InStock,Flex7,Flex7 FSU06 Starter 6 Way eZeBox
 FLXFTS03W,3.73,InStock,Flex7,Flex 7 FTS03/W 3 Pole White Socket Outlet 16A 230V
 FLXFTS04B,4.42,InStock,Flex7,Flex 7 FTS04/B 4 Pole Black Socket Outlet 2x4.0mm
@@ -399,7 +399,7 @@ FLXFTS07R,10.86,InStock,Flex7,Flex 7 FTS07/R 7 Pole Red Socket Outlet 2x4.0mm
 FLXFTS07W,10.86,InStock,Flex7,Flex 7 FTS07/W 7 Pole White Socket Outlet 2x4.0mm
 FURPT205,21.38,InStock,,Furse PT205 Lightweight Earth Inspection Pit with Grey Polymer Lid L:300mmxW:300mmxD:158mm Weight 1.8KG
 GBT80C,23.83,InStock,,GreenBrook GBT80C Din Rail Digital Timer 7 Day
-GKN8X.75CS,2.64,OutOfStock,,"8 x 3/4"" Pozi Countersunk Twinthread Woodscrews BZP"
+GKN8X.75CS,2.64,InStock,,"8 x 3/4"" Pozi Countersunk Twinthread Woodscrews BZP"
 GKN8X2CS,5.67,InStock,,"GKN8X2CS 8 x 2"" Pozi Countersunk Twinthread Woodscrews BZP"
 GKN8X3CS,6.17,InStock,,"GKN8X3CS 8 x 3"" Pozi Countersunk Twinthread Woodscrews BZP"
 GKNM3.5X100,16.74,InStock,,M3.5 x 100mm Steel Machine Screw BZP (Pack 100)
@@ -437,10 +437,10 @@ HAGADB416U,35.54,InStock,Hager,Hager ADB416U RCBO 1M 1P 10kA B-16A 30mA Type A
 HAGADB420U,35.54,InStock,Hager,Hager ADB420U RCBO 1M 1P 10kA B-20A 30mA Type A
 HAGADB432U,35.54,InStock,Hager,Hager ADB432U RCBO 1M 1P 10kA B-32A 30mA Type A
 HAGADB440U,35.54,InStock,Hager,Hager ADB440U RCBO 1M 1P 10kA B-40A 30mA Type A
-HAGADB906R,14.98,InStock,Hager,Hager ADB906R 6A B Curve Type A 1 Pole + Switched Neutral RCBO Bi-Directional
-HAGADB916R,14.98,InStock,Hager,Hager ADB916R 16A B Curve Type A 1 Pole + Switched Neutral RCBO Bi-Directional
-HAGADB920R,14.98,InStock,Hager,Hager ADB920R 20A B Curve Type A 1 Pole + Switched Neutral RCBO Bi-Directional
-HAGADB932R,14.98,InStock,Hager,Hager ADB932R 32A B Curve Type A 1 Pole + Switched Neutral RCBO Bi-Directional
+HAGADB906R,14.94,InStock,Hager,Hager ADB906R 6A B Curve Type A 1 Pole + Switched Neutral RCBO Bi-Directional
+HAGADB916R,14.94,InStock,Hager,Hager ADB916R 16A B Curve Type A 1 Pole + Switched Neutral RCBO Bi-Directional
+HAGADB920R,14.94,InStock,Hager,Hager ADB920R 20A B Curve Type A 1 Pole + Switched Neutral RCBO Bi-Directional
+HAGADB932R,14.94,InStock,Hager,Hager ADB932R 32A B Curve Type A 1 Pole + Switched Neutral RCBO Bi-Directional
 HAGADC406U,37.70,InStock,Hager,Hager ADC406U RCBO 1M 1P 10kA C-6A 30mA Type A
 HAGADC410U,37.70,InStock,Hager,Hager ADC410U RCBO 1M 1P 10kA C-10A 30mA Type A
 HAGADC416U,37.70,InStock,Hager,Hager ADC416U RCBO 1M 1P 10kA C-16A 30mA Type A
@@ -482,9 +482,9 @@ HAGNC320,35.53,InStock,Hager,Hager NCN320N MCB 3P 10kA C 20A 3M
 HAGNC332,35.87,InStock,Hager,Hager NCN332A MCB 3P 10kA/15kA C 32A 3M
 HAGNC340,36.56,InStock,Hager,Hager NCN340A MCB 3P 10kA/15kA C 40A 3M
 HAGNC363,41.40,InStock,Hager,Hager NCN363A MCB 3P 10kA/15kA C 63A 3M
-HAGVME109SPD,72.55,OutOfStock,Hager,Hager VME109SPD 9 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
-HAGVME113SPD,78.26,InStock,Hager,Hager VME113SPD 13 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
-HAGVME119SPD,83.98,InStock,Hager,Hager VME119SPD 19 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
+HAGVME109SPD,71.64,OutOfStock,Hager,Hager VME109SPD 9 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
+HAGVME113SPD,77.28,InStock,Hager,Hager VME113SPD 13 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
+HAGVME119SPD,82.93,InStock,Hager,Hager VME119SPD 19 Way 100A Switch Disconnector Incomer Single Mod Type II SPD Consumer Unit
 HAGWMCC50,10.26,InStock,Hager,Hager Sollysta WMCC50 45A Cooker Control Unit White
 HAGWMCS12,4.24,InStock,Hager,Hager Sollysta WMCS12 6A 2 Way Ceiling Pull Switch White
 HAGWMCS50N,10.33,OutOfStock,Hager,Hager Sollysta WMCC50N 45A Cooker Control Unit with Neon White
@@ -550,55 +550,55 @@ KOMKCT300-4.8W,3.02,InStock,,300 x 4.8mm Natural Cable Tie (Pack of 100)
 KOMKCT300-7.6,6.14,InStock,,300 x 7.6mm Black Cable Tie (Pack of 100)
 KOMKCT370-7.6,8.03,InStock,,370 x 7.6mm Black Cable Tie (Pack of 100)
 KOMKCT540-13.2,19.96,InStock,,540 x 8mm Black Cable Tie (Pack of 100)
-KOSA5.9/BC27,1.22,InStock,Kosnic,Kosnic A5.9-BC27 LED GLS B22 5.9w 2700k
-KOSA5.9/ES27,1.22,InStock,Kosnic,Kosnic A5.9-ES27 LED GLS E27 5.9w 2700k
+KOSA5.9/BC27,0.96,InStock,Kosnic,Kosnic A5.9-BC27 LED GLS B22 5.9w 2700k
+KOSA5.9/ES27,0.96,InStock,Kosnic,Kosnic A5.9-ES27 LED GLS E27 5.9w 2700k
 KOSALD4AG25/SCT,22.31,InStock,Kosnic,"Kosnic Alden 4 LED Anti-Glare Panel 600x600, Multi-Lumen, CCT, IP44"
 KOSALT50/SCT/DS,65.24,InStock,Kosnic,Kosnic ALT50-SCT/DS Alto LED wall pack 50W IP65 CCT switchable dusk to dawn
 KOSATRC/GU10BLK,16.81,InStock,Kosnic,Kosnic ATRC/GU10 Atri Inground GU10 Uplight with Bezel
 KOSAVO45FT60-W40/S,38.40,InStock,Kosnic,Kosnic AVO45FT60-W40/S 34-60W 7750lm 4000K 5ft Twin Non-Corrosive Batten with Sensor
-KOSAVO55FS/W40,34.87,InStock,Kosnic,Kosnic AVO55FS-W40 Avon 5 non-corrosive batten 5ft single 18/23/26/30W 4000K
+KOSAVO55FS/W40,25.93,InStock,Kosnic,Kosnic AVO55FS-W40 Avon 5 non-corrosive batten 5ft single 18/23/26/30W 4000K
 KOSAVO55FT/W40,45.28,InStock,Kosnic,Kosnic AVO55FT-W40 Avon 5 non-corrosive batten 5ft twin 34/44/52/60W 4000K
 KOSBEM303/SST,47.58,InStock,Kosnic,Kosnic BEM303/SST Batten UEM Duo 3W Universal Manual & Self-Test Emergency Module White
-KOSDD212/2P-SCT,13.76,InStock,Kosnic,Kosnic DD212/2P-SCT LED DD 2 Mini 2pin 6/8/10/12W 2700/4000/6500K
-KOSDD212/4P-SCT,13.76,InStock,Kosnic,Kosnic DD212/4P-SCT LED DD 2 Mini 4pin 6/8/10/12W 2700/4000/6500K DD212/4P-SCT
+KOSDD212/2P-SCT,13.24,InStock,Kosnic,Kosnic DD212/2P-SCT LED DD 2 Mini 2pin 6/8/10/12W 2700/4000/6500K
+KOSDD212/4P-SCT,13.24,InStock,Kosnic,Kosnic DD212/4P-SCT LED DD 2 Mini 4pin 6/8/10/12W 2700/4000/6500K DD212/4P-SCT
 KOSDEL100/W65,34.99,InStock,Kosnic,Kosnic DEL100-W65 Della flood light IP65 100W 110° 6500K Black
 KOSDEL150/W65,67.54,OutOfStock,Kosnic,Kosnic DEL150-W65 Della flood light IP65 150W 110° 6500K Black
 KOSDEL80/W65,33.66,InStock,Kosnic,Kosnic DEL80-W65 Della flood light IP65 80W 110° 6500K Black
-KOSDOX20103,24.76,InStock,Kosnic,Kosnic DOX20103 Doxa II Standard Exit Sign with Multiple Mounting Positions
+KOSDOX20103,23.81,InStock,Kosnic,Kosnic DOX20103 Doxa II Standard Exit Sign with Multiple Mounting Positions
 KOSECH3150/W50,69.41,OutOfStock,Kosnic,"Kosnic ECH3150-W50 Echo 3, LED Circular Highbay, IP65, 150W, 5000K"
-KOSEMDD202,20.08,InStock,Kosnic,Kosnic EMDD202 2W standard emergency module for LED DD and bulkhead
+KOSEMDD202,19.27,InStock,Kosnic,Kosnic EMDD202 2W standard emergency module for LED DD and bulkhead
 KOSFOL/BLK,22.85,InStock,Kosnic,Kosnic FOL-BLK Folly Black E27 Up /Down Wall Lantern Box
 KOSFOLU/BLK,19.86,InStock,Kosnic,Kosnic FOLU-BLK Folly Black E27 Up Wall Lantern Box
 KOSFOLU/BLK/S,29.38,InStock,Kosnic,Kosnic FOLU-BLK-S Folly Black E27 Up Wall Lantern Box PIR On/ Off
 KOSFOR11M/GRY,81.30,InStock,Kosnic,Kosnic FORM/GRY Forbury Grey 11W 340lm 4000K Integrated LED Bollard
 KOSFOR15T/BLK,85.54,InStock,Kosnic,Kosnic FOR15T-BLK Forbury Black 15W 530lm 4000K Integrated LED Bollard
 KOSFOR15T/GRY,85.54,InStock,Kosnic,Kosnic FOR15T-GRY Forbury Grey 15W 530lm 4000K Integrated LED Bollard
-KOSHAD110O/GRY,29.56,InStock,Kosnic,Kosnic HAD11O-GRY Haldon IP54 11W 750lm 4000K Grey Circular Outdoor LED Wall Light
-KOSHAD11C/BLK,29.90,InStock,Kosnic,Kosnic HAD11C-BLK Haldon IP54 11W 750lm 4000K Black Circular Outdoor LED Wall Light
-KOSHAD11C/GRY,29.90,InStock,Kosnic,Kosnic HAD11C-GRY Haldon IP54 11W 750lm 4000K Grey Circular Outdoor LED Wall Light
-KOSHAD11O/BLK,29.64,InStock,Kosnic,Kosnic HAD11O-BLK Haldon IP54 11W 750lm 4000K Black Oval Outdoor LED Wall Light
+KOSHAD110O/GRY,25.86,InStock,Kosnic,Kosnic HAD11O-GRY Haldon IP54 11W 750lm 4000K Grey Circular Outdoor LED Wall Light
+KOSHAD11C/BLK,26.17,InStock,Kosnic,Kosnic HAD11C-BLK Haldon IP54 11W 750lm 4000K Black Circular Outdoor LED Wall Light
+KOSHAD11C/GRY,26.17,InStock,Kosnic,Kosnic HAD11C-GRY Haldon IP54 11W 750lm 4000K Grey Circular Outdoor LED Wall Light
+KOSHAD11O/BLK,25.93,InStock,Kosnic,Kosnic HAD11O-BLK Haldon IP54 11W 750lm 4000K Black Oval Outdoor LED Wall Light
 KOSHON/M,13.84,InStock,Kosnic,Kosnic HON-M Hontza Plug-in microwave motion and daylight sensor
 KOSKAL201,23.39,InStock,Kosnic,Kosnic KAL201 Kalem II Standard LED Exit Sign
-KOSMUL0105,13.84,InStock,Kosnic,Kosnic MUL0105 Mulu EME light & exit sign 1W/5W 6500K
+KOSMUL0105,13.06,InStock,Kosnic,Kosnic MUL0105 Mulu EME light & exit sign 1W/5W 6500K
 KOSNIV4FS18,19.91,InStock,Kosnic,Kosnic NIV4FS18 NIVA III Interior Batten 4ft Single 18W CCT Switchable
-KOSNIV5FS27,26.68,InStock,Kosnic,Kosnic NIV45S27 NIVA III Interior Batten 5ft Single 27W CCT Switchable
-KOSNTR03,20.12,InStock,Kosnic,"Kosnic NTR03 Nitro standard, 3W EME downlight, non-maintained"
-KOSOCA/BLK,26.56,InStock,Kosnic,Kosnic OCA-BLK Ocala Up/ Down Wall Light GU10
-KOSOCAD/BLK,21.12,InStock,Kosnic,Kosnic OCAD-BLK Ocala Down Only Wall Light GU10
-KOSORD03/WHT,32.03,OutOfStock,Kosnic,Kosnic ORD03-WHT Orda II Twin Spot emergency 3W IP65 white
-KOSOSS318-SCT,11.32,InStock,Kosnic,"Kosnic OSS318-SCT Ossa III 9w/12w/18w wattage and CCT switchable, white trim"
-KOSRE05/GUF30,1.07,InStock,Kosnic,Kosnic RE05-GUF30 Reon 5W GU10 60° 3000K
-KOSRE05/GUF40,1.07,InStock,Kosnic,Kosnic RE05-GUF40 Reon 5W GU10 60° 4000K
-KOSRE05D/GUF30,1.63,InStock,Kosnic,Kosnic RE05D-GUF30 Dimmable Reon 5W GU10 60° 3000K
-KOSRE05D/GUF40,1.63,InStock,Kosnic,Kosnic RE05D-GUF40 Dimmable Reon 5W GU10 60° 4000K
-KOSRHI310/SCT/S,13.64,InStock,Kosnic,Kosnic RHINE III 10W Floodlight with Sensor
-KOSRHI320/SCT,8.27,InStock,Kosnic,Kosnic RHINE III 20W Floodlight
-KOSRHI320/SCT/S,14.83,InStock,Kosnic,Kosnic RHINE III 20W Floodlight with Sensor
-KOSRHI330/SCT,10.45,InStock,Kosnic,Kosnic RHINE III 30W Floodlight
-KOSRHI330/SCT/S,17.47,InStock,Kosnic,Kosnic RHINE III 30W Floodlight with Sensor
-KOSRHI350/SCT,14.65,InStock,Kosnic,Kosnic RHINE III 50W Floodlight
-KOSRHI350/SCT/S,21.80,InStock,Kosnic,Kosnic RHINE III 50W Floodlight with Sensor
-KOSRMWDC,11.24,InStock,Kosnic,Kosnic LUL-M/D Lulu Plug in Microwave Motion and Daylight Sensor 12V DC
+KOSNIV5FS27,25.07,InStock,Kosnic,Kosnic NIV45S27 NIVA III Interior Batten 5ft Single 27W CCT Switchable
+KOSNTR03,19.36,InStock,Kosnic,"Kosnic NTR03 Nitro standard, 3W EME downlight, non-maintained"
+KOSOCA/BLK,23.24,InStock,Kosnic,Kosnic OCA-BLK Ocala Up/ Down Wall Light GU10
+KOSOCAD/BLK,18.48,InStock,Kosnic,Kosnic OCAD-BLK Ocala Down Only Wall Light GU10
+KOSORD03/WHT,28.94,OutOfStock,Kosnic,Kosnic ORD03-WHT Orda II Twin Spot emergency 3W IP65 white
+KOSOSS318-SCT,11.09,InStock,Kosnic,"Kosnic OSS318-SCT Ossa III 9w/12w/18w wattage and CCT switchable, white trim"
+KOSRE05/GUF30,0.86,InStock,Kosnic,Kosnic RE05-GUF30 Reon 5W GU10 60° 3000K
+KOSRE05/GUF40,0.86,InStock,Kosnic,Kosnic RE05-GUF40 Reon 5W GU10 60° 4000K
+KOSRE05D/GUF30,1.42,InStock,Kosnic,Kosnic RE05D-GUF30 Dimmable Reon 5W GU10 60° 3000K
+KOSRE05D/GUF40,1.42,InStock,Kosnic,Kosnic RE05D-GUF40 Dimmable Reon 5W GU10 60° 4000K
+KOSRHI310/SCT/S,12.18,InStock,Kosnic,Kosnic RHINE III 10W Floodlight with Sensor
+KOSRHI320/SCT,7.96,InStock,Kosnic,Kosnic RHINE III 20W Floodlight
+KOSRHI320/SCT/S,14.27,InStock,Kosnic,Kosnic RHINE III 20W Floodlight with Sensor
+KOSRHI330/SCT,10.06,InStock,Kosnic,Kosnic RHINE III 30W Floodlight
+KOSRHI330/SCT/S,16.80,InStock,Kosnic,Kosnic RHINE III 30W Floodlight with Sensor
+KOSRHI350/SCT,14.09,InStock,Kosnic,Kosnic RHINE III 50W Floodlight
+KOSRHI350/SCT/S,20.98,InStock,Kosnic,Kosnic RHINE III 50W Floodlight with Sensor
+KOSRMWDC,10.81,InStock,Kosnic,Kosnic LUL-M/D Lulu Plug in Microwave Motion and Daylight Sensor 12V DC
 KOSSWIR/GU10/S,21.31,InStock,Kosnic,Kosnic SWIR/GU10/S Swimley Twin 7W GU10 Up/Down wall light Sensor Stainless Steel
 KOSTARS/M/BLK,68.53,InStock,Kosnic,Kosnic TAR-M-BLK Tarkine Solar 650mm Diecast Medium Bollard 4000K Black
 KOSTARS/M/GRY,68.53,InStock,Kosnic,Kosnic TAR-M-GRY Tarkine Solar 650mm Diecast Medium Bollard 4000K Grey
@@ -737,7 +737,7 @@ MT2MRB5B,3.62,InStock,Marshall Tufflex,Marshall Tufflex 2MRB5B 20mm PVC Conduit 
 MT2MRB5W,3.62,InStock,Marshall Tufflex,Marshall Tufflex 2MRB5W 20mm PVC Conduit Tee Box White
 MT3MRB2W,4.80,InStock,Marshall Tufflex,Marshall Tufflex 3MRB2W 25mm PVC Conduit Terminal Box White
 MT3MRB3W,5.20,InStock,Marshall Tufflex,Marshall Tufflex 3MRB3W 25mm PVC Conduit Through Box White
-MT3MRB4W,5.20,OutOfStock,Marshall Tufflex,Marshall Tufflex 3MRB4W 25mm PVC Conduit Angle Box White
+MT3MRB4W,5.20,InStock,Marshall Tufflex,Marshall Tufflex 3MRB4W 25mm PVC Conduit Angle Box White
 MT3MRB5W,5.74,InStock,Marshall Tufflex,Marshall Tufflex 3MRB5W 25mm PVC Conduit Tee Box White
 MTCR6B,6.11,InStock,Marshall Tufflex,Marshall Tufflex CR6B 20mm PVC Round Conduit Heavy Gauge Black 3m Length
 MTCR6W,5.10,InStock,Marshall Tufflex,Marshall Tufflex CR6W 20mm PVC Round Conduit Heavy Gauge White 3m Length
@@ -865,11 +865,11 @@ NVAMONV245W,9.52,InStock,,100mm White Cowled Wall Outlet MONV245W
 NVAUMD100TX,109.30,InStock,Monsoon,UMD100TX Pro Inline Fan with Timer
 NVMONV363,8.71,InStock,,4 Inch Flexible PVC Duct 3m V363
 PCH020,6.00,InStock,Armeg,Armeg PCH020 20mm Premium Cobalt Holesaw
-PCH025,7.62,InStock,Armeg,Armeg PCH025 25mm Premium Cobalt Holesaw
+PCH025,7.62,OutOfStock,Armeg,Armeg PCH025 25mm Premium Cobalt Holesaw
 PCH032,8.88,InStock,Armeg,Armeg PCH032 32mm Premium Cobalt Holesaw
 PCH038,9.76,OutOfStock,Armeg,Armeg PCH038 38mm Premium Cobalt Holesaw
 PCH040,10.45,InStock,Armeg,Armeg PCH040 40mm Premium Cobalt Holesaw
-PCH051,10.94,InStock,Armeg,Armeg PCH051 51mm Premium Cobalt Holesaw
+PCH051,10.94,OutOfStock,Armeg,Armeg PCH051 51mm Premium Cobalt Holesaw
 PCH057,12.18,InStock,Armeg,Armeg PCH057 57mm Premium Cobalt Holesaw
 PCH064,12.55,InStock,Armeg,Armeg PCH064 64mm Premium Cobalt Holesaw
 PCH070,12.88,InStock,Armeg,Armeg PCH070 70mm Premium Cobalt Holesaw
@@ -966,17 +966,17 @@ VEN412259,438.24,InStock,Vent-Axia,Vent Axia Cool Box - 412259 NBR Coolbox 30
 VEN412260,544.80,OutOfStock,Vent-Axia,Vent Axia 412260 NBR Coolbox 50
 VEN412261,142.32,OutOfStock,Vent-Axia,Vent Axia 412261 NBR Passive Kit
 VEN412262,126.84,InStock,Vent-Axia,Vent Axia 412262 Lo-Carbon NBR Cool Unitary Fan 125mm
-VEN414942,62.50,InStock,Vent-Axia,Vent Axia 414942 100mm Lo-Carbon PureAir Cleanse Fan 100mm
+VEN414942,60.66,InStock,Vent-Axia,Vent Axia 414942 100mm Lo-Carbon PureAir Cleanse Fan 100mm
 VEN416472,44.45,InStock,Vent-Axia,"Vent Axia 416472/ VASF100BF 100mm 4"" Silent Fan Fixed Grille"
 VEN416473,48.23,InStock,Vent-Axia,"Vent Axia 416473/ VASF100TF 100mm 4"" Silent Fan with Timer Fixed Grille"
 VEN416474,83.50,InStock,Vent-Axia,"Vent Axia 416474/ VASF100HTF 100mm 4"" Silent Fan with Humidistat and Timer Fixed Grille"
-VEN416841,70.31,InStock,Vent-Axia,Vent Axia 416841 100mm Lo-Carbon PureAir Cleanse 100 HT 100mm
+VEN416841,68.24,InStock,Vent-Axia,Vent Axia 416841 100mm Lo-Carbon PureAir Cleanse 100 HT 100mm
 VEN427360BDW,7.69,InStock,Vent-Axia,Vent Axia 427360 Round Solid 90Deg Bend 125mm
 VEN428633BDW,2.60,InStock,Vent-Axia,Vent Axia 428633 Circular Connector 125mm
 VEN436532,20.96,InStock,Vent-Axia,Vent Axia 436532 Basic Slim Line Range Timer 100mm Fan
 VEN436533,34.32,InStock,Vent-Axia,Vent Axia 436533 Basics Slim Line Range Standard 150mm Fan
 VEN436649,7.27,OutOfStock,Vent-Axia,Vent Axia 436649 125mm Fixed Louvre Grille Brown
-VEN446658B,50.46,InStock,Vent-Axia,"Vent Axia 446658B Silent Fan 100mm Fixed Speed, Intermittent, Basic Model, Closed Grille"
+VEN446658B,49.74,InStock,Vent-Axia,"Vent Axia 446658B Silent Fan 100mm Fixed Speed, Intermittent, Basic Model, Closed Grille"
 VEN473848,142.08,InStock,Vent-Axia,Vent Axia 473848 Lo-Carbon Revive 7
 VEN473849,152.50,InStock,Vent-Axia,Vent Axia 473849 Lo-Carbon Revive SELV 7
 VEN477436B,99.22,OutOfStock,Vent-Axia,"Vent Axia 477436B Silent Fan 100mm Fixed Speed, Intermittent, Humidistat Model, Closed Grille"
@@ -987,7 +987,7 @@ VEN495336,6.01,InStock,Vent-Axia,Vent Axia 495336 RD104BK 100mm Fixed Lourve Gri
 VEN495337,7.27,OutOfStock,Vent-Axia,Vent Axia 495337 125mm Fixed Louvre Grille Black
 VEN498095BDW,51.47,InStock,Vent-Axia,Vent Axia 498095B Lo-Carbon NBR dMEVc 100mm
 VEN498096,62.04,OutOfStock,Vent-Axia,"Vent Axia 498096 Lo-Carbon NBR dMEVc 100mm Humidistat, Timer"
-VEN498097BDW,96.08,OutOfStock,Vent-Axia,Vent Axia 498097 Lo-Carbon NBR dMEVc 125mm
+VEN498097BDW,77.90,OutOfStock,Vent-Axia,Vent Axia 498097 Lo-Carbon NBR dMEVc 125mm
 VEN5108250,11.69,InStock,Vent-Axia,Vent Axia 5108250 Round Solid Ducting 100mm x 2mtr
 VEN561704BDW,5.28,InStock,Vent-Axia,Vent Axia 561704 Worm Drive Clip 110mm Metal
 VEN561707,7.10,InStock,Vent-Axia,Vent Axia 561707 Worm Drive Clip 180mm Metal
