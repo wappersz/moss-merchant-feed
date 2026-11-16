@@ -4,7 +4,7 @@ ABBDSE201MB16A30,50.47,InStock,ABB,"ABB Type B 1P+N 16A RCBO, Type A, 30mA DSE20
 ABBDSE201MB20A30,50.47,InStock,ABB,"ABB Type B 1P+N 20A RCBO, Type A, 30mA DSE201 M B20 A30"
 ABBDSE201MB32A30,50.47,InStock,ABB,"ABB Type B 1P+N 32A RCBO, Type A, 30mA DSE201 M B32 A30"
 ABBDSE201MB40A30,52.48,InStock,ABB,"ABB Type B 1P+N 40A RCBO, Type A, 30mA DSE201 M B40 A30"
-ABBDSE201MB50A30,52.48,InStock,ABB,"ABB Type B 1P+N 50A RCBO, Type A, 30mADSE201 M B50 A30 - N Blue"
+ABBDSE201MB50A30,52.48,InStock,ABB,"ABB Type B 1P+N 50A RCBO, Type A, 30mA DSE201 M B50 A30 - N Blue"
 ABBDSE201MB6A30,50.47,InStock,ABB,"ABB Type B 1P+N 6A RCBO, Type A, 30mA DSE201 M B06 A30"
 ABBDSE201MC10A30,50.47,InStock,ABB,"ABB Type C 1P+N 10A RCBO, Type A, 30mA DSE201 M C10 A30"
 ABBDSE201MC16A30,50.47,InStock,ABB,"ABB Type C 1P+N 16A RCBO, Type A, 30mA DSE201 M C16 A30"
@@ -136,7 +136,7 @@ ASHRL602,0.95,InStock,Hager,Hager RL602 Ceiling Rose Halo
 ASHSEL96T,5.30,InStock,Hager,Hager ASHSEL96T BC Battenholder
 AUREN/FD101SN,6.14,InStock,Aurora,Aurora Lighting EN-FD101SN Satin Nickel IP20 Downlight
 AURENDGU005/30,4.06,OutOfStock,Aurora,Aurora Lighting EN-DGU005/30 5w Dimmable Warm White 3000K GU10
-AURENDGU005/40,4.06,InStock,Aurora,Aurora Lighting EN-DGU005/30 5w Dimmable Cool White 4000K GU10
+AURENDGU005/40,4.06,InStock,Aurora,Aurora Lighting EN-DGU005/40 5w Dimmable Cool White 4000K GU10
 BANDAR12,4.63,InStock,Deligo,Deligo BANDAR12 All Round Banding Strap 12mm x 10m Black
 BGSC10,0.30,InStock,,MP1 Witch's Hat (Light Hanger) (HSC1 Type)
 BUILDSACK,7.80,InStock,,"RSB Rubble Sacks 21 x 32"" (Pack of 6)"
@@ -155,7 +155,7 @@ CAT6LSF,147.06,InStock,,CAT6LSF LSZH UTP Cable 305M
 CB1,17.46,InStock,Deligo,Deligo CB1 100A Single Pole Connector Block
 CB2,13.06,InStock,Deligo,Deligo CB2 100A Double Pole Connector Block
 CEDHC2D,20.03,InStock,CED,CED HC2D Convector Heater 2kW with Thermostat
-CHAIN,12.30,InStock,Deligo,Deligo CHAIN Jack Chain Galv 10mtrs
+CHAIN,12.30,OutOfStock,Deligo,Deligo CHAIN Jack Chain Galv 10mtrs
 CHD16-29HEX,4.52,InStock,Armeg,Armeg 9.5mm Hexagon Shank Drive Arbor
 CHD32-64HEX,13.44,InStock,Armeg,Armeg 13mm Hexagon Shank Drive Arbor
 CHOCBOX,1.09,InStock,Deligo,Deligo CHOC Connector Box 90x50x25mm
@@ -245,19 +245,19 @@ CWKIT20S,5.81,InStock,Deligo,Deligo CWKIT20S Brass Gland Pack 20mm (2) (Small)
 CWKIT25,14.39,InStock,Deligo,Deligo CWKIT25 Brass Gland Pack 25mm (2)
 CWKIT32,22.55,InStock,Deligo,Deligo CWKIT32 Brass Gland Pack 32mm (2)
 DANAUTPIRSP,19.84,InStock,,Danlers AUTPIRSP Surface Mounted Square PIR 360D
-DCCL10G,4.73,InStock,Conlok,Conlok CL10G 25mm Angle Box
-DCCL11G,4.99,InStock,Conlok,Conlok CL11G 25mm Tee Box
-DCCL13G,5.16,InStock,Conlok,Conlok CL13G 25mm U Box
-DCCL1G,3.42,InStock,Conlok,Conlok CL1G 20mm Terminal Box
-DCCL20GA,1.81,InStock,Conlok,Conlok CL20GA 20mm Female Adaptor
-DCCL20GC,1.39,InStock,Conlok,Conlok CL20GC 20mm Coupler
-DCCL25GA,2.30,InStock,Conlok,Conlok CL25GA 25mm Adaptor Female
-DCCL25GC,1.81,InStock,Conlok,Conlok CL25GC 25mm Coupler
-DCCL2G,3.72,InStock,Conlok,Conlok CL2G 20mm Through Box
-DCCL3G,3.72,InStock,Conlok,Conlok CL3G 20mm Angle Box
-DCCL4G,3.88,InStock,Conlok,Conlok CL4G 20mm Tee Box
-DCCL8G,4.19,InStock,Conlok,Conlok CL8G 25mm Terminal Box
-DCCL9G,4.73,InStock,Conlok,Conlok CL9G 25mm Through Box
+DCCL10G,4.09,InStock,Conlok,Conlok CL10G 25mm Angle Box
+DCCL11G,4.32,InStock,Conlok,Conlok CL11G 25mm Tee Box
+DCCL13G,4.48,InStock,Conlok,Conlok CL13G 25mm U Box
+DCCL1G,2.96,InStock,Conlok,Conlok CL1G 20mm Terminal Box
+DCCL20GA,1.57,InStock,Conlok,Conlok CL20GA 20mm Female Adaptor
+DCCL20GC,1.20,InStock,Conlok,Conlok CL20GC 20mm Coupler
+DCCL25GA,1.99,InStock,Conlok,Conlok CL25GA 25mm Adaptor Female
+DCCL25GC,1.57,InStock,Conlok,Conlok CL25GC 25mm Coupler
+DCCL2G,3.23,InStock,Conlok,Conlok CL2G 20mm Through Box
+DCCL3G,3.23,InStock,Conlok,Conlok CL3G 20mm Angle Box
+DCCL4G,3.36,InStock,Conlok,Conlok CL4G 20mm Tee Box
+DCCL8G,3.62,InStock,Conlok,Conlok CL8G 25mm Terminal Box
+DCCL9G,4.09,InStock,Conlok,Conlok CL9G 25mm Through Box
 DECCAULK,3.65,InStock,Deligo,Deligo DECCAULK Flexible Filler
 DELCDM45SS,13.40,InStock,Deligo,Deligo CDM45S Flat Metal Cutting Discs 115 x 1.0 x 22mm (Pack of 10)
 DELFP1I,3.95,InStock,Deligo,Deligo FPI1 1 Gang Fire Putty Pad (Internal)
@@ -448,7 +448,7 @@ HAGADC420U,37.70,InStock,Hager,Hager ADC420U RCBO 1M 1P 10kA C-20A 30mA Type A
 HAGADC432U,37.70,InStock,Hager,Hager ADC432U RCBO 1M 1P 10kA C-32A 30mA Type A
 HAGADC916R,22.37,InStock,Hager,Hager ADC916R RCBO 1M 1P+N 6kA C-16A 30mA A
 HAGADC920R,22.37,OutOfStock,Hager,Hager ADC920R RCBO 1M 1P+N 6kA C-20A 30MA A
-HAGBDC14FSPDHBM,204.00,OutOfStock,Hager,Hager BDC14FSPDHBM 14Way H/igh Int Flush C/W 2 x 100A RCCB+SURGE
+HAGBDC14FSPDHBM,204.00,OutOfStock,Hager,Hager BDC14FSPDHBM 14Way High Int Flush C/W 2 x 100A RCCB+SURGE
 HAGESC225,33.98,InStock,Hager,"Hager ESC225 Contactor 25A, 2NO, 230V~50Hz"
 HAGJK01B,1.20,InStock,Hager,Hager JK01B Single Pole Busbar Blank
 HAGJK102SPD,282.66,InStock,Hager,Hager JK102SPD 125A Surge Protection Kit Type II
@@ -477,7 +477,7 @@ HAGNC110,8.65,InStock,Hager,Hager NCN110A MCB 1P 10kA C 10A 1M
 HAGNC116,8.65,InStock,Hager,Hager NCN116A MCB 1P 10kA/15kA C 16A 1M
 HAGNC120,8.65,InStock,Hager,Hager NCN120A MCB 1P 10kA/15kA C 20A 1M
 HAGNC132,8.65,InStock,Hager,Hager NCN132A MCB 1P 10kA/15kA C 32A 1M
-HAGNC316,35.53,OutOfStock,Hager,Hager NCN316A MCB 3P 10kA/15kA C 16A 3M
+HAGNC316,35.53,InStock,Hager,Hager NCN316A MCB 3P 10kA/15kA C 16A 3M
 HAGNC320,35.53,InStock,Hager,Hager NCN320N MCB 3P 10kA C 20A 3M
 HAGNC332,35.87,InStock,Hager,Hager NCN332A MCB 3P 10kA/15kA C 32A 3M
 HAGNC340,36.56,InStock,Hager,Hager NCN340A MCB 3P 10kA/15kA C 40A 3M
@@ -544,7 +544,7 @@ KOMIS1.5-1.5,4.58,InStock,,IS1.5-1.5 Red Crimp Splice Terminal 1.5mm (PK 100)
 KOMIS2.5-2.5,4.64,InStock,,IS2.5-2.5 Blue Crimp Splice Terminal 2.5mm (PK 100)
 KOMIS6-6,7.04,InStock,,IS6-6 Yellow Crimp Splice Terminal 6mm (PK 100)
 KOMKCT200-4.8,2.34,InStock,,200 x 4.8mm Black Cable Tie (Pack of 100)
-KOMKCT200-4.8W,2.34,InStock,,200 x 4.8mm Natural Cable Tie (Pack of 100)
+KOMKCT200-4.8W,2.34,OutOfStock,,200 x 4.8mm Natural Cable Tie (Pack of 100)
 KOMKCT300-4.8,3.32,InStock,,300 x 4.8mm Black Cable Tie (Pack of 100)
 KOMKCT300-4.8W,3.02,InStock,,300 x 4.8mm Natural Cable Tie (Pack of 100)
 KOMKCT300-7.6,6.14,InStock,,300 x 7.6mm Black Cable Tie (Pack of 100)
@@ -573,7 +573,7 @@ KOSFOLU/BLK/S,29.38,InStock,Kosnic,Kosnic FOLU-BLK-S Folly Black E27 Up Wall Lan
 KOSFOR11M/GRY,81.30,InStock,Kosnic,Kosnic FORM/GRY Forbury Grey 11W 340lm 4000K Integrated LED Bollard
 KOSFOR15T/BLK,85.54,InStock,Kosnic,Kosnic FOR15T-BLK Forbury Black 15W 530lm 4000K Integrated LED Bollard
 KOSFOR15T/GRY,85.54,InStock,Kosnic,Kosnic FOR15T-GRY Forbury Grey 15W 530lm 4000K Integrated LED Bollard
-KOSHAD110O/GRY,25.86,InStock,Kosnic,Kosnic HAD11O-GRY Haldon IP54 11W 750lm 4000K Grey Circular Outdoor LED Wall Light
+KOSHAD110O/GRY,25.86,InStock,Kosnic,Kosnic HAD11O-GRY Haldon IP54 11W 750lm 4000K Grey Oval Outdoor LED Wall Light
 KOSHAD11C/BLK,26.17,InStock,Kosnic,Kosnic HAD11C-BLK Haldon IP54 11W 750lm 4000K Black Circular Outdoor LED Wall Light
 KOSHAD11C/GRY,26.17,InStock,Kosnic,Kosnic HAD11C-GRY Haldon IP54 11W 750lm 4000K Grey Circular Outdoor LED Wall Light
 KOSHAD11O/BLK,25.93,InStock,Kosnic,Kosnic HAD11O-BLK Haldon IP54 11W 750lm 4000K Black Oval Outdoor LED Wall Light
@@ -707,7 +707,7 @@ MKK8893,6.24,OutOfStock,MK Electric,MK K8893 6 & 8 Gang Metal Box with Knockouts
 MKK8895,8.60,OutOfStock,MK Electric,MK K8895 9 & 12 Gang Metal Box with Knockouts
 MKK899,3.04,InStock,MK Electric,MK K899 1 Gang 38mm Metal Box with Knockouts
 MKK932,14.33,InStock,MK Electric,MK K932 Metalclad Plus 13A DP Switch Fused Spur with Flex Outlet
-MKK942,13.26,InStock,MK Electric,MK K942 Metalclad 13A DP Switched Fused Spur
+MKK942,13.26,OutOfStock,MK Electric,MK K942 Metalclad 13A DP Switched Fused Spur
 MKK954,11.20,OutOfStock,MK Electric,MK K954 Metalclad 13A DP Switched Fused Spur
 MKVP100,7.18,InStock,MK Electric,MK VP100 Straight Cover
 MKVP110,7.18,InStock,MK Electric,MK VP110 Curved Cover
@@ -844,11 +844,11 @@ NIGPCU1816M,57.89,InStock,Niglon,Niglon PCU1816M Protego 18 Module 16 Free Ways 
 NIGPCU2220M,67.39,InStock,Niglon,Niglon PCU2220M Protego 22 Module 20 Free Ways 100A DP Isolator
 NIGPMODBLANK,1.09,InStock,Niglon,Niglon Module Blank (Domestic Consumer Unit)
 NIGRCBO1-10/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-10/30SAX2 10A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-16/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-10/30SAX2 16A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-20/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-10/30SAX2 20A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-32/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-10/30SAX2 32A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-40/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-10/30SAX2 40A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-6/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-10/30SAX2 6A A Type Switched Line & Neutral Bi-Directional RCBO
+NIGRCBO1-16/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-16/30SAX2 16A A Type Switched Line & Neutral Bi-Directional RCBO
+NIGRCBO1-20/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-20/30SAX2 20A A Type Switched Line & Neutral Bi-Directional RCBO
+NIGRCBO1-32/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-32/30SAX2 32A A Type Switched Line & Neutral Bi-Directional RCBO
+NIGRCBO1-40/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-40/30SAX2 40A A Type Switched Line & Neutral Bi-Directional RCBO
+NIGRCBO1-6/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-6/30SAX2 6A A Type Switched Line & Neutral Bi-Directional RCBO
 NUACYFAN-WKIT,30.60,InStock,Nuaire,Nuaire Cyfan Window Kit
 NUACYFAN/C,132.60,InStock,Nuaire,Nuaire Cyfan Kitchen and Bathroom Extractor Fan
 NUAFAITH/PLUS,106.20,InStock,Nuaire,Nuaire Faith Plus
@@ -997,6 +997,7 @@ WAG221413,14.00,InStock,Wago,Wago 221-413 3 Way Connector 4mm Terminal Block (Pa
 WAG221415,11.75,InStock,Wago,Wago 221-415 5 Way Connector (Pack of 25)
 WAG221613,19.20,InStock,Wago,Wago 221-613 3 Way Connector 6mm Terminal Block (Pack 30)
 WAG221615,19.05,InStock,Wago,Wago 221-615 5 Way Connector 6mm Terminal Block (Pack 15)
+WANEL600W,97.30,InStock,Warner Howard,Warner Howard EL600W 600W Low Energy Hand Dryer White (091183PR)
 WBF20,4.61,InStock,Armeg,Armeg WBF20 20mm WoodBeaver Flat Bit
 WBF20XL,7.99,InStock,Armeg,Armeg WBF20XL 20mm Long Woodbeaver Flat Bit
 WBF25,5.10,InStock,Armeg,Armeg WBF25 25mm WoodBeaver Flat Bit
@@ -1011,7 +1012,7 @@ WIPES,17.69,InStock,,BDHW80 Multi Hand Wipes (110 in Pack)
 WIS10109900,5.54,InStock,Wiska,Wiska 10109900 85 x 49 x 51mm IP67 C/W Term Black
 WIS60401,5.70,InStock,Wiska,Wiska 10060401 85mm x 85mm x 51mm PVC Adaptable Box Grey IP66/67
 WIS60580,5.70,InStock,Wiska,Wiska 10060580 85mm x 85mm x 51mm PVC Adaptable Box Black IP66/67
-WIS60703,23.33,OutOfStock,Wiska,Wiska 10060401 140mm x 140mm x 82mm PVC Adaptable Box Grey IP66/67
+WIS60703,23.33,OutOfStock,Wiska,Wiska 10060703 140mm x 140mm x 82mm PVC Adaptable Box Grey IP66/67
 WIS61778,10.10,OutOfStock,Wiska,Wiska 10061778 110mm x 110mm PVC Adaptable Box Grey IP66/67
 WIS61779,10.10,InStock,Wiska,Wiska 10061779 110mm x 110mm PVC Adaptable Box Black IP66/IP67
 WISEMT20,0.50,InStock,Wiska,Wiska EMT20 20mm Membrane Spout IP66 Grey
