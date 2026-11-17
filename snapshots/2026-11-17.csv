@@ -292,7 +292,7 @@ DETG3513,5.95,InStock,Deta,Deta G3513 20A Intermediate Grid Switch
 DETG3514,3.52,InStock,Deta,Deta G3514 20A DP Grid Switch
 DETG3544,1.02,InStock,Deta,Deta G3544 Blank Module Grid Switch
 DETG3551,3.07,OutOfStock,Deta,Deta G3551 20A DP Oven Grid Switch
-DETG3552,3.07,InStock,Deta,Deta G3551 20A DP Hob Grid Switch
+DETG3552,3.07,InStock,Deta,Deta G3552 20A DP Hob Grid Switch
 DETG3553,3.07,InStock,Deta,Deta G3553 20A DP Extract Fan Grid Switch
 DETG3554,3.07,InStock,Deta,Deta G3554 20A DP Washing Machine Grid Switch
 DETG3555,3.07,InStock,Deta,Deta G3555 20A DP Tumble Dryer Grid Switch
@@ -313,7 +313,7 @@ DETL2843B,20.93,InStock,Deta,Deta L2843B 6 Panel Lantern with PIR Black
 DETL2858LED6,44.09,InStock,Deta,Deta L2858 Up & Down Long Wall Light with PIR & 6500K LED Lamp Stainless Steel
 DETS1200,0.61,InStock,Deta,Deta S1200 1 Gang Blank Plate White
 DETS1201,0.71,InStock,Deta,Deta S1201 2 Gang Blank Plate White
-DETS1202,0.61,InStock,Deta,Deta S1202 10A 1 Gang 1 Way Light Switch White
+DETS1202,0.58,InStock,Deta,Deta S1202 10A 1 Gang 1 Way Light Switch White
 DETS1203,0.73,InStock,Deta,Deta S1203 10A 1 Gang 2 Way Light Switch White
 DETS1204,1.37,InStock,Deta,Deta S1204 10A 2 Gang 2 Way Light Switch White
 DETS1205,1.99,InStock,Deta,Deta S1205 10A 3 Gang 2 Way Light Switch White
@@ -377,7 +377,7 @@ EARTHRODCLAMP,2.51,InStock,Deligo,Deligo ERC3/8 Brass Machined Earth Rod Clamp 3
 EHDH9W001,98.06,InStock,,Velair EHDH9W001 Hydra 9 High Speed Hand Dryer White
 ETRDFHT2KW,35.63,InStock,Eterna,Eterna DFHT2KW 2kW Adjustable Downflow Heater
 ETRE12PH2,85.48,InStock,Eterna,Eterna Plinth E12PH2 2KW Fan Heater with RF Thermostat and Remote
-EURMEC4M,21.85,InStock,,MEC4M 4 Module Enclosure C/W Lid Metal
+EURMEC4M,21.85,InStock,Europa,MEC4M 4 Module Enclosure C/W Lid Metal
 EXDMN1400,1.60,InStock,Duracell,Duracell Procell C Batteries
 EXDMN1500,6.50,InStock,Duracell,Duracell Procell AA Batteries (Pack of 10)
 EXDMN1604,2.49,OutOfStock,Duracell,Duracell Procell 9v Battery
@@ -389,7 +389,7 @@ FLXFP4R,4.22,InStock,Flex7,Flex 7 FP4/R 4 Pin Red Plug 16A 230V
 FLXFP7B,9.29,InStock,Flex7,Flex 7 FP7/B 7 Pin Black Plug 16A 230V
 FLXFP7R,9.29,OutOfStock,Flex7,Flex 7 FP7/R 7 Pin Red Plug 16A 230V
 FLXFP7W,9.29,InStock,Flex7,Flex 7 FP7/W 7 Pin White Plug 16A 230V
-FLXFSU04,47.21,OutOfStock,Flex7,Flex7 FSU04 Starter 4 Way eZeBox
+FLXFSU04,47.21,InStock,Flex7,Flex7 FSU04 Starter 4 Way eZeBox
 FLXFSU06,61.14,OutOfStock,Flex7,Flex7 FSU06 Starter 6 Way eZeBox
 FLXFTS03W,3.73,InStock,Flex7,Flex 7 FTS03/W 3 Pole White Socket Outlet 16A 230V
 FLXFTS04B,4.42,InStock,Flex7,Flex 7 FTS04/B 4 Pole Black Socket Outlet 2x4.0mm
@@ -843,12 +843,12 @@ NIGPCU1412M,51.70,InStock,Niglon,Niglon PCU1412M Protego 14 Module 12 Free Ways 
 NIGPCU1816M,57.89,InStock,Niglon,Niglon PCU1816M Protego 18 Module 16 Free Ways 100A DP Isolator
 NIGPCU2220M,67.39,InStock,Niglon,Niglon PCU2220M Protego 22 Module 20 Free Ways 100A DP Isolator
 NIGPMODBLANK,1.09,InStock,Niglon,Niglon Module Blank (Domestic Consumer Unit)
-NIGRCBO1-10/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-10/30SAX2 10A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-16/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-16/30SAX2 16A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-20/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-20/30SAX2 20A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-32/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-32/30SAX2 32A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-40/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-40/30SAX2 40A A Type Switched Line & Neutral Bi-Directional RCBO
-NIGRCBO1-6/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-6/30SAX2 6A A Type Switched Line & Neutral Bi-Directional RCBO
+NIGRCBO1-10/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-10/30SAX2 10A B Curve 30mA Type A Bi-Directional RCBO
+NIGRCBO1-16/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-16/30SAX2 16A B Curve 30mA Type A Bi-Directional RCBO
+NIGRCBO1-20/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-20/30SAX2 20A B Curve 30mA Type A Bi-Directional RCBO
+NIGRCBO1-32/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-32/30SAX2 32A B Curve 30mA Type A Bi-Directional RCBO
+NIGRCBO1-40/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-40/30SAX2 40A B Curve 30mA Type A Bi-Directional RCBO
+NIGRCBO1-6/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-6/30SAX2 6A B Curve 30mA Type A Bi-Directional RCBO
 NUACYFAN-WKIT,30.60,InStock,Nuaire,Nuaire Cyfan Window Kit
 NUACYFAN/C,132.60,InStock,Nuaire,Nuaire Cyfan Kitchen and Bathroom Extractor Fan
 NUAFAITH/PLUS,106.20,InStock,Nuaire,Nuaire Faith Plus
