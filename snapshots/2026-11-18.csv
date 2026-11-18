@@ -402,11 +402,11 @@ GBT80C,23.83,InStock,Greenbrook,Greenbrook GBT80C Din Rail Digital Timer 7 Day
 GKN8X.75CS,2.64,InStock,Deligo,"8 x 3/4"" Pozi Countersunk Twinthread Woodscrews BZP"
 GKN8X2CS,5.67,InStock,Deligo,"GKN8X2CS 8 x 2"" Pozi Countersunk Twinthread Woodscrews BZP"
 GKN8X3CS,6.17,InStock,Deligo,"GKN8X3CS 8 x 3"" Pozi Countersunk Twinthread Woodscrews BZP"
-GKNM3.5X100,16.74,InStock,Deligo,M3.5 x 100mm Steel Machine Screw BZP (Pack 100)
-GKNM3.5X35,4.93,InStock,Deligo,M3.5 x 35mm Steel Machine Screw BZP (Pack 100)
-GKNM3.5X40,4.92,InStock,Deligo,M3.5 x 40mm Steel Machine Screw BZP (Pack 100)
-GKNM3.5X50,5.75,InStock,Deligo,M3.5 x 50mm Steel Machine Screw BZP (Pack 100)
-GKNM3.5X75,9.38,InStock,Deligo,M3.5 x 75mm Steel Machine Screw BZP (Pack 100)
+GKNM3.5X100,16.74,InStock,Deligo,M3.5 x 100mm Steel Machine Screw Nickel Plated (Pack 100)
+GKNM3.5X35,4.93,InStock,Deligo,M3.5 x 35mm Steel Machine Screw Nickel Plated (Pack 100)
+GKNM3.5X40,4.92,InStock,Deligo,M3.5 x 40mm Steel Machine Screw Nickel Plated (Pack 100)
+GKNM3.5X50,5.75,InStock,Deligo,M3.5 x 50mm Steel Machine Screw Nickel Plated (Pack 100)
+GKNM3.5X75,9.38,InStock,Deligo,M3.5 x 75mm Steel Machine Screw Nickel Plated (Pack 100)
 GKNM4X12BRS,7.75,InStock,Deligo,M4 x 12mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X16BRS,9.48,InStock,Deligo,M4 x 16mm Pan Head Slot Screws Brass (Pack of 100)
 GKNM4X20BRS,10.85,InStock,Deligo,M4 x 20mm Pan Head Slot Screws Brass (Pack of 100)
@@ -528,8 +528,8 @@ HYFLEX9,1.06,InStock,Deligo,SPU9 PU Gloves Black Size 9
 INTILDLFR70D001,5.92,OutOfStock,Integral LED,ILDLFR70D001 Evofire 85 Fire Rated Downlight 70mm Cutout IP65 with GU10 Holder
 INTILDLFR70D013,9.01,OutOfStock,Integral LED,ILDLFR70D013 Evofire Maxi 110 Fire Rated Downlight 70-100mm Cutout IP65 with GU10 Holder
 INTILGU10DC121,4.34,OutOfStock,Integral LED,ILGU10DC121 Warmtone Glass GU10 400lm 3.6W 1800-2700k Dimmable 36 Beam
-KOMCT10-10,3.57,InStock,Deligo,CT10-10 10mm Copper Lug 10mm Hole
-KOMCT10-8,2.50,InStock,Deligo,CT10-8 10mm Copper Lug 8mm Hole
+KOMCT10-10,3.57,InStock,Termination Technology,CT10-10 10mm Copper Lug 10mm Hole
+KOMCT10-8,2.50,InStock,Termination Technology,CT10-8 10mm Copper Lug 8mm Hole
 KOMCT16-6,3.29,InStock,Termination Technology,CT16-6 16mm Copper Lug 6mm Hole
 KOMCT16-8,3.57,InStock,Termination Technology,CT16-8 16mm Copper Lug 8mm Hole
 KOMIR1.5-4.3,3.55,OutOfStock,Termination Technology,IR1.5-4.3 Red Ring Lug Terminal 4.3mm Hole (PK 100)
@@ -538,18 +538,18 @@ KOMIR2.5-4.3,3.55,OutOfStock,Termination Technology,IR2.5-4.3 Blue Ring Lug Term
 KOMIR2.5-6.5,4.75,OutOfStock,Termination Technology,IR2.5-6.5 Blue Ring Lug Terminal 6.5mm Hole (PK100)
 KOMIR2.5-8.5,6.50,OutOfStock,Termination Technology,IR2.5-8.5 Blue Ring Lug Terminal 8.5mm Hole (PK100)
 KOMIR6-4.3,7.19,OutOfStock,Termination Technology,IR6-4.3 Yellow Ring Lug Terminal 4.3mm Hole (PK100)
-KOMIR6-6.5,9.40,InStock,Deligo,IR6-6.5 Yellow Ring Lug Terminal 6.5mm Hole (PK100)
-KOMIR6-8.5,9.40,InStock,Deligo,IR6-8.5 Yellow Ring Lug Terminal 8.5mm Hole (PK100)
-KOMIS1.5-1.5,4.58,InStock,Deligo,IS1.5-1.5 Red Crimp Splice Terminal 1.5mm (PK 100)
-KOMIS2.5-2.5,4.64,InStock,Deligo,IS2.5-2.5 Blue Crimp Splice Terminal 2.5mm (PK 100)
-KOMIS6-6,7.04,InStock,Deligo,IS6-6 Yellow Crimp Splice Terminal 6mm (PK 100)
+KOMIR6-6.5,9.40,InStock,Termination Technology,IR6-6.5 Yellow Ring Lug Terminal 6.5mm Hole (PK100)
+KOMIR6-8.5,9.40,InStock,Termination Technology,IR6-8.5 Yellow Ring Lug Terminal 8.5mm Hole (PK100)
+KOMIS1.5-1.5,4.58,InStock,Termination Technology,IS1.5-1.5 Red Crimp Splice Terminal 1.5mm (PK 100)
+KOMIS2.5-2.5,4.64,InStock,Termination Technology,IS2.5-2.5 Blue Crimp Splice Terminal 2.5mm (PK 100)
+KOMIS6-6,7.04,InStock,Termination Technology,IS6-6 Yellow Crimp Splice Terminal 6mm (PK 100)
 KOMKCT200-4.8,2.34,InStock,C-Tie,200 x 4.8mm Black Cable Tie (Pack of 100)
 KOMKCT200-4.8W,2.34,OutOfStock,C-Tie,200 x 4.8mm Natural Cable Tie (Pack of 100)
 KOMKCT300-4.8,3.32,InStock,C-Tie,300 x 4.8mm Black Cable Tie (Pack of 100)
 KOMKCT300-4.8W,3.02,InStock,C-Tie,300 x 4.8mm Natural Cable Tie (Pack of 100)
 KOMKCT300-7.6,6.14,InStock,C-Tie,300 x 7.6mm Black Cable Tie (Pack of 100)
 KOMKCT370-7.6,8.03,InStock,C-Tie,370 x 7.6mm Black Cable Tie (Pack of 100)
-KOMKCT540-13.2,19.96,InStock,C-Tie,540 x 8mm Black Cable Tie (Pack of 100)
+KOMKCT540-13.2,19.96,InStock,C-Tie,530 x 9mm Black Cable Tie (Pack of 100)
 KOSA5.9/BC27,0.96,InStock,Kosnic,Kosnic A5.9-BC27 LED GLS B22 5.9w 2700k
 KOSA5.9/ES27,0.96,InStock,Kosnic,Kosnic A5.9-ES27 LED GLS E27 5.9w 2700k
 KOSALD4AG25/SCT,21.80,InStock,Kosnic,"Kosnic Alden 4 LED Anti-Glare Panel 600x600, Multi-Lumen, CCT, IP44"
@@ -922,8 +922,8 @@ SWAFCP20-PK10,6.88,InStock,Termination Technology,FCP20-PK10 20mm Polypropylene 
 SWAFCP25-PK10,8.59,InStock,Termination Technology,FCP25-PK10 25mm Polypropylene Contractors Pack (10m Reel)
 SWAGLV400,12.86,InStock,Deligo,AERO-GALV Standard Bright Zinc Galv Spray
 TBYEC14,1.63,InStock,Deligo,TBYEC14 135mm Non-Corrosive & Dry Atmosphere Earth Clamp
-TBYEC15,2.26,InStock,Deligo,TBYEC15 133mm For Corrosive & Humid Atmosphere Earth Clamp
-TBYEC16,3.66,InStock,Deligo,TBYEC16 133mm For Corrosive & Humid Atmosphere Earth Clamp
+TBYEC15,2.26,InStock,Deligo,"TBYEC15 Blue Label Earth Clamp 12-32mm, Corrosive & Humid"
+TBYEC16,3.66,InStock,Deligo,"TBYEC16 Green Label Earth Clamp 12-32mm, Corrosive & Humid"
 TBYGP11,6.65,InStock,Deligo,TBYGP11 20mm Blind Grommets Black (Pack of 100)
 TBYGP12,11.45,InStock,Deligo,TBYGP12 25mm Blind Grommets Black (Pack of 100)
 TBYGP2,3.77,OutOfStock,Deligo,TBYGP2 20mm Open Grommets Black (Pack of 100)
