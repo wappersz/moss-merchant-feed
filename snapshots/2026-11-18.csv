@@ -138,8 +138,8 @@ AUREN/FD101SN,6.14,InStock,Aurora,Aurora Lighting EN-FD101SN Satin Nickel IP20 D
 AURENDGU005/30,4.06,OutOfStock,Aurora,Aurora Lighting EN-DGU005/30 5w Dimmable Warm White 3000K GU10
 AURENDGU005/40,4.06,InStock,Aurora,Aurora Lighting EN-DGU005/40 5w Dimmable Cool White 4000K GU10
 BANDAR12,4.63,InStock,Deligo,Deligo BANDAR12 All Round Banding Strap 12mm x 10m Black
-BGSC10,0.30,InStock,,MP1 Witch's Hat (Light Hanger) (HSC1 Type)
-BUILDSACK,7.80,InStock,,"RSB Rubble Sacks 21 x 32"" (Pack of 6)"
+BGSC10,0.30,InStock,Deligo,MP1 Witch's Hat (Light Hanger) (HSC1 Type)
+BUILDSACK,7.80,InStock,Deligo,"RSB Rubble Sacks 21 x 32"" (Pack of 6)"
 BUSMC10G20,1.32,InStock,Bussmann,Bussmann C10G20 20a Cylindrical Fuse 10x38mm
 BWKIT20,4.43,InStock,Deligo,Deligo BWKIT20 Brass Gland Pack 20mm (2)
 BWKIT20S,3.84,InStock,Deligo,Deligo BWKIT20S Brass Gland Pack 20mm (2) (Small)
@@ -149,9 +149,9 @@ BWKIT40,13.50,InStock,Deligo,Deligo BWKIT40 Brass Gland Pack 40mm (1)
 BWKIT50,21.44,InStock,Deligo,Deligo BWKIT50 Brass Gland Pack 50mm (1)
 BWKIT63,32.76,OutOfStock,Deligo,Deligo BWKIT63 Brass Gland Pack 63mm (1)
 BWKIT75,61.39,OutOfStock,Deligo,Deligo BWKIT75 Brass Gland Pack 75mm (1)
-CAT5E,76.50,InStock,,CAT5E UTP Cable 305M
-CAT5ELSF,85.32,InStock,,CAT5ELSF CAT5E LSZOH UTP Cable 305M
-CAT6LSF,147.06,InStock,,CAT6LSF LSZH UTP Cable 305M
+CAT5E,76.50,InStock,Hangzhou,CAT5E UTP Cable 305M
+CAT5ELSF,85.32,InStock,Hangzhou,CAT5ELSF CAT5E LSZOH UTP Cable 305M
+CAT6LSF,147.06,InStock,Securiflex,CAT6LSF LSZH UTP Cable 305M
 CB1,17.46,InStock,Deligo,Deligo CB1 100A Single Pole Connector Block
 CB2,13.06,InStock,Deligo,Deligo CB2 100A Double Pole Connector Block
 CEDHC2D,20.03,InStock,CED,CED HC2D Convector Heater 2kW with Thermostat
@@ -179,13 +179,13 @@ CKT49244/055,11.40,InStock,CK Tools,CK T49244-055 Screwdriver SL5.5 X 125mm
 CKT49245,12.18,InStock,CK Tools,CK T49245 VDE Slim Screwdriver SL-PZ2U
 CKT49246,12.18,InStock,CK Tools,CK T49246 VDE Slim Screwdriver PH2U X100mm
 CKT5410,46.38,InStock,CK Tools,CK T5410 Mighty Rod Cable Rod Set 10m
-CLEAT10,0.23,InStock,,CC10 Cable Cleat No. 10
-CLEAT11,0.40,InStock,,CC11 Cable Cleat No. 11
-CLEAT5,0.08,InStock,,CC5 Cable Cleat No. 5
-CLEAT6,0.16,InStock,,CC6 Cable Cleat No. 6
-CLEAT7,0.11,InStock,,CC7 Cable Cleat No. 7
-CLEAT8,0.19,InStock,,CC8 Cable Cleat No. 8
-CLEAT9,0.16,InStock,,CC9 Cable Cleat No. 9
+CLEAT10,0.23,InStock,Termination Technology,CC10 Cable Cleat No. 10
+CLEAT11,0.40,InStock,Termination Technology,CC11 Cable Cleat No. 11
+CLEAT5,0.08,InStock,Termination Technology,CC5 Cable Cleat No. 5
+CLEAT6,0.16,InStock,Termination Technology,CC6 Cable Cleat No. 6
+CLEAT7,0.11,InStock,Termination Technology,CC7 Cable Cleat No. 7
+CLEAT8,0.19,InStock,Termination Technology,CC8 Cable Cleat No. 8
+CLEAT9,0.16,InStock,Termination Technology,CC9 Cable Cleat No. 9
 CLKCMA011,0.97,InStock,Click,Click 10A 1 Gang 2 Way Light Switch White CMA011
 CLKCMA012,1.54,InStock,Click,Click 10A 2 Gang 2 Way Light Switch White CMA012
 CLKCMA013,1.98,InStock,Click,Click 10A 3 Gang 2 Way Light Switch White CMA013
@@ -223,18 +223,18 @@ CLKPRW052,3.37,InStock,Click,Click PRW052 13A Switched Fused Spur C/W Neon White
 CLKPRW205,7.73,InStock,Click,Click PRW205 CCU13A Socket+Neon 45A White
 CLKPRW213,6.95,InStock,Click,Click PRW213 50A Round Ceiling Switch White
 CLKPRW215,2.90,InStock,Click,Click PRW215 45A Cooker Outlet White
-CN20MGA4,5.72,InStock,,CN20MGA4 20mm x 3.75mtr Steel Conduit Tube
-CN25MGA4,8.22,InStock,,CN25MGA4 25mm x 3.75mtr Steel Conduit Tube
-CNB20M1WGA,1.64,InStock,,20mm Galvanised Terminal Box CNB20M1WGA
-CNB20M2WGA,1.78,InStock,,20mm Galvanised Through Box CNB20M2WGA
-CNB20M3WGA,2.09,InStock,,20mm Galvanised Tee Box CNB20M3WGA
-CNB20MAGA,1.78,InStock,,20mm Galvanised Angle Box CNB20MAGA
-CNB20MUGA,2.26,InStock,,20mm Galvanised U Box CNB20MUWGA
-CNB20MYGA,3.17,InStock,,20mm Galvanised Y Box CNB20MYGA
-CNB25M1WGA,2.56,InStock,,25mm Galvanised Terminal Box CNB25M1WGA
-CNB25M2WGA,2.70,InStock,,25mm Galvanised 2 Way Through Box CNB25M2WGA
-CNB25M3WGA,2.98,InStock,,25mm Galvanised Tee Box CNB25M3WGA
-CNB25MAGA,2.70,InStock,,25mm Galvanised Angle Box CNB25MAGA
+CN20MGA4,5.72,InStock,Metpro,CN20MGA4 20mm x 3.75mtr Steel Conduit Tube
+CN25MGA4,8.22,InStock,Metpro,CN25MGA4 25mm x 3.75mtr Steel Conduit Tube
+CNB20M1WGA,1.64,InStock,Metpro,20mm Galvanised Terminal Box CNB20M1WGA
+CNB20M2WGA,1.78,InStock,Metpro,20mm Galvanised Through Box CNB20M2WGA
+CNB20M3WGA,2.09,InStock,Metpro,20mm Galvanised Tee Box CNB20M3WGA
+CNB20MAGA,1.78,InStock,Metpro,20mm Galvanised Angle Box CNB20MAGA
+CNB20MUGA,2.26,InStock,Metpro,20mm Galvanised U Box CNB20MUWGA
+CNB20MYGA,3.17,InStock,Metpro,20mm Galvanised Y Box CNB20MYGA
+CNB25M1WGA,2.56,InStock,Metpro,25mm Galvanised Terminal Box CNB25M1WGA
+CNB25M2WGA,2.70,InStock,Metpro,25mm Galvanised 2 Way Through Box CNB25M2WGA
+CNB25M3WGA,2.98,InStock,Metpro,25mm Galvanised Tee Box CNB25M3WGA
+CNB25MAGA,2.70,InStock,Metpro,25mm Galvanised Angle Box CNB25MAGA
 CRA18R63/A30/2,35.80,InStock,Crabtree,Crabtree 18R63/A30/2 Loadstar 63A 30mA 2 Pole Type-A RCCB
 CRA18R80/A30/2,45.71,InStock,Crabtree,Crabtree 18R80/A30/2 Loadstar 80A 30mA 2 Pole Type-A RCCB
 CSS15A,1.84,InStock,Unicrimp,Unicrimp QTB15 15A 12 Way Strip Connector (Sold in 1's)
@@ -244,7 +244,7 @@ CWKIT20,7.73,InStock,Deligo,Deligo CWKIT20S Brass Gland Pack 20mm (2)
 CWKIT20S,5.81,InStock,Deligo,Deligo CWKIT20S Brass Gland Pack 20mm (2) (Small)
 CWKIT25,14.39,InStock,Deligo,Deligo CWKIT25 Brass Gland Pack 25mm (2)
 CWKIT32,22.55,InStock,Deligo,Deligo CWKIT32 Brass Gland Pack 32mm (2)
-DANAUTPIRSP,19.84,InStock,,Danlers AUTPIRSP Surface Mounted Square PIR 360D
+DANAUTPIRSP,19.84,InStock,Danlers,Danlers AUTPIRSP Surface Mounted Square PIR 360D
 DCCL10G,4.09,InStock,Conlok,Conlok CL10G 25mm Angle Box
 DCCL11G,4.32,InStock,Conlok,Conlok CL11G 25mm Tee Box
 DCCL13G,4.48,InStock,Conlok,Conlok CL13G 25mm U Box
@@ -307,7 +307,7 @@ DETG3565,3.07,InStock,Deta,Deta G3565 20A DP Fan Boost Grid Switch
 DETL1021WH,30.35,InStock,Deta,Deta L1021WH Surface LED Luminaire 14w
 DETL1701CH4,16.16,OutOfStock,Deta,Deta L1701CH4 LED Fire Rated Downlight 4000K Chrome
 DETL1701SC4,16.16,OutOfStock,Deta,Deta L1701SC4 LED Fire Rated Downlight 4000K Satin Chrome
-DETL1701WH4,16.16,InStock,Deta,Deta L1701WH4 LED Fire Rated Downlight 4000K Chrome
+DETL1701WH4,16.16,InStock,Deta,Deta L1701WH4 LED Fire Rated Downlight 4000K White
 DETL2306,20.70,InStock,Deta,Deta L2306 Bulkhead with PIR IP44
 DETL2843B,20.93,InStock,Deta,Deta L2843B 6 Panel Lantern with PIR Black
 DETL2858LED6,44.09,InStock,Deta,Deta L2858 Up & Down Long Wall Light with PIR & 6500K LED Lamp Stainless Steel
@@ -325,7 +325,7 @@ DETS1215,2.59,InStock,Deta,Deta S1215 25A Flex Outlet Plate White
 DETS1217,3.24,InStock,Deta,Deta S1217 45A Cooker Outlet White
 DETS1244,5.62,InStock,Deta,Deta S1244 10A 4 Gang 2 Way Light Switch White
 DETS1246,2.93,InStock,Deta,Deta S1246 10A 1 Gang Intermediate Switch White
-DETS1247,2.78,InStock,Deta,Deta S1247 10A Tripe Pole Isolator White
+DETS1247,2.78,InStock,Deta,Deta S1247 10A Triple Pole Isolator White
 DETS1264,1.92,InStock,Deta,Deta S1264 Coax Outlet 1 Gang White
 DETS1268,1.90,InStock,Deta,Deta S1268 Coax Socket 1 Gang Non Isolated White
 DETS1288,14.21,InStock,Deta,Deta S1288 13A 2 Gang Switched Socket with 2x Type A and 1x Type C USB White
@@ -371,10 +371,10 @@ DETV1298,7.10,InStock,Deta,Deta V1298 45A Ceiling Pull Switch
 DLISAFE/D30,20.57,InStock,D-Line,D Line DLISAFE/30 D-Line Safe-D Fire Rated Clips 25mm (Pack of 100)
 DLISAFE/D40,17.34,InStock,D-Line,D Line DLISAFE/40 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)
 DLISAFE/D50,21.29,InStock,D-Line,D Line DLISAFE/50 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)
-EARTHROD,3.58,InStock,,Earth Rod Copper 3/8 Inch 4ft ER3/8
-EARTHROD5/8,7.28,InStock,,Earth Rod Copper 5/8 Inch 4ft ER58
+EARTHROD,3.58,InStock,Deligo,Earth Rod Copper 3/8 Inch 4ft ER3/8
+EARTHROD5/8,7.28,InStock,Deligo,Earth Rod Copper 5/8 Inch 4ft ER58
 EARTHRODCLAMP,2.51,InStock,Deligo,Deligo ERC3/8 Brass Machined Earth Rod Clamp 3/8 inch
-EHDH9W001,98.06,InStock,,Velair EHDH9W001 Hydra 9 High Speed Hand Dryer White
+EHDH9W001,98.06,InStock,Velair,Velair EHDH9W001 Hydra 9 High Speed Hand Dryer White
 ETRDFHT2KW,35.63,InStock,Eterna,Eterna DFHT2KW 2kW Adjustable Downflow Heater
 ETRE12PH2,85.48,InStock,Eterna,Eterna Plinth E12PH2 2KW Fan Heater with RF Thermostat and Remote
 EURMEC4M,21.85,InStock,Europa,MEC4M 4 Module Enclosure C/W Lid Metal
@@ -397,20 +397,20 @@ FLXFTS04R,4.42,InStock,Flex7,Flex 7 FTS04/R 4 Pole Red Socket Outlet 2x4.0mm
 FLXFTS04W,4.42,InStock,Flex7,Flex 7 FTS04/W 4 Pole White Socket Outlet 2x4.0mm
 FLXFTS07R,10.86,InStock,Flex7,Flex 7 FTS07/R 7 Pole Red Socket Outlet 2x4.0mm
 FLXFTS07W,10.86,InStock,Flex7,Flex 7 FTS07/W 7 Pole White Socket Outlet 2x4.0mm
-FURPT205,21.38,InStock,,Furse PT205 Lightweight Earth Inspection Pit with Grey Polymer Lid L:300mmxW:300mmxD:158mm Weight 1.8KG
-GBT80C,23.83,InStock,,GreenBrook GBT80C Din Rail Digital Timer 7 Day
-GKN8X.75CS,2.64,InStock,,"8 x 3/4"" Pozi Countersunk Twinthread Woodscrews BZP"
-GKN8X2CS,5.67,InStock,,"GKN8X2CS 8 x 2"" Pozi Countersunk Twinthread Woodscrews BZP"
-GKN8X3CS,6.17,InStock,,"GKN8X3CS 8 x 3"" Pozi Countersunk Twinthread Woodscrews BZP"
-GKNM3.5X100,16.74,InStock,,M3.5 x 100mm Steel Machine Screw BZP (Pack 100)
-GKNM3.5X35,4.93,InStock,,M3.5 x 35mm Steel Machine Screw BZP (Pack 100)
-GKNM3.5X40,4.92,InStock,,M3.5 x 40mm Steel Machine Screw BZP (Pack 100)
-GKNM3.5X50,5.75,InStock,,M3.5 x 50mm Steel Machine Screw BZP (Pack 100)
-GKNM3.5X75,9.38,InStock,,M3.5 x 75mm Steel Machine Screw BZP (Pack 100)
-GKNM4X12BRS,7.75,InStock,,M4 x 12mm Pan Head Slot Screws Brass (Pack of 100)
-GKNM4X16BRS,9.48,InStock,,M4 x 16mm Pan Head Slot Screws Brass (Pack of 100)
-GKNM4X20BRS,10.85,InStock,,M4 x 20mm Pan Head Slot Screws Brass (Pack of 100)
-GKNM4X25BRS,11.86,InStock,,M4 x 25mm Pan Head Slot Screws Brass (Pack of 100)
+FURPT205,21.38,InStock,Deligo,Furse PT205 Lightweight Earth Inspection Pit with Grey Polymer Lid L:300mmxW:300mmxD:158mm Weight 1.8KG
+GBT80C,23.83,InStock,Greenbrook,Greenbrook GBT80C Din Rail Digital Timer 7 Day
+GKN8X.75CS,2.64,InStock,Deligo,"8 x 3/4"" Pozi Countersunk Twinthread Woodscrews BZP"
+GKN8X2CS,5.67,InStock,Deligo,"GKN8X2CS 8 x 2"" Pozi Countersunk Twinthread Woodscrews BZP"
+GKN8X3CS,6.17,InStock,Deligo,"GKN8X3CS 8 x 3"" Pozi Countersunk Twinthread Woodscrews BZP"
+GKNM3.5X100,16.74,InStock,Deligo,M3.5 x 100mm Steel Machine Screw BZP (Pack 100)
+GKNM3.5X35,4.93,InStock,Deligo,M3.5 x 35mm Steel Machine Screw BZP (Pack 100)
+GKNM3.5X40,4.92,InStock,Deligo,M3.5 x 40mm Steel Machine Screw BZP (Pack 100)
+GKNM3.5X50,5.75,InStock,Deligo,M3.5 x 50mm Steel Machine Screw BZP (Pack 100)
+GKNM3.5X75,9.38,InStock,Deligo,M3.5 x 75mm Steel Machine Screw BZP (Pack 100)
+GKNM4X12BRS,7.75,InStock,Deligo,M4 x 12mm Pan Head Slot Screws Brass (Pack of 100)
+GKNM4X16BRS,9.48,InStock,Deligo,M4 x 16mm Pan Head Slot Screws Brass (Pack of 100)
+GKNM4X20BRS,10.85,InStock,Deligo,M4 x 20mm Pan Head Slot Screws Brass (Pack of 100)
+GKNM4X25BRS,11.86,InStock,Deligo,M4 x 25mm Pan Head Slot Screws Brass (Pack of 100)
 GPBL2-10,17.59,InStock,Gripple,Gripple B-Lock Wire Rope Hangers BL2-UK-10P (Pack 10)
 GPCUTTER-GRIPPLE,59.84,InStock,Gripple,Gripple Small Wire Cutter
 GPROP2MM-100MM-BLC,22.87,InStock,Gripple,Gripple 2mm 100m B-Lock Wire Rope
@@ -523,33 +523,33 @@ HAGWPSS81BKO,6.52,InStock,Hager,Hager WPSS81BKO 1 Gang Switched Socket Metal Cla
 HAGWPSS82BKO,10.27,InStock,Hager,Hager WPSS82BKO 2 Gang Switched Socket Metal Clad and Box
 HAGWPSSU83FOBKO,8.06,InStock,Hager,Hager WPSSU83FOBKO Switched Connection Unit with Flex Outlet and Box
 HAGWPSU83FOBKO,7.87,InStock,Hager,Hager WPSU83FOBKO Unswitched Connection Unit with Flex Outlet and Box
-HYFLEX10,1.06,InStock,,SPU10 PU Gloves Black Size 10
-HYFLEX9,1.06,InStock,,SPU9 PU Gloves Black Size 9
-INTILDLFR70D001,5.92,OutOfStock,,ILDLFR70D001 Evofire 85 Fire Rated Downlight 70mm Cutout IP65 with GU10 Holder
-INTILDLFR70D013,9.01,OutOfStock,,ILDLFR70D013 Evofire Maxi 110 Fire Rated Downlight 70-100mm Cutout IP65 with GU10 Holder
-INTILGU10DC121,4.34,OutOfStock,,ILGU10DC121 Warmtone Glass GU10 400lm 3.6W 1800-2700k Dimmable 36 Beam
-KOMCT10-10,3.57,InStock,,CT10-10 10mm Copper Lug 10mm Hole
-KOMCT10-8,2.50,InStock,,CT10-8 10mm Copper Lug 8mm Hole
-KOMCT16-6,3.29,InStock,,CT16-6 16mm Copper Lug 6mm Hole
-KOMCT16-8,3.57,InStock,,CT16-8 16mm Copper Lug 8mm Hole
-KOMIR1.5-4.3,3.55,OutOfStock,,IR1.5-4.3 Red Ring Lug Terminal 4.3mm Hole (PK 100)
-KOMIR1.5-6.5,4.50,OutOfStock,,IR1.5-6.5 Red Ring Lug Terminal 6.5mm Hole (PK 100)
-KOMIR2.5-4.3,3.55,OutOfStock,,IR2.5-4.3 Blue Ring Lug Terminal 4.3mm Hole (PK 100)
-KOMIR2.5-6.5,4.75,OutOfStock,,IR2.5-6.5 Blue Ring Lug Terminal 6.5mm Hole (PK100)
-KOMIR2.5-8.5,6.50,OutOfStock,,IR2.5-8.5 Blue Ring Lug Terminal 8.5mm Hole (PK100)
-KOMIR6-4.3,7.19,OutOfStock,,IR6-4.3 Yellow Ring Lug Terminal 4.3mm Hole (PK100)
-KOMIR6-6.5,9.40,InStock,,IR6-6.5 Yellow Ring Lug Terminal 6.5mm Hole (PK100)
-KOMIR6-8.5,9.40,InStock,,IR6-8.5 Yellow Ring Lug Terminal 8.5mm Hole (PK100)
-KOMIS1.5-1.5,4.58,InStock,,IS1.5-1.5 Red Crimp Splice Terminal 1.5mm (PK 100)
-KOMIS2.5-2.5,4.64,InStock,,IS2.5-2.5 Blue Crimp Splice Terminal 2.5mm (PK 100)
-KOMIS6-6,7.04,InStock,,IS6-6 Yellow Crimp Splice Terminal 6mm (PK 100)
-KOMKCT200-4.8,2.34,InStock,,200 x 4.8mm Black Cable Tie (Pack of 100)
-KOMKCT200-4.8W,2.34,OutOfStock,,200 x 4.8mm Natural Cable Tie (Pack of 100)
-KOMKCT300-4.8,3.32,InStock,,300 x 4.8mm Black Cable Tie (Pack of 100)
-KOMKCT300-4.8W,3.02,InStock,,300 x 4.8mm Natural Cable Tie (Pack of 100)
-KOMKCT300-7.6,6.14,InStock,,300 x 7.6mm Black Cable Tie (Pack of 100)
-KOMKCT370-7.6,8.03,InStock,,370 x 7.6mm Black Cable Tie (Pack of 100)
-KOMKCT540-13.2,19.96,InStock,,540 x 8mm Black Cable Tie (Pack of 100)
+HYFLEX10,1.06,InStock,Deligo,SPU10 PU Gloves Black Size 10
+HYFLEX9,1.06,InStock,Deligo,SPU9 PU Gloves Black Size 9
+INTILDLFR70D001,5.92,OutOfStock,Integral LED,ILDLFR70D001 Evofire 85 Fire Rated Downlight 70mm Cutout IP65 with GU10 Holder
+INTILDLFR70D013,9.01,OutOfStock,Integral LED,ILDLFR70D013 Evofire Maxi 110 Fire Rated Downlight 70-100mm Cutout IP65 with GU10 Holder
+INTILGU10DC121,4.34,OutOfStock,Integral LED,ILGU10DC121 Warmtone Glass GU10 400lm 3.6W 1800-2700k Dimmable 36 Beam
+KOMCT10-10,3.57,InStock,Deligo,CT10-10 10mm Copper Lug 10mm Hole
+KOMCT10-8,2.50,InStock,Deligo,CT10-8 10mm Copper Lug 8mm Hole
+KOMCT16-6,3.29,InStock,Termination Technology,CT16-6 16mm Copper Lug 6mm Hole
+KOMCT16-8,3.57,InStock,Termination Technology,CT16-8 16mm Copper Lug 8mm Hole
+KOMIR1.5-4.3,3.55,OutOfStock,Termination Technology,IR1.5-4.3 Red Ring Lug Terminal 4.3mm Hole (PK 100)
+KOMIR1.5-6.5,4.50,OutOfStock,Termination Technology,IR1.5-6.5 Red Ring Lug Terminal 6.5mm Hole (PK 100)
+KOMIR2.5-4.3,3.55,OutOfStock,Termination Technology,IR2.5-4.3 Blue Ring Lug Terminal 4.3mm Hole (PK 100)
+KOMIR2.5-6.5,4.75,OutOfStock,Termination Technology,IR2.5-6.5 Blue Ring Lug Terminal 6.5mm Hole (PK100)
+KOMIR2.5-8.5,6.50,OutOfStock,Termination Technology,IR2.5-8.5 Blue Ring Lug Terminal 8.5mm Hole (PK100)
+KOMIR6-4.3,7.19,OutOfStock,Termination Technology,IR6-4.3 Yellow Ring Lug Terminal 4.3mm Hole (PK100)
+KOMIR6-6.5,9.40,InStock,Deligo,IR6-6.5 Yellow Ring Lug Terminal 6.5mm Hole (PK100)
+KOMIR6-8.5,9.40,InStock,Deligo,IR6-8.5 Yellow Ring Lug Terminal 8.5mm Hole (PK100)
+KOMIS1.5-1.5,4.58,InStock,Deligo,IS1.5-1.5 Red Crimp Splice Terminal 1.5mm (PK 100)
+KOMIS2.5-2.5,4.64,InStock,Deligo,IS2.5-2.5 Blue Crimp Splice Terminal 2.5mm (PK 100)
+KOMIS6-6,7.04,InStock,Deligo,IS6-6 Yellow Crimp Splice Terminal 6mm (PK 100)
+KOMKCT200-4.8,2.34,InStock,C-Tie,200 x 4.8mm Black Cable Tie (Pack of 100)
+KOMKCT200-4.8W,2.34,OutOfStock,C-Tie,200 x 4.8mm Natural Cable Tie (Pack of 100)
+KOMKCT300-4.8,3.32,InStock,C-Tie,300 x 4.8mm Black Cable Tie (Pack of 100)
+KOMKCT300-4.8W,3.02,InStock,C-Tie,300 x 4.8mm Natural Cable Tie (Pack of 100)
+KOMKCT300-7.6,6.14,InStock,C-Tie,300 x 7.6mm Black Cable Tie (Pack of 100)
+KOMKCT370-7.6,8.03,InStock,C-Tie,370 x 7.6mm Black Cable Tie (Pack of 100)
+KOMKCT540-13.2,19.96,InStock,C-Tie,540 x 8mm Black Cable Tie (Pack of 100)
 KOSA5.9/BC27,0.96,InStock,Kosnic,Kosnic A5.9-BC27 LED GLS B22 5.9w 2700k
 KOSA5.9/ES27,0.96,InStock,Kosnic,Kosnic A5.9-ES27 LED GLS E27 5.9w 2700k
 KOSALD4AG25/SCT,21.80,InStock,Kosnic,"Kosnic Alden 4 LED Anti-Glare Panel 600x600, Multi-Lumen, CCT, IP44"
@@ -609,17 +609,17 @@ KOSTARS/T/GRY,74.66,InStock,Kosnic,Kosnic TARS-T-GRY Tarkine Solar 800mm Diecast
 KOSTARS/W/BLK,61.61,InStock,Kosnic,Kosnic TARS-W-BLK Tarkine Solar Wall Light Black 250lm 4000K 4.5W IP65
 KOSTARS/W/GRY,61.61,InStock,Kosnic,Kosnic TARS-W-GRY Tarkine Solar Wall Light Grey 250lm 4000K 4.5W IP65
 KOSUEM04/ST,36.04,InStock,Kosnic,Kosnic UEM04/ST 4W Universal Emergency Module Pro Self Test
-LEDGU10CW,1.39,OutOfStock,,ILGU10DE110 GU10 Lamp 400lm 3.6w 4000k Dimmable 36 Beam
+LEDGU10CW,1.39,OutOfStock,Integral LED,ILGU10DE110 GU10 Lamp 400lm 3.6w 4000k Dimmable 36 Beam
 LEDR100LED01,27.95,InStock,Robus,Robus R100LED-01 10W LED Golf Bulkhead White 4000K
 LEDR150LED/01,32.47,InStock,Robus,Robus R150LED-01 15W LED Golf Bulkhead White 4000K
 LEDR180/01,12.47,OutOfStock,Robus,Robus R180-01 180D PIR Motion Detector White
 LEDR8MLED/01,22.21,InStock,Robus,Robus R8MLED-01 LED Bulkhead 3hr 2.6w
 LEDRHKM01540/01,57.74,InStock,Robus,Robus RHKM01540-01 Hawk LED 15W Bulkhead
-LIVWS18/32,3.16,InStock,,Live WS18/32 Live 32A Fuse Holder
-MAMB2412,20.16,InStock,,MAMB2412 Flame Retardant Meter Board 600mm X 300mm
-MASTICCLEAR,8.28,InStock,,MASTICCLEAR SLMC Silicone Sealant Clear
-MASTICGUN,7.12,OutOfStock,,MASTICGUN Economy Metal Sealant Application Gun
-MASTICWHITE,7.42,InStock,,MASTICWHITE Silicone Sealant White
+LIVWS18/32,3.16,InStock,Live Electrical,Live WS18/32 Live 32A Fuse Holder
+MAMB2412,20.16,InStock,Stephen P Wales,MAMB2412 Flame Retardant Meter Board 600mm X 300mm
+MASTICCLEAR,8.28,InStock,Deligo,MASTICCLEAR SLMC Silicone Sealant Clear
+MASTICGUN,7.12,OutOfStock,Deligo,MASTICGUN Economy Metal Sealant Application Gun
+MASTICWHITE,7.42,InStock,Deligo,MASTICWHITE Silicone Sealant White
 METMPC2/3,12.19,InStock,Metpro,Metpro MPC2/3 41x41 Slotted Steel Channel (3m Length)
 METMPC7/3,8.64,InStock,Metpro,Metpro MPC7/3 41x21 Slotted Steel Channel (3m Length)
 METTR10,2.09,InStock,Metpro,Metpro TR10 10mm Threaded Rod (3m Length)
@@ -649,7 +649,7 @@ MKK2746D1,9.19,InStock,MK Electric,MK K2746D1 Logic Plus 13A DP 2 Gang Switched 
 MKK2746GRA,8.30,InStock,MK Electric,MK K2746GRA Logic Plus 13A DP 2 Gang Switched Socket with White Outboard Rockers Graphite
 MKK2747,4.82,InStock,MK Electric,MK K2747 Logic Plus 13A DP 2 Gang Switched Socket White
 MKK2757,3.13,InStock,MK Electric,MK K2757 Logic Plus 13A DP 1 Gang Switched Socket White
-MKK2757D1,6.85,InStock,MK Electric,MK K2757D1 Logic Plus 13A DP 2 Gang Switched Socket with Red Rockers White
+MKK2757D1,6.85,InStock,MK Electric,MK K2757D1 Logic Plus 13A DP 1 Gang Switched Socket with Red Rocker White
 MKK2757GRA,3.97,InStock,MK Electric,MK K2757GRA Logic Plus 13A DP 1 Gang Switched Socket with White Rocker Graphite
 MKK2766,29.06,InStock,MK Electric,MK K2766 Logic Plus 13A 2 Gang Switched Socket with Type A & C USB Outlet White
 MKK2766GRA,29.06,InStock,MK Electric,MK K2766GRA Logic Plus 13A 2 Gang Switched Socket with Type A & C USB Outlet Graphite
@@ -755,23 +755,23 @@ MTMBSH3,23.23,InStock,Marshall Tufflex,Marshall Tufflex MBSH3 25mm Heavy Gauge C
 MTMC2B,0.83,InStock,Marshall Tufflex,Marshall Tufflex MC2B Conduit PVC Coupler 20mm Black
 MTMC2W,0.83,InStock,Marshall Tufflex,Marshall Tufflex MC2W Conduit PVC Coupler 20mm
 MTMC3W,1.12,InStock,Marshall Tufflex,Marshall Tufflex MC3W Conduit PVC Coupler 25mm
-MTMCG2B,1.08,InStock,,20mm IP68 Nylon Compression Gland with Locknut Black (Sold in 10s)
-MTMCG2G,94.72,OutOfStock,,20mm IP68 Nylon Compression Gland with Locknut Grey (Sold in 10s)
-MTMCG2RED,1.08,InStock,,20mm IP68 Nylon Compression Gland with Locknut Red (Sold in 10s)
-MTMCG2W,1.08,InStock,,20mm IP68 Nylon Compression Gland with Locknut White (Sold in 10s)
-MTMCG3B,1.57,InStock,,25mm IP68 Nylon Compression Gland with Locknut Black (Sold in 10s)
-MTMCG3W,1.57,InStock,,25mm IP68 Nylon Compression Gland with Locknut White (Sold in 10s)
+MTMCG2B,1.08,InStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut Black (Sold in 10s)
+MTMCG2G,94.72,OutOfStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut Grey (Sold in 10s)
+MTMCG2RED,1.08,InStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut Red (Sold in 10s)
+MTMCG2W,1.08,InStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut White (Sold in 10s)
+MTMCG3B,1.57,InStock,Deligo,25mm IP68 Nylon Compression Gland with Locknut Black (Sold in 10s)
+MTMCG3W,1.57,InStock,Deligo,25mm IP68 Nylon Compression Gland with Locknut White (Sold in 10s)
 MTMCL1B,1.03,InStock,Marshall Tufflex,Marshall Tufflex MCL1B Conduit PVC Box Lid Standard Black
 MTMCL1W,1.03,InStock,Marshall Tufflex,Marshall Tufflex MCL1W Conduit PVC Box Lid Standard White
 MTMCL2W,2.00,InStock,Marshall Tufflex,Marshall Tufflex MCL2W Conduit PVC Box Lid Overlapping White
 MTMDFS50,19.92,OutOfStock,Marshall Tufflex,Marshall Tufflex MDFS50 Maxi Trunking Divider Fillet 3m Length
-MTMF1300BLU,7.00,InStock,,MTMF1300BLU 3mm Blue Sleeving (100m Hank)
-MTMF1300BRN,7.00,InStock,,MTMF1300BRN 3mm Brown Sleeving (100m Hank)
-MTMF1300GY,6.00,InStock,,MTMF1300GY 3mm Green/ Yellow Sleeving (100m Hank)
-MTMF1300PK,8.00,InStock,,MTMF1300PK 3mm Pink Sleeving (100m Hank)
-MTMF1400BLU,10.00,InStock,,MTMF1400BLU 4mm Blue Sleeving (100m Hank)
-MTMF1400BRN,10.00,InStock,,MTMF1400BRN 4mm Brown Sleeving (100m Hank)
-MTMF1400GY,8.00,InStock,,MTMF1400GY 4mm Green/ Yellow Sleeving (100m Hank)
+MTMF1300BLU,7.00,InStock,Termination Technology,MTMF1300BLU 3mm Blue Sleeving (100m Hank)
+MTMF1300BRN,7.00,InStock,Termination Technology,MTMF1300BRN 3mm Brown Sleeving (100m Hank)
+MTMF1300GY,6.00,InStock,Termination Technology,MTMF1300GY 3mm Green/ Yellow Sleeving (100m Hank)
+MTMF1300PK,8.00,InStock,Termination Technology,MTMF1300PK 3mm Pink Sleeving (100m Hank)
+MTMF1400BLU,10.00,InStock,Termination Technology,MTMF1400BLU 4mm Blue Sleeving (100m Hank)
+MTMF1400BRN,10.00,InStock,Termination Technology,MTMF1400BRN 4mm Brown Sleeving (100m Hank)
+MTMF1400GY,8.00,InStock,Termination Technology,MTMF1400GY 4mm Green/ Yellow Sleeving (100m Hank)
 MTMIE2B,3.14,InStock,Marshall Tufflex,Marshall Tufflex MIE2BK Conduit PVC Inspection Elbow 20mm Black
 MTMIE2W,3.14,InStock,Marshall Tufflex,Marshall Tufflex MIE2WH Conduit PVC Inspection Elbow 20mm White
 MTMIT2W,5.98,InStock,Marshall Tufflex,Marshall Tufflex MIT2WH Conduit PVC Inspection Tee 20mm White
@@ -856,14 +856,14 @@ NUAFAITH/SELV/PLUS,109.80,InStock,Nuaire,Nuaire Faith Selv Plus
 NUAFAITH/WKIT,15.60,InStock,Nuaire,Nuaire Faith Window Kit
 NUAFAITH/WP,16.82,InStock,Nuaire,Nuaire Faith Wall Plate
 NUAPVC2447WH,24.60,InStock,Nuaire,Nuaire NUAPVC2447W 100mm High Rise Cowl White
-NVA135/4,7.86,OutOfStock,,100mm X 0.35m Easipipe White 135-4
-NVAFXAL/100,20.80,InStock,,100mm x 10m Aluminium Flexible Duct FXAL100/10
-NVAFXALINS/100,49.09,InStock,,FXALINS100/10 100mm x 10mtr Insulated Duct
-NVAFXALINS125/10,57.47,InStock,,FXALINS125/10 125mm x 10mtr Insulated Duct
-NVAMONV200WH,34.97,InStock,,100mm High Rise Kit MONV200WH
-NVAMONV245W,9.52,InStock,,100mm White Cowled Wall Outlet MONV245W
+NVA135/4,7.86,OutOfStock,National Ventilation,100mm X 0.35m Easipipe White 135-4
+NVAFXAL/100,20.80,InStock,National Ventilation,100mm x 10m Aluminium Flexible Duct FXAL100/10
+NVAFXALINS/100,49.09,InStock,National Ventilation,FXALINS100/10 100mm x 10mtr Insulated Duct
+NVAFXALINS125/10,57.47,InStock,National Ventilation,FXALINS125/10 125mm x 10mtr Insulated Duct
+NVAMONV200WH,34.97,InStock,National Ventilation,100mm High Rise Kit MONV200WH
+NVAMONV245W,9.52,InStock,National Ventilation,100mm White Cowled Wall Outlet MONV245W
 NVAUMD100TX,109.30,InStock,Monsoon,UMD100TX Pro Inline Fan with Timer
-NVMONV363,8.71,InStock,,4 Inch Flexible PVC Duct 3m V363
+NVMONV363,8.71,InStock,National Ventilation,4 Inch Flexible PVC Duct 3m V363
 PCH020,6.00,InStock,Armeg,Armeg PCH020 20mm Premium Cobalt Holesaw
 PCH025,7.62,InStock,Armeg,Armeg PCH025 25mm Premium Cobalt Holesaw
 PCH032,8.88,InStock,Armeg,Armeg PCH032 32mm Premium Cobalt Holesaw
@@ -918,16 +918,16 @@ SSH020,20.69,InStock,Armeg,Armeg SSH020 20mm Sheet Steel Holesaw
 SSH025,21.46,InStock,Armeg,Armeg SSH025 25mm Sheet Steel Holesaw
 SSH032,23.77,InStock,Armeg,Armeg SSH032 32mm Sheet Steel Holesaw
 SSH3PCSET,59.51,InStock,Armeg,Armeg SSH3PCSET 3 Piece Sheet Steel Holesaw Set
-SWAFCP20-PK10,6.88,InStock,,FCP20-PK10 20mm Polypropylene Contractors Pack (10m Reel)
-SWAFCP25-PK10,8.59,InStock,,FCP25-PK10 25mm Polypropylene Contractors Pack (10m Reel)
-SWAGLV400,12.86,InStock,,AERO-GALV Standard Bright Zinc Galv Spray
-TBYEC14,1.63,InStock,,TBYEC14 135mm Non-Corrosive & Dry Atmosphere Earth Clamp
-TBYEC15,2.26,InStock,,TBYEC15 133mm For Corrosive & Humid Atmosphere Earth Clamp
-TBYEC16,3.66,InStock,,TBYEC16 133mm For Corrosive & Humid Atmosphere Earth Clamp
-TBYGP11,6.65,InStock,,TBYGP11 20mm Blind Grommets Black (Pack of 100)
-TBYGP12,11.45,InStock,,TBYGP12 25mm Blind Grommets Black (Pack of 100)
-TBYGP2,3.77,OutOfStock,,TBYGP2 20mm Open Grommets Black (Pack of 100)
-TBYGP3,8.16,InStock,,TBYGP3 25mm Open Grommets Black (Pack of 100)
+SWAFCP20-PK10,6.88,InStock,Termination Technology,FCP20-PK10 20mm Polypropylene Contractors Pack (10m Reel)
+SWAFCP25-PK10,8.59,InStock,Termination Technology,FCP25-PK10 25mm Polypropylene Contractors Pack (10m Reel)
+SWAGLV400,12.86,InStock,Deligo,AERO-GALV Standard Bright Zinc Galv Spray
+TBYEC14,1.63,InStock,Deligo,TBYEC14 135mm Non-Corrosive & Dry Atmosphere Earth Clamp
+TBYEC15,2.26,InStock,Deligo,TBYEC15 133mm For Corrosive & Humid Atmosphere Earth Clamp
+TBYEC16,3.66,InStock,Deligo,TBYEC16 133mm For Corrosive & Humid Atmosphere Earth Clamp
+TBYGP11,6.65,InStock,Deligo,TBYGP11 20mm Blind Grommets Black (Pack of 100)
+TBYGP12,11.45,InStock,Deligo,TBYGP12 25mm Blind Grommets Black (Pack of 100)
+TBYGP2,3.77,OutOfStock,Deligo,TBYGP2 20mm Open Grommets Black (Pack of 100)
+TBYGP3,8.16,InStock,Deligo,TBYGP3 25mm Open Grommets Black (Pack of 100)
 THOAY700ZVF,15.85,OutOfStock,Thorn,Thorn Eco AY700ZVK Amy Vario LED CCT Downlight 700lm 96632753
 THOLA2200ZVF,29.75,OutOfStock,Thorn,Thorn Eco LA2200ZVF Lara Bulkhead Round 300 FLEX White
 THOLASA300BEZW,4.25,OutOfStock,Thorn,Thorn Eco LASA300BEZW Bezel Trim 300mm White
@@ -950,9 +950,9 @@ UNIQP8242B2,15.18,InStock,Unicrimp,Unicrimp QP8242B2 24A 450V Black Transparent 
 UNIQRC10,4.02,InStock,Unicrimp,Unicrimp QRC10 7-10mm Round Clips White (Pack of 100)
 UNIQWPR001,1.84,InStock,Unicrimp,Unicrimp QWPR001 Wall Plug Red (Box of 100)
 UNIQWS8-15,3.59,InStock,Unicrimp,"Unicrimp QWS8-15 8 x 1 1/2"" Pozi Countersunk Twinthread Woodscrews BZP"
-VAN2HAC132,14.60,InStock,,32TPI Bi-Metal Hacksaw Blade 32TPI Thin Metal Cut (Pack of 10)
+VAN2HAC132,14.60,InStock,Deligo,32TPI Bi-Metal Hacksaw Blade 32TPI Thin Metal Cut (Pack of 10)
 VAN3CAVRDM,15.62,InStock,Unicrimp,Unicrimp QCVFIX Metal Plasterboard Fixing Metal and Screws (Box of 100)
-VANSAFEPLATE1,44.16,InStock,,SP Safe Plate 54mm x 80mm (Pack of 100)
+VANSAFEPLATE1,44.16,InStock,Deligo,SP Safe Plate 54mm x 80mm (Pack of 100)
 VEN370328,6.01,InStock,Vent-Axia,Vent Axia 370328 RD104TC 100mm Fixed Louvre Grille Terracotta
 VEN370329,6.01,InStock,Vent-Axia,Vent Axia 370329 RD104BR 100mm Fixed Louvre Grille Brown
 VEN370330,6.01,InStock,Vent-Axia,Vent Axia 370330 RD104WH 100mm Fixed Louvre Grille White
@@ -1008,7 +1008,7 @@ WF16.0X160,3.12,InStock,Armeg,Armeg 16.0mm x 160mm Flat Wood Bit
 WF20.0X160,3.26,InStock,Armeg,Armeg 20mm x 160mm Flat Wood Bit
 WF25.0X160,3.50,InStock,Armeg,Armeg 25mm x 160mm Flat Wood Bit
 WF32.0X160,4.81,OutOfStock,Armeg,Armeg 32mm x 160mm Flat Wood Bit
-WIPES,17.69,InStock,,BDHW80 Multi Hand Wipes (110 in Pack)
+WIPES,17.69,InStock,Deligo,BDHW80 Multi Hand Wipes (110 in Pack)
 WIS10109900,5.54,InStock,Wiska,Wiska 10109900 85 x 49 x 51mm IP67 C/W Term Black
 WIS60401,5.70,InStock,Wiska,Wiska 10060401 85mm x 85mm x 51mm PVC Adaptable Box Grey IP66/67
 WIS60580,5.70,InStock,Wiska,Wiska 10060580 85mm x 85mm x 51mm PVC Adaptable Box Black IP66/67
