@@ -108,7 +108,34 @@ def shopify_products():
         time.sleep(1)
 
 
-def items_from(products):
+def admin_barcodes():
+    """{sku: barcode} from the Shopify Admin API. The public /products.json has no barcode field,
+    so Alex's barcodes entered in Shopify only reach the feed this way. Needs SHOPIFY_SHOP +
+    SHOPIFY_TOKEN (GitHub secrets); without them, or if the call fails, only gtin.csv is used."""
+    shop, token = os.environ.get("SHOPIFY_SHOP"), os.environ.get("SHOPIFY_TOKEN")
+    if not shop or not token:
+        print("WARNING: no SHOPIFY_TOKEN, Shopify barcodes skipped (gtin.csv only)", file=sys.stderr)
+        return {}
+    out, cursor = {}, None
+    try:
+        while True:
+            after = f', after:"{cursor}"' if cursor else ""
+            q = "{productVariants(first:250%s){pageInfo{hasNextPage endCursor} nodes{sku barcode}}}" % after
+            req = urllib.request.Request(f"https://{shop}/admin/api/2026-10/graphql.json", json.dumps({"query": q}).encode(),
+                                         {"X-Shopify-Access-Token": token, "Content-Type": "application/json"})
+            d = json.load(urllib.request.urlopen(req, timeout=30))["data"]["productVariants"]
+            for v in d["nodes"]:
+                if (v.get("sku") or "").strip() and (v.get("barcode") or "").strip():
+                    out[v["sku"].strip()] = v["barcode"].strip()
+            if not d["pageInfo"]["hasNextPage"]:
+                return out
+            cursor = d["pageInfo"]["endCursor"]
+    except Exception as e:
+        print(f"WARNING: Shopify barcode read failed ({e}), gtin.csv only", file=sys.stderr)
+        return {}
+
+
+def items_from(products, barcodes):
     for pr in products:
         img = (pr.get("images") or [{}])[0].get("src")
         name = clean(pr.get("title"))
@@ -131,7 +158,7 @@ def items_from(products):
                 # Shopify vendor is the real brand, except the store-name placeholder on unbranded items
                 "brand": (pr.get("vendor") or "").strip() if (pr.get("vendor") or "").strip() not in ("", "Moss Electrical") else brand_for(name),
                 "mpn": find_mpn(code, name),
-                "barcode": (v.get("barcode") or "").strip(),
+                "barcode": barcodes.get(code, ""),
             }
 
 
@@ -214,7 +241,9 @@ def main():
     print(f"{len(products)} products", file=sys.stderr)
 
     items, skipped, seen = [], 0, set()
-    for p in items_from(products):
+    barcodes = admin_barcodes()
+    print(f"{len(barcodes)} Shopify barcodes", file=sys.stderr)
+    for p in items_from(products, barcodes):
         # Google rejects items without a title, image or a real price; ids must be unique
         if not p["title"] or not p["image"] or not p["price"] or float(p["price"]) <= 0 or p["id"] in seen:
             skipped += 1
