@@ -208,7 +208,7 @@ CLKCMA650,2.40,InStock,Click,Click 13A Unswitched Fuse Spur White CMA650
 CLKCMA651,3.28,InStock,Click,Click 13A DP Switched Fused Spur White CMA651
 CLKCMA652,3.53,InStock,Click,Click 13A Switched Spur with Neon White CMA652
 CLKCMA786,15.91,InStock,Click,Click 2 Gang 13A Type A & C USB Socket 4.2A CMA786
-CLKFU023,2.58,InStock,Click,Click FU023 3A Cartridge Fuse
+CLKFU023,2.58,InStock,Click,Click FU023 3A Cartridge Fuse (Pack of 10)
 CLKPA320,0.89,InStock,Click,Click PA320 Mains 13A Plug Top
 CLKPRC009,1.64,InStock,Click,Click PRC009 10A 2 Way Ceiling Switch White
 CLKPRC015,1.57,InStock,Click,Click PRC015 Batten Lampholder BC with Straight Skirt White
@@ -370,7 +370,7 @@ DETV1297,1.48,InStock,Deta,Deta V1297 10A 2 Way Ceiling Pull Switch
 DETV1298,7.10,InStock,Deta,Deta V1298 45A Ceiling Pull Switch
 DLISAFE/D30,20.57,InStock,D-Line,D Line DLISAFE/30 D-Line Safe-D Fire Rated Clips 25mm (Pack of 100)
 DLISAFE/D40,17.34,InStock,D-Line,D Line DLISAFE/40 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)
-DLISAFE/D50,21.29,InStock,D-Line,D Line DLISAFE/50 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)
+DLISAFE/D50,21.29,InStock,D-Line,D Line DLISAFE/50 D-Line Safe-D Fire Rated Clips 50mm (Pack of 50)
 EARTHROD,3.58,InStock,Deligo,Earth Rod Copper 3/8 Inch 4ft ER3/8
 EARTHROD5/8,7.28,InStock,Deligo,Earth Rod Copper 5/8 Inch 4ft ER58
 EARTHRODCLAMP,2.51,InStock,Deligo,Deligo ERC3/8 Brass Machined Earth Rod Clamp 3/8 inch
@@ -507,8 +507,8 @@ HAGWMS81,2.27,InStock,Hager,Hager Sollysta WMS81 13A 1 Gang Unswitched Socket Wh
 HAGWMSO100,22.10,InStock,Hager,Hager Sollysta WMSO100 115/230V Dual Voltage Shaver Socket White
 HAGWMSS81,2.41,InStock,Hager,Hager Sollysta WMSS81 13A DP 1 Gang Switched Socket White
 HAGWMSS82,2.24,InStock,Hager,Hager Sollysta WMSS82 13A DP 2 Gang Switched Socket White
-HAGWMSS82USBAC,20.26,InStock,Hager,Hager Sollysta WMSS82USBAC 13A 2 Gang Switched Socket with USB A/C White
-HAGWMSS82USBCC,25.14,InStock,Hager,Hager Sollysta WMSS82USBCC 13A 2 Gang Switched Socket with USB C/C White
+HAGWMSS82USBAC,20.26,InStock,Hager,Hager Sollysta WMSS82-USBAC 13A 2 Gang Switched Socket with USB A/C White
+HAGWMSS82USBCC,25.14,InStock,Hager,Hager Sollysta WMSS82-USBCC 13A 2 Gang Switched Socket with USB C/C White
 HAGWMSSU83,4.26,InStock,Hager,Hager Sollysta WMSSU83 13A DP Switched Fused Spur White
 HAGWMSSU83/BO,7.80,InStock,Hager,"Hager Sollysta WMSSU83/BO 13A Switched Fused Spur ""Boiler"" White"
 HAGWMSSU83/DW,7.80,InStock,Hager,"Hager Sollysta WMSSU83/DW 13A Switched Fused Spur ""Dishwasher"" White"
@@ -519,7 +519,7 @@ HAGWMSSU83/WM,7.80,InStock,Hager,"Hager Sollysta WMSSU83/WM 13A Switched Fused S
 HAGWMSSU83FO,4.43,InStock,Hager,Hager Sollysta WMSSU83FO 13A DP Switched Fused Spur with Flex Outlet White
 HAGWMSU83,3.82,InStock,Hager,Hager Sollysta WMSU83 13A Unswitched Fused Spur White
 HAGWPPS12BKO,4.90,InStock,Hager,Hager WPPS12BKO 1 Gang 2 Way Metal Clad Switch and Box
-HAGWPSS81BKO,6.52,InStock,Hager,Hager WPSS81BKO 1 Gang Switched Socket Metal Clad and Box
+HAGWPSS81BKO,6.52,OutOfStock,Hager,Hager WPSS81BKO 1 Gang Switched Socket Metal Clad and Box
 HAGWPSS82BKO,10.27,InStock,Hager,Hager WPSS82BKO 2 Gang Switched Socket Metal Clad and Box
 HAGWPSSU83FOBKO,8.06,InStock,Hager,Hager WPSSU83FOBKO Switched Connection Unit with Flex Outlet and Box
 HAGWPSU83FOBKO,7.87,InStock,Hager,Hager WPSU83FOBKO Unswitched Connection Unit with Flex Outlet and Box
@@ -544,7 +544,7 @@ KOMIS1.5-1.5,4.58,InStock,Termination Technology,IS1.5-1.5 Red Crimp Splice Term
 KOMIS2.5-2.5,4.64,InStock,Termination Technology,IS2.5-2.5 Blue Crimp Splice Terminal 2.5mm (PK 100)
 KOMIS6-6,7.04,InStock,Termination Technology,IS6-6 Yellow Crimp Splice Terminal 6mm (PK 100)
 KOMKCT200-4.8,2.34,InStock,C-Tie,200 x 4.8mm Black Cable Tie (Pack of 100)
-KOMKCT200-4.8W,2.34,OutOfStock,C-Tie,200 x 4.8mm Natural Cable Tie (Pack of 100)
+KOMKCT200-4.8W,2.34,InStock,C-Tie,200 x 4.8mm Natural Cable Tie (Pack of 100)
 KOMKCT300-4.8,3.32,InStock,C-Tie,300 x 4.8mm Black Cable Tie (Pack of 100)
 KOMKCT300-4.8W,3.02,InStock,C-Tie,300 x 4.8mm Natural Cable Tie (Pack of 100)
 KOMKCT300-7.6,6.14,InStock,C-Tie,300 x 7.6mm Black Cable Tie (Pack of 100)
@@ -561,7 +561,7 @@ KOSAVO55FT/W40,38.90,InStock,Kosnic,Kosnic AVO55FT-W40 Avon 5 non-corrosive batt
 KOSBEM303/SST,47.58,InStock,Kosnic,Kosnic BEM303/SST Batten UEM Duo 3W Universal Manual & Self-Test Emergency Module White
 KOSDD212/2P-SCT,12.96,InStock,Kosnic,Kosnic DD212/2P-SCT LED DD 2 Mini 2pin 6/8/10/12W 2700/4000/6500K
 KOSDD212/4P-SCT,12.96,InStock,Kosnic,Kosnic DD212/4P-SCT LED DD 2 Mini 4pin 6/8/10/12W 2700/4000/6500K DD212/4P-SCT
-KOSDEL100/W65,34.99,InStock,Kosnic,Kosnic DEL100-W65 Della flood light IP65 100W 110° 6500K Black
+KOSDEL100/W65,34.99,OutOfStock,Kosnic,Kosnic DEL100-W65 Della flood light IP65 100W 110° 6500K Black
 KOSDEL150/W65,67.54,OutOfStock,Kosnic,Kosnic DEL150-W65 Della flood light IP65 150W 110° 6500K Black
 KOSDEL80/W65,33.66,InStock,Kosnic,Kosnic DEL80-W65 Della flood light IP65 80W 110° 6500K Black
 KOSDOX20103,23.81,InStock,Kosnic,Kosnic DOX20103 Doxa II Standard Exit Sign with Multiple Mounting Positions
@@ -801,7 +801,7 @@ MTMTRS100,74.70,InStock,Marshall Tufflex,Marshall Tufflex MTRS100 100mm x 100mm 
 MTMTRS10050,58.46,InStock,Marshall Tufflex,Marshall Tufflex MTRS100/50WH 100mm x 50mm PVC Maxi Trunking White (3m Length)
 MTMTRS150,170.59,InStock,Marshall Tufflex,Marshall Tufflex MTRS150 150mm x 150mm PVC Maxi Trunking White (3m Length)
 MTMTRS50,33.92,InStock,Marshall Tufflex,Marshall Tufflex MTRS50 50mm x 50mm PVC Maxi Trunking White (3m Length)
-MTMTRS75,49.69,InStock,Marshall Tufflex,Marshall Tufflex MTRS75 75mm x 75mm PVC Maxi Trunking White (3m Length)
+MTMTRS75,49.69,OutOfStock,Marshall Tufflex,Marshall Tufflex MTRS75 75mm x 75mm PVC Maxi Trunking White (3m Length)
 MTTA2,1.10,InStock,Marshall Tufflex,Marshall Tufflex TA2WH 25mm x 16mm Mini Trunking Adaptor White for MMT2
 MTTA3,0.86,InStock,Marshall Tufflex,Marshall Tufflex TA3WH 38mm x 16mm Mini Trunking Adaptor White for MMT3
 MTTCR2,4.32,InStock,Marshall Tufflex,Marshall Tufflex TCR2 Mini Trunking Ceiling Rose Adaptor White
@@ -826,7 +826,7 @@ MTTSSO3,5.18,InStock,Marshall Tufflex,Marshall Tufflex TSS03 1 Gang 30mm Outlet 
 MTTSSO4,6.49,InStock,Marshall Tufflex,Marshall Tufflex TSS04 2 Gang 30mm Outlet Box for Maxi Trunking White
 MTTT22,2.22,OutOfStock,Marshall Tufflex,Marshall Tufflex TT2-2WH Mini Trunking Tee 25mm X 16mm White
 MTTT33,2.22,InStock,Marshall Tufflex,Marshall Tufflex TT3-3WH Mini Trunking Tee 38mm X 16mm White
-MTTT44,2.81,OutOfStock,Marshall Tufflex,Marshall Tufflex TT4-4WH Mini Trunking Tee 38mm X 25mm White
+MTTT44,2.81,InStock,Marshall Tufflex,Marshall Tufflex TT4-4WH Mini Trunking Tee 38mm X 25mm White
 NIGEV40AXSP-4W,40.96,InStock,Niglon,Niglon EV40AXSP-4W 4 Way 40A 1P+N Bi RCBO+SPD B Curve
 NIGFMS100,24.89,InStock,Niglon,Niglon FMS100 100A Fused Main Switch
 NIGH-BWS131FS,11.38,OutOfStock,Niglon,Niglon H-BWS131FS Black Outdoor Fused Connection unit IP66
@@ -900,7 +900,7 @@ ROCPCR2000,4.08,InStock,Hager,Hager Klik PCR2000 Ceiling Rose Plug In 3 Pin
 ROCPCR2000/2,6.36,InStock,Hager,Hager Klik PCR2000/2.0 Ceiling Rose 3 Pin 6A c/w 3 Core 0.75mm 2m PVC Lead
 ROCPCR2000/3,8.21,InStock,Hager,Hager Klik PCR2000/3.0 Ceiling Rose 3 Pin 6A c/w 3 Core 0.75mm 3m PVC Lead
 S04.0X160,3.66,InStock,Armeg,Armeg S04.0X160 4mm x 160mm SDS Bit
-S05.5X160,2.62,InStock,Armeg,Armeg S05.0X160 5mm x 160mm SDS Bit
+S05.5X160,2.62,InStock,Armeg,Armeg S05.5X160 5.5mm x 160mm SDS Bit
 S06.0X160,2.65,InStock,Armeg,Armeg S06.0X160 6mm x 160mm SDS Bit
 S08.0X160,3.12,InStock,Armeg,Armeg S08.0X160 8mm x 160mm SDS Bit
 SAX43279,15.23,OutOfStock,Saxby,Saxby 43279 Amalfi 3lt Round - Chrome
@@ -1028,7 +1028,7 @@ WMD60512400,25.02,OutOfStock,Pemsa,Pemsa 60512400 Rejiband Rapide 400mm x 60mm S
 WMD62016022,12.94,InStock,Pemsa,Pemsa 62016022 Base Support 60 Silver (10)
 WMD64010061,36.70,InStock,Pemsa,Pemsa 64010061 Reinforced Joint Clamp Silver (50)
 WMD67010040,22.73,InStock,Pemsa,Pemsa 67010040 Conduit Gland Bracket Silver (10)
-WMD67010046,9.23,InStock,Pemsa,Pemsa 67010046 Central Hanging Plate M8/M40 Silver (20)
+WMD67010046,9.23,InStock,Pemsa,Pemsa 67010046 Central Hanging Plate M8/M10 Silver (20)
 WMDK50S/PG,9.79,InStock,Pemsa,Pemsa 67020611 50mm Dividing Fillet 3m
 WWB1/4HEX250,17.40,InStock,Armeg,Armeg 230mm Quick Change Extension Rod
 WWB20.0T,8.60,OutOfStock,Armeg,Armeg 20mm x 165mm Woodbeaver Drill Bit

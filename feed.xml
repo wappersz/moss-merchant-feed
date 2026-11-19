@@ -14,7 +14,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542839835</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MB16A30</g:id>
@@ -26,7 +26,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542896739</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MB20A30</g:id>
@@ -38,7 +38,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542768432</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MB32A30</g:id>
@@ -50,7 +50,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542840138</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MB40A30</g:id>
@@ -62,7 +62,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542830733</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MB50A30</g:id>
@@ -74,7 +74,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542839736</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MB6A30</g:id>
@@ -86,7 +86,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542830832</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MC10A30</g:id>
@@ -98,7 +98,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542768333</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MC16A30</g:id>
@@ -110,7 +110,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542831037</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MC20A30</g:id>
@@ -122,7 +122,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542840039</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MC32A30</g:id>
@@ -134,7 +134,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542376033</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MC32AC30</g:id>
@@ -146,7 +146,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542265832</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MC40A30</g:id>
@@ -158,7 +158,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542629733</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MC50A30</g:id>
@@ -170,7 +170,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542375937</g:gtin>
 </item>
 <item>
 <g:id>ABBDSE201MC6A30</g:id>
@@ -182,7 +182,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8012542896630</g:gtin>
 </item>
 <item>
 <g:id>ABBEPP1253P</g:id>
@@ -278,6 +278,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>6221115068004</g:gtin>
 <g:mpn>EPP-W102</g:mpn>
 </item>
 <item>
@@ -290,6 +291,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>6221115068011</g:gtin>
 <g:mpn>EPP-W104</g:mpn>
 </item>
 <item>
@@ -302,6 +304,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>6221115068028</g:gtin>
 <g:mpn>EPP-W108</g:mpn>
 </item>
 <item>
@@ -314,6 +317,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>6221115068035</g:gtin>
 <g:mpn>EPP-W112</g:mpn>
 </item>
 <item>
@@ -326,6 +330,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>6221115068042</g:gtin>
 <g:mpn>EPP-W116</g:mpn>
 </item>
 <item>
@@ -338,7 +343,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>6221115068059</g:gtin>
 </item>
 <item>
 <g:id>ABBEPPW308</g:id>
@@ -350,7 +355,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>6221115066512</g:gtin>
 </item>
 <item>
 <g:id>ABBEPPW312</g:id>
@@ -362,7 +367,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>6221115066529</g:gtin>
 </item>
 <item>
 <g:id>ABBEPPW316</g:id>
@@ -374,7 +379,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>6221115066536</g:gtin>
 </item>
 <item>
 <g:id>ABBS201MB16</g:id>
@@ -386,6 +391,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>4016779549455</g:gtin>
 <g:mpn>S201M-B16</g:mpn>
 </item>
 <item>
@@ -398,6 +404,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>4016779543828</g:gtin>
 <g:mpn>S201M-B63</g:mpn>
 </item>
 <item>
@@ -410,6 +417,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>4016779549981</g:gtin>
 <g:mpn>S201M-C10</g:mpn>
 </item>
 <item>
@@ -422,6 +430,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>4016779543941</g:gtin>
 <g:mpn>S201M-C63</g:mpn>
 </item>
 <item>
@@ -434,6 +443,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>4016779599702</g:gtin>
 <g:mpn>S201M-D50</g:mpn>
 </item>
 <item>
@@ -446,6 +456,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>4016779599818</g:gtin>
 <g:mpn>S201M-D63</g:mpn>
 </item>
 <item>
@@ -458,6 +469,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>4016779543873</g:gtin>
 <g:mpn>S203M-B50</g:mpn>
 </item>
 <item>
@@ -470,6 +482,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>ABB</g:brand>
+<g:gtin>4016779550499</g:gtin>
 <g:mpn>S203M-C40</g:mpn>
 </item>
 <item>
@@ -1476,6 +1489,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Appleby</g:brand>
+<g:gtin>5017399092801</g:gtin>
 <g:mpn>SB619</g:mpn>
 </item>
 <item>
@@ -1488,6 +1502,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Appleby</g:brand>
+<g:gtin>5017399092955</g:gtin>
 <g:mpn>SB629</g:mpn>
 </item>
 <item>
@@ -1524,6 +1539,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Appleby</g:brand>
+<g:gtin>5017399268657</g:gtin>
 <g:mpn>SB639</g:mpn>
 </item>
 <item>
@@ -1572,6 +1588,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652089568</g:gtin>
 <g:mpn>624SEL212/6</g:mpn>
 </item>
 <item>
@@ -1584,6 +1601,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652090045</g:gtin>
 <g:mpn>J201</g:mpn>
 </item>
 <item>
@@ -1596,6 +1614,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652090069</g:gtin>
 <g:mpn>J401</g:mpn>
 </item>
 <item>
@@ -1608,6 +1627,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250614373152</g:gtin>
 <g:mpn>J501</g:mpn>
 </item>
 <item>
@@ -1620,6 +1640,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610454916</g:gtin>
 <g:mpn>J803</g:mpn>
 </item>
 <item>
@@ -1632,6 +1653,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610454923</g:gtin>
 <g:mpn>J804</g:mpn>
 </item>
 <item>
@@ -1644,6 +1666,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652080374</g:gtin>
 <g:mpn>RL602</g:mpn>
 </item>
 <item>
@@ -1656,6 +1679,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652081487</g:gtin>
 <g:mpn>ASHSEL96T</g:mpn>
 </item>
 <item>
@@ -1716,7 +1740,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333849962</g:gtin>
 </item>
 <item>
 <g:id>BUILDSACK</g:id>
@@ -1793,7 +1817,7 @@
 <item>
 <g:id>BWKIT40</g:id>
 <g:title>Deligo BWKIT40 Brass Gland Pack 40mm (1)</g:title>
-<g:description>Specifications Standards BS 6121: Part-1:2005 EN 50262:1999 IEC62444:2010 Temperature Range -60 Degrees C Gland Size 40 mm Gland Material Brass Cable Type Armoured Cable Ingress Protection IP2X Includes Locknut? Y Includes Earth Tag? Y Includes Shroud? Y Qualifier Deligo BW40 BW Cable Gland 40mm Brs Type Armoured Cable Product Gland</g:description>
+<g:description>The Deligo BWKIT40 is a 40mm brass BW gland pack for terminating steel wire armoured (SWA) cable into enclosures, panels and distribution boards. The kit comes with a locknut, earth tag and shroud. Key features 40mm brass BW gland For SWA armoured cable Locknut, earth tag and shroud included IP2X Good to know To BS 6121 Part 1, EN 50262 and IEC 62444. Specifications Standards BS 6121: Part-1:2005 EN 50262:1999 IEC62444:2010 Temperature Range -60 Degrees C Gland Size 40 mm Gland Material Brass Cable Type Armoured Cable Ingress Protection IP2X Includes Locknut? Y Includes Earth Tag? Y Includes Shroud? Y Qualifier Deligo BW40 BW Cable Gland 40mm Brs Type Armoured Cable Product Gland</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/deligo-bwkit40-brass-gland-pack-40mm-1</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/BWKIT40.webp</g:image_link>
 <g:price>13.50 GBP</g:price>
@@ -1920,7 +1944,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333849627</g:gtin>
 </item>
 <item>
 <g:id>CHD16-29HEX</g:id>
@@ -1932,7 +1956,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081903693</g:gtin>
 </item>
 <item>
 <g:id>CHD32-64HEX</g:id>
@@ -1944,7 +1968,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081903716</g:gtin>
 </item>
 <item>
 <g:id>CHOCBOX</g:id>
@@ -1956,7 +1980,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333841829</g:gtin>
 </item>
 <item>
 <g:id>CHPD</g:id>
@@ -1968,7 +1992,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081023292</g:gtin>
 </item>
 <item>
 <g:id>CK430001</g:id>
@@ -1980,6 +2004,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5051074300010</g:gtin>
 <g:mpn>430001</g:mpn>
 </item>
 <item>
@@ -1992,6 +2017,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5051074310040</g:gtin>
 <g:mpn>431004</g:mpn>
 </item>
 <item>
@@ -2004,6 +2030,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5051074310088</g:gtin>
 <g:mpn>431008</g:mpn>
 </item>
 <item>
@@ -2016,6 +2043,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969991659</g:gtin>
 <g:mpn>AV13021</g:mpn>
 </item>
 <item>
@@ -2028,6 +2056,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969697469</g:gtin>
 <g:mpn>T0955</g:mpn>
 </item>
 <item>
@@ -2040,6 +2069,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969700060</g:gtin>
 <g:mpn>T0959/10</g:mpn>
 </item>
 <item>
@@ -2052,6 +2082,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969781403</g:gtin>
 <g:mpn>T3102</g:mpn>
 </item>
 <item>
@@ -2064,6 +2095,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969331509</g:gtin>
 <g:mpn>T3659A300</g:mpn>
 </item>
 <item>
@@ -2076,6 +2108,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969972528</g:gtin>
 <g:mpn>T3682A</g:mpn>
 </item>
 <item>
@@ -2088,6 +2121,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969996753</g:gtin>
 <g:mpn>T4560PZ2D15</g:mpn>
 </item>
 <item>
@@ -2100,6 +2134,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969032123</g:gtin>
 <g:mpn>T49242-2</g:mpn>
 </item>
 <item>
@@ -2112,6 +2147,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969032093</g:gtin>
 <g:mpn>T49243-1</g:mpn>
 </item>
 <item>
@@ -2124,6 +2160,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969032109</g:gtin>
 <g:mpn>T49243-2</g:mpn>
 </item>
 <item>
@@ -2136,6 +2173,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969032062</g:gtin>
 <g:mpn>T49244-035</g:mpn>
 </item>
 <item>
@@ -2148,6 +2186,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969032079</g:gtin>
 <g:mpn>T49244-040</g:mpn>
 </item>
 <item>
@@ -2160,6 +2199,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969032086</g:gtin>
 <g:mpn>T49244-055</g:mpn>
 </item>
 <item>
@@ -2172,6 +2212,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969249545</g:gtin>
 <g:mpn>T49245</g:mpn>
 </item>
 <item>
@@ -2184,6 +2225,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
+<g:gtin>5013969249392</g:gtin>
 <g:mpn>T49246</g:mpn>
 </item>
 <item>
@@ -2208,7 +2250,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659804966</g:gtin>
 </item>
 <item>
 <g:id>CLEAT11</g:id>
@@ -2220,7 +2262,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659804973</g:gtin>
 </item>
 <item>
 <g:id>CLEAT5</g:id>
@@ -2232,7 +2274,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659805048</g:gtin>
 </item>
 <item>
 <g:id>CLEAT6</g:id>
@@ -2244,7 +2286,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659805055</g:gtin>
 </item>
 <item>
 <g:id>CLEAT7</g:id>
@@ -2256,7 +2298,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659805062</g:gtin>
 </item>
 <item>
 <g:id>CLEAT8</g:id>
@@ -2268,7 +2310,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659805079</g:gtin>
 </item>
 <item>
 <g:id>CLEAT9</g:id>
@@ -2280,7 +2322,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659805086</g:gtin>
 </item>
 <item>
 <g:id>CLKCMA011</g:id>
@@ -2305,6 +2347,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112819878</g:gtin>
 <g:mpn>CMA012</g:mpn>
 </item>
 <item>
@@ -2317,6 +2360,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112819885</g:gtin>
 <g:mpn>CMA013</g:mpn>
 </item>
 <item>
@@ -2329,6 +2373,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112819915</g:gtin>
 <g:mpn>CMA020</g:mpn>
 </item>
 <item>
@@ -2341,6 +2386,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112819960</g:gtin>
 <g:mpn>CMA025</g:mpn>
 </item>
 <item>
@@ -2353,6 +2399,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112819991</g:gtin>
 <g:mpn>CMA030</g:mpn>
 </item>
 <item>
@@ -2391,6 +2438,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112820140</g:gtin>
 <g:mpn>CMA060</g:mpn>
 </item>
 <item>
@@ -2403,6 +2451,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112820157</g:gtin>
 <g:mpn>CMA061</g:mpn>
 </item>
 <item>
@@ -2428,6 +2477,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112820201</g:gtin>
 <g:mpn>CMA082</g:mpn>
 </item>
 <item>
@@ -2465,6 +2515,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112820584</g:gtin>
 <g:mpn>CMA205</g:mpn>
 </item>
 <item>
@@ -2477,6 +2528,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112820607</g:gtin>
 <g:mpn>CMA215</g:mpn>
 </item>
 <item>
@@ -2489,6 +2541,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055287012661</g:gtin>
 <g:mpn>CMA503</g:mpn>
 </item>
 <item>
@@ -2514,6 +2567,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112822175</g:gtin>
 <g:mpn>CMA650</g:mpn>
 </item>
 <item>
@@ -2539,6 +2593,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112822199</g:gtin>
 <g:mpn>CMA652</g:mpn>
 </item>
 <item>
@@ -2556,8 +2611,8 @@
 </item>
 <item>
 <g:id>CLKFU023</g:id>
-<g:title>Click FU023 3A Cartridge Fuse</g:title>
-<g:description>Specifications Warranty 2 Years Standards BS 1362 Rated Current 3 A Width 6.3 mm Length 25.4 mm Material Ceramic Voltage Type AC Rated Voltage 250 V Pack Quantity 1000 Qualifier Click Essentials Fuses FU023 3A Cartridge Fuse (Bulk Bag Of 1000 Pcs) Type Plugtop Product Fuse</g:description>
+<g:title>Click FU023 3A Cartridge Fuse (Pack of 10)</g:title>
+<g:description>The Click FU023 is a 3A ceramic cartridge fuse to BS 1362, for 13A plug tops and fused connection units. Supplied in bags of 10, handy for the van, maintenance teams and PAT testing. Key features 3A rated BS 1362 Ceramic body, 25.4 x 6.3mm 250V AC Bag of 10 Good to know From the Click Essentials range. 2 year warranty. Specifications Warranty 2 Years Standards BS 1362 Rated Current 3 A Width 6.3 mm Length 25.4 mm Material Ceramic Voltage Type AC Rated Voltage 250 V Pack Quantity 10 Qualifier Click Essentials Fuses FU023 3A Cartridge Fuse Type Plugtop Product Fuse</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/click-fu023-3a-cartridge-fuse</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/CLKFU023.jpg</g:image_link>
 <g:price>2.58 GBP</g:price>
@@ -2589,6 +2644,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006393</g:gtin>
 <g:mpn>PRC009</g:mpn>
 </item>
 <item>
@@ -2613,6 +2669,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006430</g:gtin>
 <g:mpn>PRC031</g:mpn>
 </item>
 <item>
@@ -2625,6 +2682,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006034</g:gtin>
 <g:mpn>PRW011</g:mpn>
 </item>
 <item>
@@ -2637,6 +2695,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006041</g:gtin>
 <g:mpn>PRW012</g:mpn>
 </item>
 <item>
@@ -2673,6 +2732,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006140</g:gtin>
 <g:mpn>PRW036</g:mpn>
 </item>
 <item>
@@ -2892,6 +2952,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Crabtree</g:brand>
+<g:gtin>5017399467715</g:gtin>
 <g:mpn>18R63/A30/2</g:mpn>
 </item>
 <item>
@@ -2904,6 +2965,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Crabtree</g:brand>
+<g:gtin>5017399467722</g:gtin>
 <g:mpn>18R80/A30/2</g:mpn>
 </item>
 <item>
@@ -2916,7 +2978,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5055287044617</g:gtin>
 </item>
 <item>
 <g:id>CSS30A</g:id>
@@ -2940,7 +3002,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5055287044600</g:gtin>
 </item>
 <item>
 <g:id>CWKIT20</g:id>
@@ -3180,7 +3242,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060467391917</g:gtin>
 </item>
 <item>
 <g:id>DELFP1I</g:id>
@@ -3192,7 +3254,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060467392594</g:gtin>
 </item>
 <item>
 <g:id>DELFP2I</g:id>
@@ -3204,7 +3266,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060467392600</g:gtin>
 </item>
 <item>
 <g:id>DELSB20W</g:id>
@@ -3216,6 +3278,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
+<g:gtin>5060333859725</g:gtin>
 <g:mpn>DELSB20W</g:mpn>
 </item>
 <item>
@@ -3228,6 +3291,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
+<g:gtin>5060333859732</g:gtin>
 <g:mpn>DELSB25W</g:mpn>
 </item>
 <item>
@@ -3240,7 +3304,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060021360199</g:gtin>
 </item>
 <item>
 <g:id>DET1139</g:id>
@@ -3252,6 +3316,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211445849</g:gtin>
 <g:mpn>1139</g:mpn>
 </item>
 <item>
@@ -3264,6 +3329,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211218412</g:gtin>
 <g:mpn>1163</g:mpn>
 </item>
 <item>
@@ -3276,6 +3342,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211425957</g:gtin>
 <g:mpn>1164</g:mpn>
 </item>
 <item>
@@ -3288,6 +3355,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211218429</g:gtin>
 <g:mpn>1165</g:mpn>
 </item>
 <item>
@@ -3300,6 +3368,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211425964</g:gtin>
 <g:mpn>1166</g:mpn>
 </item>
 <item>
@@ -3312,6 +3381,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211424967</g:gtin>
 <g:mpn>1169</g:mpn>
 </item>
 <item>
@@ -3324,6 +3394,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211048217</g:gtin>
 <g:mpn>4821W</g:mpn>
 </item>
 <item>
@@ -3336,6 +3407,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211048224</g:gtin>
 <g:mpn>4822W</g:mpn>
 </item>
 <item>
@@ -3348,6 +3420,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211048811</g:gtin>
 <g:mpn>4881W</g:mpn>
 </item>
 <item>
@@ -3360,6 +3433,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211417426</g:gtin>
 <g:mpn>C3504</g:mpn>
 </item>
 <item>
@@ -3372,6 +3446,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211208307</g:gtin>
 <g:mpn>C3506CH</g:mpn>
 </item>
 <item>
@@ -3384,6 +3459,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432474</g:gtin>
 <g:mpn>DB171</g:mpn>
 </item>
 <item>
@@ -3396,6 +3472,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211071840</g:gtin>
 <g:mpn>DB184</g:mpn>
 </item>
 <item>
@@ -3408,6 +3485,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432290</g:gtin>
 <g:mpn>G3301</g:mpn>
 </item>
 <item>
@@ -3420,6 +3498,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432306</g:gtin>
 <g:mpn>G3302</g:mpn>
 </item>
 <item>
@@ -3432,6 +3511,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432313</g:gtin>
 <g:mpn>G3303</g:mpn>
 </item>
 <item>
@@ -3444,6 +3524,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432320</g:gtin>
 <g:mpn>G3304</g:mpn>
 </item>
 <item>
@@ -3456,6 +3537,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432337</g:gtin>
 <g:mpn>G3305</g:mpn>
 </item>
 <item>
@@ -3468,6 +3550,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432436</g:gtin>
 <g:mpn>G3401</g:mpn>
 </item>
 <item>
@@ -3480,6 +3563,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432443</g:gtin>
 <g:mpn>G3402</g:mpn>
 </item>
 <item>
@@ -3492,6 +3576,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432450</g:gtin>
 <g:mpn>G3403</g:mpn>
 </item>
 <item>
@@ -3504,6 +3589,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432467</g:gtin>
 <g:mpn>G3404</g:mpn>
 </item>
 <item>
@@ -3516,6 +3602,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432504</g:gtin>
 <g:mpn>G3502</g:mpn>
 </item>
 <item>
@@ -3528,6 +3615,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432542</g:gtin>
 <g:mpn>G3513</g:mpn>
 </item>
 <item>
@@ -3540,6 +3628,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432559</g:gtin>
 <g:mpn>G3514</g:mpn>
 </item>
 <item>
@@ -3552,6 +3641,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432610</g:gtin>
 <g:mpn>G3544</g:mpn>
 </item>
 <item>
@@ -3564,6 +3654,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135511</g:gtin>
 <g:mpn>G3551</g:mpn>
 </item>
 <item>
@@ -3576,6 +3667,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135528</g:gtin>
 <g:mpn>G3552</g:mpn>
 </item>
 <item>
@@ -3588,6 +3680,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135535</g:gtin>
 <g:mpn>G3553</g:mpn>
 </item>
 <item>
@@ -3600,6 +3693,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135542</g:gtin>
 <g:mpn>G3554</g:mpn>
 </item>
 <item>
@@ -3612,6 +3706,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135559</g:gtin>
 <g:mpn>G3555</g:mpn>
 </item>
 <item>
@@ -3624,6 +3719,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135566</g:gtin>
 <g:mpn>G3556</g:mpn>
 </item>
 <item>
@@ -3636,6 +3732,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135573</g:gtin>
 <g:mpn>G3557</g:mpn>
 </item>
 <item>
@@ -3648,6 +3745,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135580</g:gtin>
 <g:mpn>G3558</g:mpn>
 </item>
 <item>
@@ -3660,6 +3758,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135603</g:gtin>
 <g:mpn>G3560</g:mpn>
 </item>
 <item>
@@ -3672,6 +3771,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211135610</g:gtin>
 <g:mpn>G3561</g:mpn>
 </item>
 <item>
@@ -3684,6 +3784,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211035620</g:gtin>
 <g:mpn>G3562</g:mpn>
 </item>
 <item>
@@ -3696,6 +3797,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211035637</g:gtin>
 <g:mpn>G3563</g:mpn>
 </item>
 <item>
@@ -3708,6 +3810,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211418980</g:gtin>
 <g:mpn>G3565</g:mpn>
 </item>
 <item>
@@ -3720,6 +3823,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211205917</g:gtin>
 <g:mpn>L1021WH</g:mpn>
 </item>
 <item>
@@ -3732,6 +3836,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211221498</g:gtin>
 <g:mpn>L1701CH4</g:mpn>
 </item>
 <item>
@@ -3744,6 +3849,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211221511</g:gtin>
 <g:mpn>L1701SC4</g:mpn>
 </item>
 <item>
@@ -3756,6 +3862,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211221535</g:gtin>
 <g:mpn>L1701WH4</g:mpn>
 </item>
 <item>
@@ -3768,6 +3875,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211450935</g:gtin>
 <g:mpn>L2306</g:mpn>
 </item>
 <item>
@@ -3780,6 +3888,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211202718</g:gtin>
 <g:mpn>L2843B</g:mpn>
 </item>
 <item>
@@ -3792,7 +3901,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5016211216357</g:gtin>
 </item>
 <item>
 <g:id>DETS1200</g:id>
@@ -3804,6 +3913,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012007</g:gtin>
 <g:mpn>S1200</g:mpn>
 </item>
 <item>
@@ -3816,6 +3926,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012014</g:gtin>
 <g:mpn>S1201</g:mpn>
 </item>
 <item>
@@ -3828,6 +3939,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012021</g:gtin>
 <g:mpn>S1202</g:mpn>
 </item>
 <item>
@@ -3840,6 +3952,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012038</g:gtin>
 <g:mpn>S1203</g:mpn>
 </item>
 <item>
@@ -3852,6 +3965,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012045</g:gtin>
 <g:mpn>S1204</g:mpn>
 </item>
 <item>
@@ -3864,6 +3978,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012052</g:gtin>
 <g:mpn>S1205</g:mpn>
 </item>
 <item>
@@ -3876,6 +3991,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012069</g:gtin>
 <g:mpn>S1206</g:mpn>
 </item>
 <item>
@@ -3888,6 +4004,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163312077</g:gtin>
 <g:mpn>S1207SDP</g:mpn>
 </item>
 <item>
@@ -3900,6 +4017,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163112097</g:gtin>
 <g:mpn>S1209S</g:mpn>
 </item>
 <item>
@@ -3912,6 +4030,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163312091</g:gtin>
 <g:mpn>S1209SDP</g:mpn>
 </item>
 <item>
@@ -3924,6 +4043,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012151</g:gtin>
 <g:mpn>S1215</g:mpn>
 </item>
 <item>
@@ -3936,6 +4056,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012175</g:gtin>
 <g:mpn>S1217</g:mpn>
 </item>
 <item>
@@ -3948,6 +4069,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012441</g:gtin>
 <g:mpn>S1244</g:mpn>
 </item>
 <item>
@@ -3960,6 +4082,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163012465</g:gtin>
 <g:mpn>S1246</g:mpn>
 </item>
 <item>
@@ -3972,6 +4095,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163112479</g:gtin>
 <g:mpn>S1247</g:mpn>
 </item>
 <item>
@@ -3984,6 +4108,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211421249</g:gtin>
 <g:mpn>S1264</g:mpn>
 </item>
 <item>
@@ -3996,6 +4121,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163112684</g:gtin>
 <g:mpn>S1268</g:mpn>
 </item>
 <item>
@@ -4008,6 +4134,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211438339</g:gtin>
 <g:mpn>S1288</g:mpn>
 </item>
 <item>
@@ -4020,6 +4147,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013004</g:gtin>
 <g:mpn>S1300</g:mpn>
 </item>
 <item>
@@ -4032,6 +4160,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013011</g:gtin>
 <g:mpn>S1301</g:mpn>
 </item>
 <item>
@@ -4044,6 +4173,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013028</g:gtin>
 <g:mpn>S1302</g:mpn>
 </item>
 <item>
@@ -4056,6 +4186,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163113056</g:gtin>
 <g:mpn>S1305</g:mpn>
 </item>
 <item>
@@ -4068,6 +4199,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013103</g:gtin>
 <g:mpn>S1310</g:mpn>
 </item>
 <item>
@@ -4080,6 +4212,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163113100</g:gtin>
 <g:mpn>S1310P</g:mpn>
 </item>
 <item>
@@ -4092,6 +4225,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013523</g:gtin>
 <g:mpn>S1352</g:mpn>
 </item>
 <item>
@@ -4104,6 +4238,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013530</g:gtin>
 <g:mpn>S1353</g:mpn>
 </item>
 <item>
@@ -4116,6 +4251,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013608</g:gtin>
 <g:mpn>S1360</g:mpn>
 </item>
 <item>
@@ -4128,6 +4264,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013615</g:gtin>
 <g:mpn>S1361</g:mpn>
 </item>
 <item>
@@ -4140,6 +4277,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013622</g:gtin>
 <g:mpn>S1362</g:mpn>
 </item>
 <item>
@@ -4152,6 +4290,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211433044</g:gtin>
 <g:mpn>S1370</g:mpn>
 </item>
 <item>
@@ -4164,6 +4303,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211433051</g:gtin>
 <g:mpn>S1371</g:mpn>
 </item>
 <item>
@@ -4176,6 +4316,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013721</g:gtin>
 <g:mpn>S1372</g:mpn>
 </item>
 <item>
@@ -4188,6 +4329,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211433068</g:gtin>
 <g:mpn>S1390</g:mpn>
 </item>
 <item>
@@ -4200,6 +4342,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163013912</g:gtin>
 <g:mpn>S1391</g:mpn>
 </item>
 <item>
@@ -4212,6 +4355,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211433839</g:gtin>
 <g:mpn>S1414</g:mpn>
 </item>
 <item>
@@ -4224,6 +4368,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211114196</g:gtin>
 <g:mpn>S1419</g:mpn>
 </item>
 <item>
@@ -4236,6 +4381,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163014223</g:gtin>
 <g:mpn>S1422</g:mpn>
 </item>
 <item>
@@ -4248,6 +4394,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163014247</g:gtin>
 <g:mpn>S1424</g:mpn>
 </item>
 <item>
@@ -4260,6 +4407,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211203234</g:gtin>
 <g:mpn>S1425</g:mpn>
 </item>
 <item>
@@ -4272,6 +4420,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211014298</g:gtin>
 <g:mpn>S1429</g:mpn>
 </item>
 <item>
@@ -4284,6 +4433,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211014311</g:gtin>
 <g:mpn>S1431</g:mpn>
 </item>
 <item>
@@ -4296,6 +4446,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211014328</g:gtin>
 <g:mpn>S1432</g:mpn>
 </item>
 <item>
@@ -4308,6 +4459,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211014335</g:gtin>
 <g:mpn>S1433</g:mpn>
 </item>
 <item>
@@ -4320,6 +4472,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211014342</g:gtin>
 <g:mpn>S1434</g:mpn>
 </item>
 <item>
@@ -4332,6 +4485,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211114356</g:gtin>
 <g:mpn>S1435</g:mpn>
 </item>
 <item>
@@ -4344,6 +4498,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432801</g:gtin>
 <g:mpn>S1436</g:mpn>
 </item>
 <item>
@@ -4356,6 +4511,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211114370</g:gtin>
 <g:mpn>S1437</g:mpn>
 </item>
 <item>
@@ -4368,6 +4524,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211433006</g:gtin>
 <g:mpn>S1440</g:mpn>
 </item>
 <item>
@@ -4380,6 +4537,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211218399</g:gtin>
 <g:mpn>S1988</g:mpn>
 </item>
 <item>
@@ -4392,6 +4550,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163122102</g:gtin>
 <g:mpn>V1221</g:mpn>
 </item>
 <item>
@@ -4404,6 +4563,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163122300</g:gtin>
 <g:mpn>V1223</g:mpn>
 </item>
 <item>
@@ -4416,6 +4576,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163122805</g:gtin>
 <g:mpn>V1228</g:mpn>
 </item>
 <item>
@@ -4428,6 +4589,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211127806</g:gtin>
 <g:mpn>V1278</g:mpn>
 </item>
 <item>
@@ -4440,6 +4602,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432238</g:gtin>
 <g:mpn>V1280</g:mpn>
 </item>
 <item>
@@ -4452,6 +4615,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432245</g:gtin>
 <g:mpn>V1289</g:mpn>
 </item>
 <item>
@@ -4464,6 +4628,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5029163129705</g:gtin>
 <g:mpn>V1297</g:mpn>
 </item>
 <item>
@@ -4476,6 +4641,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deta</g:brand>
+<g:gtin>5016211432207</g:gtin>
 <g:mpn>V1298</g:mpn>
 </item>
 <item>
@@ -4488,7 +4654,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>D-Line</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060226645619</g:gtin>
 </item>
 <item>
 <g:id>DLISAFE/D40</g:id>
@@ -4500,19 +4666,19 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>D-Line</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060226645626</g:gtin>
 </item>
 <item>
 <g:id>DLISAFE/D50</g:id>
-<g:title>D Line DLISAFE/50 D-Line Safe-D Fire Rated Clips 38mm (Pack of 50)</g:title>
-<g:description>D-Line Safe-D D50 are mild steel fire-rated clips for 38mm trunking and cable runs, to keep cables supported in a fire. Pack of 50. Key features Mild steel Fire rated to 970°C For 38mm Fold to secure Pack of 50 Good to know To BS 5839-1. Downloads Datasheet (PDF) Specifications Standards BS 5839-1:2007 CE Approved N Maximum Operating Temperature 970 Degrees C Depth 30 mm Width 46 mm Length 20 mm Material Mild Steel Mounting Wall Extra Information Fix insert cables fold to secure Pack Quantity 50 Qualifier Recyclable Type Clip Product Fire Resistant Cable Clip</g:description>
+<g:title>D Line DLISAFE/50 D-Line Safe-D Fire Rated Clips 50mm (Pack of 50)</g:title>
+<g:description>D-Line Safe-D D50 are mild steel fire-rated clips for 50mm trunking and cable runs, to keep cables supported in a fire. Pack of 50. Key features Mild steel Fire rated to 970°C For 50mm Fold to secure Pack of 50 Good to know To BS 5839-1. Downloads Datasheet (PDF) Specifications Standards BS 5839-1:2007 CE Approved N Maximum Operating Temperature 970 Degrees C Depth 30 mm Width 46 mm Length 20 mm Material Mild Steel Mounting Wall Extra Information Fix insert cables fold to secure Pack Quantity 50 Qualifier Recyclable Type Clip Product Fire Resistant Cable Clip</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/d-line-dlisafe-50-d-line-safe-d-fire-rated-clips-38mm-pack-50</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/DLISAFE_D50-1.jpg</g:image_link>
 <g:price>21.29 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>D-Line</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060226645633</g:gtin>
 </item>
 <item>
 <g:id>EARTHROD</g:id>
@@ -4524,7 +4690,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333845346</g:gtin>
 </item>
 <item>
 <g:id>EARTHROD5/8</g:id>
@@ -4536,7 +4702,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333845360</g:gtin>
 </item>
 <item>
 <g:id>EARTHRODCLAMP</g:id>
@@ -4548,12 +4714,12 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333845377</g:gtin>
 </item>
 <item>
 <g:id>EHDH9W001</g:id>
 <g:title>Velair EHDH9W001 Hydra 9 High Speed Hand Dryer White</g:title>
-<g:description>A compact, low carbon, stainless-steel, high-speed hand dryer, backed by a 3-year manufacturer’s warranty. This robust, yet compact dryer offers high-speed hand drying, whilst it’s size allows for perfect positioning in all washroom environments. Downloads Datasheet (PDF) Brochure (PDF)</g:description>
+<g:description>The Velair Hydra 9 (EHDH9W001) is a compact, low carbon high speed hand dryer in white, with a stainless steel build. Its small size makes it easy to position in any washroom, from offices to schools and public toilets. Key features High speed drying Compact size Low carbon White finish 3 year manufacturer warranty Downloads Datasheet (PDF) Brochure (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/velair-ehdh9w001-hydra-9-high-speed-hand-dryer-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/EHDH9W001.jpg</g:image_link>
 <g:price>98.06 GBP</g:price>
@@ -4649,7 +4815,7 @@
 <item>
 <g:id>FKISS4</g:id>
 <g:title>Deligo FKISS Photocell Kit</g:title>
-<g:description>Specifications Material Polypropylene PP Mounting Surface c/w Mounting Bracket Y c/w PIR N c/w Photocell Y Dimmable N Maximum Load (W) 1000 W Type Kit Product Photocell</g:description>
+<g:description>The Deligo FKISS is a surface mounted photocell kit for switching outdoor lighting on at dusk and off at dawn. It comes with a mounting bracket and handles loads up to 1000W. Key features Dusk to dawn photocell Up to 1000W load Mounting bracket included Polypropylene housing Non-dimmable Specifications Material Polypropylene PP Mounting Surface c/w Mounting Bracket Y c/w PIR N c/w Photocell Y Dimmable N Maximum Load (W) 1000 W Type Kit Product Photocell</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/deligo-fkiss-photocell-kit</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/FKISS4.jpg</g:image_link>
 <g:price>19.25 GBP</g:price>
@@ -4860,7 +5026,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333846343</g:gtin>
 </item>
 <item>
 <g:id>GKN8X2CS</g:id>
@@ -4872,7 +5038,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333846398</g:gtin>
 </item>
 <item>
 <g:id>GKN8X3CS</g:id>
@@ -4884,7 +5050,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333846428</g:gtin>
 </item>
 <item>
 <g:id>GKNM3.5X100</g:id>
@@ -4896,7 +5062,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333855024</g:gtin>
 </item>
 <item>
 <g:id>GKNM3.5X35</g:id>
@@ -4908,7 +5074,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333840921</g:gtin>
 </item>
 <item>
 <g:id>GKNM3.5X40</g:id>
@@ -4920,7 +5086,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333840938</g:gtin>
 </item>
 <item>
 <g:id>GKNM3.5X50</g:id>
@@ -4932,7 +5098,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333840945</g:gtin>
 </item>
 <item>
 <g:id>GKNM3.5X75</g:id>
@@ -4944,7 +5110,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333840976</g:gtin>
 </item>
 <item>
 <g:id>GKNM4X12BRS</g:id>
@@ -4956,7 +5122,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333841027</g:gtin>
 </item>
 <item>
 <g:id>GKNM4X16BRS</g:id>
@@ -4968,7 +5134,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333841034</g:gtin>
 </item>
 <item>
 <g:id>GKNM4X20BRS</g:id>
@@ -4980,7 +5146,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333841041</g:gtin>
 </item>
 <item>
 <g:id>GKNM4X25BRS</g:id>
@@ -4992,7 +5158,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333841058</g:gtin>
 </item>
 <item>
 <g:id>GPBL2-10</g:id>
@@ -5057,7 +5223,7 @@
 <item>
 <g:id>GW40101</g:id>
 <g:title>Gewiss GW40101 Surface Mounted IP65 Enclosure 143x210x100mm</g:title>
-<g:description>Specifications Standards IEC 60670-24 Nominal Width 100 mm Height 210 mm Length 143 mm Number of Modules 4 Ingress Protection IP65 Mounting Surface Type Surface Product Box</g:description>
+<g:description>The Gewiss GW40101 is a surface mounted IP65 enclosure, 143 x 210 x 100mm, with space for 4 DIN modules. Suitable for housing small protective devices, isolators and controls in damp or dusty areas. Key features IP65 4 DIN modules 143 x 210 x 100mm Surface mounting Good to know To IEC 60670-24. Specifications Standards IEC 60670-24 Nominal Width 100 mm Height 210 mm Length 143 mm Number of Modules 4 Ingress Protection IP65 Mounting Surface Type Surface Product Box</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/gewiss-gw40101-surface-mounted-ip65-enclosure-143x210x100mm</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/GW40101.jpg</g:image_link>
 <g:price>19.18 GBP</g:price>
@@ -5316,6 +5482,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610087572</g:gtin>
 <g:mpn>ADB906R</g:mpn>
 </item>
 <item>
@@ -5328,6 +5495,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610087596</g:gtin>
 <g:mpn>ADB916R</g:mpn>
 </item>
 <item>
@@ -5340,6 +5508,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610087602</g:gtin>
 <g:mpn>ADB920R</g:mpn>
 </item>
 <item>
@@ -5352,6 +5521,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610087626</g:gtin>
 <g:mpn>ADB932R</g:mpn>
 </item>
 <item>
@@ -5472,6 +5642,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652251392</g:gtin>
 <g:mpn>JK01B</g:mpn>
 </item>
 <item>
@@ -5484,6 +5655,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652606482</g:gtin>
 <g:mpn>JK102SPD</g:mpn>
 </item>
 <item>
@@ -5496,6 +5668,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652250234</g:gtin>
 <g:mpn>JK104BG</g:mpn>
 </item>
 <item>
@@ -5508,6 +5681,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652250265</g:gtin>
 <g:mpn>JK106BG</g:mpn>
 </item>
 <item>
@@ -5520,6 +5694,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652250289</g:gtin>
 <g:mpn>JK108BG</g:mpn>
 </item>
 <item>
@@ -5532,6 +5707,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652250296</g:gtin>
 <g:mpn>JK11003S</g:mpn>
 </item>
 <item>
@@ -5544,6 +5720,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652250357</g:gtin>
 <g:mpn>JK112BG</g:mpn>
 </item>
 <item>
@@ -5556,6 +5733,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652252306</g:gtin>
 <g:mpn>JK222PK</g:mpn>
 </item>
 <item>
@@ -5856,6 +6034,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610144503</g:gtin>
 <g:mpn>VME109SPD</g:mpn>
 </item>
 <item>
@@ -5868,6 +6047,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610144510</g:gtin>
 <g:mpn>VME113SPD</g:mpn>
 </item>
 <item>
@@ -5880,6 +6060,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250610144527</g:gtin>
 <g:mpn>VME119SPD</g:mpn>
 </item>
 <item>
@@ -5892,6 +6073,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260301</g:gtin>
 <g:mpn>WMCC50</g:mpn>
 </item>
 <item>
@@ -5904,6 +6086,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260196</g:gtin>
 <g:mpn>WMCS12</g:mpn>
 </item>
 <item>
@@ -5916,7 +6099,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5015652260318</g:gtin>
 </item>
 <item>
 <g:id>HAGWMDP50N</g:id>
@@ -5928,6 +6111,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260325</g:gtin>
 <g:mpn>WMDP50N</g:mpn>
 </item>
 <item>
@@ -5940,6 +6124,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260370</g:gtin>
 <g:mpn>WMDP84</g:mpn>
 </item>
 <item>
@@ -5952,6 +6137,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260516</g:gtin>
 <g:mpn>WMDP84N</g:mpn>
 </item>
 <item>
@@ -5964,6 +6150,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261018</g:gtin>
 <g:mpn>WMP1</g:mpn>
 </item>
 <item>
@@ -5976,6 +6163,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261025</g:gtin>
 <g:mpn>WMP2</g:mpn>
 </item>
 <item>
@@ -5988,6 +6176,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260264</g:gtin>
 <g:mpn>WMPB1/28</g:mpn>
 </item>
 <item>
@@ -6000,6 +6189,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260271</g:gtin>
 <g:mpn>WMPB1/46</g:mpn>
 </item>
 <item>
@@ -6012,6 +6202,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260288</g:gtin>
 <g:mpn>WMPB2/28</g:mpn>
 </item>
 <item>
@@ -6024,6 +6215,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261773</g:gtin>
 <g:mpn>WMPB2/46</g:mpn>
 </item>
 <item>
@@ -6036,6 +6228,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260745</g:gtin>
 <g:mpn>WMPS12</g:mpn>
 </item>
 <item>
@@ -6048,6 +6241,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260790</g:gtin>
 <g:mpn>WMPS16</g:mpn>
 </item>
 <item>
@@ -6060,6 +6254,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260820</g:gtin>
 <g:mpn>WMPS22</g:mpn>
 </item>
 <item>
@@ -6072,6 +6267,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260851</g:gtin>
 <g:mpn>WMPS32</g:mpn>
 </item>
 <item>
@@ -6084,6 +6280,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260882</g:gtin>
 <g:mpn>WMPS3PI</g:mpn>
 </item>
 <item>
@@ -6096,6 +6293,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652260905</g:gtin>
 <g:mpn>WMPS42</g:mpn>
 </item>
 <item>
@@ -6108,6 +6306,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261049</g:gtin>
 <g:mpn>WMS81</g:mpn>
 </item>
 <item>
@@ -6120,6 +6319,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261728</g:gtin>
 <g:mpn>WMSO100</g:mpn>
 </item>
 <item>
@@ -6132,6 +6332,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261100</g:gtin>
 <g:mpn>WMSS81</g:mpn>
 </item>
 <item>
@@ -6144,31 +6345,34 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261117</g:gtin>
 <g:mpn>WMSS82</g:mpn>
 </item>
 <item>
 <g:id>HAGWMSS82USBAC</g:id>
-<g:title>Hager Sollysta WMSS82USBAC 13A 2 Gang Switched Socket with USB A/C White</g:title>
-<g:description>The Hager Sollysta WMSS82USBAC pairs a 13A twin switched socket with fast USB charging built into the plate, in a matching white moulded finish. Alongside the two mains outlets it carries a USB-A and a USB-C port, so phones, tablets and USB-C laptops charge straight from the wall without losing a socket to a plug-top charger. That makes it a natural fit for bedrooms, kitchen worktops, home offices and reception desks. Like the rest of the range it installs quickly, with a shallow back projection for more cabling space and in-line terminals with backed-off screws. Finish matches the standard Sollysta white moulded sockets and switches for a consistent look.</g:description>
+<g:title>Hager Sollysta WMSS82-USBAC 13A 2 Gang Switched Socket with USB A/C White</g:title>
+<g:description>The Hager Sollysta WMSS82-USBAC pairs a 13A twin switched socket with fast USB charging built into the plate, in a matching white moulded finish. Alongside the two mains outlets it carries a USB-A and a USB-C port, so phones, tablets and USB-C laptops charge straight from the wall without losing a socket to a plug-top charger. That makes it a natural fit for bedrooms, kitchen worktops, home offices and reception desks. Like the rest of the range it installs quickly, with a shallow back projection for more cabling space and in-line terminals with backed-off screws. Finish matches the standard Sollysta white moulded sockets and switches for a consistent look.</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/hager-sollysta-wmss82usbac-13a-2-gang-switched-socket-usb-c-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGWMSS82USBAC.jpg</g:image_link>
 <g:price>20.26 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
-<g:mpn>WMSS82USBAC</g:mpn>
+<g:gtin>3250617121996</g:gtin>
+<g:mpn>WMSS82-USBAC</g:mpn>
 </item>
 <item>
 <g:id>HAGWMSS82USBCC</g:id>
-<g:title>Hager Sollysta WMSS82USBCC 13A 2 Gang Switched Socket with USB C/C White</g:title>
-<g:description>The Hager Sollysta WMSS82USBCC pairs a 13A twin switched socket with fast USB charging built into the plate, in a matching white moulded finish. Alongside the two mains outlets it carries two USB-C ports, so phones, tablets and USB-C laptops charge straight from the wall without losing a socket to a plug-top charger. That makes it a natural fit for bedrooms, kitchen worktops, home offices and reception desks. Like the rest of the range it installs quickly, with a shallow back projection for more cabling space and in-line terminals with backed-off screws. Finish matches the standard Sollysta white moulded sockets and switches for a consistent look. Downloads Datasheet (PDF)</g:description>
+<g:title>Hager Sollysta WMSS82-USBCC 13A 2 Gang Switched Socket with USB C/C White</g:title>
+<g:description>The Hager Sollysta WMSS82-USBCC pairs a 13A twin switched socket with fast USB charging built into the plate, in a matching white moulded finish. Alongside the two mains outlets it carries two USB-C ports, so phones, tablets and USB-C laptops charge straight from the wall without losing a socket to a plug-top charger. That makes it a natural fit for bedrooms, kitchen worktops, home offices and reception desks. Like the rest of the range it installs quickly, with a shallow back projection for more cabling space and in-line terminals with backed-off screws. Finish matches the standard Sollysta white moulded sockets and switches for a consistent look. Downloads Datasheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/hager-sollysta-wmss82usbcc-13a-2-gang-switched-socket-usb-c-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGWMSS82USBCC.webp</g:image_link>
 <g:price>25.14 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
-<g:mpn>WMSS82USBCC</g:mpn>
+<g:gtin>3250617263849</g:gtin>
+<g:mpn>WMSS82-USBCC</g:mpn>
 </item>
 <item>
 <g:id>HAGWMSSU83</g:id>
@@ -6180,6 +6384,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261131</g:gtin>
 <g:mpn>WMSSU83</g:mpn>
 </item>
 <item>
@@ -6192,6 +6397,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261155</g:gtin>
 <g:mpn>WMSSU83/BO</g:mpn>
 </item>
 <item>
@@ -6204,6 +6410,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261179</g:gtin>
 <g:mpn>WMSSU83/DW</g:mpn>
 </item>
 <item>
@@ -6216,6 +6423,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261193</g:gtin>
 <g:mpn>WMSSU83/EF</g:mpn>
 </item>
 <item>
@@ -6228,6 +6436,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261216</g:gtin>
 <g:mpn>WMSSU83/FF</g:mpn>
 </item>
 <item>
@@ -6240,6 +6449,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261315</g:gtin>
 <g:mpn>WMSSU83/TD</g:mpn>
 </item>
 <item>
@@ -6252,6 +6462,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261339</g:gtin>
 <g:mpn>WMSSU83/WM</g:mpn>
 </item>
 <item>
@@ -6264,6 +6475,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261148</g:gtin>
 <g:mpn>WMSSU83FO</g:mpn>
 </item>
 <item>
@@ -6276,6 +6488,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652261575</g:gtin>
 <g:mpn>WMSU83</g:mpn>
 </item>
 <item>
@@ -6288,6 +6501,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250617260855</g:gtin>
 <g:mpn>WPPS12BKO</g:mpn>
 </item>
 <item>
@@ -6297,9 +6511,10 @@
 <g:link>https://shop.mosselectrical.co.uk/products/hager-wpss81bko-1-gang-switched-socket-metal-clad-box</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGWPSS81BKO.jpg</g:image_link>
 <g:price>6.52 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250617260978</g:gtin>
 <g:mpn>WPSS81BKO</g:mpn>
 </item>
 <item>
@@ -6312,6 +6527,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250617261036</g:gtin>
 <g:mpn>WPSS82BKO</g:mpn>
 </item>
 <item>
@@ -6324,6 +6540,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250617261098</g:gtin>
 <g:mpn>WPSSU83FOBKO</g:mpn>
 </item>
 <item>
@@ -6336,6 +6553,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>3250617261159</g:gtin>
 <g:mpn>WPSU83FOBKO</g:mpn>
 </item>
 <item>
@@ -6348,7 +6566,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333854935</g:gtin>
 </item>
 <item>
 <g:id>HYFLEX9</g:id>
@@ -6360,7 +6578,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333854942</g:gtin>
 </item>
 <item>
 <g:id>INTILDLFR70D001</g:id>
@@ -6408,7 +6626,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659803037</g:gtin>
 </item>
 <item>
 <g:id>KOMCT10-8</g:id>
@@ -6420,7 +6638,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659803082</g:gtin>
 </item>
 <item>
 <g:id>KOMCT16-6</g:id>
@@ -6432,7 +6650,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659803259</g:gtin>
 </item>
 <item>
 <g:id>KOMCT16-8</g:id>
@@ -6444,7 +6662,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659803266</g:gtin>
 </item>
 <item>
 <g:id>KOMIR1.5-4.3</g:id>
@@ -6456,7 +6674,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659800333</g:gtin>
 </item>
 <item>
 <g:id>KOMIR1.5-6.5</g:id>
@@ -6468,7 +6686,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659801422</g:gtin>
 </item>
 <item>
 <g:id>KOMIR2.5-4.3</g:id>
@@ -6480,7 +6698,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659800357</g:gtin>
 </item>
 <item>
 <g:id>KOMIR2.5-6.5</g:id>
@@ -6492,7 +6710,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659801460</g:gtin>
 </item>
 <item>
 <g:id>KOMIR2.5-8.5</g:id>
@@ -6504,7 +6722,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659802856</g:gtin>
 </item>
 <item>
 <g:id>KOMIR6-4.3</g:id>
@@ -6516,7 +6734,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659801576</g:gtin>
 </item>
 <item>
 <g:id>KOMIR6-6.5</g:id>
@@ -6528,7 +6746,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659800418</g:gtin>
 </item>
 <item>
 <g:id>KOMIR6-8.5</g:id>
@@ -6540,7 +6758,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659801484</g:gtin>
 </item>
 <item>
 <g:id>KOMIS1.5-1.5</g:id>
@@ -6552,7 +6770,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659800739</g:gtin>
 </item>
 <item>
 <g:id>KOMIS2.5-2.5</g:id>
@@ -6564,7 +6782,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659800753</g:gtin>
 </item>
 <item>
 <g:id>KOMIS6-6</g:id>
@@ -6576,7 +6794,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Termination Technology</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659800777</g:gtin>
 </item>
 <item>
 <g:id>KOMKCT200-4.8</g:id>
@@ -6597,7 +6815,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/200-x-4-8mm-natural-cable-tie-pack-100</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/KOMKCT200-4.8W.jpg</g:image_link>
 <g:price>2.34 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>C-Tie</g:brand>
 <g:identifier_exists>no</g:identifier_exists>
@@ -6810,7 +7028,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/kosnic-del100-w65-della-flood-light-ip65-100w-110-6500k-black</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/KOSDEL100_W65.webp</g:image_link>
 <g:price>34.99 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
 <g:gtin>5060971352640</g:gtin>
@@ -6826,6 +7044,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971352657</g:gtin>
 <g:mpn>DEL150-W65</g:mpn>
 </item>
 <item>
@@ -6864,6 +7083,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971350653</g:gtin>
 <g:mpn>ECH3150-W50</g:mpn>
 </item>
 <item>
@@ -6889,7 +7109,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971350554</g:gtin>
 </item>
 <item>
 <g:id>KOSFOLU/BLK</g:id>
@@ -6901,7 +7121,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971350561</g:gtin>
 </item>
 <item>
 <g:id>KOSFOLU/BLK/S</g:id>
@@ -6913,7 +7133,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971350578</g:gtin>
 </item>
 <item>
 <g:id>KOSFOR11M/GRY</g:id>
@@ -6925,6 +7145,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060063424514</g:gtin>
 <g:mpn>FOR11M-GRY</g:mpn>
 </item>
 <item>
@@ -6937,6 +7158,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060063427065</g:gtin>
 <g:mpn>FOR15T-BLK</g:mpn>
 </item>
 <item>
@@ -6949,6 +7171,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060063427089</g:gtin>
 <g:mpn>FOR15T-GRY</g:mpn>
 </item>
 <item>
@@ -7085,7 +7308,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971350530</g:gtin>
 </item>
 <item>
 <g:id>KOSOCAD/BLK</g:id>
@@ -7097,7 +7320,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971350547</g:gtin>
 </item>
 <item>
 <g:id>KOSORD03/WHT</g:id>
@@ -7109,6 +7332,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
+<g:gtin>5060971354415</g:gtin>
 <g:mpn>ORD03-WHT</g:mpn>
 </item>
 <item>
@@ -7295,7 +7519,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060063424217</g:gtin>
 </item>
 <item>
 <g:id>KOSTARS/M/GRY</g:id>
@@ -7307,7 +7531,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060063424224</g:gtin>
 </item>
 <item>
 <g:id>KOSTARS/S/BLK</g:id>
@@ -7319,7 +7543,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060063427140</g:gtin>
 </item>
 <item>
 <g:id>KOSTARS/S/GRY</g:id>
@@ -7331,7 +7555,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060063424200</g:gtin>
 </item>
 <item>
 <g:id>KOSTARS/T/BLK</g:id>
@@ -7343,7 +7567,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060063424064</g:gtin>
 </item>
 <item>
 <g:id>KOSTARS/T/GRY</g:id>
@@ -7355,7 +7579,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060063424071</g:gtin>
 </item>
 <item>
 <g:id>KOSTARS/W/BLK</g:id>
@@ -7367,7 +7591,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971350028</g:gtin>
 </item>
 <item>
 <g:id>KOSTARS/W/GRY</g:id>
@@ -7379,7 +7603,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Kosnic</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060971350035</g:gtin>
 </item>
 <item>
 <g:id>KOSUEM04/ST</g:id>
@@ -7464,12 +7688,13 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Robus</g:brand>
+<g:gtin>5391370054904</g:gtin>
 <g:mpn>RHKM01540-01</g:mpn>
 </item>
 <item>
 <g:id>LIVWS18/32</g:id>
 <g:title>Live WS18/32 Live 32A Fuse Holder</g:title>
-<g:description>The Live WS18/32 is a 32A fuse holder. Key features 32A rated</g:description>
+<g:description>The Live WS18/32 is a 32A fuse holder for use in fused boards and switchgear, holding the fuse carrier securely and making replacement simple. Key features 32A rated Fuse holder Good to know Check the fuse type and board compatibility before ordering.</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/live-ws18-32-live-32a-fuse-holder</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/LIVWS18_32.webp</g:image_link>
 <g:price>3.16 GBP</g:price>
@@ -7500,7 +7725,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060021361509</g:gtin>
 </item>
 <item>
 <g:id>MASTICGUN</g:id>
@@ -7524,7 +7749,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060021361516</g:gtin>
 </item>
 <item>
 <g:id>METMPC2/3</g:id>
@@ -7584,7 +7809,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056290001444</g:gtin>
 </item>
 <item>
 <g:id>MG1776111</g:id>
@@ -7596,7 +7821,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5055287041043</g:gtin>
 </item>
 <item>
 <g:id>MG1776112</g:id>
@@ -7608,7 +7833,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5055287041050</g:gtin>
 </item>
 <item>
 <g:id>MK5906S</g:id>
@@ -7656,7 +7881,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490280640</g:gtin>
 </item>
 <item>
 <g:id>MK9001</g:id>
@@ -7668,7 +7893,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490280763</g:gtin>
 </item>
 <item>
 <g:id>MK9015</g:id>
@@ -7680,7 +7905,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490280947</g:gtin>
 </item>
 <item>
 <g:id>MK9033</g:id>
@@ -7692,7 +7917,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490280824</g:gtin>
 </item>
 <item>
 <g:id>MK9045</g:id>
@@ -7704,7 +7929,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490280985</g:gtin>
 </item>
 <item>
 <g:id>MK9100</g:id>
@@ -7716,7 +7941,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490279835</g:gtin>
 </item>
 <item>
 <g:id>MK9101</g:id>
@@ -7728,7 +7953,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490279958</g:gtin>
 </item>
 <item>
 <g:id>MK9201</g:id>
@@ -7740,7 +7965,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490278715</g:gtin>
 </item>
 <item>
 <g:id>MK9233</g:id>
@@ -7752,7 +7977,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490278777</g:gtin>
 </item>
 <item>
 <g:id>MK9241</g:id>
@@ -7764,7 +7989,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490278937</g:gtin>
 </item>
 <item>
 <g:id>MKH7732M</g:id>
@@ -7800,6 +8025,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490251053</g:gtin>
 <g:mpn>K2181</g:mpn>
 </item>
 <item>
@@ -7812,6 +8038,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490251107</g:gtin>
 <g:mpn>K2183</g:mpn>
 </item>
 <item>
@@ -7824,6 +8051,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490222961</g:gtin>
 <g:mpn>K2746</g:mpn>
 </item>
 <item>
@@ -7836,6 +8064,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490242594</g:gtin>
 <g:mpn>K2746D1</g:mpn>
 </item>
 <item>
@@ -7848,6 +8077,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490425799</g:gtin>
 <g:mpn>K2746GRA</g:mpn>
 </item>
 <item>
@@ -7860,6 +8090,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490222930</g:gtin>
 <g:mpn>K2747</g:mpn>
 </item>
 <item>
@@ -7872,6 +8103,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490222923</g:gtin>
 <g:mpn>K2757</g:mpn>
 </item>
 <item>
@@ -7884,6 +8116,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490352521</g:gtin>
 <g:mpn>K2757D1</g:mpn>
 </item>
 <item>
@@ -7896,6 +8129,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490425829</g:gtin>
 <g:mpn>K2757GRA</g:mpn>
 </item>
 <item>
@@ -7908,6 +8142,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5063208000154</g:gtin>
 <g:mpn>K2766</g:mpn>
 </item>
 <item>
@@ -7920,6 +8155,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5063208000161</g:gtin>
 <g:mpn>K2766GRA</g:mpn>
 </item>
 <item>
@@ -7932,7 +8168,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490246042</g:gtin>
 </item>
 <item>
 <g:id>MKK2977</g:id>
@@ -7944,7 +8180,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490246035</g:gtin>
 </item>
 <item>
 <g:id>MKK330</g:id>
@@ -7956,6 +8192,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223128</g:gtin>
 <g:mpn>K330</g:mpn>
 </item>
 <item>
@@ -7968,6 +8205,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490469229</g:gtin>
 <g:mpn>K330GRA</g:mpn>
 </item>
 <item>
@@ -7980,6 +8218,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223180</g:gtin>
 <g:mpn>K337</g:mpn>
 </item>
 <item>
@@ -7992,7 +8231,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490246264</g:gtin>
 </item>
 <item>
 <g:id>MKK3491</g:id>
@@ -8004,6 +8243,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490246226</g:gtin>
 <g:mpn>K3491</g:mpn>
 </item>
 <item>
@@ -8016,6 +8256,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490246233</g:gtin>
 <g:mpn>K3492</g:mpn>
 </item>
 <item>
@@ -8028,6 +8269,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490246240</g:gtin>
 <g:mpn>K3493</g:mpn>
 </item>
 <item>
@@ -8040,6 +8282,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490246257</g:gtin>
 <g:mpn>K3494</g:mpn>
 </item>
 <item>
@@ -8052,6 +8295,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490242440</g:gtin>
 <g:mpn>K3496</g:mpn>
 </item>
 <item>
@@ -8064,6 +8308,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490242433</g:gtin>
 <g:mpn>K3498</g:mpn>
 </item>
 <item>
@@ -8076,7 +8321,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490246165</g:gtin>
 </item>
 <item>
 <g:id>MKK3592</g:id>
@@ -8088,7 +8333,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490246189</g:gtin>
 </item>
 <item>
 <g:id>MKK3593</g:id>
@@ -8100,7 +8345,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490246202</g:gtin>
 </item>
 <item>
 <g:id>MKK3631</g:id>
@@ -8112,6 +8357,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224323</g:gtin>
 <g:mpn>K3631</g:mpn>
 </item>
 <item>
@@ -8124,6 +8370,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490426000</g:gtin>
 <g:mpn>K3631GRA</g:mpn>
 </item>
 <item>
@@ -8136,6 +8383,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224330</g:gtin>
 <g:mpn>K3632</g:mpn>
 </item>
 <item>
@@ -8148,6 +8396,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490426031</g:gtin>
 <g:mpn>K3632GRA</g:mpn>
 </item>
 <item>
@@ -8160,6 +8409,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224347</g:gtin>
 <g:mpn>K3633</g:mpn>
 </item>
 <item>
@@ -8172,6 +8422,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490426062</g:gtin>
 <g:mpn>K3633GRA</g:mpn>
 </item>
 <item>
@@ -8184,6 +8435,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224354</g:gtin>
 <g:mpn>K3634</g:mpn>
 </item>
 <item>
@@ -8196,6 +8448,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490426093</g:gtin>
 <g:mpn>K3634GRA</g:mpn>
 </item>
 <item>
@@ -8208,6 +8461,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223135</g:gtin>
 <g:mpn>K370</g:mpn>
 </item>
 <item>
@@ -8220,6 +8474,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490272270</g:gtin>
 <g:mpn>K3701</g:mpn>
 </item>
 <item>
@@ -8232,6 +8487,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490272287</g:gtin>
 <g:mpn>K3702</g:mpn>
 </item>
 <item>
@@ -8244,6 +8500,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490272294</g:gtin>
 <g:mpn>K3703</g:mpn>
 </item>
 <item>
@@ -8256,6 +8513,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490272300</g:gtin>
 <g:mpn>K3704</g:mpn>
 </item>
 <item>
@@ -8268,6 +8526,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223197</g:gtin>
 <g:mpn>K377</g:mpn>
 </item>
 <item>
@@ -8280,6 +8539,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223463</g:gtin>
 <g:mpn>K3827</g:mpn>
 </item>
 <item>
@@ -8292,6 +8552,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223470</g:gtin>
 <g:mpn>K3828</g:mpn>
 </item>
 <item>
@@ -8304,6 +8565,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223289</g:gtin>
 <g:mpn>K4871</g:mpn>
 </item>
 <item>
@@ -8316,6 +8578,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223296</g:gtin>
 <g:mpn>K4872</g:mpn>
 </item>
 <item>
@@ -8328,6 +8591,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223326</g:gtin>
 <g:mpn>K4873</g:mpn>
 </item>
 <item>
@@ -8340,6 +8604,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223333</g:gtin>
 <g:mpn>K4874</g:mpn>
 </item>
 <item>
@@ -8352,6 +8617,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224286</g:gtin>
 <g:mpn>K4880</g:mpn>
 </item>
 <item>
@@ -8364,6 +8630,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223944</g:gtin>
 <g:mpn>K4881</g:mpn>
 </item>
 <item>
@@ -8376,6 +8643,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223951</g:gtin>
 <g:mpn>K4882</g:mpn>
 </item>
 <item>
@@ -8388,6 +8656,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223999</g:gtin>
 <g:mpn>K4885</g:mpn>
 </item>
 <item>
@@ -8400,6 +8669,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224217</g:gtin>
 <g:mpn>K4889GRN</g:mpn>
 </item>
 <item>
@@ -8412,6 +8682,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490251503</g:gtin>
 <g:mpn>K4892RED</g:mpn>
 </item>
 <item>
@@ -8424,6 +8695,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224088</g:gtin>
 <g:mpn>K4898</g:mpn>
 </item>
 <item>
@@ -8436,6 +8708,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490252036</g:gtin>
 <g:mpn>K4898EL</g:mpn>
 </item>
 <item>
@@ -8448,6 +8721,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223968</g:gtin>
 <g:mpn>K4900</g:mpn>
 </item>
 <item>
@@ -8460,6 +8734,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224101</g:gtin>
 <g:mpn>K4910</g:mpn>
 </item>
 <item>
@@ -8472,6 +8747,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490224118</g:gtin>
 <g:mpn>K4910RED</g:mpn>
 </item>
 <item>
@@ -8484,6 +8760,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490223265</g:gtin>
 <g:mpn>K5045</g:mpn>
 </item>
 <item>
@@ -8496,7 +8773,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5017490580993</g:gtin>
 </item>
 <item>
 <g:id>MKK8891</g:id>
@@ -8508,6 +8785,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490250285</g:gtin>
 <g:mpn>K8891</g:mpn>
 </item>
 <item>
@@ -8520,6 +8798,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490250292</g:gtin>
 <g:mpn>K8892</g:mpn>
 </item>
 <item>
@@ -8532,6 +8811,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490244970</g:gtin>
 <g:mpn>K8893</g:mpn>
 </item>
 <item>
@@ -8544,6 +8824,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490242136</g:gtin>
 <g:mpn>K8895</g:mpn>
 </item>
 <item>
@@ -8556,6 +8837,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490250322</g:gtin>
 <g:mpn>K899</g:mpn>
 </item>
 <item>
@@ -8568,6 +8850,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490245540</g:gtin>
 <g:mpn>K932</g:mpn>
 </item>
 <item>
@@ -8580,6 +8863,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490245526</g:gtin>
 <g:mpn>K942</g:mpn>
 </item>
 <item>
@@ -8592,6 +8876,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490245557</g:gtin>
 <g:mpn>K954</g:mpn>
 </item>
 <item>
@@ -8604,6 +8889,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490453723</g:gtin>
 <g:mpn>VP100</g:mpn>
 </item>
 <item>
@@ -8616,6 +8902,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490454041</g:gtin>
 <g:mpn>VP110</g:mpn>
 </item>
 <item>
@@ -8640,6 +8927,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490453808</g:gtin>
 <g:mpn>VP122</g:mpn>
 </item>
 <item>
@@ -8652,6 +8940,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490481788</g:gtin>
 <g:mpn>VP131</g:mpn>
 </item>
 <item>
@@ -8664,6 +8953,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490481801</g:gtin>
 <g:mpn>VP132</g:mpn>
 </item>
 <item>
@@ -8676,6 +8966,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490453600</g:gtin>
 <g:mpn>VP180</g:mpn>
 </item>
 <item>
@@ -8688,6 +8979,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490456113</g:gtin>
 <g:mpn>VP181</g:mpn>
 </item>
 <item>
@@ -8700,6 +8992,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490456151</g:gtin>
 <g:mpn>VP182</g:mpn>
 </item>
 <item>
@@ -8712,6 +9005,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490454010</g:gtin>
 <g:mpn>VP183</g:mpn>
 </item>
 <item>
@@ -8724,6 +9018,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490453983</g:gtin>
 <g:mpn>VP184</g:mpn>
 </item>
 <item>
@@ -8736,6 +9031,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490453914</g:gtin>
 <g:mpn>VP185</g:mpn>
 </item>
 <item>
@@ -8748,6 +9044,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490454034</g:gtin>
 <g:mpn>VP187</g:mpn>
 </item>
 <item>
@@ -8760,6 +9057,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>MK Electric</g:brand>
+<g:gtin>5017490453884</g:gtin>
 <g:mpn>VP188</g:mpn>
 </item>
 <item>
@@ -8809,6 +9107,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837268546</g:gtin>
 <g:mpn>2MRB12W</g:mpn>
 </item>
 <item>
@@ -8821,6 +9120,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241631</g:gtin>
 <g:mpn>2MRB2B</g:mpn>
 </item>
 <item>
@@ -8833,18 +9133,20 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241624</g:gtin>
 <g:mpn>2MRB2W</g:mpn>
 </item>
 <item>
 <g:id>MT2MRB3B</g:id>
 <g:title>Marshall Tufflex 2MRB3B 20mm PVC Conduit Through Box Black</g:title>
-<g:description>Specifications UKCA Approved N CE Approved N Maximum Operating Temperature 60 Degrees C Minimum Operating Temperature -5 Degrees C Diameter 20 mm Height 29 mm Colour Black Material PVC-U Ingress Protection IP40 Mounting Surface Included Fixings N Fixings Included N Qualifier 2 Way Type Through Product Box</g:description>
+<g:description>The Marshall Tufflex 2MRB3B is a black 20mm PVC conduit through box (2 way), for running 20mm conduit in a straight line with an access point. Surface mounted, IP40. Key features 20mm conduit 2 way through box Black PVC-U IP40 -5°C to 60°C Good to know Fixings not included. Specifications UKCA Approved N CE Approved N Maximum Operating Temperature 60 Degrees C Minimum Operating Temperature -5 Degrees C Diameter 20 mm Height 29 mm Colour Black Material PVC-U Ingress Protection IP40 Mounting Surface Included Fixings N Fixings Included N Qualifier 2 Way Type Through Product Box</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/marshall-tufflex-2mrb3b-20mm-pvc-conduit-through-box-black</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/MT2MRB3B.jpg</g:image_link>
 <g:price>3.36 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241693</g:gtin>
 <g:mpn>2MRB3B</g:mpn>
 </item>
 <item>
@@ -8857,6 +9159,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241594</g:gtin>
 <g:mpn>2MRB3W</g:mpn>
 </item>
 <item>
@@ -8869,6 +9172,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241747</g:gtin>
 <g:mpn>2MRB4B</g:mpn>
 </item>
 <item>
@@ -8881,6 +9185,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241730</g:gtin>
 <g:mpn>2MRB4W</g:mpn>
 </item>
 <item>
@@ -8893,6 +9198,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241792</g:gtin>
 <g:mpn>2MRB5B</g:mpn>
 </item>
 <item>
@@ -8905,6 +9211,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241570</g:gtin>
 <g:mpn>2MRB5W</g:mpn>
 </item>
 <item>
@@ -8917,6 +9224,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241648</g:gtin>
 <g:mpn>3MRB2W</g:mpn>
 </item>
 <item>
@@ -8929,6 +9237,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241709</g:gtin>
 <g:mpn>3MRB3W</g:mpn>
 </item>
 <item>
@@ -8941,6 +9250,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241754</g:gtin>
 <g:mpn>3MRB4W</g:mpn>
 </item>
 <item>
@@ -8953,6 +9263,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837241808</g:gtin>
 <g:mpn>3MRB5W</g:mpn>
 </item>
 <item>
@@ -9013,6 +9324,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837237696</g:gtin>
 <g:mpn>EC018</g:mpn>
 </item>
 <item>
@@ -9025,6 +9337,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837237702</g:gtin>
 <g:mpn>EC019</g:mpn>
 </item>
 <item>
@@ -9049,6 +9362,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837258875</g:gtin>
 <g:mpn>MA7W</g:mpn>
 </item>
 <item>
@@ -9061,6 +9375,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837258806</g:gtin>
 <g:mpn>MAB2B</g:mpn>
 </item>
 <item>
@@ -9073,6 +9388,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837258813</g:gtin>
 <g:mpn>MAB2W</g:mpn>
 </item>
 <item>
@@ -9085,6 +9401,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837258790</g:gtin>
 <g:mpn>MAB3W</g:mpn>
 </item>
 <item>
@@ -9097,6 +9414,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837240382</g:gtin>
 <g:mpn>MBSH2</g:mpn>
 </item>
 <item>
@@ -9109,6 +9427,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837240405</g:gtin>
 <g:mpn>MBSH3</g:mpn>
 </item>
 <item>
@@ -9121,6 +9440,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837242621</g:gtin>
 <g:mpn>MC2B</g:mpn>
 </item>
 <item>
@@ -9133,6 +9453,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837242638</g:gtin>
 <g:mpn>MC2W</g:mpn>
 </item>
 <item>
@@ -9145,6 +9466,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837242614</g:gtin>
 <g:mpn>MC3W</g:mpn>
 </item>
 <item>
@@ -9157,7 +9479,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333850296</g:gtin>
 </item>
 <item>
 <g:id>MTMCG2G</g:id>
@@ -9169,7 +9491,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333850302</g:gtin>
 </item>
 <item>
 <g:id>MTMCG2RED</g:id>
@@ -9181,7 +9503,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333850319</g:gtin>
 </item>
 <item>
 <g:id>MTMCG2W</g:id>
@@ -9193,7 +9515,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333850326</g:gtin>
 </item>
 <item>
 <g:id>MTMCG3B</g:id>
@@ -9205,7 +9527,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333850333</g:gtin>
 </item>
 <item>
 <g:id>MTMCG3W</g:id>
@@ -9217,7 +9539,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333850357</g:gtin>
 </item>
 <item>
 <g:id>MTMCL1B</g:id>
@@ -9229,6 +9551,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837242027</g:gtin>
 <g:mpn>MCL1B</g:mpn>
 </item>
 <item>
@@ -9241,6 +9564,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837242034</g:gtin>
 <g:mpn>MCL1W</g:mpn>
 </item>
 <item>
@@ -9253,6 +9577,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837242058</g:gtin>
 <g:mpn>MCL2W</g:mpn>
 </item>
 <item>
@@ -9361,7 +9686,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837259087</g:gtin>
 </item>
 <item>
 <g:id>MTMIE2W</g:id>
@@ -9373,7 +9698,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837259094</g:gtin>
 </item>
 <item>
 <g:id>MTMIT2W</g:id>
@@ -9385,7 +9710,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837259070</g:gtin>
 </item>
 <item>
 <g:id>MTMMT1</g:id>
@@ -9493,6 +9818,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837271348</g:gtin>
 <g:mpn>MSB2B</g:mpn>
 </item>
 <item>
@@ -9505,6 +9831,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837271355</g:gtin>
 <g:mpn>MSB2W</g:mpn>
 </item>
 <item>
@@ -9517,6 +9844,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837258936</g:gtin>
 <g:mpn>MSB3W</g:mpn>
 </item>
 <item>
@@ -9529,6 +9857,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020838030685</g:gtin>
 <g:mpn>MSC2</g:mpn>
 </item>
 <item>
@@ -9541,6 +9870,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837269567</g:gtin>
 <g:mpn>MSSB27</g:mpn>
 </item>
 <item>
@@ -9553,6 +9883,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837269574</g:gtin>
 <g:mpn>MSSB28</g:mpn>
 </item>
 <item>
@@ -9565,6 +9896,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020838378381</g:gtin>
 <g:mpn>MSSB71</g:mpn>
 </item>
 <item>
@@ -9577,6 +9909,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020838378411</g:gtin>
 <g:mpn>MSSB72</g:mpn>
 </item>
 <item>
@@ -9589,6 +9922,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020838378442</g:gtin>
 <g:mpn>MSSB73</g:mpn>
 </item>
 <item>
@@ -9601,18 +9935,20 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020838378473</g:gtin>
 <g:mpn>MSSB74</g:mpn>
 </item>
 <item>
 <g:id>MTMSSB91</g:id>
 <g:title>Marshall Tufflex MSSB91 1 Gang 32mm Square Corners Surface Box</g:title>
-<g:description>Specifications Standards BS 4662 UKCA Approved N CE Approved N Depth 32 mm Nominal Width 87 mm Height 87 mm Finish Gloss Colour White Material Thermoplastic Multi Compartment N Knockout Shape Rectangular/Round Number of Knockouts 3 Knockouts Included? Y Earth Included N Outlet Type Trunking/Conduit Number of Entries 2 Ingress Protection IP40 Entry Method Universal Number of Gangs 1 Mounting Surface Included Fixings N Fixings Included N Corner Shape Square Qualifier Mini Trunking Type Pattress Product Box</g:description>
+<g:description>The Marshall Tufflex MSSB91 is a white 1 gang, 32mm deep surface box with square corners, for mounting sockets and switches on the surface where it meets mini trunking or conduit. Key features 1 gang, 32mm deep 87 x 87mm Square corners Trunking and conduit entries White gloss thermoplastic IP40 Good to know To BS 4662. Earth terminal and fixings not included. Specifications Standards BS 4662 UKCA Approved N CE Approved N Depth 32 mm Nominal Width 87 mm Height 87 mm Finish Gloss Colour White Material Thermoplastic Multi Compartment N Knockout Shape Rectangular/Round Number of Knockouts 3 Knockouts Included? Y Earth Included N Outlet Type Trunking/Conduit Number of Entries 2 Ingress Protection IP40 Entry Method Universal Number of Gangs 1 Mounting Surface Included Fixings N Fixings Included N Corner Shape Square Qualifier Mini Trunking Type Pattress Product Box</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/marshall-tufflex-mssb91-1-gang-32mm-square-corners-surface-box</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/MTMSSB91.jpg</g:image_link>
 <g:price>3.26 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837995701</g:gtin>
 <g:mpn>MSSB91</g:mpn>
 </item>
 <item>
@@ -9625,6 +9961,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837995732</g:gtin>
 <g:mpn>MSSB92</g:mpn>
 </item>
 <item>
@@ -9637,6 +9974,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020838364971</g:gtin>
 <g:mpn>MSSB93</g:mpn>
 </item>
 <item>
@@ -9649,6 +9987,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020838365008</g:gtin>
 <g:mpn>MSSB94</g:mpn>
 </item>
 <item>
@@ -9706,7 +10045,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/marshall-tufflex-mtrs75-75mm-x-75mm-pvc-maxi-trunking-white-3m-length</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/MTMTRS75.webp</g:image_link>
 <g:price>49.69 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
 <g:mpn>MTRS75</g:mpn>
@@ -9721,7 +10060,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837244199</g:gtin>
 </item>
 <item>
 <g:id>MTTA3</g:id>
@@ -9745,6 +10084,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837260069</g:gtin>
 <g:mpn>TCR2</g:mpn>
 </item>
 <item>
@@ -9757,6 +10097,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244359</g:gtin>
 <g:mpn>TEB2</g:mpn>
 </item>
 <item>
@@ -9769,6 +10110,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244366</g:gtin>
 <g:mpn>TEB3</g:mpn>
 </item>
 <item>
@@ -9781,6 +10123,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244373</g:gtin>
 <g:mpn>TEB4</g:mpn>
 </item>
 <item>
@@ -9793,6 +10136,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244236</g:gtin>
 <g:mpn>TEC3</g:mpn>
 </item>
 <item>
@@ -9805,6 +10149,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244243</g:gtin>
 <g:mpn>TEC4</g:mpn>
 </item>
 <item>
@@ -9817,7 +10162,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837253283</g:gtin>
 </item>
 <item>
 <g:id>MTTECS10050</g:id>
@@ -9829,7 +10174,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837253269</g:gtin>
 </item>
 <item>
 <g:id>MTTECS50</g:id>
@@ -9841,7 +10186,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837253337</g:gtin>
 </item>
 <item>
 <g:id>MTTFAS50C</g:id>
@@ -9853,6 +10198,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837253429</g:gtin>
 <g:mpn>TFAS50C</g:mpn>
 </item>
 <item>
@@ -9865,6 +10211,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244403</g:gtin>
 <g:mpn>TFB2</g:mpn>
 </item>
 <item>
@@ -9877,6 +10224,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244410</g:gtin>
 <g:mpn>TFB3</g:mpn>
 </item>
 <item>
@@ -9889,6 +10237,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244427</g:gtin>
 <g:mpn>TFB4</g:mpn>
 </item>
 <item>
@@ -9901,6 +10250,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837253627</g:gtin>
 <g:mpn>TIAS50C</g:mpn>
 </item>
 <item>
@@ -9913,6 +10263,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244304</g:gtin>
 <g:mpn>TIB2</g:mpn>
 </item>
 <item>
@@ -9925,6 +10276,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244311</g:gtin>
 <g:mpn>TIB3</g:mpn>
 </item>
 <item>
@@ -9937,6 +10289,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837244328</g:gtin>
 <g:mpn>TIB4</g:mpn>
 </item>
 <item>
@@ -9949,6 +10302,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
+<g:gtin>5020837253689</g:gtin>
 <g:mpn>TOAS50C</g:mpn>
 </item>
 <item>
@@ -9961,7 +10315,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837253702</g:gtin>
 </item>
 <item>
 <g:id>MTTSSO4</g:id>
@@ -9973,7 +10327,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837253719</g:gtin>
 </item>
 <item>
 <g:id>MTTT22</g:id>
@@ -9985,7 +10339,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837243888</g:gtin>
 </item>
 <item>
 <g:id>MTTT33</g:id>
@@ -9997,19 +10351,19 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837244137</g:gtin>
 </item>
 <item>
 <g:id>MTTT44</g:id>
 <g:title>Marshall Tufflex TT4-4WH Mini Trunking Tee 38mm X 25mm White</g:title>
-<g:description>Downloads Datasheet (PDF) Specifications UKCA Approved N CE Approved N Maximum Operating Temperature 60 Degrees C Minimum Operating Temperature -5 Degrees C Depth 25 mm Nominal Width 38 mm Colour White Material PVC Impact Strength IK06 Ingress Protection IP4X Number of Compartments 1 Mounting Surface Coupler Included N Qualifier Mini Type Equal Product Tee</g:description>
+<g:description>The Marshall Tufflex TT4-4WH is a white equal tee for 38 x 25mm mini trunking, for branching a trunking run in three directions with a neat finish. Key features For 38 x 25mm mini trunking Equal tee White PVC IK06, IP4X Good to know Coupler not included. Downloads Datasheet (PDF) Specifications UKCA Approved N CE Approved N Maximum Operating Temperature 60 Degrees C Minimum Operating Temperature -5 Degrees C Depth 25 mm Nominal Width 38 mm Colour White Material PVC Impact Strength IK06 Ingress Protection IP4X Number of Compartments 1 Mounting Surface Coupler Included N Qualifier Mini Type Equal Product Tee</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/marshall-tufflex-tt4-4wh-mini-trunking-tee-38mm-x-25mm-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/MTTT44.jpg</g:image_link>
 <g:price>2.81 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5020837244144</g:gtin>
 </item>
 <item>
 <g:id>NIGEV40AXSP-4W</g:id>
@@ -10021,6 +10375,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739115664</g:gtin>
 <g:mpn>EV40AXSP-4W</g:mpn>
 </item>
 <item>
@@ -10033,6 +10388,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739072462</g:gtin>
 <g:mpn>FMS100</g:mpn>
 </item>
 <item>
@@ -10045,6 +10401,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739114537</g:gtin>
 <g:mpn>H-BWS131FS</g:mpn>
 </item>
 <item>
@@ -10057,6 +10414,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739114513</g:gtin>
 <g:mpn>H-BWS131S</g:mpn>
 </item>
 <item>
@@ -10069,6 +10427,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739114520</g:gtin>
 <g:mpn>H-BWS132S</g:mpn>
 </item>
 <item>
@@ -10081,6 +10440,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739114476</g:gtin>
 <g:mpn>H-BWS201</g:mpn>
 </item>
 <item>
@@ -10093,6 +10453,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739106693</g:gtin>
 <g:mpn>NSA2-240</g:mpn>
 </item>
 <item>
@@ -10129,66 +10490,72 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739109106</g:gtin>
 <g:mpn>PCU0402M</g:mpn>
 </item>
 <item>
 <g:id>NIGPCU0604M</g:id>
 <g:title>Niglon PCU0604M Protego 6 Module 4 Free Ways 100A DP Isolator</g:title>
-<g:description>Technical Specifications Material Composition Steel (Powder Coated) Configurations 6 Module 4 Free Ways 100A DP Isolator Rated Operational Voltage (Un/Ue) 230V AC Rated Current of Assembly (lnA) 100A Rated Frquency 50Hz Main Switch Terminal Capacity 35mm2 IP Rating (Ingress Protection) IP20 IK Rating (Impact Protection) IK05 Dimensions 160 (W) x 240 (H) x 110mm(D) Standards BS7671:2018, BS EN61439-3 100A Mains Isolator Manufactured to EN60947:3 Certification Semko, CE, UKCA Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
+<g:description>The Niglon Protego PCU0604M is a 6 module powder coated steel consumer unit with a 100A double pole main isolator, leaving 4 free ways for MCBs and RCBOs. Built to BS EN 61439-3 for BS 7671 installations. Key features 6 modules, 4 free ways 100A DP main isolator Powder coated steel IP20, IK05 160 x 240 x 110mm (W x H x D) 35mm² main switch terminals Good to know Main isolator to EN 60947-3. Semko, CE and UKCA certified. Specifications Material Steel (powder coated) Configuration 6 module, 4 free ways, 100A DP isolator Rated operational voltage (Un/Ue) 230V AC Rated current of assembly (InA) 100A Rated frequency 50Hz Main switch terminal capacity 35mm² Ingress protection IP20 Impact protection IK05 Dimensions (W x H x D) 160 x 240 x 110mm Standards BS 7671:2018, BS EN 61439-3 Main isolator 100A, to EN 60947-3 Certification Semko, CE, UKCA Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/niglon-pcu0604m-protego-6-module-4-free-ways-100a-dp-isolator</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/NIGPCU0604M_82c172f8-e689-4852-9b3d-482d404bb79d.webp</g:image_link>
 <g:price>34.27 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739109113</g:gtin>
 <g:mpn>PCU0604M</g:mpn>
 </item>
 <item>
 <g:id>NIGPCU1008M</g:id>
 <g:title>Niglon PCU1008M Protego 10 Module 8 Free Ways 100A DP Isolator</g:title>
-<g:description>Technical Specifications Material Composition Steel (Powder Coated) Configurations 10 Module 8 Free Ways 100A DP Isolator Rated Operational Voltage (Un/Ue) 230V AC Rated Current of Assembly (lnA) 100A Rated Frquency 50Hz Main Switch Terminal Capacity 35mm2 IP Rating (Ingress Protection) IP20 IK Rating (Impact Protection) IK05 Dimensions 232 (W) x 260 (H) x 110mm (D) Standards BS7671:2018, BS EN61439-3 100A Mains Isolator Manufactured to EN60947:3 Certification Semko, CE, UKCA Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
+<g:description>The Niglon Protego PCU1008M is a 10 module powder coated steel consumer unit with a 100A double pole main isolator, leaving 8 free ways for MCBs and RCBOs. Built to BS EN 61439-3 for BS 7671 installations. Key features 10 modules, 8 free ways 100A DP main isolator Powder coated steel IP20, IK05 232 x 260 x 110mm (W x H x D) 35mm² main switch terminals Good to know Main isolator to EN 60947-3. Semko, CE and UKCA certified. Specifications Material Steel (powder coated) Configuration 10 module, 8 free ways, 100A DP isolator Rated operational voltage (Un/Ue) 230V AC Rated current of assembly (InA) 100A Rated frequency 50Hz Main switch terminal capacity 35mm² Ingress protection IP20 Impact protection IK05 Dimensions (W x H x D) 232 x 260 x 110mm Standards BS 7671:2018, BS EN 61439-3 Main isolator 100A, to EN 60947-3 Certification Semko, CE, UKCA Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/niglon-pcu1008m-protego-10-module-8-free-ways-100a-dp-isolator</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/NIGPCU1008M.jpg</g:image_link>
 <g:price>42.29 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739109120</g:gtin>
 <g:mpn>PCU1008M</g:mpn>
 </item>
 <item>
 <g:id>NIGPCU1412M</g:id>
 <g:title>Niglon PCU1412M Protego 14 Module 12 Free Ways 100A DP Isolator</g:title>
-<g:description>Technical Specifications Material Composition Steel (Powder Coated) Configurations 14 Module 12 Free Ways 100A DP Isolator Rated Operational Voltage (Un/Ue) 230V AC Rated Current of Assembly (lnA) 100A Rated Frquency 50Hz Main Switch Terminal Capacity 35mm2 IP Rating (Ingress Protection) IP20 IK Rating (Impact Protection) IK05 Dimensions 304 (W) x 260 (H) x 110mm (D) Standards BS7671:2018, BS EN61439-3 100A Mains Isolator Manufactured to EN60947:3 Certification Semko, CE, UKCA T Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
+<g:description>The Niglon Protego PCU1412M is a 14 module powder coated steel consumer unit with a 100A double pole main isolator, leaving 12 free ways for MCBs and RCBOs. Built to BS EN 61439-3 for BS 7671 installations. Key features 14 modules, 12 free ways 100A DP main isolator Powder coated steel IP20, IK05 304 x 260 x 110mm (W x H x D) 35mm² main switch terminals Good to know Main isolator to EN 60947-3. Semko, CE and UKCA certified. Specifications Material Steel (powder coated) Configuration 14 module, 12 free ways, 100A DP isolator Rated operational voltage (Un/Ue) 230V AC Rated current of assembly (InA) 100A Rated frequency 50Hz Main switch terminal capacity 35mm² Ingress protection IP20 Impact protection IK05 Dimensions (W x H x D) 304 x 260 x 110mm Standards BS 7671:2018, BS EN 61439-3 Main isolator 100A, to EN 60947-3 Certification Semko, CE, UKCA Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/niglon-pcu1412m-protego-14-module-12-free-ways-100a-dp-isolator</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/NIGPCU1412M.jpg</g:image_link>
 <g:price>51.70 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739109137</g:gtin>
 <g:mpn>PCU1412M</g:mpn>
 </item>
 <item>
 <g:id>NIGPCU1816M</g:id>
 <g:title>Niglon PCU1816M Protego 18 Module 16 Free Ways 100A DP Isolator</g:title>
-<g:description>Technical Specifications Material Composition Steel (Powder Coated) Configurations 18 Module 16 Free Ways 100A DP Isolator Rated Operational Voltage (Un/Ue) 230V AC Rated Current of Assembly (lnA) 100A Rated Frquency 50Hz Main Switch Terminal Capacity 35mm2 IP Rating (Ingress Protection) IP20 IK Rating (Impact Protection) IK05 Dimensions 376 (W) x 260 (H) x 110mm (D) Standards BS7671:2018, BS EN61439-3 100A Mains Isolator Manufactured to EN60947:3 Certification Semko, CE, UKCA Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
+<g:description>The Niglon Protego PCU1816M is an 18 module powder coated steel consumer unit with a 100A double pole main isolator, leaving 16 free ways for MCBs and RCBOs. Built to BS EN 61439-3 for BS 7671 installations. Key features 18 modules, 16 free ways 100A DP main isolator Powder coated steel IP20, IK05 376 x 260 x 110mm (W x H x D) 35mm² main switch terminals Good to know Main isolator to EN 60947-3. Semko, CE and UKCA certified. Specifications Material Steel (powder coated) Configuration 18 module, 16 free ways, 100A DP isolator Rated operational voltage (Un/Ue) 230V AC Rated current of assembly (InA) 100A Rated frequency 50Hz Main switch terminal capacity 35mm² Ingress protection IP20 Impact protection IK05 Dimensions (W x H x D) 376 x 260 x 110mm Standards BS 7671:2018, BS EN 61439-3 Main isolator 100A, to EN 60947-3 Certification Semko, CE, UKCA Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/niglon-pcu1816m-protego-18-module-16-free-ways-100a-dp-isolator</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/NIGPCU1816M.jpg</g:image_link>
 <g:price>57.89 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739109144</g:gtin>
 <g:mpn>PCU1816M</g:mpn>
 </item>
 <item>
 <g:id>NIGPCU2220M</g:id>
 <g:title>Niglon PCU2220M Protego 22 Module 20 Free Ways 100A DP Isolator</g:title>
-<g:description>Technical Specifications Material Composition Steel (Powder Coated) Configurations 22 Module 20 Free Ways 100A DP Isolator Rated Operational Voltage (Un/Ue) 230V AC Rated Current of Assembly (lnA) 100A Rated Frquency 50Hz Main Switch Terminal Capacity 35mm2 IP Rating (Ingress Protection) IP20 IK Rating (Impact Protection) IK05 Dimensions 448 (W) x 260 (H) x 110mm (D) Standards BS7671:2018, BS EN61439-3 100A Mains Isolator Manufactured to EN60947:3 Certification Semko, CE, UKCA T Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
+<g:description>The Niglon Protego PCU2220M is a 22 module powder coated steel consumer unit with a 100A double pole main isolator, leaving 20 free ways for MCBs and RCBOs. Built to BS EN 61439-3 for BS 7671 installations. Key features 22 modules, 20 free ways 100A DP main isolator Powder coated steel IP20, IK05 448 x 260 x 110mm (W x H x D) 35mm² main switch terminals Good to know Main isolator to EN 60947-3. Semko, CE and UKCA certified. Specifications Material Steel (powder coated) Configuration 22 module, 20 free ways, 100A DP isolator Rated operational voltage (Un/Ue) 230V AC Rated current of assembly (InA) 100A Rated frequency 50Hz Main switch terminal capacity 35mm² Ingress protection IP20 Impact protection IK05 Dimensions (W x H x D) 448 x 260 x 110mm Standards BS 7671:2018, BS EN 61439-3 Main isolator 100A, to EN 60947-3 Certification Semko, CE, UKCA Downloads Catalogue page (PDF) Technical data sheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/niglon-pcu2220m-protego-22-module-20-free-ways-100a-dp-isolator</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/NIGPCU2220M.jpg</g:image_link>
 <g:price>67.39 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739109151</g:gtin>
 <g:mpn>PCU2220M</g:mpn>
 </item>
 <item>
@@ -10201,7 +10568,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5027739114131</g:gtin>
 </item>
 <item>
 <g:id>NIGRCBO1-10/30SAX2</g:id>
@@ -10213,6 +10580,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739118856</g:gtin>
 <g:mpn>RCBO1-10/30SAX2</g:mpn>
 </item>
 <item>
@@ -10225,6 +10593,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739118863</g:gtin>
 <g:mpn>RCBO1-16/30SAX2</g:mpn>
 </item>
 <item>
@@ -10237,6 +10606,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739118870</g:gtin>
 <g:mpn>RCBO1-20/30SAX2</g:mpn>
 </item>
 <item>
@@ -10249,6 +10619,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739118832</g:gtin>
 <g:mpn>RCBO1-32/30SAX2</g:mpn>
 </item>
 <item>
@@ -10261,6 +10632,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739118849</g:gtin>
 <g:mpn>RCBO1-40/30SAX2</g:mpn>
 </item>
 <item>
@@ -10273,6 +10645,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Niglon</g:brand>
+<g:gtin>5027739118894</g:gtin>
 <g:mpn>RCBO1-6/30SAX2</g:mpn>
 </item>
 <item>
@@ -10465,6 +10838,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030238</g:gtin>
 <g:mpn>PCH020</g:mpn>
 </item>
 <item>
@@ -10477,6 +10851,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030252</g:gtin>
 <g:mpn>PCH025</g:mpn>
 </item>
 <item>
@@ -10489,6 +10864,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030276</g:gtin>
 <g:mpn>PCH032</g:mpn>
 </item>
 <item>
@@ -10501,6 +10877,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030290</g:gtin>
 <g:mpn>PCH038</g:mpn>
 </item>
 <item>
@@ -10513,6 +10890,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030306</g:gtin>
 <g:mpn>PCH040</g:mpn>
 </item>
 <item>
@@ -10525,6 +10903,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030351</g:gtin>
 <g:mpn>PCH051</g:mpn>
 </item>
 <item>
@@ -10537,6 +10916,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030399</g:gtin>
 <g:mpn>PCH057</g:mpn>
 </item>
 <item>
@@ -10549,6 +10929,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030412</g:gtin>
 <g:mpn>PCH064</g:mpn>
 </item>
 <item>
@@ -10561,6 +10942,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030443</g:gtin>
 <g:mpn>PCH070</g:mpn>
 </item>
 <item>
@@ -10573,6 +10955,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030450</g:gtin>
 <g:mpn>PCH073</g:mpn>
 </item>
 <item>
@@ -10585,6 +10968,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030467</g:gtin>
 <g:mpn>PCH076</g:mpn>
 </item>
 <item>
@@ -10597,6 +10981,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030559</g:gtin>
 <g:mpn>PCH102</g:mpn>
 </item>
 <item>
@@ -10609,6 +10994,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030597</g:gtin>
 <g:mpn>PCH114</g:mpn>
 </item>
 <item>
@@ -10621,6 +11007,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030610</g:gtin>
 <g:mpn>PCH127</g:mpn>
 </item>
 <item>
@@ -10633,6 +11020,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030634</g:gtin>
 <g:mpn>PCH152</g:mpn>
 </item>
 <item>
@@ -10826,6 +11214,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652040231</g:gtin>
 <g:mpn>CR64AX</g:mpn>
 </item>
 <item>
@@ -10850,6 +11239,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
+<g:gtin>5015652040125</g:gtin>
 <g:mpn>PCR2000</g:mpn>
 </item>
 <item>
@@ -10886,11 +11276,12 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081024633</g:gtin>
 <g:mpn>S04.0X160</g:mpn>
 </item>
 <item>
 <g:id>S05.5X160</g:id>
-<g:title>Armeg S05.0X160 5mm x 160mm SDS Bit</g:title>
+<g:title>Armeg S05.5X160 5.5mm x 160mm SDS Bit</g:title>
 <g:description>The Armeg S05.5X160 is a 5.5mm x 160mm SDS Plus masonry bit with a tungsten carbide tip, for drilling brick, block and concrete. Key features 5.5mm diameter 160mm long SDS Plus shank Tungsten carbide tip Good to know For SDS Plus hammer drills. Downloads Product overview (PDF) Catalogue page (PDF) Technical data sheet (PDF) Specifications Length 160 mm Diameter 5.5 mm Material Tungsten Carbide Shank Type SDS Plus Use Masonry Set N Product Drill Bit</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/armeg-s05-0x160-5mm-x-160mm-sds-bit</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/S05.5X160.webp</g:image_link>
@@ -10898,7 +11289,8 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081012067</g:gtin>
+<g:mpn>S05.5X160</g:mpn>
 </item>
 <item>
 <g:id>S06.0X160</g:id>
@@ -10910,6 +11302,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081012098</g:gtin>
 <g:mpn>S06.0X160</g:mpn>
 </item>
 <item>
@@ -10922,6 +11315,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081012173</g:gtin>
 <g:mpn>S08.0X160</g:mpn>
 </item>
 <item>
@@ -11066,6 +11460,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030948</g:gtin>
 <g:mpn>SSH020</g:mpn>
 </item>
 <item>
@@ -11078,6 +11473,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030962</g:gtin>
 <g:mpn>SSH025</g:mpn>
 </item>
 <item>
@@ -11090,6 +11486,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081030986</g:gtin>
 <g:mpn>SSH032</g:mpn>
 </item>
 <item>
@@ -11102,6 +11499,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081031013</g:gtin>
 <g:mpn>SSH3PCSET</g:mpn>
 </item>
 <item>
@@ -11138,7 +11536,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060964216188</g:gtin>
 </item>
 <item>
 <g:id>TBYEC14</g:id>
@@ -11150,7 +11548,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333845247</g:gtin>
 </item>
 <item>
 <g:id>TBYEC15</g:id>
@@ -11162,7 +11560,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333845278</g:gtin>
 </item>
 <item>
 <g:id>TBYEC16</g:id>
@@ -11174,7 +11572,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333845292</g:gtin>
 </item>
 <item>
 <g:id>TBYGP11</g:id>
@@ -11282,6 +11680,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Timeguard</g:brand>
+<g:gtin>5012483014790</g:gtin>
 <g:mpn>SLFM360N</g:mpn>
 </item>
 <item>
@@ -11306,6 +11705,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5032822004336</g:gtin>
 <g:mpn>OB1SCS290C</g:mpn>
 </item>
 <item>
@@ -11318,6 +11718,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5055287044457</g:gtin>
 <g:mpn>QDC2</g:mpn>
 </item>
 <item>
@@ -11330,6 +11731,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5055287044389</g:gtin>
 <g:mpn>QFC5</g:mpn>
 </item>
 <item>
@@ -11342,6 +11744,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5055287044396</g:gtin>
 <g:mpn>QFC6</g:mpn>
 </item>
 <item>
@@ -11354,6 +11757,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5055287044402</g:gtin>
 <g:mpn>QFC7</g:mpn>
 </item>
 <item>
@@ -11366,6 +11770,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5056290003806</g:gtin>
 <g:mpn>QMC25</g:mpn>
 </item>
 <item>
@@ -11462,6 +11867,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5055287044259</g:gtin>
 <g:mpn>QRC10</g:mpn>
 </item>
 <item>
@@ -11474,6 +11880,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5055287005403</g:gtin>
 <g:mpn>QWPR001</g:mpn>
 </item>
 <item>
@@ -11486,19 +11893,20 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
+<g:gtin>5055287044662</g:gtin>
 <g:mpn>QWS8-15</g:mpn>
 </item>
 <item>
 <g:id>VAN2HAC132</g:id>
 <g:title>32TPI Bi-Metal Hacksaw Blade 32TPI Thin Metal Cut (Pack of 10)</g:title>
-<g:description>Specifications Length 300 mm Material Bi-Metal Use Usage: 32TPI - cutting thin sheet metals and sections Teeth per Inch 32 tpi Set Sizes 32 Set Quantity 10 Set Y Type Hacksaw Product Blade</g:description>
+<g:description>300mm (12in) bi-metal hacksaw blades with 32 teeth per inch, for clean cuts in thin sheet metal, tube and small sections such as trunking, tray and conduit. Pack of 10. Key features 300mm length 32 TPI Bi-metal Pack of 10 Good to know Fine 32 TPI teeth suit thin material; use a coarser blade for thicker stock. Specifications Length 300 mm Material Bi-Metal Use Usage: 32TPI - cutting thin sheet metals and sections Teeth per Inch 32 tpi Set Sizes 32 Set Quantity 10 Set Y Type Hacksaw Product Blade</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/32tpi-bi-metal-hacksaw-blade-32tpi-thin-metal-cut-pack-10</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VAN2HAC132.jpg</g:image_link>
 <g:price>14.60 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333840129</g:gtin>
 </item>
 <item>
 <g:id>VAN3CAVRDM</g:id>
@@ -11510,7 +11918,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5055287044778</g:gtin>
 </item>
 <item>
 <g:id>VANSAFEPLATE1</g:id>
@@ -11522,7 +11930,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060333851989</g:gtin>
 </item>
 <item>
 <g:id>VEN370328</g:id>
@@ -12086,6 +12494,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Warner Howard</g:brand>
+<g:gtin>5057218000068</g:gtin>
 <g:mpn>EL600W</g:mpn>
 </item>
 <item>
@@ -12098,6 +12507,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081001436</g:gtin>
 <g:mpn>WBF20</g:mpn>
 </item>
 <item>
@@ -12110,6 +12520,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081001542</g:gtin>
 <g:mpn>WBF20XL</g:mpn>
 </item>
 <item>
@@ -12122,6 +12533,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081001450</g:gtin>
 <g:mpn>WBF25</g:mpn>
 </item>
 <item>
@@ -12134,6 +12546,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081001559</g:gtin>
 <g:mpn>WBF25XL</g:mpn>
 </item>
 <item>
@@ -12146,6 +12559,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
+<g:gtin>5022081001467</g:gtin>
 <g:mpn>WBF32</g:mpn>
 </item>
 <item>
@@ -12170,7 +12584,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081022066</g:gtin>
 </item>
 <item>
 <g:id>WF20.0X160</g:id>
@@ -12182,7 +12596,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081022080</g:gtin>
 </item>
 <item>
 <g:id>WF25.0X160</g:id>
@@ -12194,7 +12608,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081022110</g:gtin>
 </item>
 <item>
 <g:id>WF32.0X160</g:id>
@@ -12206,7 +12620,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081022158</g:gtin>
 </item>
 <item>
 <g:id>WIPES</g:id>
@@ -12218,7 +12632,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5060659801927</g:gtin>
 </item>
 <item>
 <g:id>WIS10109900</g:id>
@@ -12230,6 +12644,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
+<g:gtin>4007686103182</g:gtin>
 <g:mpn>10109900</g:mpn>
 </item>
 <item>
@@ -12242,7 +12657,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>4007685018302</g:gtin>
 </item>
 <item>
 <g:id>WIS60580</g:id>
@@ -12254,7 +12669,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>4007685022262</g:gtin>
 </item>
 <item>
 <g:id>WIS60703</g:id>
@@ -12266,7 +12681,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>4007685022699</g:gtin>
 </item>
 <item>
 <g:id>WIS61778</g:id>
@@ -12278,7 +12693,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>4007685024785</g:gtin>
 </item>
 <item>
 <g:id>WIS61779</g:id>
@@ -12290,7 +12705,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>4007685024792</g:gtin>
 </item>
 <item>
 <g:id>WISEMT20</g:id>
@@ -12302,6 +12717,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
+<g:gtin>4007685019088</g:gtin>
 <g:mpn>EMT20</g:mpn>
 </item>
 <item>
@@ -12314,6 +12730,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
+<g:gtin>4007685019095</g:gtin>
 <g:mpn>EMT25</g:mpn>
 </item>
 <item>
@@ -12326,18 +12743,20 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
+<g:gtin>4007685019101</g:gtin>
 <g:mpn>EMT32</g:mpn>
 </item>
 <item>
 <g:id>WISTKE/P32</g:id>
 <g:title>Wiska TKE/P32 ESKV32 Tail Kit M32 Plastic</g:title>
-<g:description>The Wiska TKE/P32 is an M32 plastic tail kit with an IP68 ESKV gland and multi-seal insert, for 2 x 11mm meter tails and a 6mm earth. Key features M32 ESKV gland IP68 Takes 2 x 11mm tails + 1 x 6mm earth Locknut and blanking insert included Good to know For meter tail entry into consumer units and enclosures. Downloads Catalogue page (PDF) Technical data sheet (PDF) General specification (PDF)</g:description>
+<g:description>The Wiska TKE/P32 is an M32 plastic tail kit with an IP68 ESKV gland and multi-seal insert, for 2 x 16mm² meter tails and a 10 to 16mm² earth. Key features M32 ESKV gland IP68 Takes 2 x 16mm² tails + 1 x 10-16mm² earth Locknut and blanking insert included Good to know For meter tail entry into consumer units and enclosures. Downloads Catalogue page (PDF) Technical data sheet (PDF) General specification (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/wiska-tke-p32-eskv32-tail-kit-m32-plastic</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/WISTKE_P32.webp</g:image_link>
 <g:price>2.87 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wiska</g:brand>
+<g:gtin>4007686229547</g:gtin>
 <g:mpn>TKE/P32</g:mpn>
 </item>
 <item>
@@ -12422,6 +12841,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Pemsa</g:brand>
+<g:gtin>8431927065988</g:gtin>
 <g:mpn>62016022</g:mpn>
 </item>
 <item>
@@ -12434,6 +12854,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Pemsa</g:brand>
+<g:gtin>8431927012616</g:gtin>
 <g:mpn>64010061</g:mpn>
 </item>
 <item>
@@ -12446,11 +12867,12 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Pemsa</g:brand>
+<g:gtin>8431927012630</g:gtin>
 <g:mpn>67010040</g:mpn>
 </item>
 <item>
 <g:id>WMD67010046</g:id>
-<g:title>Pemsa 67010046 Central Hanging Plate M8/M40 Silver (20)</g:title>
+<g:title>Pemsa 67010046 Central Hanging Plate M8/M10 Silver (20)</g:title>
 <g:description>The Pemsa 67010046 is a central hanging plate for suspending wire basket tray from M8 threaded rod, electrogalvanised steel. Pack of 20. Key features For M8 threaded rod Suitable for wire mesh tray Electrogalvanised steel -50°C to 150°C Pack of 20 Good to know Check the data sheet for load rating. Downloads Catalogue page (PDF) Specifications Unit Weight 0.033 kg CE Approved Y Maximum Operating Temperature 150 Degrees C Minimum Operating Temperature -50 Degrees C Height 5 mm Nominal Width 35 mm Length 59 mm Finish Electrogalvanised (EZ) Material Steel Maximum Load (kg) 71.38 kg Additional Features Suitable For Wire Mesh Tray Perforated N Qualifier EC001003 Type Suspension Product Bracket</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/pemsa-67010046-central-hanging-plate-m8-m40-silver-20</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/WMD67010046.jpg</g:image_link>
@@ -12458,6 +12880,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Pemsa</g:brand>
+<g:gtin>8431927012654</g:gtin>
 <g:mpn>67010046</g:mpn>
 </item>
 <item>
@@ -12482,7 +12905,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081029270</g:gtin>
 </item>
 <item>
 <g:id>WWB20.0T</g:id>
@@ -12494,7 +12917,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081028693</g:gtin>
 </item>
 <item>
 <g:id>WWB25.0T</g:id>
@@ -12506,7 +12929,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081028716</g:gtin>
 </item>
 <item>
 <g:id>WWB32.0T</g:id>
@@ -12518,7 +12941,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081028723</g:gtin>
 </item>
 <item>
 <g:id>WWBNP25</g:id>
@@ -12530,7 +12953,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081030825</g:gtin>
 </item>
 <item>
 <g:id>WYLDSF100M</g:id>
@@ -12542,6 +12965,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601086774</g:gtin>
 <g:mpn>DSF100M</g:mpn>
 </item>
 <item>
@@ -12554,6 +12978,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601086859</g:gtin>
 <g:mpn>DSF60M</g:mpn>
 </item>
 <item>
@@ -12566,6 +12991,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601086781</g:gtin>
 <g:mpn>DSF80M</g:mpn>
 </item>
 <item>
@@ -12578,7 +13004,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5013601001135</g:gtin>
 </item>
 <item>
 <g:id>WYLEMB1W</g:id>
@@ -12602,6 +13028,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601089003</g:gtin>
 <g:mpn>NHXLB06</g:mpn>
 </item>
 <item>
@@ -12614,6 +13041,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601089027</g:gtin>
 <g:mpn>NHXLB10</g:mpn>
 </item>
 <item>
@@ -12626,6 +13054,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601089041</g:gtin>
 <g:mpn>NHXLB16</g:mpn>
 </item>
 <item>
@@ -12638,6 +13067,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601089065</g:gtin>
 <g:mpn>NHXLB20</g:mpn>
 </item>
 <item>
@@ -12650,6 +13080,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601089102</g:gtin>
 <g:mpn>NHXLB32</g:mpn>
 </item>
 <item>
@@ -12662,6 +13093,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601089126</g:gtin>
 <g:mpn>NHXLB40</g:mpn>
 </item>
 <item>
@@ -12674,6 +13106,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601089058</g:gtin>
 <g:mpn>NHXLC16</g:mpn>
 </item>
 <item>
@@ -12686,6 +13119,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601083148</g:gtin>
 <g:mpn>NHXS1B06</g:mpn>
 </item>
 <item>
@@ -12698,6 +13132,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601083155</g:gtin>
 <g:mpn>NHXS1B10</g:mpn>
 </item>
 <item>
@@ -12710,6 +13145,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601083179</g:gtin>
 <g:mpn>NHXS1B20</g:mpn>
 </item>
 <item>
@@ -12722,6 +13158,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601083186</g:gtin>
 <g:mpn>NHXS1B32</g:mpn>
 </item>
 <item>
@@ -12734,6 +13171,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601083193</g:gtin>
 <g:mpn>NHXS1B40</g:mpn>
 </item>
 <item>
@@ -12746,6 +13184,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601100333</g:gtin>
 <g:mpn>NM1106L</g:mpn>
 </item>
 <item>
@@ -12758,6 +13197,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601094922</g:gtin>
 <g:mpn>NM1406FLEX</g:mpn>
 </item>
 <item>
@@ -12770,6 +13210,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601100289</g:gtin>
 <g:mpn>NM1406L</g:mpn>
 </item>
 <item>
@@ -12782,6 +13223,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601094908</g:gtin>
 <g:mpn>NM806FLEX</g:mpn>
 </item>
 <item>
@@ -12794,6 +13236,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601110240</g:gtin>
 <g:mpn>NMT2SPD3W/1</g:mpn>
 </item>
 <item>
@@ -12806,6 +13249,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601074863</g:gtin>
 <g:mpn>REC2S</g:mpn>
 </item>
 <item>
@@ -12818,7 +13262,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5013601110684</g:gtin>
 </item>
 <item>
 <g:id>WYLWNM1773</g:id>
@@ -12830,7 +13274,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5013601110691</g:gtin>
 </item>
 <item>
 <g:id>WYLWRDS80/2</g:id>
@@ -12842,6 +13286,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
+<g:gtin>5013601017501</g:gtin>
 <g:mpn>WRDS80/2</g:mpn>
 </item>
 <item>
@@ -12854,7 +13299,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081026507</g:gtin>
 </item>
 <item>
 <g:id>YMSP0400L</g:id>
@@ -12866,7 +13311,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081026538</g:gtin>
 </item>
 <item>
 <g:id>YMSP0500L</g:id>
@@ -12878,7 +13323,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081026569</g:gtin>
 </item>
 <item>
 <g:id>YMSP0600L</g:id>
@@ -12890,7 +13335,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081026583</g:gtin>
 </item>
 <item>
 <g:id>YMSP0800L</g:id>
@@ -12902,7 +13347,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081026620</g:gtin>
 </item>
 <item>
 <g:id>YMSP1000L</g:id>
@@ -12914,7 +13359,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5022081026668</g:gtin>
 </item>
 </channel>
 </rss>
