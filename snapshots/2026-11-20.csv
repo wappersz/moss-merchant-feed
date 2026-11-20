@@ -199,11 +199,11 @@ CLKCMA061,0.70,InStock,Click,Click 2 Gang Blank Plate White CMA061
 CLKCMA081,0.66,InStock,Click,Click 1 Gang 25mm Pattress White CMA081
 CLKCMA082,1.10,InStock,Click,Click 2 Gang 25mm Pattress CMA082
 CLKCMA100,17.52,InStock,Click,Click Dual Voltage Shaver Socket Outlet - 115/230V CMA100
-CLKCMA201,5.24,InStock,Click,Click 45A 1 Gang Cooker Switch with Neon White CMA201
-CLKCMA205,8.08,InStock,Click,Click 45A DP Cooker Control Unit with Neon & Red Rocker White CMA205
+CLKCMA201,5.24,InStock,Click,Click 50A 1 Gang Cooker Switch with Neon White CMA201
+CLKCMA205,8.08,InStock,Click,Click 50A DP Cooker Control Unit with Neon White CMA205
 CLKCMA215,3.05,InStock,Click,Click 45A 1 Gang Cooker Connection Plate CMA215
 CLKCMA503,6.05,InStock,Click,Click 45A DP 2 Gang Vertical Switch White CMA503
-CLKCMA505,8.08,InStock,Click,Click 45A Cooker Control with 13A Socket and Neon White CMA505
+CLKCMA505,8.08,InStock,Click,Click 50A Cooker Control with 13A Socket and Neon White CMA505
 CLKCMA650,2.40,InStock,Click,Click 13A Unswitched Fuse Spur White CMA650
 CLKCMA651,3.28,InStock,Click,Click 13A DP Switched Fused Spur White CMA651
 CLKCMA652,3.53,InStock,Click,Click 13A Switched Spur with Neon White CMA652
@@ -220,7 +220,7 @@ CLKPRW030,1.76,InStock,Click,Click PRW030 13A 1 Gang Unswitched Socket White
 CLKPRW036,2.34,InStock,Click,Click PRW036 13A 2 Gang Switched Socket White
 CLKPRW050,2.30,InStock,Click,Click PRW050 13A Unswitched Fused Spur White
 CLKPRW052,3.37,InStock,Click,Click PRW052 13A Switched Fused Spur C/W Neon White
-CLKPRW205,7.73,InStock,Click,Click PRW205 CCU13A Socket+Neon 45A White
+CLKPRW205,7.73,InStock,Click,Click PRW205 50A Cooker Control Unit with 13A Socket and Neon White
 CLKPRW213,6.95,InStock,Click,Click PRW213 50A Round Ceiling Switch White
 CLKPRW215,2.90,InStock,Click,Click PRW215 45A Cooker Outlet White
 CN20MGA4,5.72,InStock,Metpro,CN20MGA4 20mm x 3.75mtr Steel Conduit Tube
@@ -374,7 +374,7 @@ DLISAFE/D50,21.29,InStock,D-Line,D Line DLISAFE/50 D-Line Safe-D Fire Rated Clip
 EARTHROD,3.58,InStock,Deligo,Earth Rod Copper 3/8 Inch 4ft ER3/8
 EARTHROD5/8,7.28,InStock,Deligo,Earth Rod Copper 5/8 Inch 4ft ER58
 EARTHRODCLAMP,2.51,InStock,Deligo,Deligo ERC3/8 Brass Machined Earth Rod Clamp 3/8 inch
-EHDH9W001,98.06,OutOfStock,Velair,Velair EHDH9W001 Hydra 9 High Speed Hand Dryer White
+EHDH9W001,98.06,InStock,Velair,Velair EHDH9W001 Hydra 9 High Speed Hand Dryer White
 ETRDFHT2KW,35.63,InStock,Eterna,Eterna DFHT2KW 2kW Adjustable Downflow Heater
 ETRE12PH2,85.48,InStock,Eterna,Eterna Plinth E12PH2 2KW Fan Heater with RF Thermostat and Remote
 EURMEC4M,21.85,InStock,Europa,MEC4M 4 Module Enclosure C/W Lid Metal
@@ -383,14 +383,14 @@ EXDMN1500,6.50,InStock,Duracell,Duracell Procell AA Batteries (Pack of 10)
 EXDMN1604,2.49,OutOfStock,Duracell,Duracell Procell 9v Battery
 EXDMN2400,6.50,InStock,Duracell,Duracell Procell AAA Batteries (Pack of 10)
 FKISS4,19.25,InStock,Deligo,Deligo FKISS Photocell Kit
-FLXFP3W,3.61,OutOfStock,Flex7,Flex 7 FP3/W 3 Pin White Plug 16A 230V
-FLXFP4B,4.22,OutOfStock,Flex7,Flex 7 FP4/B 4 Pin Black Plug 16A 230V
+FLXFP3W,3.61,InStock,Flex7,Flex 7 FP3/W 3 Pin White Plug 16A 230V
+FLXFP4B,4.22,InStock,Flex7,Flex 7 FP4/B 4 Pin Black Plug 16A 230V
 FLXFP4R,4.22,InStock,Flex7,Flex 7 FP4/R 4 Pin Red Plug 16A 230V
 FLXFP7B,9.29,InStock,Flex7,Flex 7 FP7/B 7 Pin Black Plug 16A 230V
-FLXFP7R,9.29,OutOfStock,Flex7,Flex 7 FP7/R 7 Pin Red Plug 16A 230V
+FLXFP7R,9.29,InStock,Flex7,Flex 7 FP7/R 7 Pin Red Plug 16A 230V
 FLXFP7W,9.29,InStock,Flex7,Flex 7 FP7/W 7 Pin White Plug 16A 230V
 FLXFSU04,47.21,InStock,Flex7,Flex7 FSU04 Starter 4 Way eZeBox
-FLXFSU06,61.14,OutOfStock,Flex7,Flex7 FSU06 Starter 6 Way eZeBox
+FLXFSU06,61.14,InStock,Flex7,Flex7 FSU06 Starter 6 Way eZeBox
 FLXFTS03W,3.73,InStock,Flex7,Flex 7 FTS03/W 3 Pole White Socket Outlet 16A 230V
 FLXFTS04B,4.42,InStock,Flex7,Flex 7 FTS04/B 4 Pole Black Socket Outlet 2x4.0mm
 FLXFTS04R,4.42,InStock,Flex7,Flex 7 FTS04/R 4 Pole Red Socket Outlet 2x4.0mm
@@ -563,7 +563,7 @@ KOSBEM303/SST,47.58,InStock,Kosnic,Kosnic BEM303/SST Batten UEM Duo 3W Universal
 KOSDD212/2P-SCT,12.96,InStock,Kosnic,Kosnic DD212/2P-SCT LED DD 2 Mini 2pin 6/8/10/12W 2700/4000/6500K
 KOSDD212/4P-SCT,12.96,InStock,Kosnic,Kosnic DD212/4P-SCT LED DD 2 Mini 4pin 6/8/10/12W 2700/4000/6500K DD212/4P-SCT
 KOSDEL100/W65,34.99,OutOfStock,Kosnic,Kosnic DEL100-W65 Della flood light IP65 100W 110° 6500K Black
-KOSDEL150/W65,67.54,OutOfStock,Kosnic,Kosnic DEL150-W65 Della flood light IP65 150W 110° 6500K Black
+KOSDEL150/W65,67.54,InStock,Kosnic,Kosnic DEL150-W65 Della flood light IP65 150W 110° 6500K Black
 KOSDEL80/W65,33.66,InStock,Kosnic,Kosnic DEL80-W65 Della flood light IP65 80W 110° 6500K Black
 KOSDOX20103,23.81,InStock,Kosnic,Kosnic DOX20103 Doxa II Standard Exit Sign with Multiple Mounting Positions
 KOSECH3150/W50,69.41,OutOfStock,Kosnic,"Kosnic ECH3150-W50 Echo 3, LED Circular Highbay, IP65, 150W, 5000K"
@@ -586,7 +586,7 @@ KOSNIV5FS27,25.07,InStock,Kosnic,Kosnic NIV45S27 NIVA III Interior Batten 5ft Si
 KOSNTR03,17.65,InStock,Kosnic,"Kosnic NTR03 Nitro standard, 3W EME downlight, non-maintained"
 KOSOCA/BLK,23.24,InStock,Kosnic,Kosnic OCA-BLK Ocala Up/ Down Wall Light GU10
 KOSOCAD/BLK,18.48,InStock,Kosnic,Kosnic OCAD-BLK Ocala Down Only Wall Light GU10
-KOSORD03/WHT,28.94,OutOfStock,Kosnic,Kosnic ORD03-WHT Orda II Twin Spot emergency 3W IP65 white
+KOSORD03/WHT,28.33,OutOfStock,Kosnic,Kosnic ORD03-WHT Orda II Twin Spot emergency 3W IP65 white
 KOSOSS318-SCT,11.09,InStock,Kosnic,"Kosnic OSS318-SCT Ossa III 9w/12w/18w wattage and CCT switchable, white trim"
 KOSRE05/GUF30,0.86,InStock,Kosnic,Kosnic RE05-GUF30 Reon 5W GU10 60° 3000K
 KOSRE05/GUF40,0.86,InStock,Kosnic,Kosnic RE05-GUF40 Reon 5W GU10 60° 4000K
@@ -708,8 +708,8 @@ MKK8893,6.24,OutOfStock,MK Electric,MK K8893 6 & 8 Gang Metal Box with Knockouts
 MKK8895,8.60,OutOfStock,MK Electric,MK K8895 9 & 12 Gang Metal Box with Knockouts
 MKK899,3.04,InStock,MK Electric,MK K899 1 Gang 38mm Metal Box with Knockouts
 MKK932,14.33,InStock,MK Electric,MK K932 Metalclad Plus 13A DP Switch Fused Spur with Flex Outlet
-MKK942,13.26,InStock,MK Electric,MK K942 Metalclad 13A DP Switched Fused Spur
-MKK954,11.20,InStock,MK Electric,MK K954 Metalclad 13A DP Unswitched Fused Spur
+MKK942,13.26,InStock,MK Electric,MK K942 Metalclad 13A DP Switched Fused Spur with Back Box
+MKK954,11.20,InStock,MK Electric,MK K954 Metalclad 13A DP Unswitched Fused Spur with Back Box
 MKVP100,7.18,InStock,MK Electric,MK VP100 Straight Cover
 MKVP110,7.18,InStock,MK Electric,MK VP110 Curved Cover
 MKVP121,1.69,InStock,MK Electric,MK VP121 1 Gang 45mm Box
@@ -984,14 +984,14 @@ VEN477436B,99.22,OutOfStock,Vent-Axia,"Vent Axia 477436B Silent Fan 100mm Fixed 
 VEN478163,11.10,InStock,Vent-Axia,Vent Axia 478163 Round Solid Ducting 125mm x 2mtr
 VEN479091,333.30,InStock,Vent-Axia,Vent Axia 479091 Lo-Carbon PureAir Home PIV Unit with Heater
 VEN495335,6.01,InStock,Vent-Axia,Vent Axia 495335 RD104BGE 100mm Fixed Louvre Grille Beige
-VEN495336,6.01,InStock,Vent-Axia,Vent Axia 495336 RD104BK 100mm Fixed Lourve Grille Black
+VEN495336,6.01,InStock,Vent-Axia,Vent Axia 495336 RD104BK 100mm Fixed Louvre Grille Black
 VEN495337,7.27,OutOfStock,Vent-Axia,Vent Axia 495337 125mm Fixed Louvre Grille Black
 VEN498095BDW,51.47,InStock,Vent-Axia,Vent Axia 498095B Lo-Carbon NBR dMEVc 100mm
 VEN498096,59.96,OutOfStock,Vent-Axia,"Vent Axia 498096 Lo-Carbon NBR dMEVc 100mm Humidistat, Timer"
 VEN498097BDW,77.90,OutOfStock,Vent-Axia,Vent Axia 498097 Lo-Carbon NBR dMEVc 125mm
 VEN5108250,11.69,InStock,Vent-Axia,Vent Axia 5108250 Round Solid Ducting 100mm x 2mtr
-VEN561704BDW,5.28,InStock,Vent-Axia,Vent Axia 561704 Worm Drive Clip 110mm Metal
-VEN561707,7.10,InStock,Vent-Axia,Vent Axia 561707 Worm Drive Clip 180mm Metal
+VEN561704BDW,5.28,OutOfStock,Vent-Axia,Vent Axia 561704 Worm Drive Clip 110mm Metal
+VEN561707,7.10,OutOfStock,Vent-Axia,Vent Axia 561707 Worm Drive Clip 180mm Metal
 WAG2212411,20.76,InStock,Wago,Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)
 WAG221412,25.00,InStock,Wago,Wago 221-412 2 Way Connector 4mm Terminal Block (Pack of 100)
 WAG221413,14.00,InStock,Wago,Wago 221-413 3 Way Connector 4mm Terminal Block (Pack of 50)
