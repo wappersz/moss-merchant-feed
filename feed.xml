@@ -884,7 +884,7 @@
 <g:description>The ALL LED Drive24 ADRCV2430 is a 30W, 24V DC constant voltage LED driver for LED tape and other 24V lighting. Non-dimmable, with a regulated output and a tough moulded polycarbonate case. Key features 30W, 24V DC output (up to 1.25A) 220-240V AC input Non-dimmable Overload protection and thermal cut-out SELV rated, Class 2 Good to know Operating temperature -15°C to 45°C. 3 year warranty. Downloads Technical data sheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/all-led-adrcv2430-drive24-30w-24v-dc-constant-voltage-led-drivers</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ALLADRCV2430.jpg</g:image_link>
-<g:price>14.62 GBP</g:price>
+<g:price>14.45 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>All LED</g:brand>
@@ -923,7 +923,7 @@
 <g:description>The ALL LED Drive24 ADRCV2480 is an 80W, 24V DC constant voltage LED driver for LED tape and other 24V lighting. Non-dimmable, with a regulated output and a tough moulded polycarbonate case. Key features 80W, 24V DC output (up to 3.33A) 220-240V AC input Non-dimmable Overload protection and thermal cut-out SELV rated, Class 2 Good to know Operating temperature -15°C to 45°C. 3 year warranty. Downloads Datasheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/all-led-adrcv2480-drive24-80w-24v-dc-constant-voltage-led-drivers</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ALLADRCV2480.webp</g:image_link>
-<g:price>20.56 GBP</g:price>
+<g:price>19.14 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>All LED</g:brand>
@@ -2473,6 +2473,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5055112820546</g:gtin>
 <g:mpn>CMA201</g:mpn>
 </item>
 <item>
@@ -2589,6 +2590,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022002760</g:gtin>
 <g:mpn>FU023</g:mpn>
 </item>
 <item>
@@ -2627,6 +2629,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006409</g:gtin>
 <g:mpn>PRC015</g:mpn>
 </item>
 <item>
@@ -2678,6 +2681,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006058</g:gtin>
 <g:mpn>PRW013</g:mpn>
 </item>
 <item>
@@ -2690,6 +2694,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006119</g:gtin>
 <g:mpn>PRW030</g:mpn>
 </item>
 <item>
@@ -2715,6 +2720,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006164</g:gtin>
 <g:mpn>PRW050</g:mpn>
 </item>
 <item>
@@ -2740,6 +2746,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Click</g:brand>
+<g:gtin>5060022006348</g:gtin>
 <g:mpn>PRW205</g:mpn>
 </item>
 <item>
@@ -5107,7 +5114,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Gripple</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5038006279040</g:gtin>
 </item>
 <item>
 <g:id>GPCUTTER-GRIPPLE</g:id>
@@ -5119,7 +5126,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Gripple</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5038006170088</g:gtin>
 </item>
 <item>
 <g:id>GPROP2MM-100MM-BLC</g:id>
@@ -5916,8 +5923,8 @@
 </item>
 <item>
 <g:id>HAGNC320</g:id>
-<g:title>Hager NCN320N MCB 3P 10kA C 20A 3M</g:title>
-<g:description>The Hager NCN320N is a 20A, C curve, triple pole MCB with a 10kA rating, for protecting three phase circuits such as motors and commercial equipment. Key features 20A, C curve Triple pole, 3 module 10kA breaking capacity Takes 35mm² rigid or 25mm² flexible cable DIN rail mounting Good to know To BS EN 60898. Downloads Catalogue page (PDF) Technical data sheet (PDF) Specifications Standards BS EN 60898 Voltage 230 ~ 400 V Current Rating 20 A Width 52.5 mm Cable Capacity 35 (Rigid) 25 (Flexible) mm2 Short Circuit Rating 10 kA Trip Type Type C Mounting DIN Rail Pole Configuration TP Type MCB Product Circuit Breaker</g:description>
+<g:title>Hager NCN320A MCB 3P 10kA C 20A 3M</g:title>
+<g:description>The Hager NCN320A is a 20A, C curve, triple pole MCB with a 10kA rating, for protecting three phase circuits such as motors and commercial equipment. Key features 20A, C curve Triple pole, 3 module 10kA breaking capacity Takes 35mm² rigid or 25mm² flexible cable DIN rail mounting Good to know To BS EN 60898. Downloads Catalogue page (PDF) Technical data sheet (PDF) Specifications Standards BS EN 60898 Voltage 230 ~ 400 V Current Rating 20 A Width 52.5 mm Cable Capacity 35 (Rigid) 25 (Flexible) mm2 Short Circuit Rating 10 kA Trip Type Type C Mounting DIN Rail Pole Configuration TP Type MCB Product Circuit Breaker</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/hager-ncn320n-mcb-3p-10ka-c-20a-3m</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGNC320.webp</g:image_link>
 <g:price>35.53 GBP</g:price>
@@ -6637,7 +6644,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>C-Tie</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056588400331</g:gtin>
 </item>
 <item>
 <g:id>KOMKCT200-4.8W</g:id>
@@ -6649,7 +6656,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>C-Tie</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056588400324</g:gtin>
 </item>
 <item>
 <g:id>KOMKCT300-4.8</g:id>
@@ -6661,7 +6668,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>C-Tie</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056588400393</g:gtin>
 </item>
 <item>
 <g:id>KOMKCT300-4.8W</g:id>
@@ -6673,7 +6680,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>C-Tie</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056588400386</g:gtin>
 </item>
 <item>
 <g:id>KOMKCT300-7.6</g:id>
@@ -6685,7 +6692,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>C-Tie</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056588400591</g:gtin>
 </item>
 <item>
 <g:id>KOMKCT370-7.6</g:id>
@@ -6697,7 +6704,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>C-Tie</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056588400614</g:gtin>
 </item>
 <item>
 <g:id>KOMKCT540-13.2</g:id>
@@ -6709,7 +6716,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>C-Tie</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056588400713</g:gtin>
 </item>
 <item>
 <g:id>KOSA5.9/BC27</g:id>
@@ -9661,7 +9668,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/marshall-tufflex-tecs50wh-50x50mm-maxi-trunking-end-cap-white</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/MTTECS50.jpg</g:image_link>
 <g:price>1.90 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
 <g:gtin>5020837253337</g:gtin>
@@ -11640,7 +11647,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/vent-axia-495336-rd104bk-100mm-fixed-lourve-grille-black</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/VEN495336.jpg</g:image_link>
 <g:price>6.01 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
 <g:gtin>5015135953362</g:gtin>
