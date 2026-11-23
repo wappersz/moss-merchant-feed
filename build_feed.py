@@ -135,8 +135,18 @@ def admin_barcodes():
         return {}
 
 
+# Local van delivery only (CF/NP/SA), never posted. Kept out of Shopping because the Merchant
+# Center shipping policy is UK-wide; listing them there shows delivery Moss can't do.
+LOCAL_ONLY_TAG = "delivery-local-only"
+
+
 def items_from(products, barcodes):
     for pr in products:
+        tags = pr.get("tags") or []
+        if isinstance(tags, str):
+            tags = [t.strip() for t in tags.split(",")]
+        if LOCAL_ONLY_TAG in tags:
+            continue
         img = (pr.get("images") or [{}])[0].get("src")
         name = clean(pr.get("title"))
         desc = clean(pr.get("body_html"))
