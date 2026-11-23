@@ -65,7 +65,7 @@ AICEI450,53.95,InStock,Aico,"Aico Ei450 RadioLINK Alarm Controller - Test, Locat
 ALLABAR/XT5FT/CCT,33.62,InStock,All LED,ALL LED ABAR/XT5FT/CCT Barracuda Extreme 5ft 55W IP66 IK10 CCT & Wattage Selectable Anti-Corrosive LED Batten
 ALLACL240SN/CCT,9.29,InStock,All LED,ALL LED ACL240SN/CCT Swift CCT 2.3W 240V Under Cabinet Light Satin Nickel
 ALLACL240WH/CCT,9.29,InStock,All LED,ALL LED ACL240WH/CCT Swift CCT 2.3W 240V Under Cabinet Light Polar White
-ALLADIM/150W,9.89,InStock,All LED,ALL LED ADIM150 150W Universal 2 Way LED Dimmer Module
+ALLADIM/150W,9.84,InStock,All LED,ALL LED ADIM150 150W Universal 2 Way LED Dimmer Module
 ALLADIM150/GRID/WH,24.59,InStock,All LED,ALL LED ADIM150/GRID/WH 150W Programmable 2 Way LED Grid Dimmer & Adaptor Plates
 ALLADRCV24100,22.21,InStock,All LED,ALL LED ADRCV24100 Drive24 100W 24V DC Constant Voltage LED Drivers
 ALLADRCV2415,6.98,InStock,All LED,ALL LED ADRCV2415 Drive24 15W 24V DC Constant Voltage LED Drivers
@@ -240,19 +240,19 @@ CWKIT20S,5.81,InStock,Deligo,Deligo CWKIT20S Brass Gland Pack 20mm (2) (Small)
 CWKIT25,14.39,InStock,Deligo,Deligo CWKIT25 Brass Gland Pack 25mm (2)
 CWKIT32,22.55,InStock,Deligo,Deligo CWKIT32 Brass Gland Pack 32mm (2)
 DANAUTPIRSP,19.84,InStock,Danlers,Danlers AUTPIRSP Surface Mounted Square PIR 360D
-DCCL10G,4.09,InStock,Conlok,Conlok CL10G 25mm Angle Box
-DCCL11G,4.32,InStock,Conlok,Conlok CL11G 25mm Tee Box
-DCCL13G,4.48,InStock,Conlok,Conlok CL13G 25mm U Box
-DCCL1G,2.96,InStock,Conlok,Conlok CL1G 20mm Terminal Box
-DCCL20GA,1.57,InStock,Conlok,Conlok CL20GA 20mm Female Adaptor
-DCCL20GC,1.20,InStock,Conlok,Conlok CL20GC 20mm Coupler
-DCCL25GA,1.99,InStock,Conlok,Conlok CL25GA 25mm Adaptor Female
-DCCL25GC,1.57,InStock,Conlok,Conlok CL25GC 25mm Coupler
-DCCL2G,3.23,InStock,Conlok,Conlok CL2G 20mm Through Box
-DCCL3G,3.23,InStock,Conlok,Conlok CL3G 20mm Angle Box
-DCCL4G,3.36,InStock,Conlok,Conlok CL4G 20mm Tee Box
-DCCL8G,3.62,InStock,Conlok,Conlok CL8G 25mm Terminal Box
-DCCL9G,4.09,InStock,Conlok,Conlok CL9G 25mm Through Box
+DCCL10G,3.78,InStock,Conlok,Conlok CL10G 25mm Angle Box
+DCCL11G,4.00,InStock,Conlok,Conlok CL11G 25mm Tee Box
+DCCL13G,4.13,InStock,Conlok,Conlok CL13G 25mm U Box
+DCCL1G,2.74,InStock,Conlok,Conlok CL1G 20mm Terminal Box
+DCCL20GA,1.44,InStock,Conlok,Conlok CL20GA 20mm Female Adaptor
+DCCL20GC,1.12,InStock,Conlok,Conlok CL20GC 20mm Coupler
+DCCL25GA,1.85,InStock,Conlok,Conlok CL25GA 25mm Adaptor Female
+DCCL25GC,1.44,InStock,Conlok,Conlok CL25GC 25mm Coupler
+DCCL2G,2.98,InStock,Conlok,Conlok CL2G 20mm Through Box
+DCCL3G,2.98,InStock,Conlok,Conlok CL3G 20mm Angle Box
+DCCL4G,3.10,InStock,Conlok,Conlok CL4G 20mm Tee Box
+DCCL8G,3.35,InStock,Conlok,Conlok CL8G 25mm Terminal Box
+DCCL9G,3.78,InStock,Conlok,Conlok CL9G 25mm Through Box
 DECCAULK,3.65,InStock,Deligo,Deligo DECCAULK Flexible Filler
 DELCDM45SS,13.40,InStock,Deligo,Deligo CDM45S Flat Metal Cutting Discs 115 x 1.0 x 22mm (Pack of 10)
 DELFP1I,3.95,InStock,Deligo,Deligo FPI1 1 Gang Fire Putty Pad (Internal)
@@ -414,7 +414,7 @@ GW40101,19.18,InStock,Gewiss,Gewiss GW40101 Surface Mounted IP65 Enclosure 143x2
 GW44204,2.33,InStock,Gewiss,Gewiss GW44204 100mm x 100mm x 50mm IP56 Enclosure
 GW44206,3.49,InStock,Gewiss,Gewiss GW44206 150mm x 110mm x 70mm IP56 Enclosure
 GW44207,6.84,InStock,Gewiss,Gewiss GW44207 190mm x 140mm x 70mm IP56 Enclosure
-GW44208,11.08,InStock,Gewiss,Gewiss GW44208 240mm x 190mm x 90mm IP56 Enclosure
+GW44208,10.64,InStock,Gewiss,Gewiss GW44208 240mm x 190mm x 90mm IP56 Enclosure
 GW44209,20.14,InStock,Gewiss,Gewiss GW44209 300mm x 220mm x 120mm IP56 Enclosure
 GW66004,28.38,InStock,Gewiss,Gewiss GW66004 16A 2P+E 230V Interlock Switched Socket
 GW66009,33.86,InStock,Gewiss,Gewiss GW66009 16A 3P+N+E 400V Interlock Switched Socket
@@ -444,10 +444,10 @@ HAGADC916R,22.37,InStock,Hager,Hager ADC916R RCBO 1M 1P+N 6kA C-16A 30mA A
 HAGADC920R,22.37,OutOfStock,Hager,Hager ADC920R RCBO 1M 1P+N 6kA C-20A 30MA A
 HAGESC225,33.98,InStock,Hager,"Hager ESC225 Contactor 25A, 2NO, 230V~50Hz"
 HAGJK01B,1.20,InStock,Hager,Hager JK01B Single Pole Busbar Blank
-HAGJK102SPD,282.66,InStock,Hager,Hager JK102SPD 125A Surge Protection Kit Type II
-HAGJK104BG,138.65,InStock,Hager,Hager JK104BG 125A 4 Way TPN Board Glazed Door
-HAGJK106BG,154.16,InStock,Hager,Hager JK106BG 125A 6 Way TPN Board Glazed Door
-HAGJK108BG,173.48,InStock,Hager,Hager JK108BG 125A 8 Way TPN Board Glazed Door
+HAGJK102SPD,254.40,InStock,Hager,Hager JK102SPD 125A Surge Protection Kit Type II
+HAGJK104BG,128.50,InStock,Hager,Hager JK104BG 125A 4 Way TPN Board Glazed Door
+HAGJK106BG,142.88,InStock,Hager,Hager JK106BG 125A 6 Way TPN Board Glazed Door
+HAGJK108BG,160.79,InStock,Hager,Hager JK108BG 125A 8 Way TPN Board Glazed Door
 HAGJK11003S,37.78,InStock,Hager,Hager JK11003S 100A 3 Pole JK1 Switch Incomer Kit
 HAGJK112BG,207.05,OutOfStock,Hager,Hager JK112BG 125A 12 Way TPN Board Glazed Door
 HAGJK222PK,19.20,InStock,Hager,Hager JK222PK JK1/JK2 Door Lock Kit
@@ -600,7 +600,7 @@ LEDRHKM01540/01,57.74,InStock,Robus,Robus RHKM01540-01 Hawk LED 15W Bulkhead
 LIVWS18/32,3.16,InStock,Live Electrical,Live WS18/32 Live 32A Fuse Holder
 MAMB2412,20.16,InStock,Stephen P Wales,MAMB2412 Flame Retardant Meter Board 600mm X 300mm
 MASTICCLEAR,8.28,InStock,Deligo,MASTICCLEAR SLMC Silicone Sealant Clear
-MASTICGUN,7.12,OutOfStock,Deligo,MASTICGUN Economy Metal Sealant Application Gun
+MASTICGUN,7.12,InStock,Deligo,MASTICGUN Economy Metal Sealant Application Gun
 MASTICWHITE,7.42,InStock,Deligo,MASTICWHITE Silicone Sealant White
 METTR10,2.09,InStock,Metpro,Metpro TR10 10mm Threaded Rod (3m Length)
 METTR8,1.43,InStock,Metpro,Metpro TR8 8mm Threaded Rod (3m Length)
@@ -816,7 +816,7 @@ NVAFXALINS/100,49.09,InStock,National Ventilation,FXALINS100/10 100mm x 10mtr In
 NVAFXALINS125/10,57.47,InStock,National Ventilation,FXALINS125/10 125mm x 10mtr Insulated Duct
 NVAMONV200WH,34.97,InStock,National Ventilation,100mm High Rise Kit MONV200WH
 NVAMONV245W,9.52,InStock,National Ventilation,100mm White Cowled Wall Outlet MONV245W
-NVAUMD100TX,109.30,InStock,Monsoon,UMD100TX Pro Inline Fan with Timer
+NVAUMD100TX,91.54,InStock,Monsoon,UMD100TX Pro Inline Fan with Timer
 NVMONV363,8.71,InStock,National Ventilation,4 Inch Flexible PVC Duct 3m V363
 PCH020,6.00,InStock,Armeg,Armeg PCH020 20mm Premium Cobalt Holesaw
 PCH025,7.62,InStock,Armeg,Armeg PCH025 25mm Premium Cobalt Holesaw
@@ -846,7 +846,7 @@ QVDHI-ARD1233-W2,33.79,InStock,Dahua,Dahua DHI-ARD1233-W2(868) AirShield Wireles
 QVDHI-ARD323-W2,42.43,InStock,Dahua,Dahua DHI-ARD323-W2(868S) AirShield Wireless Door Detector (Standard)
 QVRING-J8,11.52,InStock,Qvis,Qvis Ring-J8 Junction Box White Camera Base
 ROCCR64AX,5.89,InStock,Hager,Hager Klik CR64AX 6A 4 Pin Plug In Ceiling Rose
-ROCCR64AX/2,9.34,InStock,Hager,Hager Klik CR64AX/2.0 6A 4 Pin Plug In Ceiling Rose c/w 4 Core 0.75mm 2m PVC Lead
+ROCCR64AX/2,8.69,InStock,Hager,Hager Klik CR64AX/2.0 6A 4 Pin Plug In Ceiling Rose c/w 4 Core 0.75mm 2m PVC Lead
 ROCPCR2000,4.08,InStock,Hager,Hager Klik PCR2000 Ceiling Rose Plug In 3 Pin
 ROCPCR2000/2,6.36,InStock,Hager,Hager Klik PCR2000/2.0 Ceiling Rose 3 Pin 6A c/w 3 Core 0.75mm 2m PVC Lead
 ROCPCR2000/3,8.21,InStock,Hager,Hager Klik PCR2000/3.0 Ceiling Rose 3 Pin 6A c/w 3 Core 0.75mm 3m PVC Lead
@@ -875,8 +875,8 @@ TBYEC16,3.66,InStock,Deligo,"TBYEC16 Green Label Earth Clamp 12-32mm, Corrosive 
 TBYGP11,6.65,InStock,Deligo,TBYGP11 20mm Blind Grommets Black (Pack of 100)
 TBYGP12,11.45,InStock,Deligo,TBYGP12 25mm Blind Grommets Black (Pack of 100)
 TBYGP3,8.16,InStock,Deligo,TBYGP3 25mm Open Grommets Black (Pack of 100)
-TIMEASZKN,45.97,InStock,Timeguard,Timeguard EASZKN Emergency Assist Alarm Kit Single Zone
-TIMSLFM360N,18.50,InStock,Timeguard,Timeguard SLFM360N PIR Presence Detector Flush Mount
+TIMEASZKN,43.36,InStock,Timeguard,Timeguard EASZKN Emergency Assist Alarm Kit Single Zone
+TIMSLFM360N,17.66,InStock,Timeguard,Timeguard SLFM360N PIR Presence Detector Flush Mount
 TIMSLW360,20.75,InStock,Timeguard,Timeguard SLW360N PIR Presence Detector Surface Mount
 UNIOB1SCS290C,11.35,InStock,Unicrimp,Unicrimp OB1SCS290C Sealant & Adhesive - Clear 290ml
 UNIQDC2,7.97,InStock,Unicrimp,Unicrimp QDC2 2.5mm Double Twin & Earth Flat Cable Clips (Pack of 100)
@@ -893,7 +893,7 @@ UNIQP5242T2,13.96,InStock,Unicrimp,Unicrimp QP5242T2 24A 450V Transparent 5 Port
 UNIQP6242P2,14.45,InStock,Unicrimp,Unicrimp QP6242P2 24A 450V Purple Transparent 6 Port Push In Wire Connectors (Pack of 100)
 UNIQP8242B2,15.18,InStock,Unicrimp,Unicrimp QP8242B2 24A 450V Black Transparent 8 Port Push In Wire Connectors (Pack of 50)
 UNIQRC10,4.02,InStock,Unicrimp,Unicrimp QRC10 7-10mm Round Clips White (Pack of 100)
-UNIQWPR001,1.84,InStock,Unicrimp,Unicrimp QWPR001 Wall Plug Red (Box of 100)
+UNIQWPR001,0.95,InStock,Unicrimp,Unicrimp QWPR001 Wall Plug Red (Box of 100)
 UNIQWS8-15,3.59,InStock,Unicrimp,"Unicrimp QWS8-15 8 x 1 1/2"" Pozi Countersunk Twinthread Woodscrews BZP"
 VAN2HAC132,14.60,InStock,Deligo,32TPI Bi-Metal Hacksaw Blade 32TPI Thin Metal Cut (Pack of 10)
 VAN3CAVRDM,15.62,InStock,Unicrimp,Unicrimp QCVFIX Metal Plasterboard Fixing Metal and Screws (Box of 100)
@@ -916,9 +916,9 @@ VEN416841,68.24,InStock,Vent-Axia,Vent Axia 416841 100mm Lo-Carbon PureAir Clean
 VEN427360BDW,7.69,InStock,Vent-Axia,Vent Axia 427360 Round Solid 90Deg Bend 125mm
 VEN428633BDW,2.60,InStock,Vent-Axia,Vent Axia 428633 Circular Connector 125mm
 VEN436532,20.96,InStock,Vent-Axia,Vent Axia 436532 Basic Slim Line Range Timer 100mm Fan
-VEN436533,34.32,InStock,Vent-Axia,Vent Axia 436533 Basics Slim Line Range Standard 150mm Fan
+VEN436533,34.32,OutOfStock,Vent-Axia,Vent Axia 436533 Basics Slim Line Range Standard 150mm Fan
 VEN436649,7.27,OutOfStock,Vent-Axia,Vent Axia 436649 125mm Fixed Louvre Grille Brown
-VEN446658B,49.74,InStock,Vent-Axia,"Vent Axia 446658B Silent Fan 100mm Fixed Speed, Intermittent, Basic Model, Closed Grille"
+VEN446658B,49.74,OutOfStock,Vent-Axia,"Vent Axia 446658B Silent Fan 100mm Fixed Speed, Intermittent, Basic Model, Closed Grille"
 VEN473848,142.08,InStock,Vent-Axia,Vent Axia 473848 Lo-Carbon Revive 7
 VEN473849,152.50,InStock,Vent-Axia,Vent Axia 473849 Lo-Carbon Revive SELV 7
 VEN477436B,99.22,OutOfStock,Vent-Axia,"Vent Axia 477436B Silent Fan 100mm Fixed Speed, Intermittent, Humidistat Model, Closed Grille"
@@ -934,10 +934,10 @@ VEN561704BDW,5.28,OutOfStock,Vent-Axia,Vent Axia 561704 Worm Drive Clip 110mm Me
 VEN561707,7.10,OutOfStock,Vent-Axia,Vent Axia 561707 Worm Drive Clip 180mm Metal
 WAG2212411,20.76,InStock,Wago,Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)
 WAG221412,25.00,InStock,Wago,Wago 221-412 2 Way Connector 4mm Terminal Block (Pack of 100)
-WAG221413,14.00,InStock,Wago,Wago 221-413 3 Way Connector 4mm Terminal Block (Pack of 50)
+WAG221413,12.50,InStock,Wago,Wago 221-413 3 Way Connector 4mm Terminal Block (Pack of 50)
 WAG221415,11.75,InStock,Wago,Wago 221-415 5 Way Connector (Pack of 25)
 WAG221613,19.20,InStock,Wago,Wago 221-613 3 Way Connector 6mm Terminal Block (Pack 30)
-WAG221615,19.05,InStock,Wago,Wago 221-615 5 Way Connector 6mm Terminal Block (Pack 15)
+WAG221615,18.60,InStock,Wago,Wago 221-615 5 Way Connector 6mm Terminal Block (Pack 15)
 WANEL600W,97.30,InStock,Warner Howard,Warner Howard EL600W 600W Low Energy Hand Dryer White (091183PR)
 WBF20,4.61,InStock,Armeg,Armeg WBF20 20mm WoodBeaver Flat Bit
 WBF20XL,7.99,InStock,Armeg,Armeg WBF20XL 20mm Long Woodbeaver Flat Bit
@@ -954,7 +954,7 @@ WIS60401,5.70,InStock,Wiska,Wiska 10060401 85mm x 85mm x 51mm PVC Adaptable Box 
 WIS60580,5.70,InStock,Wiska,Wiska 10060580 85mm x 85mm x 51mm PVC Adaptable Box Black IP66/67
 WIS60703,23.33,OutOfStock,Wiska,Wiska 10060703 140mm x 140mm x 82mm PVC Adaptable Box Grey IP66/67
 WIS61778,10.10,OutOfStock,Wiska,Wiska 10061778 110mm x 110mm PVC Adaptable Box Grey IP66/67
-WIS61779,10.10,InStock,Wiska,Wiska 10061779 110mm x 110mm PVC Adaptable Box Black IP66/IP67
+WIS61779,8.24,InStock,Wiska,Wiska 10061779 110mm x 110mm PVC Adaptable Box Black IP66/IP67
 WISEMT20,0.50,InStock,Wiska,Wiska EMT20 20mm Membrane Spout IP66 Grey
 WISEMT25,0.52,InStock,Wiska,Wiska EMT25 Wiska 25mm Membrane Spout IP66 Grey
 WISEMT32,0.86,InStock,Wiska,Wiska EMT32 Wiska 32mm Membrane Spout IP66 Grey
@@ -983,7 +983,7 @@ WYLNHXS1B32,17.05,InStock,Wylex,Wylex NHXS1B32 32A 1P+N 1 Module B Curve 6kA 30m
 WYLNHXS1B40,17.05,InStock,Wylex,Wylex NHXS1B40 40A 1P+N 1 Module B Curve 6kA 30mA RCBO
 WYLNM1106L,38.98,InStock,Wylex,Wylex NM1106L 11 Way Consumer Unit Main Switch 100A
 WYLNM1406FLEX,53.39,OutOfStock,Wylex,Wylex NM1406FLEX Wylex NM 14 Way 100A Main Switch 2 Pole Flexible Consumer Unit
-WYLNM1406L,43.20,InStock,Wylex,Wylex NM1406L 14 Way Consumer Unit Main Switch 100A DP
+WYLNM1406L,41.04,InStock,Wylex,Wylex NM1406L 14 Way Consumer Unit Main Switch 100A DP
 WYLNM806FLEX,42.70,OutOfStock,Wylex,Wylex NM806FLEX Wylex NM 8 Way 100A Main Switch 2 Pole Flexible Consumer Unit
 WYLNMT2SPD3W/1,46.81,InStock,Wylex,Wylex NMT2SPD3W/1 40kA 1 Module Single Pole and Neutral Type 2 Surge Protector SPD
 WYLREC2S,14.03,InStock,Wylex,Wylex REC2S 100A DP Isolator with 2 Module Enclosure
