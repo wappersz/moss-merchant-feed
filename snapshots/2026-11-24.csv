@@ -62,13 +62,12 @@ AICEI3024,60.14,InStock,Aico,Aico Ei3024 230V Mains Optical and Heat Sensor Alar
 AICEI3028,74.18,InStock,Aico,Aico Ei3028 230V Mains Heat and Carbon Monoxide Sensor with Battery Back Up
 AICEI3030,82.79,InStock,Aico,"Aico Ei3030 230V Mains Heat, Optical & Carbon Monoxide Sensor Alarm with Battery Back Up"
 AICEI450,53.95,InStock,Aico,"Aico Ei450 RadioLINK Alarm Controller - Test, Locate & Silence Unit with 10-Year Battery"
-ALLABAR/XT5FT/CCT,33.62,InStock,All LED,ALL LED ABAR/XT5FT/CCT Barracuda Extreme 5ft 55W IP66 IK10 CCT & Wattage Selectable Anti-Corrosive LED Batten
 ALLACL240SN/CCT,9.29,InStock,All LED,ALL LED ACL240SN/CCT Swift CCT 2.3W 240V Under Cabinet Light Satin Nickel
 ALLACL240WH/CCT,9.29,InStock,All LED,ALL LED ACL240WH/CCT Swift CCT 2.3W 240V Under Cabinet Light Polar White
 ALLADIM/150W,9.84,InStock,All LED,ALL LED ADIM150 150W Universal 2 Way LED Dimmer Module
 ALLADIM150/GRID/WH,24.59,InStock,All LED,ALL LED ADIM150/GRID/WH 150W Programmable 2 Way LED Grid Dimmer & Adaptor Plates
 ALLADRCV24100,22.21,InStock,All LED,ALL LED ADRCV24100 Drive24 100W 24V DC Constant Voltage LED Drivers
-ALLADRCV2415,6.98,InStock,All LED,ALL LED ADRCV2415 Drive24 15W 24V DC Constant Voltage LED Drivers
+ALLADRCV2415,6.18,InStock,All LED,ALL LED ADRCV2415 Drive24 15W 24V DC Constant Voltage LED Drivers
 ALLADRCV2430,14.45,InStock,All LED,ALL LED ADRCV2430 Drive24 30W 24V DC Constant Voltage LED Drivers
 ALLADRCV2450TD,39.52,InStock,All LED,ALL LED ADRCV2450TD Drive24TD 50W 24V DC Constant Voltage Triac Dimmable LED Driver
 ALLADRCV2460,18.00,InStock,All LED,ALL LED ADRCV2460 Drive24 60W 24V DC Constant Voltage LED Drivers
@@ -96,8 +95,6 @@ ALLAFPD012/CCT,14.21,InStock,All LED,ALL LED Orbit 12W CCT Slimline Flat Panel D
 ALLAFPD018/CCT,18.64,InStock,All LED,ALL LED Orbit 18W CCT Slimline Flat Panel Downlight - AFPD018
 ALLAFPD024/CCT,21.44,InStock,All LED,ALL LED Orbit 24W CCT Slimline Flat Panel Downlight - AFPD024
 ALLAGLM01/SS/30,16.15,InStock,All LED,ALL LED AGLM01/SS/30 Valiant IP67 Marker Light 230V 3000K
-ALLAPA001/AL,9.20,InStock,All LED,ALL LED APA001/AL 2m Shallow Surface Profile with Opal Diffuser Aluminium Finish
-ALLAPA004/AL,9.20,InStock,All LED,ALL LED APA004/AL 2m Deep Surface Profile with Opal Diffuser Aluminium Finish
 ALLASPEED308/BK,9.29,InStock,All LED,ALL LED ASPEED308/BK SpeedLock308 Universal Floodlight Quick Install Bracket
 ALLASPKGU10A/BK,11.35,InStock,All LED,ALL LED ASPKGU10A/BK All LED Sabre2 IP65 GU10 Garden Spike Luminaire
 ALLAST010/COB/30/1,15.14,InStock,All LED,"ALL LED 1m Warm White COB Dotless LED Strip 24V 10W per Metre, Pre-Wired with 2m Cable"
@@ -146,8 +143,8 @@ BWKIT25,8.52,InStock,Deligo,Deligo BWKIT25 Brass Gland Pack 25mm (2)
 BWKIT32,13.37,InStock,Deligo,Deligo BWKIT32 Brass Gland Pack 32mm (2)
 BWKIT40,13.50,InStock,Deligo,Deligo BWKIT40 Brass Gland Pack 40mm (1)
 BWKIT50,21.44,InStock,Deligo,Deligo BWKIT50 Brass Gland Pack 50mm (1)
-CAT5E,76.50,InStock,Hangzhou,CAT5E UTP Cable 305M
-CAT5ELSF,85.32,InStock,Hangzhou,CAT5ELSF CAT5E LSZOH UTP Cable 305M
+CAT5E,54.00,InStock,Hangzhou,CAT5E UTP Cable 305M
+CAT5ELSF,77.74,InStock,Hangzhou,CAT5ELSF CAT5E LSZOH UTP Cable 305M
 CAT6LSF,147.06,InStock,Securiflex,CAT6LSF LSZH UTP Cable 305M
 CB1,17.46,InStock,Deligo,Deligo CB1 100A Single Pole Connector Block
 CB2,13.06,InStock,Deligo,Deligo CB2 100A Double Pole Connector Block
@@ -512,7 +509,7 @@ HAGWMSSU83/WM,7.80,InStock,Hager,"Hager Sollysta WMSSU83/WM 13A Switched Fused S
 HAGWMSSU83FO,4.43,InStock,Hager,Hager Sollysta WMSSU83FO 13A DP Switched Fused Spur with Flex Outlet White
 HAGWMSU83,3.82,InStock,Hager,Hager Sollysta WMSU83 13A Unswitched Fused Spur White
 HAGWPPS12BKO,4.90,InStock,Hager,Hager WPPS12BKO 1 Gang 2 Way Metal Clad Switch and Box
-HAGWPSS81BKO,6.52,OutOfStock,Hager,Hager WPSS81BKO 1 Gang Switched Socket Metal Clad and Box
+HAGWPSS81BKO,6.52,InStock,Hager,Hager WPSS81BKO 1 Gang Switched Socket Metal Clad and Box
 HAGWPSS82BKO,10.27,InStock,Hager,Hager WPSS82BKO 2 Gang Switched Socket Metal Clad and Box
 HAGWPSSU83FOBKO,8.06,InStock,Hager,Hager WPSSU83FOBKO Switched Connection Unit with Flex Outlet and Box
 HAGWPSU83FOBKO,7.87,InStock,Hager,Hager WPSU83FOBKO Unswitched Connection Unit with Flex Outlet and Box
@@ -539,9 +536,6 @@ KOSA5.9/ES27,0.96,InStock,Kosnic,Kosnic A5.9-ES27 LED GLS E27 5.9w 2700k
 KOSALD4AG25/SCT,21.80,InStock,Kosnic,"Kosnic Alden 4 LED Anti-Glare Panel 600x600, Multi-Lumen, CCT, IP44"
 KOSALT50/SCT/DS,65.24,InStock,Kosnic,Kosnic ALT50-SCT/DS Alto LED wall pack 50W IP65 CCT switchable dusk to dawn
 KOSATRC/GU10BLK,16.81,InStock,Kosnic,Kosnic ATRC/GU10 Atri Inground GU10 Uplight with Bezel
-KOSAVO45FT60-W40/S,38.40,InStock,Kosnic,Kosnic AVO45FT60-W40/S 34-60W 7750lm 4000K 5ft Twin Non-Corrosive Batten with Sensor
-KOSAVO55FS/W40,25.93,InStock,Kosnic,Kosnic AVO55FS-W40 Avon 5 non-corrosive batten 5ft single 18/23/26/30W 4000K
-KOSAVO55FT/W40,38.90,InStock,Kosnic,Kosnic AVO55FT-W40 Avon 5 non-corrosive batten 5ft twin 34/44/52/60W 4000K
 KOSBEM303/SST,47.58,InStock,Kosnic,Kosnic BEM303/SST Batten UEM Duo 3W Universal Manual & Self-Test Emergency Module White
 KOSDD212/2P-SCT,12.96,InStock,Kosnic,Kosnic DD212/2P-SCT LED DD 2 Mini 2pin 6/8/10/12W 2700/4000/6500K
 KOSDD212/4P-SCT,12.96,InStock,Kosnic,Kosnic DD212/4P-SCT LED DD 2 Mini 4pin 6/8/10/12W 2700/4000/6500K DD212/4P-SCT
@@ -565,7 +559,6 @@ KOSHON/M,13.84,InStock,Kosnic,Kosnic HON-M Hontza Plug-in microwave motion and d
 KOSKAL201,23.39,InStock,Kosnic,Kosnic KAL201 Kalem II Standard LED Exit Sign
 KOSMUL0105,11.75,InStock,Kosnic,Kosnic MUL0105 Mulu EME light & exit sign 1W/5W 6500K
 KOSNIV4FS18,19.91,InStock,Kosnic,Kosnic NIV4FS18 NIVA III Interior Batten 4ft Single 18W CCT Switchable
-KOSNIV5FS27,25.07,InStock,Kosnic,Kosnic NIV45S27 NIVA III Interior Batten 5ft Single 27W CCT Switchable
 KOSNTR03,17.65,InStock,Kosnic,"Kosnic NTR03 Nitro standard, 3W EME downlight, non-maintained"
 KOSOCA/BLK,23.24,InStock,Kosnic,Kosnic OCA-BLK Ocala Up/ Down Wall Light GU10
 KOSOCAD/BLK,18.48,InStock,Kosnic,Kosnic OCAD-BLK Ocala Down Only Wall Light GU10
@@ -602,8 +595,6 @@ MAMB2412,20.16,InStock,Stephen P Wales,MAMB2412 Flame Retardant Meter Board 600m
 MASTICCLEAR,8.28,InStock,Deligo,MASTICCLEAR SLMC Silicone Sealant Clear
 MASTICGUN,7.12,InStock,Deligo,MASTICGUN Economy Metal Sealant Application Gun
 MASTICWHITE,7.42,InStock,Deligo,MASTICWHITE Silicone Sealant White
-METTR10,2.09,InStock,Metpro,Metpro TR10 10mm Threaded Rod (3m Length)
-METTR8,1.43,InStock,Metpro,Metpro TR8 8mm Threaded Rod (3m Length)
 MG1776015,8.98,InStock,Unicrimp,Unicrimp QTT2U Trade Tub Red Wall Plugs inc 8x1 1/2 Screws (Tub of 400 of each)
 MG1776111,17.63,InStock,Unicrimp,Unicrimp QTT3 Trade Tub Metal Self Drive Plugs and Panhead Screws (Tub of 200 of each)
 MG1776112,11.48,InStock,Unicrimp,Unicrimp QTT4 1mm & 2.5mm T&E Cable Clips (Tub of 800)
@@ -677,7 +668,7 @@ MKK4900,10.60,InStock,MK Electric,MK K4900 10A Retractive Grid Switch
 MKK4910,6.74,InStock,MK Electric,MK K4910 20A 1 Way DP Push to Make
 MKK4910RED,8.09,InStock,MK Electric,MK K4910RED 20A DP Push to Make
 MKK5045,5.62,InStock,MK Electric,MK K5045 Logic Plus 45A 1 Gang Cooker Connection Unit White
-MKK56482,43.27,InStock,MK Electric,MK K56482GRY 13A 2 Gang Weatherproof Switched Socket IP66 Grey
+MKK56482,41.21,InStock,MK Electric,MK K56482GRY 13A 2 Gang Weatherproof Switched Socket IP66 Grey
 MKK8891,1.91,InStock,MK Electric,MK K8891 1 & 2 Gang Metal Box with Knockouts
 MKK8892,3.10,InStock,MK Electric,MK K8892 3 & 4 Gang Metal Box with Knockouts
 MKK8893,6.24,OutOfStock,MK Electric,MK K8893 6 & 8 Gang Metal Box with Knockouts
@@ -712,8 +703,6 @@ MT3MRB2W,4.80,InStock,Marshall Tufflex,Marshall Tufflex 3MRB2W 25mm PVC Conduit 
 MT3MRB3W,5.20,InStock,Marshall Tufflex,Marshall Tufflex 3MRB3W 25mm PVC Conduit Through Box White
 MT3MRB4W,5.20,InStock,Marshall Tufflex,Marshall Tufflex 3MRB4W 25mm PVC Conduit Angle Box White
 MT3MRB5W,5.74,InStock,Marshall Tufflex,Marshall Tufflex 3MRB5W 25mm PVC Conduit Tee Box White
-MTEC018,3.43,InStock,Marshall Tufflex,Marshall Tufflex EC018 Conduit PVC 20mm Oval
-MTEC019,4.84,InStock,Marshall Tufflex,Marshall Tufflex EC019 Conduit PVC 25mm Oval
 MTMA7W,1.14,InStock,Marshall Tufflex,Marshall Tufflex MA7W 20mm Male Adaptor with Lockring White
 MTMAB2B,1.16,InStock,Marshall Tufflex,Marshall Tufflex MAB2B 20mm Female Adaptor with Male Bush Black
 MTMAB2W,1.16,InStock,Marshall Tufflex,Marshall Tufflex MAB2W 20mm Female Adaptor with Male Bush White
@@ -732,7 +721,6 @@ MTMCG3W,1.57,InStock,Deligo,25mm IP68 Nylon Compression Gland with Locknut White
 MTMCL1B,1.03,InStock,Marshall Tufflex,Marshall Tufflex MCL1B Conduit PVC Box Lid Standard Black
 MTMCL1W,1.03,InStock,Marshall Tufflex,Marshall Tufflex MCL1W Conduit PVC Box Lid Standard White
 MTMCL2W,2.00,InStock,Marshall Tufflex,Marshall Tufflex MCL2W Conduit PVC Box Lid Overlapping White
-MTMDFS50,19.92,OutOfStock,Marshall Tufflex,Marshall Tufflex MDFS50 Maxi Trunking Divider Fillet 3m Length
 MTMF1300BLU,7.00,InStock,Termination Technology,MTMF1300BLU 3mm Blue Sleeving (100m Hank)
 MTMF1300BRN,7.00,InStock,Termination Technology,MTMF1300BRN 3mm Brown Sleeving (100m Hank)
 MTMF1300GY,6.00,InStock,Termination Technology,MTMF1300GY 3mm Green/ Yellow Sleeving (100m Hank)
@@ -755,8 +743,8 @@ MTMSSB73,4.70,InStock,Marshall Tufflex,Marshall Tufflex MSSB73 1 Gang 44mm Round
 MTMSSB74,5.96,InStock,Marshall Tufflex,Marshall Tufflex MSSB74 2 Gang 44mm Round Corners Surface Box
 MTMSSB91,3.26,InStock,Marshall Tufflex,Marshall Tufflex MSSB91 1 Gang 32mm Square Corners Surface Box
 MTMSSB92,5.71,InStock,Marshall Tufflex,Marshall Tufflex MSSB92 2 Gang 32mm Square Corners Surface Box
-MTMSSB93,3.26,InStock,Marshall Tufflex,Marshall Tufflex MSSB93 1 Gang 32mm Round Corners Surface Box
-MTMSSB94,5.71,InStock,Marshall Tufflex,Marshall Tufflex MSSB94 2 Gang 32mm Round Corners Surface Box
+MTMSSB93,3.06,InStock,Marshall Tufflex,Marshall Tufflex MSSB93 1 Gang 32mm Round Corners Surface Box
+MTMSSB94,5.34,InStock,Marshall Tufflex,Marshall Tufflex MSSB94 2 Gang 32mm Round Corners Surface Box
 MTTA2,1.10,InStock,Marshall Tufflex,Marshall Tufflex TA2WH 25mm x 16mm Mini Trunking Adaptor White for MMT2
 MTTA3,0.86,InStock,Marshall Tufflex,Marshall Tufflex TA3WH 38mm x 16mm Mini Trunking Adaptor White for MMT3
 MTTCR2,4.32,InStock,Marshall Tufflex,Marshall Tufflex TCR2 Mini Trunking Ceiling Rose Adaptor White
@@ -831,7 +819,7 @@ PCH076,13.39,InStock,Armeg,Armeg PCH076 76mm Premium Cobalt Holesaw
 PCH102,19.06,InStock,Armeg,Armeg PCH102 102mm Premium Cobalt Holesaw
 PCH127,36.64,InStock,Armeg,Armeg PCH127 127mm Premium Cobalt Holesaw
 PEVAPEX-7S,348.92,InStock,Project EV,Project EV APEX-7S 7.3kW Untethered EV Charger - Socket
-PEVAPEX-7S-T,481.45,InStock,Project EV,Project EV APEX-7S 7.3kW Tethered EV Charger
+PEVAPEX-7S-T,481.45,InStock,Project EV,Project EV APEX-7S-T 7.3kW Tethered EV Charger
 PEVCURV-HP110M8,1253.06,InStock,Project EV,Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder
 PEVCURV-HP150M8,1346.71,InStock,Project EV,Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder
 PEVCURV-HP200M7,1656.00,InStock,Project EV,Project CÜRV CURV-HP200M7-G3 200ltr ASHP Hot Water Cylinder
@@ -878,10 +866,10 @@ TBYGP3,8.16,InStock,Deligo,TBYGP3 25mm Open Grommets Black (Pack of 100)
 TIMEASZKN,43.36,InStock,Timeguard,Timeguard EASZKN Emergency Assist Alarm Kit Single Zone
 TIMSLFM360N,17.66,InStock,Timeguard,Timeguard SLFM360N PIR Presence Detector Flush Mount
 TIMSLW360,20.75,InStock,Timeguard,Timeguard SLW360N PIR Presence Detector Surface Mount
-UNIOB1SCS290C,11.35,InStock,Unicrimp,Unicrimp OB1SCS290C Sealant & Adhesive - Clear 290ml
+UNIOB1SCS290C,9.08,InStock,Unicrimp,Unicrimp OB1SCS290C Sealant & Adhesive - Clear 290ml
 UNIQDC2,7.97,InStock,Unicrimp,Unicrimp QDC2 2.5mm Double Twin & Earth Flat Cable Clips (Pack of 100)
 UNIQFC5,3.31,InStock,Unicrimp,Unicrimp QFC5 2.5mm Twin & Earth Flat Cable Clips Grey (Pack of 100)
-UNIQFC6,4.94,InStock,Unicrimp,Unicrimp QFC6 4-6mm Twin & Earth Flat Cable Clips Grey (Pack of 100)
+UNIQFC6,2.47,InStock,Unicrimp,Unicrimp QFC6 4-6mm Twin & Earth Flat Cable Clips Grey (Pack of 100)
 UNIQFC7,6.02,InStock,Unicrimp,Unicrimp QFC7 10-16mm Twin & Earth Flat Cable Clips Grey (Pack of 100)
 UNIQGROM20OPEN,2.50,InStock,Unicrimp,Unicrimp QGROMQ20OPEN 20mm Quick Fit Open Grommets x100
 UNIQMC25,16.93,InStock,Unicrimp,Unicrimp QMC25 1-2.5mm Twin & Earth Metal Fire Cable Clip (Pack of 100)
@@ -922,14 +910,12 @@ VEN446658B,49.74,OutOfStock,Vent-Axia,"Vent Axia 446658B Silent Fan 100mm Fixed 
 VEN473848,142.08,InStock,Vent-Axia,Vent Axia 473848 Lo-Carbon Revive 7
 VEN473849,152.50,InStock,Vent-Axia,Vent Axia 473849 Lo-Carbon Revive SELV 7
 VEN477436B,99.22,OutOfStock,Vent-Axia,"Vent Axia 477436B Silent Fan 100mm Fixed Speed, Intermittent, Humidistat Model, Closed Grille"
-VEN478163,11.10,InStock,Vent-Axia,Vent Axia 478163 Round Solid Ducting 125mm x 2mtr
 VEN479091,333.30,InStock,Vent-Axia,Vent Axia 479091 Lo-Carbon PureAir Home PIV Unit with Heater
 VEN495335,6.01,InStock,Vent-Axia,Vent Axia 495335 RD104BGE 100mm Fixed Louvre Grille Beige
 VEN495336,6.01,OutOfStock,Vent-Axia,Vent Axia 495336 RD104BK 100mm Fixed Louvre Grille Black
 VEN496711,123.85,OutOfStock,Vent-Axia,Vent Axia 496711 Lo-Carbon Svara 100mm Smart Extractor Fan Black
 VEN498095BDW,51.47,InStock,Vent-Axia,Vent Axia 498095B Lo-Carbon NBR dMEVc 100mm
 VEN498096,59.96,OutOfStock,Vent-Axia,"Vent Axia 498096 Lo-Carbon NBR dMEVc 100mm Humidistat, Timer"
-VEN5108250,11.69,InStock,Vent-Axia,Vent Axia 5108250 Round Solid Ducting 100mm x 2mtr
 VEN561704BDW,5.28,OutOfStock,Vent-Axia,Vent Axia 561704 Worm Drive Clip 110mm Metal
 VEN561707,7.10,OutOfStock,Vent-Axia,Vent Axia 561707 Worm Drive Clip 180mm Metal
 WAG2212411,20.76,InStock,Wago,Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)
