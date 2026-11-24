@@ -128,7 +128,7 @@ ASHJ201,1.42,InStock,Hager,Hager J201 20 Amp 4 Terminal Small Junction Box
 ASHJ401,2.15,OutOfStock,Hager,Hager J401 30 Amp 3 Terminal Junction Box
 ASHJ501,2.20,InStock,Hager,Hager J501 16A 4 Terminal Downlighter Junction Box
 ASHJ803,5.42,InStock,Hager,Hager J803 32A 3 Terminal Maintenance Free Junction Box
-ASHJ804,7.40,InStock,Hager,Hager J804 20A 4 Terminal Maintenance Free Junction Box
+ASHJ804,6.66,InStock,Hager,Hager J804 20A 4 Terminal Maintenance Free Junction Box
 ASHRL602,0.95,InStock,Hager,Hager RL602 Ceiling Rose Halo
 ASHSEL96T,5.30,InStock,Hager,Hager ASHSEL96T BC Battenholder
 AUREN/FD101SN,6.14,InStock,Aurora,Aurora Lighting EN-FD101SN Satin Nickel IP20 Downlight
@@ -136,7 +136,7 @@ AURENDGU005/40,4.06,InStock,Aurora,Aurora Lighting EN-DGU005/40 5w Dimmable Cool
 BANDAR12,4.63,InStock,Deligo,Deligo BANDAR12 All Round Banding Strap 12mm x 10m Black
 BGSC10,0.30,InStock,Deligo,MP1 Witch's Hat (Light Hanger) (HSC1 Type)
 BUILDSACK,7.14,InStock,Deligo,"RSB Rubble Sacks 21 x 32"" (Pack of 6)"
-BUSMC10G20,1.32,InStock,Bussmann,Bussmann C10G20 20a Cylindrical Fuse 10x38mm
+BUSMC10G20,0.72,InStock,Bussmann,Bussmann C10G20 20a Cylindrical Fuse 10x38mm
 BWKIT20,4.43,InStock,Deligo,Deligo BWKIT20 Brass Gland Pack 20mm (2)
 BWKIT20S,3.84,InStock,Deligo,Deligo BWKIT20S Brass Gland Pack 20mm (2) (Small)
 BWKIT25,8.52,InStock,Deligo,Deligo BWKIT25 Brass Gland Pack 25mm (2)
@@ -252,11 +252,11 @@ DCCL8G,3.35,InStock,Conlok,Conlok CL8G 25mm Terminal Box
 DCCL9G,3.78,InStock,Conlok,Conlok CL9G 25mm Through Box
 DECCAULK,3.65,InStock,Deligo,Deligo DECCAULK Flexible Filler
 DELCDM45SS,13.40,InStock,Deligo,Deligo CDM45S Flat Metal Cutting Discs 115 x 1.0 x 22mm (Pack of 10)
-DELFP1I,3.95,InStock,Deligo,Deligo FPI1 1 Gang Fire Putty Pad (Internal)
-DELFP2I,5.54,InStock,Deligo,Deligo FPI2 2 Gang Fire Putty Pad (Internal)
+DELFP1I,2.52,InStock,Deligo,Deligo FPI1 1 Gang Fire Putty Pad (Internal)
+DELFP2I,3.54,InStock,Deligo,Deligo FPI2 2 Gang Fire Putty Pad (Internal)
 DELSB20W,0.70,InStock,Deligo,Deligo DELSB20W Steel Spacer Bar Saddles White 20mm
 DELSB25W,0.71,InStock,Deligo,Deligo DELSB25W Steel Spacer Bar Saddles White 25mm
-DELSFIRE,14.90,InStock,Deligo,Deligo SFIRE Fire Rated Silicone Sealant (310ml)
+DELSFIRE,12.42,InStock,Deligo,Deligo SFIRE Fire Rated Silicone Sealant (310ml)
 DET1139,19.98,InStock,Deta,Deta 1139 CO Alarm Battery Powered 10 Year
 DET1163,22.49,InStock,Deta,Deta 1163 Optical Smoke Alarm 240V with 9V Replaceable Battery Back Up
 DET1164,29.20,InStock,Deta,Deta 1164 Optical Smoke Alarm 240V with 10 Year Sealed Lithium Battery Back Up
@@ -405,8 +405,8 @@ GKNM4X25BRS,11.86,InStock,Deligo,M4 x 25mm Pan Head Slot Screws Brass (Pack of 1
 GPBL2-10,17.59,InStock,Gripple,Gripple B-Lock Wire Rope Hangers BL2-UK-10P (Pack 10)
 GPCUTTER-GRIPPLE,59.84,InStock,Gripple,Gripple Small Wire Cutter
 GPROP2MM-100MM-BLC,22.87,InStock,Gripple,Gripple 2mm 100m B-Lock Wire Rope
-GRELBAR/GL4224LU,48.00,InStock,Green Lighting,Green Lighting GL4224LU SS P-LUX Half Lantern
-GRELBAR/GL4612LU,54.00,InStock,Green Lighting,Green Lighting GL4612LU SS P-LUX Contemp Lantern
+GRELBAR/GL4224LU,42.56,InStock,Green Lighting,Green Lighting GL4224LU SS P-LUX Half Lantern
+GRELBAR/GL4612LU,47.65,InStock,Green Lighting,Green Lighting GL4612LU SS P-LUX Contemp Lantern
 GW40101,19.18,InStock,Gewiss,Gewiss GW40101 Surface Mounted IP65 Enclosure 143x210x100mm
 GW44204,2.33,InStock,Gewiss,Gewiss GW44204 100mm x 100mm x 50mm IP56 Enclosure
 GW44206,3.49,InStock,Gewiss,Gewiss GW44206 150mm x 110mm x 70mm IP56 Enclosure
@@ -792,13 +792,13 @@ NIGRCBO1-20/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-20/30SAX2 20A B Curve 30mA 
 NIGRCBO1-32/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-32/30SAX2 32A B Curve 30mA Type A Bi-Directional RCBO
 NIGRCBO1-40/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-40/30SAX2 40A B Curve 30mA Type A Bi-Directional RCBO
 NIGRCBO1-6/30SAX2,11.78,InStock,Niglon,Niglon RCBO1-6/30SAX2 6A B Curve 30mA Type A Bi-Directional RCBO
-NUACYFAN-WKIT,30.60,InStock,Nuaire,Nuaire Cyfan Window Kit
-NUACYFAN/C,132.60,InStock,Nuaire,Nuaire Cyfan Kitchen and Bathroom Extractor Fan
-NUAFAITH/PLUS,106.20,InStock,Nuaire,Nuaire Faith Plus
-NUAFAITH/SELV/PLUS,109.80,InStock,Nuaire,Nuaire Faith Selv Plus
-NUAFAITH/WKIT,15.60,InStock,Nuaire,Nuaire Faith Window Kit
-NUAFAITH/WP,16.82,InStock,Nuaire,Nuaire Faith Wall Plate
-NUAPVC2447WH,24.60,InStock,Nuaire,Nuaire NUAPVC2447W 100mm High Rise Cowl White
+NUACYFAN-WKIT,30.04,InStock,Nuaire,Nuaire Cyfan Window Kit
+NUACYFAN/C,136.80,InStock,Nuaire,Nuaire Cyfan Kitchen and Bathroom Extractor Fan
+NUAFAITH/PLUS,110.54,InStock,Nuaire,Nuaire Faith Plus
+NUAFAITH/SELV/PLUS,115.02,InStock,Nuaire,Nuaire Faith Selv Plus
+NUAFAITH/WKIT,24.49,InStock,Nuaire,Nuaire Faith Window Kit
+NUAFAITH/WP,16.17,InStock,Nuaire,Nuaire Faith Wall Plate
+NUAPVC2447WH,15.85,InStock,Nuaire,Nuaire NUAPVC2447W 100mm High Rise Cowl White
 NVAFXAL/100,20.80,InStock,National Ventilation,100mm x 10m Aluminium Flexible Duct FXAL100/10
 NVAFXALINS/100,49.09,InStock,National Ventilation,FXALINS100/10 100mm x 10mtr Insulated Duct
 NVAFXALINS125/10,57.47,InStock,National Ventilation,FXALINS125/10 125mm x 10mtr Insulated Duct
@@ -894,8 +894,8 @@ VEN372006BDW,1.45,InStock,Vent-Axia,Vent Axia 372006 Circular Connector 100mm
 VEN403569,7.27,InStock,Vent-Axia,Vent Axia 403569 125mm Fixed Louvre Grille Terracotta
 VEN403570,7.27,InStock,Vent-Axia,Vent Axia 403570 125mm Fixed Louvre Grille Beige
 VEN409802,107.40,OutOfStock,Vent-Axia,Vent Axia 409802 Lo-Carbon Svara 100mm Smart Extractor Fan White
-VEN412259,438.24,InStock,Vent-Axia,Vent Axia Cool Box - 412259 NBR Coolbox 30
-VEN412262,126.84,InStock,Vent-Axia,Vent Axia 412262 Lo-Carbon NBR Cool Unitary Fan 125mm
+VEN412259,339.72,InStock,Vent-Axia,Vent Axia Cool Box - 412259 NBR Coolbox 30
+VEN412262,128.52,InStock,Vent-Axia,Vent Axia 412262 Lo-Carbon NBR Cool Unitary Fan 125mm
 VEN414942,60.66,InStock,Vent-Axia,Vent Axia 414942 100mm Lo-Carbon PureAir Cleanse Fan 100mm
 VEN416472,44.45,InStock,Vent-Axia,"Vent Axia 416472/ VASF100BF 100mm 4"" Silent Fan Fixed Grille"
 VEN416473,47.54,InStock,Vent-Axia,"Vent Axia 416473/ VASF100TF 100mm 4"" Silent Fan with Timer Fixed Grille"
