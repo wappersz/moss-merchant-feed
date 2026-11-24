@@ -939,7 +939,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>All LED</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>5056599301214</g:gtin>
 </item>
 <item>
 <g:id>ALLAEMBH/M</g:id>
@@ -5637,7 +5637,7 @@
 <g:description>The Hager JK222PK is a door lock kit for Hager Invicta 3 JK1 and JK2 distribution board enclosures. It adds a quarter-turn lock to stop unauthorised access to the board. Key features Quarter-turn lock For JK1 and JK2 enclosures Supplied as 1 kit Good to know RoHS and REACH compliant, halogen free. Downloads Catalogue page (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/hager-jk222pk-jk1-jk2-door-lock-kit</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/HAGJK222PK.jpg</g:image_link>
-<g:price>19.20 GBP</g:price>
+<g:price>16.01 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Hager</g:brand>
@@ -9391,7 +9391,7 @@
 <g:description>The Marshall Tufflex TA2 is a white adaptor for 25 x 16mm MMT2 mini trunking, for a neat joint where trunking meets an accessory box. Key features Fits 25 x 16mm mini trunking White PVC IP4X, IK06 Good to know Matches Marshall Tufflex PVC trunking and fittings. Downloads Catalogue page (PDF) Technical data sheet (PDF) Specifications UKCA Approved N CE Approved N Maximum Operating Temperature 60 Degrees C Minimum Operating Temperature -5 Degrees C Depth 16 mm Nominal Width 25 mm Colour White Material PVC Impact Strength IK06 Ingress Protection IP4X Number of Compartments 1 Mounting Surface Coupler Included N Qualifier Mini Type Box Product Adaptor</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/marshall-tufflex-ta2wh-25mm-x-16mm-mini-trunking-adaptor-white-mmt2</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/MTTA2.webp</g:image_link>
-<g:price>1.10 GBP</g:price>
+<g:price>0.66 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Marshall Tufflex</g:brand>
@@ -10070,7 +10070,7 @@
 <item>
 <g:id>NVAFXAL/100</g:id>
 <g:title>100mm x 10m Aluminium Flexible Duct FXAL100/10</g:title>
-<g:description>A 10m length of 100mm aluminium flexible duct, for connecting extractor fans to wall and roof outlets. Made from multi-ply aluminium and polyester laminate on a steel wire helix, so it bends easily around joists. Key features 100mm diameter 10m length Aluminium, flexible Uninsulated Downloads Catalogue page (PDF) Specifications Internal Diameter 100 mm Length 10000 mm Insulated Yes Type Flexible Product Duct</g:description>
+<g:description>A 10m length of 100mm aluminium flexible duct, for connecting extractor fans to wall and roof outlets. Made from multi-ply aluminium and polyester laminate on a steel wire helix, so it bends easily around joists. Key features 100mm diameter 10m length Aluminium, flexible Uninsulated Downloads Catalogue page (PDF) Specifications Internal Diameter 100 mm Length 10000 mm Insulated No Type Flexible Product Duct</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/100mm-x-10m-aluminium-flexible-duct-fxal100-10</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/NVAFXAL_100.webp</g:image_link>
 <g:price>20.80 GBP</g:price>
@@ -10992,7 +10992,7 @@
 <g:description>Unicrimp QMC6GY are LSF coated steel fire-rated cable clips in grey, for 4 to 6mm² twin and earth. Pack of 100. Key features For 4 to 6mm² T&amp;E Steel with LSF coating Grey Pack of 100 Good to know Metal fixings help meet BS 7671 rules on cable support in fire. Downloads Catalogue page (PDF) Technical data sheet (PDF) Certifications (PDF) Specifications Standards BS7671 Diameter 4 to 6 (T&amp;E) mm Depth 2 6.5 mm Depth 7.8 mm Width 2 13.6 mm Width 24.1 mm Height 8.7 mm Finish LSF Coated Colour Grey Material Carbon Steel Qualifier 4-6mmÂ² T&amp;E Cable Type Twin and Earth Product Cable Clip</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/unicrimp-qmc6gy-4-6mm-lsf-twin-earth-metal-fire-cable-clips-grey-pack</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/UNIQMC6GY.jpg</g:image_link>
-<g:price>21.89 GBP</g:price>
+<g:price>16.00 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Unicrimp</g:brand>
@@ -11399,6 +11399,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135366490</g:gtin>
 <g:mpn>436649</g:mpn>
 </item>
 <item>
@@ -11450,6 +11451,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135790844</g:gtin>
 <g:mpn>477436B</g:mpn>
 </item>
 <item>
@@ -11526,6 +11528,7 @@
 <g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Vent-Axia</g:brand>
+<g:gtin>5015135980962</g:gtin>
 <g:mpn>498096</g:mpn>
 </item>
 <item>
