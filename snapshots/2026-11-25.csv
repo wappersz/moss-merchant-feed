@@ -416,12 +416,12 @@ GW44209,20.14,InStock,Gewiss,Gewiss GW44209 300mm x 220mm x 120mm IP56 Enclosure
 GW66004,28.38,InStock,Gewiss,Gewiss GW66004 16A 2P+E 230V Interlock Switched Socket
 GW66009,33.86,InStock,Gewiss,Gewiss GW66009 16A 3P+N+E 400V Interlock Switched Socket
 GW66015,32.64,InStock,Gewiss,Gewiss GW66015 32A 2P+E 230V Interlock Switched Socket
-GW66020,40.91,InStock,Gewiss,Gewiss GW66020 32A 3P+N+E 400V Interlock Switched Socket
+GW66020,39.08,InStock,Gewiss,Gewiss GW66020 32A 3P+N+E 400V Interlock Switched Socket
 GW70433,17.42,InStock,Gewiss,Gewiss GW70433P 16A 4 Pole Rotary Isolator
 GW70436,19.48,InStock,Gewiss,Gewiss GW70436P 32A 4 Pole Rotary Isolator
 GW70438,33.67,InStock,Gewiss,Gewiss GW70438P 63A 4 Pole Rotary Isolator
 GW70443P,24.17,InStock,Gewiss,Gewiss GW70443P 40A 4 Pole Rotary Isolator
-GW70488P,18.56,InStock,Gewiss,Gewiss GW70488P 25A 4 Pole Rotary Isolator
+GW70488P,16.46,InStock,Gewiss,Gewiss GW70488P 25A 4 Pole Rotary Isolator
 HAGADB406U,35.54,InStock,Hager,Hager ADB406U RCBO 1M 1P 10kA B-6A 30mA Type A
 HAGADB410U,35.54,InStock,Hager,Hager ADB410U RCBO 1M 1P 10kA B-10A 30mA Type A
 HAGADB416U,35.54,InStock,Hager,Hager ADB416U RCBO 1M 1P 10kA B-16A 30mA Type A
@@ -755,7 +755,7 @@ MTTEC3,1.31,InStock,Marshall Tufflex,Marshall Tufflex TEC3 38mm x 16mm Mini Trun
 MTTEC4,1.54,InStock,Marshall Tufflex,Marshall Tufflex TEC4 38mm x 25mm Mini Trunking End Cap White
 MTTECS100,7.63,InStock,Marshall Tufflex,Marshall Tufflex TECS100WH 100X100mm Maxi Trunking End Cap White
 MTTECS10050,4.93,InStock,Marshall Tufflex,Marshall Tufflex TECS100/50WH 100X50mm Maxi Trunking End Cap White
-MTTECS50,1.90,OutOfStock,Marshall Tufflex,Marshall Tufflex TECS50WH 50X50mm Maxi Trunking End Cap White
+MTTECS50,1.31,OutOfStock,Marshall Tufflex,Marshall Tufflex TECS50WH 50X50mm Maxi Trunking End Cap White
 MTTFAS50C,7.94,InStock,Marshall Tufflex,Marshall Tufflex 50X50mm Maxi Trunking Flat Angle White TFAS50C
 MTTFB2,1.31,InStock,Marshall Tufflex,Marshall Tufflex TFB2 25mm x16mm Mini Trunking Flat Bend White
 MTTFB3,1.31,InStock,Marshall Tufflex,Marshall Tufflex TFB3 38mm x 16mm Mini Trunking Flat Bend White
@@ -918,8 +918,8 @@ VEN498095BDW,51.47,InStock,Vent-Axia,Vent Axia 498095B Lo-Carbon NBR dMEVc 100mm
 VEN498096,59.96,OutOfStock,Vent-Axia,"Vent Axia 498096 Lo-Carbon NBR dMEVc 100mm Humidistat, Timer"
 VEN561704BDW,5.28,OutOfStock,Vent-Axia,Vent Axia 561704 Worm Drive Clip 110mm Metal
 VEN561707,7.10,OutOfStock,Vent-Axia,Vent Axia 561707 Worm Drive Clip 180mm Metal
-WAG2212411,20.76,InStock,Wago,Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)
-WAG221412,25.00,InStock,Wago,Wago 221-412 2 Way Connector 4mm Terminal Block (Pack of 100)
+WAG2212411,20.06,InStock,Wago,Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)
+WAG221412,24.00,InStock,Wago,Wago 221-412 2 Way Connector 4mm Terminal Block (Pack of 100)
 WAG221413,12.50,InStock,Wago,Wago 221-413 3 Way Connector 4mm Terminal Block (Pack of 50)
 WAG221415,11.75,InStock,Wago,Wago 221-415 5 Way Connector (Pack of 25)
 WAG221613,19.20,InStock,Wago,Wago 221-613 3 Way Connector 6mm Terminal Block (Pack 30)
@@ -939,7 +939,7 @@ WIS10109900,5.54,InStock,Wiska,Wiska 10109900 85 x 49 x 51mm IP67 C/W Term Black
 WIS60401,5.70,InStock,Wiska,Wiska 10060401 85mm x 85mm x 51mm PVC Adaptable Box Grey IP66/67
 WIS60580,5.70,InStock,Wiska,Wiska 10060580 85mm x 85mm x 51mm PVC Adaptable Box Black IP66/67
 WIS60703,23.33,OutOfStock,Wiska,Wiska 10060703 140mm x 140mm x 82mm PVC Adaptable Box Grey IP66/67
-WIS61778,10.10,OutOfStock,Wiska,Wiska 10061778 110mm x 110mm PVC Adaptable Box Grey IP66/67
+WIS61778,8.40,OutOfStock,Wiska,Wiska 10061778 110mm x 110mm PVC Adaptable Box Grey IP66/67
 WIS61779,8.24,InStock,Wiska,Wiska 10061779 110mm x 110mm PVC Adaptable Box Black IP66/IP67
 WISEMT20,0.50,InStock,Wiska,Wiska EMT20 20mm Membrane Spout IP66 Grey
 WISEMT25,0.52,InStock,Wiska,Wiska EMT25 Wiska 25mm Membrane Spout IP66 Grey
