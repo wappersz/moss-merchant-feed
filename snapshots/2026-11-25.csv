@@ -73,7 +73,7 @@ ALLADRCV2450TD,39.52,InStock,All LED,ALL LED ADRCV2450TD Drive24TD 50W 24V DC Co
 ALLADRCV2460,18.00,InStock,All LED,ALL LED ADRCV2460 Drive24 60W 24V DC Constant Voltage LED Drivers
 ALLADRCV2480,19.14,InStock,All LED,ALL LED ADRCV2480 Drive24 80W 24V DC Constant Voltage LED Drivers
 ALLAEM/SPOT,19.56,InStock,All LED,ALL LED AEM/SPOT Em-Spot 1.2W LED Non-Maintained Emergency Downlight
-ALLAEM001/UNICC01,37.13,InStock,All LED,ALL LED AEM/PACK EMPack 2W Universal Emergency Pack For LED Loads
+ALLAEM001/UNICC01,37.13,OutOfStock,All LED,ALL LED AEM/PACK EMPack 2W Universal Emergency Pack For LED Loads
 ALLAEMBH/M,13.43,InStock,All LED,ALL LED AEMBH/M EvacuLite 4.8W IP65 IK10 Emergency Bulkhead
 ALLAEMBOXSL/M,26.08,InStock,All LED,ALL LED AEMBOXSL/M BrightGuard PC 4W Polycarbonate Exit Box
 ALLAFD05/A/WH/CCT,10.31,InStock,All LED,"ALL LED Atom Fire-Rated LED Downlight 5W IP65 CCT - Adjustable, White (AFD05)"
@@ -92,7 +92,7 @@ ALLAFLD30BK/CCT,19.46,InStock,All LED,ALL LED AFLD30BK/CCT Osprey 30W Carbon Bla
 ALLAFLD50BK/CCT,25.31,InStock,All LED,ALL LED AFLD50BK/CCT Osprey 50W Carbon Black IP65 CCT Selectable Flood Light With Q-Nex Plug And Play Technology
 ALLAFPD006/CCT,11.02,InStock,All LED,ALL LED Orbit 6W CCT Slimline Flat Panel Downlight - AFPD006
 ALLAFPD012/CCT,14.21,InStock,All LED,ALL LED Orbit 12W CCT Slimline Flat Panel Downlight - AFPD012
-ALLAFPD018/CCT,18.64,InStock,All LED,ALL LED Orbit 18W CCT Slimline Flat Panel Downlight - AFPD018
+ALLAFPD018/CCT,18.64,OutOfStock,All LED,ALL LED Orbit 18W CCT Slimline Flat Panel Downlight - AFPD018
 ALLAFPD024/CCT,21.44,InStock,All LED,ALL LED Orbit 24W CCT Slimline Flat Panel Downlight - AFPD024
 ALLAGLM01/SS/30,16.15,InStock,All LED,ALL LED AGLM01/SS/30 Valiant IP67 Marker Light 230V 3000K
 ALLASPEED308/BK,9.29,InStock,All LED,ALL LED ASPEED308/BK SpeedLock308 Universal Floodlight Quick Install Bracket
@@ -146,8 +146,8 @@ BWKIT50,21.44,OutOfStock,Deligo,Deligo BWKIT50 Brass Gland Pack 50mm (1)
 CAT5E,54.00,InStock,Hangzhou,CAT5E UTP Cable 305M
 CAT5ELSF,77.74,InStock,Hangzhou,CAT5ELSF CAT5E LSZOH UTP Cable 305M
 CAT6LSF,147.06,InStock,Securiflex,CAT6LSF LSZH UTP Cable 305M
-CB1,17.46,InStock,Deligo,Deligo CB1 100A Single Pole Connector Block
-CB2,13.06,InStock,Deligo,Deligo CB2 100A Double Pole Connector Block
+CB1,6.89,InStock,Deligo,Deligo CB1 100A Single Pole Connector Block
+CB2,10.31,InStock,Deligo,Deligo CB2 100A Double Pole Connector Block
 CEDHC2D,20.03,InStock,CED,CED HC2D Convector Heater 2kW with Thermostat
 CHAIN,12.30,InStock,Deligo,Deligo CHAIN Jack Chain Galv 10mtrs
 CHD16-29HEX,4.52,InStock,Armeg,Armeg 9.5mm Hexagon Shank Drive Arbor
@@ -176,7 +176,7 @@ CKT5410,46.38,InStock,CK Tools,CK T5410 Mighty Rod Cable Rod Set 10m
 CLEAT10,0.23,InStock,Termination Technology,CC10 Cable Cleat No. 10
 CLEAT11,0.40,InStock,Termination Technology,CC11 Cable Cleat No. 11
 CLEAT5,0.08,InStock,Termination Technology,CC5 Cable Cleat No. 5
-CLEAT6,0.16,InStock,Termination Technology,CC6 Cable Cleat No. 6
+CLEAT6,0.16,OutOfStock,Termination Technology,CC6 Cable Cleat No. 6
 CLEAT7,0.11,InStock,Termination Technology,CC7 Cable Cleat No. 7
 CLEAT8,0.19,InStock,Termination Technology,CC8 Cable Cleat No. 8
 CLEAT9,0.16,InStock,Termination Technology,CC9 Cable Cleat No. 9
