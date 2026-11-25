@@ -1515,7 +1515,7 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Fumagalli</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8031874226038</g:gtin>
 </item>
 <item>
 <g:id>ASB2A4/000/AX/U2K</g:id>
@@ -1527,19 +1527,19 @@
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Fumagalli</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8031874226052</g:gtin>
 </item>
 <item>
 <g:id>ASB2V3/000/AY/B1K</g:id>
-<g:title>Fumagalli Maddi 2 Coastal IP66 E27 Oval Eyelid Bulkhead Wall Light in Black</g:title>
-<g:description>The Fumagalli Maddi 2 is an oval outdoor bulkhead with an eyelid cover, in black. Made from shockproof, UV-stabilised resin that won't rust or corrode, it suits coastal locations and can be fitted to walls or ceilings. Key features Oval bulkhead with eyelid cover IP66 Shockproof, UV-stabilised resin Rust and corrosion free E27 lamp holder Supplied with an 11W LED lamp Wall or ceiling mounting Good to know Suits porches, entrances, paths and outbuildings. Downloads Datasheet (PDF)</g:description>
+<g:title>Fumagalli Maddi 2 Coastal IP66 9W/15W GX53 LED CCT Oval Eyelid Bulkhead Wall Light in Black</g:title>
+<g:description>The Fumagalli Maddi 2 is an oval outdoor bulkhead with an eyelid cover, in black. Made from shockproof, UV-stabilised resin that won't rust or corrode, it suits coastal locations and can be fitted to walls or ceilings. Key features Oval bulkhead with eyelid cover IP66 Shockproof, UV-stabilised resin Rust and corrosion free 9W/15W GX53 LED CCT (selectable colour temperature) Black with opal diffuser Wall or ceiling mounting Good to know Suits porches, entrances, paths and outbuildings. Downloads Datasheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/fumagalli-maddi-2-coastal-ip66-e27-oval-eyelid-bulkhead-wall-light</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ASB2V3_000_AY_B1K.jpg</g:image_link>
 <g:price>42.19 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Fumagalli</g:brand>
-<g:identifier_exists>no</g:identifier_exists>
+<g:gtin>8031874275913</g:gtin>
 </item>
 <item>
 <g:id>ASH624SEL2126</g:id>
@@ -1789,7 +1789,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/deligo-bwkit50-brass-gland-pack-50mm-1</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/BWKIT50.jpg</g:image_link>
 <g:price>21.44 GBP</g:price>
-<g:availability>in_stock</g:availability>
+<g:availability>out_of_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Deligo</g:brand>
 <g:gtin>5060333841324</g:gtin>
@@ -1798,7 +1798,7 @@
 <item>
 <g:id>CAT5E</g:id>
 <g:title>CAT5E UTP Cable 305M</g:title>
-<g:description>A 305m box of CAT5E UTP (unshielded twisted pair) data cable, for structured cabling, network points and CCTV runs. Suitable for runs to network points, Wi-Fi access points and IP cameras in homes and offices. Key features CAT5E UTP, unshielded 305m box Good to know Supplied on a 305m reel in a box for easy pulling.</g:description>
+<g:description>A 305m box of CAT5E UTP (unshielded twisted pair) data cable, for structured cabling, network points and CCTV runs. Suitable for runs to network points, Wi-Fi access points and IP cameras in homes and offices. Key features CAT5E UTP, unshielded 305m box Good to know Supplied on a 305m reel in a box for easy pulling. Downloads Datasheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/cat5e-utp-cable-305m</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/CAT5E.jpg</g:image_link>
 <g:price>54.00 GBP</g:price>
@@ -1810,7 +1810,7 @@
 <item>
 <g:id>CAT5ELSF</g:id>
 <g:title>CAT5ELSF CAT5E LSZOH UTP Cable 305M</g:title>
-<g:description>A 305m box of CAT5E UTP data cable with an LSZH (low smoke zero halogen) sheath, for network points, structured cabling and CCTV in commercial and public buildings. LSZH sheathing gives off less smoke and no halogen gases in a fire, which is why it is often specified for escape routes, schools, hospitals and offices. Key features CAT5E UTP, unshielded LSZH sheath 305m box Good to know Supplied on a 305m reel in a box for easy pulling.</g:description>
+<g:description>A 305m box of CAT5E UTP data cable with an LSZH (low smoke zero halogen) sheath, for network points, structured cabling and CCTV in commercial and public buildings. LSZH sheathing gives off less smoke and no halogen gases in a fire, which is why it is often specified for escape routes, schools, hospitals and offices. Key features CAT5E UTP, unshielded LSZH sheath 305m box Good to know Supplied on a 305m reel in a box for easy pulling. Downloads Datasheet (PDF)</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/cat5elsf-cat5e-lszoh-utp-cable-305m</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/CAT5ELSF.jpg</g:image_link>
 <g:price>77.74 GBP</g:price>
