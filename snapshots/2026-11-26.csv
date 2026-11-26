@@ -176,7 +176,7 @@ CKT5410,46.38,InStock,CK Tools,CK T5410 Mighty Rod Cable Rod Set 10m
 CLEAT10,0.23,InStock,Termination Technology,CC10 Cable Cleat No. 10
 CLEAT11,0.40,InStock,Termination Technology,CC11 Cable Cleat No. 11
 CLEAT5,0.08,InStock,Termination Technology,CC5 Cable Cleat No. 5
-CLEAT6,0.16,OutOfStock,Termination Technology,CC6 Cable Cleat No. 6
+CLEAT6,0.16,InStock,Termination Technology,CC6 Cable Cleat No. 6
 CLEAT7,0.11,InStock,Termination Technology,CC7 Cable Cleat No. 7
 CLEAT8,0.19,InStock,Termination Technology,CC8 Cable Cleat No. 8
 CLEAT9,0.16,InStock,Termination Technology,CC9 Cable Cleat No. 9
@@ -576,7 +576,7 @@ KOSRHI330/SCT/S,16.80,InStock,Kosnic,Kosnic RHINE III 30W Floodlight with Sensor
 KOSRHI350/SCT,14.09,InStock,Kosnic,Kosnic RHINE III 50W Floodlight
 KOSRHI350/SCT/S,20.98,InStock,Kosnic,Kosnic RHINE III 50W Floodlight with Sensor
 KOSRMWDC,10.81,InStock,Kosnic,Kosnic LUL-M/D Lulu Plug in Microwave Motion and Daylight Sensor 12V DC
-KOSSWIR/GU10/S,21.31,InStock,Kosnic,Kosnic SWIR/GU10/S Swimley Twin 7W GU10 Up/Down wall light Sensor Stainless Steel
+KOSSWIR/GU10/S,21.31,OutOfStock,Kosnic,Kosnic SWIR/GU10/S Swimley Twin 7W GU10 Up/Down wall light Sensor Stainless Steel
 KOSTARS/M/BLK,68.53,InStock,Kosnic,Kosnic TARS-M-BLK Tarkine Solar 650mm Diecast Medium Bollard 4000K Black
 KOSTARS/M/GRY,68.53,InStock,Kosnic,Kosnic TARS-M-GRY Tarkine Solar 650mm Diecast Medium Bollard 4000K Grey
 KOSTARS/S/BLK,60.88,InStock,Kosnic,Kosnic TARS-S-BLK Tarkine Solar 400mm Diecast Small Bollard 4000K Black
@@ -713,7 +713,7 @@ MTMC2B,0.83,InStock,Marshall Tufflex,Marshall Tufflex MC2B Conduit PVC Coupler 2
 MTMC2W,0.83,InStock,Marshall Tufflex,Marshall Tufflex MC2W Conduit PVC Coupler 20mm
 MTMC3W,1.12,InStock,Marshall Tufflex,Marshall Tufflex MC3W Conduit PVC Coupler 25mm
 MTMCG2B,1.08,InStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut Black (Sold in 10s)
-MTMCG2G,94.72,OutOfStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut Grey (Sold in 10s)
+MTMCG2G,94.72,InStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut Grey (Sold in 10s)
 MTMCG2RED,1.08,InStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut Red (Sold in 10s)
 MTMCG2W,1.08,InStock,Deligo,20mm IP68 Nylon Compression Gland with Locknut White (Sold in 10s)
 MTMCG3B,1.57,InStock,Deligo,25mm IP68 Nylon Compression Gland with Locknut Black (Sold in 10s)
@@ -755,7 +755,7 @@ MTTEC3,1.31,InStock,Marshall Tufflex,Marshall Tufflex TEC3 38mm x 16mm Mini Trun
 MTTEC4,1.54,InStock,Marshall Tufflex,Marshall Tufflex TEC4 38mm x 25mm Mini Trunking End Cap White
 MTTECS100,7.63,InStock,Marshall Tufflex,Marshall Tufflex TECS100WH 100X100mm Maxi Trunking End Cap White
 MTTECS10050,4.93,InStock,Marshall Tufflex,Marshall Tufflex TECS100/50WH 100X50mm Maxi Trunking End Cap White
-MTTECS50,1.31,OutOfStock,Marshall Tufflex,Marshall Tufflex TECS50WH 50X50mm Maxi Trunking End Cap White
+MTTECS50,1.31,InStock,Marshall Tufflex,Marshall Tufflex TECS50WH 50X50mm Maxi Trunking End Cap White
 MTTFAS50C,7.94,InStock,Marshall Tufflex,Marshall Tufflex 50X50mm Maxi Trunking Flat Angle White TFAS50C
 MTTFB2,1.31,InStock,Marshall Tufflex,Marshall Tufflex TFB2 25mm x16mm Mini Trunking Flat Bend White
 MTTFB3,1.31,InStock,Marshall Tufflex,Marshall Tufflex TFB3 38mm x 16mm Mini Trunking Flat Bend White
@@ -818,8 +818,8 @@ PCH073,13.14,InStock,Armeg,Armeg PCH073 73mm Premium Cobalt Holesaw
 PCH076,13.39,InStock,Armeg,Armeg PCH076 76mm Premium Cobalt Holesaw
 PCH102,19.06,InStock,Armeg,Armeg PCH102 102mm Premium Cobalt Holesaw
 PCH127,36.64,InStock,Armeg,Armeg PCH127 127mm Premium Cobalt Holesaw
-PEVAPEX-7S,348.92,InStock,Project EV,Project EV APEX-7S 7.3kW Untethered EV Charger - Socket
-PEVAPEX-7S-T,481.45,InStock,Project EV,Project EV APEX-7S-T 7.3kW Tethered EV Charger
+PEVAPEX-7S,342.96,InStock,Project EV,Project EV APEX-7S 7.3kW Untethered EV Charger - Socket
+PEVAPEX-7S-T,466.86,InStock,Project EV,Project EV APEX-7S-T 7.3kW Tethered EV Charger
 PEVCURV-HP110M8,1253.06,InStock,Project EV,Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder
 PEVCURV-HP150M8,1346.71,InStock,Project EV,Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder
 PEVCURV-HP200M7,1656.00,InStock,Project EV,Project CÜRV CURV-HP200M7-G3 200ltr ASHP Hot Water Cylinder
@@ -918,11 +918,11 @@ VEN498095BDW,51.47,InStock,Vent-Axia,Vent Axia 498095B Lo-Carbon NBR dMEVc 100mm
 VEN498096,59.96,OutOfStock,Vent-Axia,"Vent Axia 498096 Lo-Carbon NBR dMEVc 100mm Humidistat, Timer"
 VEN561704BDW,5.28,OutOfStock,Vent-Axia,Vent Axia 561704 Worm Drive Clip 110mm Metal
 VEN561707,7.10,OutOfStock,Vent-Axia,Vent Axia 561707 Worm Drive Clip 180mm Metal
-WAG2212411,20.06,InStock,Wago,Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)
+WAG2212411,19.49,InStock,Wago,Wago 221-2411 Inline Splicing Connector 4mm (Pack 60)
 WAG221412,24.00,InStock,Wago,Wago 221-412 2 Way Connector 4mm Terminal Block (Pack of 100)
 WAG221413,12.50,InStock,Wago,Wago 221-413 3 Way Connector 4mm Terminal Block (Pack of 50)
-WAG221415,11.75,InStock,Wago,Wago 221-415 5 Way Connector (Pack of 25)
-WAG221613,19.20,InStock,Wago,Wago 221-613 3 Way Connector 6mm Terminal Block (Pack 30)
+WAG221415,11.00,InStock,Wago,Wago 221-415 5 Way Connector (Pack of 25)
+WAG221613,18.30,InStock,Wago,Wago 221-613 3 Way Connector 6mm Terminal Block (Pack 30)
 WAG221615,18.60,InStock,Wago,Wago 221-615 5 Way Connector 6mm Terminal Block (Pack 15)
 WANEL600W,97.30,InStock,Warner Howard,Warner Howard EL600W 600W Low Energy Hand Dryer White (091183PR)
 WBF20,4.61,InStock,Armeg,Armeg WBF20 20mm WoodBeaver Flat Bit
