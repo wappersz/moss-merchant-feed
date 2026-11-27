@@ -372,7 +372,7 @@ EARTHROD5/8,7.28,InStock,Deligo,Earth Rod Copper 5/8 Inch 4ft ER58
 EARTHRODCLAMP,2.51,InStock,Deligo,Deligo ERC3/8 Brass Machined Earth Rod Clamp 3/8 inch
 EHDH9W001,98.06,InStock,Velair,Velair EHDH9W001 Hydra 9 High Speed Hand Dryer White
 ETRDFHT2KW,35.63,InStock,Eterna,Eterna DFHT2KW 2kW Adjustable Downflow Heater
-ETRE12PH2,85.48,InStock,Eterna,Eterna Plinth E12PH2 2KW Fan Heater with RF Thermostat and Remote
+ETRE12PH2,78.05,InStock,Eterna,Eterna Plinth E12PH2 2KW Fan Heater with RF Thermostat and Remote
 EURMEC4M,21.85,InStock,Europa,MEC4M 4 Module Enclosure C/W Lid Metal
 EXDMN1400,1.60,InStock,Duracell,Duracell Procell C Batteries
 EXDMN1500,6.50,InStock,Duracell,Duracell Procell AA Batteries (Pack of 10)
@@ -827,11 +827,11 @@ PCH102,19.06,InStock,Armeg,Armeg PCH102 102mm Premium Cobalt Holesaw
 PCH127,36.64,InStock,Armeg,Armeg PCH127 127mm Premium Cobalt Holesaw
 PEVAPEX-7S,342.96,InStock,Project EV,Project EV APEX-7S 7.3kW Untethered EV Charger - Socket
 PEVAPEX-7S-T,466.86,InStock,Project EV,Project EV APEX-7S-T 7.3kW Tethered EV Charger
-PEVCURV-HP110M8,1253.06,InStock,Project EV,Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder
-PEVCURV-HP150M8,1346.71,InStock,Project EV,Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder
-PEVCURV-HP200M7,1656.00,InStock,Project EV,Project CÜRV CURV-HP200M7-G3 200ltr ASHP Hot Water Cylinder
-PEVCURV-HP250M7,1771.20,InStock,Project EV,Project CÜRV CURV-HP250M7-G3 250ltr ASHP Hot Water Cylinder
-PEVCURV-HP80M8,1187.34,InStock,Project EV,Project CÜRV CURV-HP80M8-G3 80ltr ASHP Hot Water Cylinder
+PEVCURV-HP110M8,1146.10,InStock,Project EV,Project CÜRV CURV-HP110M8-G3 110ltr ASHP Hot Water Cylinder
+PEVCURV-HP150M8,1219.97,InStock,Project EV,Project CÜRV CURV-HP150M8-G3 150ltr ASHP Hot Water Cylinder
+PEVCURV-HP200M7,1552.50,InStock,Project EV,Project CÜRV CURV-HP200M7-G3 200ltr ASHP Hot Water Cylinder
+PEVCURV-HP250M7,1660.50,InStock,Project EV,Project CÜRV CURV-HP250M7-G3 250ltr ASHP Hot Water Cylinder
+PEVCURV-HP80M8,1089.56,InStock,Project EV,Project CÜRV CURV-HP80M8-G3 80ltr ASHP Hot Water Cylinder
 PIRAP7RED,22.51,InStock,Prysmian,Prysmian AP7RED FP200 Clip 2 x 1.5mm Red
 PIRAP7WHI,22.51,InStock,Prysmian,Prysmian AP7WHI FP200 Clip 2 x 1.5mm White
 QVCV/8IP/4DOME/2TB/W,546.00,InStock,Qvis,Qvis CV-8IP-4DOME-2TB-W 8 Channel 2TB NVR with 4x 4MP Full-Colour Turret White
@@ -904,7 +904,7 @@ VEN409802,107.40,OutOfStock,Vent-Axia,Vent Axia 409802 Lo-Carbon Svara 100mm Sma
 VEN412259,339.72,InStock,Vent-Axia,Vent Axia Cool Box - 412259 NBR Coolbox 30
 VEN412262,128.52,InStock,Vent-Axia,Vent Axia 412262 Lo-Carbon NBR Cool Unitary Fan 125mm
 VEN414942,60.66,InStock,Vent-Axia,Vent Axia 414942 100mm Lo-Carbon PureAir Cleanse Fan 100mm
-VEN416472,44.45,InStock,Vent-Axia,"Vent Axia 416472/ VASF100BF 100mm 4"" Silent Fan Fixed Grille"
+VEN416472,44.45,OutOfStock,Vent-Axia,"Vent Axia 416472/ VASF100BF 100mm 4"" Silent Fan Fixed Grille"
 VEN416473,47.54,InStock,Vent-Axia,"Vent Axia 416473/ VASF100TF 100mm 4"" Silent Fan with Timer Fixed Grille"
 VEN416474,82.31,InStock,Vent-Axia,"Vent Axia 416474/ VASF100HTF 100mm 4"" Silent Fan with Humidistat and Timer Fixed Grille"
 VEN416841,68.24,InStock,Vent-Axia,Vent Axia 416841 100mm Lo-Carbon PureAir Cleanse 100 HT 100mm
