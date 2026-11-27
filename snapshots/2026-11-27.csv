@@ -40,7 +40,7 @@ ABBS203MB50,47.89,InStock,ABB,ABB S203M-B50 TP MCB B50A 10KA
 ABBS203MC40,45.60,InStock,ABB,ABB S203M-C40 TP MCB C40A 10KA
 ADPS20/10,46.70,InStock,Adaptaflex,Adaptaflex S20/10 20mm Steel Flexible Conduit Bare (10mtr) Reel
 ADPSP20/BL/10,56.20,InStock,Adaptaflex,Adaptaflex SP20/BL/10 20mm Black PVC Coated Metal Flexible Conduit (10mtr)
-ADPSP20/BL/25,130.75,OutOfStock,Adaptaflex,Adaptaflex SP20/BL/25 20mm Black PVC Coated Metal Flexible Conduit (25mtr)
+ADPSP20/BL/25,130.75,InStock,Adaptaflex,Adaptaflex SP20/BL/25 20mm Black PVC Coated Metal Flexible Conduit (25mtr)
 ADPSP20M20A,47.90,InStock,Adaptaflex,Adaptaflex SP20/M20/A 20mm Connector Gland M20 (Pack of 10)
 ADPSP20M20B,57.00,InStock,Adaptaflex,Adaptaflex SP20/M20/B 20mm Connector Swivel Gland M20 (Pack of 10)
 ADPSP25/BL/25,181.25,InStock,Adaptaflex,Adaptaflex SP25/BL/25 25mm Black PVC Coated Metal Flexible Conduit (25mtr)
@@ -62,6 +62,12 @@ AICEI3024,60.14,InStock,Aico,Aico Ei3024 230V Mains Optical and Heat Sensor Alar
 AICEI3028,74.18,InStock,Aico,Aico Ei3028 230V Mains Heat and Carbon Monoxide Sensor with Battery Back Up
 AICEI3030,82.79,InStock,Aico,"Aico Ei3030 230V Mains Heat, Optical & Carbon Monoxide Sensor Alarm with Battery Back Up"
 AICEI450,53.95,InStock,Aico,"Aico Ei450 RadioLINK Alarm Controller - Test, Locate & Silence Unit with 10-Year Battery"
+ALLAB/EMPACK,20.27,InStock,All LED,ALL LED AB/EMPACK Q-Nex 3 Hour Emergency Pack for Lennox 2 Bulkhead
+ALLAB/LEN/BZ-BLK,3.54,InStock,All LED,ALL LED AB/LEN/BZ-BLK Lennox 2 Bulkhead Bezel Matt Black
+ALLAB/LEN/CCT,17.57,InStock,All LED,ALL LED AB/LEN/CCT Lennox 2 14W LED Bulkhead IP65 IK08 CCT Selectable White
+ALLAB/MSC,11.50,InStock,All LED,ALL LED AB/MSC Q-Nex 2-in-1 Microwave and Corridor Sensor Module for Lennox 2
+ALLABAR/EM/ST,28.43,InStock,All LED,ALL LED ABAR/EM/ST Q-Nex 3 Hour Self Test Emergency Pack for Barracuda Battens
+ALLABAR/XT4FT/CCT,27.55,InStock,All LED,ALL LED ABAR/XT4FT/CCT Barracuda Extreme 4ft LED Batten 33W IP66 IK10 CCT Selectable
 ALLACL240SN/CCT,9.29,InStock,All LED,ALL LED ACL240SN/CCT Swift CCT 2.3W 240V Under Cabinet Light Satin Nickel
 ALLACL240WH/CCT,9.29,OutOfStock,All LED,ALL LED ACL240WH/CCT Swift CCT 2.3W 240V Under Cabinet Light Polar White
 ALLADIM/150W,9.84,InStock,All LED,ALL LED ADIM150 150W Universal 2 Way LED Dimmer Module
@@ -172,7 +178,7 @@ CKT49244/040,7.52,InStock,CK Tools,CK T49244-040 Screwdriver SL4 x 100mm
 CKT49244/055,11.40,InStock,CK Tools,CK T49244-055 Screwdriver SL5.5 X 125mm
 CKT49245,10.63,InStock,CK Tools,CK T49245 VDE Slim Screwdriver SL-PZ2U
 CKT49246,10.63,InStock,CK Tools,CK T49246 VDE Slim Screwdriver PH2U X100mm
-CKT5410,46.38,InStock,CK Tools,CK T5410 Mighty Rod Cable Rod Set 10m
+CKT5410,41.75,InStock,CK Tools,CK T5410 Mighty Rod Cable Rod Set 10m
 CLEAT10,0.23,InStock,Termination Technology,CC10 Cable Cleat No. 10
 CLEAT11,0.40,InStock,Termination Technology,CC11 Cable Cleat No. 11
 CLEAT5,0.08,InStock,Termination Technology,CC5 Cable Cleat No. 5
@@ -389,10 +395,10 @@ FLXFTS07R,10.86,InStock,Flex7,Flex 7 FTS07/R 7 Pole Red Socket Outlet 2x4.0mm
 FLXFTS07W,10.86,InStock,Flex7,Flex 7 FTS07/W 7 Pole White Socket Outlet 2x4.0mm
 FURPT205,21.38,InStock,Furse,Furse PT205 Lightweight Earth Inspection Pit with Grey Polymer Lid L:300mmxW:300mmxD:158mm Weight 1.8KG
 GBT80C,23.83,InStock,Greenbrook,Greenbrook GBT80C Din Rail Digital Timer 7 Day
-GKN8X.75CS,2.64,InStock,Deligo,"8 x 3/4"" Pozi Countersunk Twinthread Woodscrews BZP"
-GKN8X1.25CS,3.53,InStock,Deligo,"GKN8X1.25CS 8 x 1 1/4"" Pozi Countersunk Woodscrews BZP"
-GKN8X2CS,5.67,InStock,Deligo,"GKN8X2CS 8 x 2"" Pozi Countersunk Twinthread Woodscrews BZP"
-GKN8X3CS,6.17,InStock,Deligo,"GKN8X3CS 8 x 3"" Pozi Countersunk Twinthread Woodscrews BZP"
+GKN8X.75CS,2.64,InStock,Deligo,Deligo 8 x 3/4in Pozi Countersunk Twinthread Woodscrews BZP (Box of 200)
+GKN8X1.25CS,3.53,InStock,Deligo,Deligo 8 x 1 1/4in Pozi Countersunk Woodscrews BZP (Box of 200)
+GKN8X2CS,5.67,InStock,Deligo,Deligo 8 x 2in Pozi Countersunk Twinthread Woodscrews BZP (Box of 200)
+GKN8X3CS,6.17,InStock,Deligo,Deligo 8 x 3in Pozi Countersunk Twinthread Woodscrews BZP (Box of 100)
 GKNM3.5X100,16.74,InStock,Deligo,M3.5 x 100mm Steel Machine Screw Nickel Plated (Pack 100)
 GKNM3.5X35,4.93,InStock,Deligo,M3.5 x 35mm Steel Machine Screw Nickel Plated (Pack 100)
 GKNM3.5X40,4.92,InStock,Deligo,M3.5 x 40mm Steel Machine Screw Nickel Plated (Pack 100)
@@ -419,7 +425,7 @@ GW66015,32.64,InStock,Gewiss,Gewiss GW66015 32A 2P+E 230V Interlock Switched Soc
 GW66020,39.08,InStock,Gewiss,Gewiss GW66020 32A 3P+N+E 400V Interlock Switched Socket
 GW70433,17.42,InStock,Gewiss,Gewiss GW70433P 16A 4 Pole Rotary Isolator
 GW70436,19.48,InStock,Gewiss,Gewiss GW70436P 32A 4 Pole Rotary Isolator
-GW70438,33.67,InStock,Gewiss,Gewiss GW70438P 63A 4 Pole Rotary Isolator
+GW70438,32.04,InStock,Gewiss,Gewiss GW70438P 63A 4 Pole Rotary Isolator
 GW70443P,24.17,InStock,Gewiss,Gewiss GW70443P 40A 4 Pole Rotary Isolator
 GW70488P,16.46,InStock,Gewiss,Gewiss GW70488P 25A 4 Pole Rotary Isolator
 HAGADB406U,35.54,InStock,Hager,Hager ADB406U RCBO 1M 1P 10kA B-6A 30mA Type A
@@ -545,6 +551,7 @@ KOSDEL80/W65,33.66,InStock,Kosnic,Kosnic DEL80-W65 Della flood light IP65 80W 11
 KOSDOX20103,23.81,InStock,Kosnic,Kosnic DOX20103 Doxa II Standard Exit Sign with Multiple Mounting Positions
 KOSECH3150/W50,69.41,OutOfStock,Kosnic,"Kosnic ECH3150-W50 Echo 3, LED Circular Highbay, IP65, 150W, 5000K"
 KOSEMDD202,19.27,InStock,Kosnic,Kosnic EMDD202 2W standard emergency module for LED DD and bulkhead
+KOSERT06,4.07,InStock,Kosnic,Kosnic ERT06 Erta 6W Fire Rated LED Downlight CCT Switchable Dimmable IP65
 KOSFOL/BLK,22.85,InStock,Kosnic,Kosnic FOL-BLK Folly Black E27 Up /Down Wall Lantern Box
 KOSFOLU/BLK,19.86,InStock,Kosnic,Kosnic FOLU-BLK Folly Black E27 Up Wall Lantern Box
 KOSFOLU/BLK/S,29.38,InStock,Kosnic,Kosnic FOLU-BLK-S Folly Black E27 Up Wall Lantern Box PIR On/ Off
@@ -841,7 +848,7 @@ ROCPCR2000/3,8.21,InStock,Hager,Hager Klik PCR2000/3.0 Ceiling Rose 3 Pin 6A c/w
 S04.0X160,3.66,InStock,Armeg,Armeg S04.0X160 4mm x 160mm SDS Bit
 S05.5X160,2.62,InStock,Armeg,Armeg S05.5X160 5.5mm x 160mm SDS Bit
 S06.0X160,2.65,InStock,Armeg,Armeg S06.0X160 6mm x 160mm SDS Bit
-S08.0X160,3.12,InStock,Armeg,Armeg S08.0X160 8mm x 160mm SDS Bit
+S08.0X160,2.74,InStock,Armeg,Armeg S08.0X160 8mm x 160mm SDS Bit
 SAX73463,10.26,InStock,Saxby,Saxby 73463 Cove IP67 0.8W Warm White
 SAX99561,9.16,InStock,Saxby,Saxby 99561 Cove IP67 0.8W Cool White
 SCH2420112,1.33,InStock,Unicrimp,Unicrimp 1933BL 19mm x 33m PVC Insulation Tape Blue
@@ -882,7 +889,7 @@ UNIQP6242P2,14.45,InStock,Unicrimp,Unicrimp QP6242P2 24A 450V Purple Transparent
 UNIQP8242B2,15.18,InStock,Unicrimp,Unicrimp QP8242B2 24A 450V Black Transparent 8 Port Push In Wire Connectors (Pack of 50)
 UNIQRC10,4.02,InStock,Unicrimp,Unicrimp QRC10 7-10mm Round Clips White (Pack of 100)
 UNIQWPR001,0.95,InStock,Unicrimp,Unicrimp QWPR001 Wall Plug Red (Box of 100)
-UNIQWS8-15,3.59,InStock,Unicrimp,"Unicrimp QWS8-15 8 x 1 1/2"" Pozi Countersunk Twinthread Woodscrews BZP"
+UNIQWS8-15,3.59,InStock,Unicrimp,Unicrimp QWS8-15 8 x 1 1/2in Pozi Countersunk Twinthread Woodscrews BZP (Box of 200)
 VAN2HAC132,14.60,InStock,Deligo,32TPI Bi-Metal Hacksaw Blade 32TPI Thin Metal Cut (Pack of 10)
 VAN3CAVRDM,15.62,InStock,Unicrimp,Unicrimp QCVFIX Metal Plasterboard Fixing Metal and Screws (Box of 100)
 VANSAFEPLATE1,44.16,InStock,Deligo,SP Safe Plate 54mm x 80mm (Pack of 100)
@@ -959,7 +966,7 @@ WYLEMB1W,1.02,InStock,Wylex,Wylex EMB1W Push Fit Metal Blank
 WYLNHXLB06,2.84,InStock,Wylex,Wylex NHXLB06 6A MCB Type B
 WYLNHXLB16,2.84,InStock,Wylex,Wylex NHXLB16 16A MCB Type B
 WYLNHXLB20,2.84,InStock,Wylex,Wylex NHXLB20 20A MCB Type B
-WYLNHXLB32,2.84,InStock,Wylex,Wylex NHXLB32 32A MCB Type B
+WYLNHXLB32,2.74,InStock,Wylex,Wylex NHXLB32 32A MCB Type B
 WYLNHXLB40,2.84,InStock,Wylex,Wylex NHXLB40 40A MCB Type B
 WYLNHXLC16,2.84,InStock,Wylex,Wylex NHXLC16 16A MCB Type C
 WYLNHXS1B06,17.05,InStock,Wylex,Wylex NHXS1B06 6A 1P+N 1 Module B Curve 6kA 30mA RCBO

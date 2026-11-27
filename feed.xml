@@ -516,7 +516,7 @@
 <g:link>https://shop.mosselectrical.co.uk/products/adaptaflex-sp20-bl-25-20mm-black-pvc-coated-metal-flexible-conduit</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ADPSP20_BL_25_b90b3823-8257-4608-9d03-d7185d2a30e4.webp</g:image_link>
 <g:price>130.75 GBP</g:price>
-<g:availability>out_of_stock</g:availability>
+<g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Adaptaflex</g:brand>
 <g:mpn>SP20/BL/25</g:mpn>
@@ -787,6 +787,79 @@
 <g:brand>Aico</g:brand>
 <g:gtin>5099383004731</g:gtin>
 <g:mpn>Ei450</g:mpn>
+</item>
+<item>
+<g:id>ALLAB/EMPACK</g:id>
+<g:title>ALL LED AB/EMPACK Q-Nex 3 Hour Emergency Pack for Lennox 2 Bulkhead</g:title>
+<g:description>The ALL LED AB/EMPACK turns a Lennox 2 bulkhead into a 3 hour emergency light. It clips into the Q-Nex socket with no extra wiring, so you can stock standard bulkheads and convert the ones that need emergency on the day. Key features 3 hour emergency duration Plug and play, fits in seconds LiFePO4 lithium battery, 24 hour charge 1.2W emergency output Works with Lennox 2 AB/LEN/CCT 14W LED bulkhead Specifications Emergency output 1.2W, under 150lm Duration 3 hours Battery LiFePO4 18650, 3.2V 1500mAh Charge time 24 hrs Voltage 220-240V AC Downloads Datasheet (PDF)</g:description>
+<g:link>https://shop.mosselectrical.co.uk/products/all-led-lennox-2-emergency-pack-ab-empack</g:link>
+<g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ab-empack-1.jpg</g:image_link>
+<g:price>20.27 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
+<g:identifier_exists>no</g:identifier_exists>
+</item>
+<item>
+<g:id>ALLAB/LEN/BZ-BLK</g:id>
+<g:title>ALL LED AB/LEN/BZ-BLK Lennox 2 Bulkhead Bezel Matt Black</g:title>
+<g:description>The ALL LED AB/LEN/BZ-BLK is a matt black bezel for the Lennox 2 LED bulkhead. It swaps out the standard white trim, so the fitting sits better on dark render, cladding and modern exteriors. Key features Matt black finish Fits the Lennox 2 AB/LEN/CCT bulkhead Quick to change on site Good to know Bezel only, the bulkhead is sold separately. A chrome bezel (AB/LEN/BZ-PC) is also made, ask the counter.</g:description>
+<g:link>https://shop.mosselectrical.co.uk/products/all-led-lennox-2-black-bezel-ab-len-bz-blk</g:link>
+<g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ab-len-bz-blk-1.jpg</g:image_link>
+<g:price>3.54 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
+<g:gtin>5056599302808</g:gtin>
+</item>
+<item>
+<g:id>ALLAB/LEN/CCT</g:id>
+<g:title>ALL LED AB/LEN/CCT Lennox 2 14W LED Bulkhead IP65 IK08 CCT Selectable White</g:title>
+<g:description>The ALL LED Lennox 2 AB/LEN/CCT is a slim 14W LED bulkhead for stairwells, corridors, porches and outside walls. It is IP65 and IK08, so it handles weather and the odd knock, and you pick 3000K, 4000K or 6000K on site. Stock one fitting and turn it into a sensor or emergency light with a Q-Nex plug and play module. Key features 14W, up to 1420lm Selectable 3000K / 4000K / 6000K IP65, IK08, inside or out Q-Nex plug and play modules, no extra wiring Slim polycarbonate body, Class II 5 year guarantee Works with AB/MSC microwave and corridor sensor module AB/EMPACK 3 hour emergency pack AB/LEN/BZ-BLK matt black bezel Specifications Power 14W Light output 1330lm / 1420lm / 1400lm (3000K / 4000K / 6000K) Beam angle 120° CRI &gt;80 Size Ø330mm x 79mm Voltage 220-240V AC IP / IK IP65 / IK08 Operating temp -20°C to +45°C Lifetime L70B50 50,000 hrs Downloads Datasheet (PDF)</g:description>
+<g:link>https://shop.mosselectrical.co.uk/products/all-led-lennox-2-14w-led-bulkhead-ab-len-cct</g:link>
+<g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ab-len-cct-1.jpg</g:image_link>
+<g:price>17.57 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
+<g:gtin>5056599302792</g:gtin>
+</item>
+<item>
+<g:id>ALLAB/MSC</g:id>
+<g:title>ALL LED AB/MSC Q-Nex 2-in-1 Microwave and Corridor Sensor Module for Lennox 2</g:title>
+<g:description>The ALL LED AB/MSC turns a Lennox 2 bulkhead into a sensor light in seconds. It plugs into the Q-Nex socket, no extra wiring, and you set it up with DIP switches. Use it as a straight microwave on/off sensor, or in corridor mode where the light dims to a standby level instead of switching off, which suits stairwells and communal areas. Key features 2-in-1: microwave on/off or corridor function Plug and play, fits in seconds Set by DIP switches Detection up to 12m, 150° Mounting height up to 6m Daylight sensor Settings Standby dim level: 20% or off Standby time: 1, 5 or 10 minutes, or permanent Hold time: 5 seconds to 10 minutes Sensitivity: 25% to 100% Daylight: 2, 10, 25 or 50 lux, or disabled Works with Lennox 2 AB/LEN/CCT 14W LED bulkhead Specifications Detection range 12m max Detection angle 150° Mounting height 6m max Downloads Datasheet (PDF)</g:description>
+<g:link>https://shop.mosselectrical.co.uk/products/all-led-lennox-2-microwave-sensor-ab-msc</g:link>
+<g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/ab-msc-1.jpg</g:image_link>
+<g:price>11.50 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
+<g:gtin>5056599302778</g:gtin>
+</item>
+<item>
+<g:id>ALLABAR/EM/ST</g:id>
+<g:title>ALL LED ABAR/EM/ST Q-Nex 3 Hour Self Test Emergency Pack for Barracuda Battens</g:title>
+<g:description>The ALL LED ABAR/EM/ST converts a Barracuda or Barracuda Extreme LED batten into a 3 hour emergency fitting. It plugs into the Q-Nex socket, so there is no extra wiring, and the automatic self-test takes care of the routine function checks that would otherwise mean a site visit. Key features 3 hour emergency duration Automatic self-test Plug and play, converts in seconds LiFePO4 lithium battery, 24 hour charge 5 year guarantee Works with Barracuda Extreme ABAR/XT4FT/CCT 4ft batten Standard Barracuda battens Specifications Emergency output 2W max Duration 3 hours Battery LiFePO4 6.4V 1800mAh, 11.52Wh Charge time 24 hrs Voltage 220-240V AC Operating temp 0°C to +50°C Downloads Datasheet (PDF)</g:description>
+<g:link>https://shop.mosselectrical.co.uk/products/all-led-barracuda-emergency-pack-abar-em-st</g:link>
+<g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/abar-em-st-1.jpg</g:image_link>
+<g:price>28.43 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
+<g:gtin>5056599303195</g:gtin>
+</item>
+<item>
+<g:id>ALLABAR/XT4FT/CCT</g:id>
+<g:title>ALL LED ABAR/XT4FT/CCT Barracuda Extreme 4ft LED Batten 33W IP66 IK10 CCT Selectable</g:title>
+<g:description>The ALL LED Barracuda Extreme ABAR/XT4FT/CCT is a 4ft anti-corrosive LED batten for places a standard batten will not last: car parks, plant rooms, farm buildings, wash-down areas and coastal sites. It is IP66 and IK10, and both the wattage and colour temperature are set on site, so one code covers a lot of jobs. Key features Selectable 18W / 23W / 28W / 33W Selectable 3000K / 4000K / 6500K Up to 152lm/W IP66, IK10, anti-corrosive Drop-down LED module and gear tray Push terminals and integrated BESA mounts Q-Nex plug and play modules 5 year guarantee Works with ABAR/EM/ST 3 hour self-test emergency pack ABAR/MS2IN1 microwave sensor and suspension kit, ask the counter Specifications Power 18W / 23W / 28W / 33W Colour temperature 3000K / 4000K / 6500K Beam angle 110° CRI &gt;80 Voltage 220-240V AC IP / IK IP66 / IK10 Body Polycarbonate, grey Operating temp -35°C to +40°C Lifetime L70B50 55,000 hrs Downloads Datasheet (PDF)</g:description>
+<g:link>https://shop.mosselectrical.co.uk/products/all-led-barracuda-extreme-4ft-led-batten-abar-xt4ft-cct</g:link>
+<g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/abar-xt4ft-cct-1.jpg</g:image_link>
+<g:price>27.55 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>All LED</g:brand>
+<g:gtin>5056599303218</g:gtin>
+<g:mpn>ABAR/XT4FT/CCT</g:mpn>
 </item>
 <item>
 <g:id>ALLACL240SN/CCT</g:id>
@@ -2167,7 +2240,7 @@
 <g:description>The C.K T5410 Mighty Rod is a 10m cable rod set for pulling cables through ceilings, walls, floors and conduit. The fibreglass rods screw together to the length you need. Key features 10 x 1m fibreglass rods, 5mm diameter Triple-bonded slimline steel connectors Includes cable hook, 190mm flexible steel lead, mini eye and ring, and 5mm adaptor Downloads Catalogue page (PDF) Specifications Length 10000 mm Overall Material Fibreglass Type Mighty Rod Product Cable Rod Kit</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/ck-t5410-mighty-rod-cable-rod-set-10m</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/CKT5410.jpg</g:image_link>
-<g:price>46.38 GBP</g:price>
+<g:price>41.75 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>CK Tools</g:brand>
@@ -4914,7 +4987,7 @@
 </item>
 <item>
 <g:id>GKN8X.75CS</g:id>
-<g:title>8 x 3/4" Pozi Countersunk Twinthread Woodscrews BZP</g:title>
+<g:title>Deligo 8 x 3/4in Pozi Countersunk Twinthread Woodscrews BZP (Box of 200)</g:title>
 <g:description>These 8 x 3/4 inch Pozi countersunk twinthread woodscrews are case-hardened steel with a bright zinc plated finish. The twin thread drives in quickly and holds firmly for wood-to-wood fixing. Key features Gauge 8 x 3/4 inch (approx. 19mm) Pozidriv countersunk head Twinthread C1022 case-hardened steel Bright zinc plated (BZP) Good to know For carpentry, joinery and general fixing. Countersunk head sits flush. Downloads Datasheet (PDF) Specifications Material Gauge (Imperial) 8 Length (Imperial) 3/4 Inches Diameter 4 mm Overall Length 19.05 mm Finish Bright Zinc Plated BZP Material Carbon Steel Drive Type Pozidriv (PZ) Head Style Countersunk Pack Quantity 200 Type Roundhead Product Woodscrew</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/8-x-3-4-pozi-countersunk-twinthread-woodscrews-bzp</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/GKN8X.75CS.jpg</g:image_link>
@@ -4926,7 +4999,7 @@
 </item>
 <item>
 <g:id>GKN8X1.25CS</g:id>
-<g:title>GKN8X1.25CS 8 x 1 1/4" Pozi Countersunk Woodscrews BZP</g:title>
+<g:title>Deligo 8 x 1 1/4in Pozi Countersunk Woodscrews BZP (Box of 200)</g:title>
 <g:description>These 8 x 1 1/4 inch Pozi countersunk woodscrews are carbon steel with a bright zinc plated finish, for general wood fixing. Key features Gauge 8 x 1 1/4 inch (31.75mm) 4mm diameter Pozidriv countersunk head Carbon steel Bright zinc plated (BZP) Pack of 200 Good to know Countersunk head sits flush with the surface. Specifications Material Gauge (Imperial) 8 Length (Imperial) 1 1/4 Inches Diameter 4 mm Overall Length 31.75 mm Finish Bright Zinc Plated BZP Material Carbon Steel Drive Type Pozidriv (PZ) Head Style Countersunk Pack Quantity 200 Type Roundhead Product Woodscrew</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/gkn8x1-25cs-8-x-1-4-pozi-countersunk-woodscrews-bzp</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/GKN8X1.25CS.jpg</g:image_link>
@@ -4938,7 +5011,7 @@
 </item>
 <item>
 <g:id>GKN8X2CS</g:id>
-<g:title>GKN8X2CS 8 x 2" Pozi Countersunk Twinthread Woodscrews BZP</g:title>
+<g:title>Deligo 8 x 2in Pozi Countersunk Twinthread Woodscrews BZP (Box of 200)</g:title>
 <g:description>These 8 x 2 inch Pozi countersunk twinthread woodscrews are carbon steel with a bright zinc plated finish, for general wood fixing. Key features Gauge 8 x 2 inch (50.8mm) 4mm diameter Pozidriv countersunk head Carbon steel Bright zinc plated (BZP) Pack of 200 Good to know Countersunk head sits flush with the surface. Specifications Material Gauge (Imperial) 8 Length (Imperial) 2 Inches Diameter 4 mm Overall Length 50.8 mm Finish Bright Zinc Plated BZP Material Carbon Steel Drive Type Pozidriv (PZ) Head Style Countersunk Pack Quantity 200 Type Roundhead Product Woodscrew</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/gkn8x2cs-8-x-2-pozi-countersunk-twinthread-woodscrews-bzp</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/GKN8X2CS.jpg</g:image_link>
@@ -4950,7 +5023,7 @@
 </item>
 <item>
 <g:id>GKN8X3CS</g:id>
-<g:title>GKN8X3CS 8 x 3" Pozi Countersunk Twinthread Woodscrews BZP</g:title>
+<g:title>Deligo 8 x 3in Pozi Countersunk Twinthread Woodscrews BZP (Box of 100)</g:title>
 <g:description>These 8 x 3 inch Pozi countersunk twinthread woodscrews are carbon steel with a bright zinc plated finish, for general wood fixing. Key features Gauge 8 x 3 inch (76.2mm) 4mm diameter Pozidriv countersunk head Carbon steel Bright zinc plated (BZP) Pack of 100 Good to know Countersunk head sits flush with the surface. Specifications Material Gauge (Imperial) 8 Length (Imperial) 3 Inches Diameter 4 mm Overall Length 76.2 mm Finish Bright Zinc Plated BZP Material Carbon Steel Drive Type Pozidriv (PZ) Head Style Countersunk Pack Quantity 100 Type Roundhead Product Woodscrew</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/gkn8x3cs-8-x-3-pozi-countersunk-twinthread-woodscrews-bzp</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/GKN8X3CS.webp</g:image_link>
@@ -5288,7 +5361,7 @@
 <g:description>The Gewiss GW70438P is a 63A 4 pole rotary isolator in an enclosed, lockable box from the 70 RT HP range, for isolating motors, plant and equipment in commercial and industrial settings. Key features 63A, 4 pole Enclosed, surface mounting Lockable handle Insulating enclosure IP66/IP67/IP69 415V Good to know Designed to cut wiring time and give robust, safe isolation in demanding conditions. Downloads General specification (PDF) Specifications CE Approved Y Voltage Rating 415 V Rated Current 63 A Depth 95 mm Width 200 mm Length 156 mm Colour Yellow Material Plastic c/w Fuses N Flexible N Enclosed Y Lockable? Y Switched Y Ingress Protection IP66/IP67/IP69 Mounting Type Surface Number of Poles 4P Type Rotary Product Isolator</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/gewiss-gw70438p-63a-4-pole-rotary-isolator</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/GW70438.webp</g:image_link>
-<g:price>33.67 GBP</g:price>
+<g:price>32.04 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Gewiss</g:brand>
@@ -6861,6 +6934,19 @@
 <g:brand>Kosnic</g:brand>
 <g:gtin>5061034766374</g:gtin>
 <g:mpn>EMDD202</g:mpn>
+</item>
+<item>
+<g:id>KOSERT06</g:id>
+<g:title>Kosnic ERT06 Erta 6W Fire Rated LED Downlight CCT Switchable Dimmable IP65</g:title>
+<g:description>The Kosnic Erta ERT06 is a compact 6W fire rated LED downlight that covers most domestic jobs with one code. Set the colour temperature on site (3000K, 4000K or 6000K), dim it from a standard mains dimmer, and fit it in 30, 60 or 90 minute fire rated ceilings. It is IP65, so it is fine in bathroom zones, and it can go under insulation. Key features 6W, 650lm, 108lm/W Switchable 3000K / 4000K / 6000K Fire rated for 30, 60 and 90 minute ceilings IP65, suitable for bathrooms Mains dimmable Can be covered by insulation Interchangeable bezels (white and satin chrome) Good to know Use an LED compatible dimmer. 58mm cut-out. An emergency kit is available for this range, ask the counter. Specifications Power 6W Light output 650lm Colour temperature 3000K / 4000K / 6000K Beam angle 40° CRI 82 Cut-out 58mm Diameter 80mm Voltage 220-240V AC IP rating IP65 Class Class II Lifetime L70B50 53,000 hrs Downloads Datasheet (PDF) Installation instructions (PDF)</g:description>
+<g:link>https://shop.mosselectrical.co.uk/products/kosnic-erta-ert06-6w-fire-rated-led-downlight</g:link>
+<g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/kosert06-1.jpg</g:image_link>
+<g:price>4.07 GBP</g:price>
+<g:availability>in_stock</g:availability>
+<g:condition>new</g:condition>
+<g:brand>Kosnic</g:brand>
+<g:gtin>5060971354569</g:gtin>
+<g:mpn>ERT06</g:mpn>
 </item>
 <item>
 <g:id>KOSFOL/BLK</g:id>
@@ -10597,7 +10683,7 @@
 <g:description>The Armeg S08.0X160 is an 8mm x 160mm SDS Plus masonry bit with a tungsten carbide tip, for drilling brick, block and concrete. Key features 8mm diameter 160mm long SDS Plus shank Tungsten carbide tip Good to know For SDS Plus hammer drills. Downloads Product overview (PDF) Catalogue page (PDF) Technical data sheet (PDF) Specifications Length 160 mm Diameter 8 mm Material Tungsten Carbide Shank Type SDS Plus Use Masonry Set N Product Drill Bit</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/armeg-s08-0x160-8mm-x-160mm-sds-bit</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/S08.0X160.jpg</g:image_link>
-<g:price>3.12 GBP</g:price>
+<g:price>2.74 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Armeg</g:brand>
@@ -11099,7 +11185,7 @@
 </item>
 <item>
 <g:id>UNIQWS8-15</g:id>
-<g:title>Unicrimp QWS8-15 8 x 1 1/2" Pozi Countersunk Twinthread Woodscrews BZP</g:title>
+<g:title>Unicrimp QWS8-15 8 x 1 1/2in Pozi Countersunk Twinthread Woodscrews BZP (Box of 200)</g:title>
 <g:description>Unicrimp QWS8-15 are 8 x 1½in (38mm) pozi countersunk twin-thread woodscrews, bright zinc plated. Pack of 200. Twin threads with a parallel shank give faster insertion and better pull out resistance. Key features 8 x 1½in Pozi drive Countersunk head Twin thread Bright zinc plated (BZP) Pack of 200 Good to know General purpose fixing into timber and wall plugs. Downloads Datasheet (PDF) Specifications Size 8 x 1½ inch (4.2 x 40 mm) Head Pozi countersunk, PZ2 drive Material Bright zinc plated carbon steel</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/unicrimp-qws8-15-8-x-1-2-pozi-countersunk-twinthread-woodscrews-bzp</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/UNIQWS8-15.jpg</g:image_link>
@@ -12076,7 +12162,7 @@
 <g:description>The Wylex NHXLB32 is a 32A, B curve, single pole MCB with a 6kA rating, for Wylex NH consumer units. Key features 32A, B curve Single pole, 1 module 6kA breaking capacity Takes 0.75 to 25mm² cable Good to know Rated 230V. DIN rail mounting. Downloads Technical data sheet (PDF) Specifications UKCA Approved Y CE Approved Y Frequency 50 Hz Voltage 230 V Current Rating 32 A Operating Temperature Range -5~40 Degrees C Depth 73 mm Cable Capacity .75~25 mm2 Short Circuit Rating 6 kA Trip Type Type B Ingress Protection IP20 Mounting DIN Rail Voltage Type AC Number of Modules 1 Pole Configuration Single Pole (1P) Product MCB</g:description>
 <g:link>https://shop.mosselectrical.co.uk/products/wylex-nhxlb32-32a-mcb-type-b</g:link>
 <g:image_link>https://cdn.shopify.com/s/files/1/1098/5383/5609/files/WYLNHXLB32.webp</g:image_link>
-<g:price>2.84 GBP</g:price>
+<g:price>2.74 GBP</g:price>
 <g:availability>in_stock</g:availability>
 <g:condition>new</g:condition>
 <g:brand>Wylex</g:brand>
